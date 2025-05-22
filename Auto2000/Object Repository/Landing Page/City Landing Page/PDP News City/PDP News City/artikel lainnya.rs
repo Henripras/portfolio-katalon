@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>artikel lainnya</name>
+   <tag></tag>
+   <elementGuidId>e2ebc7fb-32b6-4842-aad7-8133b2f05095</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;__next&quot;]/main/div[3]/section</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3d8ec89e-ba74-49e6-b707-590fc498873a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>container lg:p-0</value>
+      <webElementGuid>f9607d1e-1870-4c7a-8ffc-cdd0c2df8c45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Artikel LainnyaLihat semuaToyota Indonesia Hadirkan TOYOTA GAZOO Racing GT Cup 202110 Feb 2024Auto2000 Expo Digelar Akhir Pekan Ini dengan Sederet Promo Menarik10 Feb 2024Review toyota alphard 2024!31 Jan 2024</value>
+      <webElementGuid>ce432b61-031d-46e5-af3c-17fd4c3c7b16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;bg-white&quot;]/div[@class=&quot;xl:px-0&quot;]/section[@class=&quot;my-4 lg:my-16&quot;]/div[@class=&quot;container lg:p-0&quot;]</value>
+      <webElementGuid>4caa7090-8e4c-48f4-9a76-b832d987f6d3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[4]/section/div</value>
+      <webElementGuid>737ef7e2-5d9b-49bc-bf06-3e5b5a860711</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/section/div</value>
+      <webElementGuid>b5c4ff9a-6816-450b-aa2a-f77f267db149</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Artikel LainnyaLihat semuaToyota Indonesia Hadirkan TOYOTA GAZOO Racing GT Cup 202110 Feb 2024Auto2000 Expo Digelar Akhir Pekan Ini dengan Sederet Promo Menarik10 Feb 2024Review toyota alphard 2024!31 Jan 2024' or . = 'Artikel LainnyaLihat semuaToyota Indonesia Hadirkan TOYOTA GAZOO Racing GT Cup 202110 Feb 2024Auto2000 Expo Digelar Akhir Pekan Ini dengan Sederet Promo Menarik10 Feb 2024Review toyota alphard 2024!31 Jan 2024')]</value>
+      <webElementGuid>419ee78c-3d5d-48f7-9b4a-6d4ffd89c19b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

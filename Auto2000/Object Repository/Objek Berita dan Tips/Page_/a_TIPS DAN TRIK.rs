@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_TIPS DAN TRIK</name>
+   <tag></tag>
+   <elementGuidId>1227885a-9f74-4e94-bff3-afcb0f8451f9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/section/div/div[2]/div/div/a[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c08afb5c-1666-463e-a5be-08ffa676d702</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inline-block text-xs uppercase text-reliableBlack whitespace-nowrap py-3.5 px-4 border-b-4 lg:text-base lg:py-4 lg:px-5  lg:border-b-[3px] hover:border-supportiveRed border-transparent</value>
+      <webElementGuid>7bdc961b-dc8a-4936-a410-34b60dcae382</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://uat.auto2000.co.id/berita-dan-tips/?kategori=tips-dan-trik</value>
+      <webElementGuid>3475a701-927c-42a1-b940-9fba8cccdcda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>TIPS DAN TRIK</value>
+      <webElementGuid>14034ab2-98fe-47e3-b64e-ca248bb0847d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;bg-white&quot;]/section[@class=&quot;lg:my-[20px]&quot;]/div[@class=&quot;lg:container xl:px-0&quot;]/div[@class=&quot;lg:my-2&quot;]/div[@class=&quot;flex justify-between items-center sticky z-20 bg-white top-[60px] md:top-[150px] lg:top-[173px] xl:top-[171px]&quot;]/div[@class=&quot;flex items-center justify-start w-full border-b-[1px] bg-white overflow-x-auto no-scrollbar&quot;]/a[@class=&quot;inline-block text-xs uppercase text-reliableBlack whitespace-nowrap py-3.5 px-4 border-b-4 lg:text-base lg:py-4 lg:px-5  lg:border-b-[3px] hover:border-supportiveRed border-transparent&quot;]</value>
+      <webElementGuid>5c31f5a1-bd6d-4488-9abd-62f5a807603a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/section/div/div[2]/div/div/a[4]</value>
+      <webElementGuid>86f21be6-a59d-449a-b561-c5bd2c1c5fe4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'TIPS DAN TRIK')]</value>
+      <webElementGuid>296e779c-2132-4ebe-b25f-06579b18a4b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://uat.auto2000.co.id/berita-dan-tips/?kategori=tips-dan-trik')]</value>
+      <webElementGuid>d07e964f-d384-423f-865e-fa18265bdc15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/a[4]</value>
+      <webElementGuid>cf770c11-11b3-4969-8ccd-bea7de007e16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://uat.auto2000.co.id/berita-dan-tips/?kategori=tips-dan-trik' and (text() = 'TIPS DAN TRIK' or . = 'TIPS DAN TRIK')]</value>
+      <webElementGuid>f73252d2-3e1d-4e6e-a1de-aeeb6a2ce04a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

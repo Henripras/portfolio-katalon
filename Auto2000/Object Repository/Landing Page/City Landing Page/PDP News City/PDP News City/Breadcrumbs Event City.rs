@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Breadcrumbs Event City</name>
+   <tag></tag>
+   <elementGuidId>ba5c7eb0-16bb-4557-8629-f3e32839b7fd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/nav</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>nav</value>
+      <webElementGuid>6616f03e-83a7-4e5c-bbc3-a0ee76d65da4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full  hidden sticky py-3.5 bg-white z-30 md:block md:border-b md:border-reliableBlack10 md:top-[105px] lg:top-[125px] xl:top-[124px]</value>
+      <webElementGuid>b6da93ee-1702-4d69-a047-fbe7a7206f6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Breadcrumb</value>
+      <webElementGuid>45bffedb-04bd-4518-bdaa-d4e15fa6bf7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>HomeDealer jakarta pusatBerita dan TipsToyota Indonesia Hadirkan TOYOTA GAZOO Racing GT Cup 2021</value>
+      <webElementGuid>587265df-8246-4216-897d-7f6d0cd98ed0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;bg-white&quot;]/nav[@class=&quot;w-full  hidden sticky py-3.5 bg-white z-30 md:block md:border-b md:border-reliableBlack10 md:top-[105px] lg:top-[125px] xl:top-[124px]&quot;]</value>
+      <webElementGuid>cb8a7650-34b7-49c9-b5e2-f5d227ef2380</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/nav</value>
+      <webElementGuid>413d51d9-1e8b-4077-bc15-1cc3571609b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/nav</value>
+      <webElementGuid>066932ca-6595-4cf7-a759-244e04fe58ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//nav[(text() = 'HomeDealer jakarta pusatBerita dan TipsToyota Indonesia Hadirkan TOYOTA GAZOO Racing GT Cup 2021' or . = 'HomeDealer jakarta pusatBerita dan TipsToyota Indonesia Hadirkan TOYOTA GAZOO Racing GT Cup 2021')]</value>
+      <webElementGuid>fa5e6d88-c494-4623-8ce6-67cccdb405e2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

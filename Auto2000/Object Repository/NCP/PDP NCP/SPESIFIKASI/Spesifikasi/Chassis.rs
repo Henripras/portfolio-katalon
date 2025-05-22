@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Chassis</name>
+   <tag></tag>
+   <elementGuidId>995e1856-edf2-4072-aefe-9dd1b8ff26d9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='branch-faq'])[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2e07861e-8d44-4d81-9dd1-07571225c5e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>branch-faq</value>
+      <webElementGuid>75d7a7fa-c25c-4912-abcf-09e73abf2df0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex justify-between items-center w-full</value>
+      <webElementGuid>015d4d69-cf44-4ea0-a664-576288fd1562</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CHASSIS </value>
+      <webElementGuid>fa01df14-c235-42f1-bc85-e290377e0c54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;bg-white&quot;]/section[@class=&quot;my-8 lg:!my-[60px]&quot;]/div[@class=&quot;container xl:px-0&quot;]/button[@class=&quot;block w-full border-b border-reliableBlack10&quot;]/details[@class=&quot;py-[18px] lg:px-5&quot;]/summary[@class=&quot;flex justify-start items-center -my-[18px] py-[13px] md:py-[18px] text-sm text-start font-medium text-reliableBlack cursor-pointer lg:text-base relative&quot;]/div[@class=&quot;w-full flex justify-between items-center&quot;]/div[@id=&quot;branch-faq&quot;]</value>
+      <webElementGuid>c136bd89-7b14-4ca6-b8fb-fae888a38adc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//div[@id='branch-faq'])[3]</value>
+      <webElementGuid>bd650bb7-06c8-4537-8db9-935e19531c60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/section[3]/div/button[3]/details/summary/div/div</value>
+      <webElementGuid>3196fd29-5b39-46da-aff6-87622c8247df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Torsi Maksimum'])[1]/following::div[3]</value>
+      <webElementGuid>e314beed-faae-4680-9baf-7f4e95050267</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[4]/following::div[5]</value>
+      <webElementGuid>895e97b4-8d45-4a64-a600-50d780b0d6d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transmisi'])[1]/preceding::div[1]</value>
+      <webElementGuid>740fccae-6543-44e0-9779-5c09e7f5e4f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[3]/details/summary/div/div</value>
+      <webElementGuid>25575fbd-4787-465f-ad33-09d0e3000b25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'branch-faq' and (text() = 'CHASSIS ' or . = 'CHASSIS ')]</value>
+      <webElementGuid>3ee1aa71-3a63-4173-b48e-5929909f0fdd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

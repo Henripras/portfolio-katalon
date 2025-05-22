@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>FAQ 2</name>
+   <tag></tag>
+   <elementGuidId>22903f35-533f-4129-b626-8ce3eecd21ca</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//details[contains(concat(' ', normalize-space(@class), ' '), ' py-[18px] ') and contains(concat(' ', normalize-space(@class), ' '), ' lg:px-5 ')])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>acbe216a-39ce-4290-b87e-cc7422c0688e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>branch-faq</value>
+      <webElementGuid>2040c100-522f-4bfc-a522-cdc1a5a46023</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex justify-between items-center w-full</value>
+      <webElementGuid>a4719f56-0cae-46ea-95cd-bc5c548704d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bagaimana performa mesin Agya 1.200 cc? </value>
+      <webElementGuid>557499e1-3dd0-42dc-91bc-5be904c909e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;bg-white&quot;]/section[@class=&quot;my-10 lg:my-10&quot;]/div[@class=&quot;container xl:px-0&quot;]/button[@class=&quot;block w-full border-b border-reliableBlack10&quot;]/details[@class=&quot;py-[18px] lg:px-5&quot;]/summary[@class=&quot;flex justify-start items-center -my-[18px] py-[13px] md:py-[18px] text-sm text-start font-medium text-reliableBlack cursor-pointer lg:text-base&quot;]/div[@class=&quot;w-full flex justify-between items-center&quot;]/div[@id=&quot;branch-faq&quot;]</value>
+      <webElementGuid>59e24a0f-e418-4702-8f8e-353340d82992</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//div[@id='branch-faq'])[8]</value>
+      <webElementGuid>d267068f-ef7b-44da-b18c-4d4f32102dbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/section[6]/div/button[2]/details/summary/div/div</value>
+      <webElementGuid>594488d1-45ee-4a2a-860f-6ebda59ed6c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apa saja fitur yang menunjang kenyamanan dan hiburan pada Agya 1.000 cc?'])[1]/following::div[5]</value>
+      <webElementGuid>1cd8a021-4cdd-4753-a5b8-ccb626d07414</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FAQ AGYA AGYA'])[1]/following::div[7]</value>
+      <webElementGuid>6b16febd-08af-4feb-97ff-030882b598ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apa saja keunggulan mobil mini hatchback pada All New Toyota Agya?'])[1]/preceding::div[4]</value>
+      <webElementGuid>6a0c7f51-17ea-4bb9-ab01-6014fbc5d7ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[6]/div/button[2]/details/summary/div/div</value>
+      <webElementGuid>b36b52ad-e77f-486e-b825-841109891df0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'branch-faq' and (text() = 'Bagaimana performa mesin Agya 1.200 cc? ' or . = 'Bagaimana performa mesin Agya 1.200 cc? ')]</value>
+      <webElementGuid>d4125f3c-ff0f-437d-9ca7-313724fb1b89</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

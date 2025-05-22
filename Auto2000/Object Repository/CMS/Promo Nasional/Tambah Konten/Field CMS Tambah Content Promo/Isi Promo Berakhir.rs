@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Isi Promo Berakhir</name>
+   <tag></tag>
+   <elementGuidId>a0ce2118-25ff-4f9b-b477-82b2cd95553a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@class='react-datepicker__triangle' and@style='position: absolute; left: 0px; transform: translate(164px, 0px);'])</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.react-datepicker__time-container</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Time00:0000:3001:0001:3002:0002:3003:0003:3004:0004:3005:0005:3006:0006:3007:000&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2c7a67c8-99d8-4407-833f-c4f06d6116d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>react-datepicker__time-container </value>
+      <webElementGuid>ade380a5-396a-4cbd-a49f-7bc3901f22f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Time00:0000:3001:0001:3002:0002:3003:0003:3004:0004:3005:0005:3006:0006:3007:0007:3008:0008:3009:0009:3010:0010:3011:0011:3012:0012:3013:0013:3014:0014:3015:0015:3016:0016:3017:0017:3018:0018:3019:0019:3020:0020:3021:0021:3022:0022:3023:0023:30</value>
+      <webElementGuid>204de1be-4e82-4065-b92e-e1b91796b285</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;relative&quot;]/div[@class=&quot;bg-gray-100 text-gray-800&quot;]/div[@class=&quot;container relative&quot;]/div[2]/div[1]/div[1]/div[@class=&quot;px-12 gap-2&quot;]/form[1]/div[@class=&quot;mb-6 bg-white p-12 w-full relative&quot;]/div[2]/div[@class=&quot;flex flex-row justify-between w-full gap-2&quot;]/div[@class=&quot;w-full&quot;]/div[@class=&quot;w-full&quot;]/div[1]/div[1]/div[@class=&quot;react-datepicker__tab-loop&quot;]/div[@class=&quot;react-datepicker-popper&quot;]/div[1]/div[@class=&quot;react-datepicker&quot;]/div[@class=&quot;react-datepicker__time-container&quot;]</value>
+      <webElementGuid>a36ec660-4341-4445-a023-78cc9a285c37</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[2]/div/div[2]/div/div/div/form/div/div[2]/div[4]/div/div/div/div/div[2]/div[2]/div/div/div[3]</value>
+      <webElementGuid>ce41b6a0-b5fa-490b-90a1-39a66eedd3e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sa'])[1]/following::div[42]</value>
+      <webElementGuid>cb751bfb-149d-4029-85fb-bbe691f75dc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fr'])[1]/following::div[43]</value>
+      <webElementGuid>0d1fc2de-0199-4b7f-bf0b-76b700a62699</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[3]</value>
+      <webElementGuid>fb35a729-399e-4124-9125-b4c29706de08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Time00:0000:3001:0001:3002:0002:3003:0003:3004:0004:3005:0005:3006:0006:3007:0007:3008:0008:3009:0009:3010:0010:3011:0011:3012:0012:3013:0013:3014:0014:3015:0015:3016:0016:3017:0017:3018:0018:3019:0019:3020:0020:3021:0021:3022:0022:3023:0023:30' or . = 'Time00:0000:3001:0001:3002:0002:3003:0003:3004:0004:3005:0005:3006:0006:3007:0007:3008:0008:3009:0009:3010:0010:3011:0011:3012:0012:3013:0013:3014:0014:3015:0015:3016:0016:3017:0017:3018:0018:3019:0019:3020:0020:3021:0021:3022:0022:3023:0023:30')]</value>
+      <webElementGuid>ea657b55-dfea-4caa-970c-29328f5289fa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

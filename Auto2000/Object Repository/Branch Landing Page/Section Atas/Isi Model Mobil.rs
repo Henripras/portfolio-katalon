@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Isi Model Mobil</name>
+   <tag></tag>
+   <elementGuidId>ca73e90b-d862-4235-9694-286bdf48c010</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@class='w-full absolute max-h-[200px] overflow-y-auto z-10 left-0 text-reliableBlack80 bg-white shadow rounded']/li[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>f8ba8b94-ea43-4874-808d-43ccd4617dfe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>dd-form-agya
+              </value>
+      <webElementGuid>2221cd67-a124-4dab-9c47-818852cdeaad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>px-4 py-2 hover:bg-gray-100 cursor-pointer</value>
+      <webElementGuid>47c9b3a8-277c-4170-965b-ab80689a80c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Agya</value>
+      <webElementGuid>41e526d9-e568-4d83-8827-1b5a1533da65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dd-form-agya
+              &quot;)</value>
+      <webElementGuid>97efffb4-2e22-4ec7-8f28-2a58297dfcff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//li[@id='dd-form-agya
+              ']</value>
+      <webElementGuid>b8bcad60-7e51-48c9-9c20-d45ba066115d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[2]/div[2]/div/div[2]/div/form/div/div[3]/div/ul/li</value>
+      <webElementGuid>b1dd86ef-e4e7-4550-a3d3-1b7eb64ef8f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Model Mobil'])[2]/following::li[1]</value>
+      <webElementGuid>68e27dd5-002f-4d80-8503-5a47cecf14bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nomor Handphone'])[3]/following::li[1]</value>
+      <webElementGuid>eb99f90e-81de-48e7-bc58-e53ae1c92ec3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All New Avanza'])[1]/preceding::li[1]</value>
+      <webElementGuid>cfd14d76-f11b-4e84-9f37-8cf412bf0398</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All New Corolla Altis'])[1]/preceding::li[2]</value>
+      <webElementGuid>e70aba2b-60fe-4e9d-8a21-e8efac2033f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Agya']/parent::*</value>
+      <webElementGuid>e0672702-7afe-4889-8db2-1db04be7c7c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/ul/li</value>
+      <webElementGuid>72392a83-3bc4-42da-a9a1-c82c9e0e8fc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[@id = 'dd-form-agya
+              ' and (text() = 'Agya' or . = 'Agya')]</value>
+      <webElementGuid>a2afffe9-0a94-4597-88df-3814bb919ad5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

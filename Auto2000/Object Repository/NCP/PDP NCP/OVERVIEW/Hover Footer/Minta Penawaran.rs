@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Minta Penawaran</name>
+   <tag></tag>
+   <elementGuidId>eecf3a8c-1369-4b1c-92cc-5c532eefc124</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#minta-penawaran</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='minta-penawaran']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a860a880-bfda-487e-84db-475991189396</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>minta-penawaran</value>
+      <webElementGuid>1d12023a-9308-47c0-a2d5-6d3087357952</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex lg:p-4 lg:gap-2 items-center justify-center cursor-pointer w-full flex-col lg:flex-row btn-primary-white btn-new-pdpNewCar trigger-modal btn-getadvised-overlay</value>
+      <webElementGuid>cc87c8e1-332d-4a80-8189-528300a3ef56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Minta Penawaran</value>
+      <webElementGuid>9bcba75a-58f8-4320-9d97-a7369e63d909</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;minta-penawaran&quot;)</value>
+      <webElementGuid>7df60fa6-7f77-47aa-9e35-0f222aceca50</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='minta-penawaran']</value>
+      <webElementGuid>9a403a54-04a9-47af-9c3c-f74325327f7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[7]/div/div/div</value>
+      <webElementGuid>03a6cb15-eba1-498e-ad31-bb86404460a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selanjutnya'])[1]/following::div[4]</value>
+      <webElementGuid>f5d4378a-ceff-4cc1-8501-a5877999394e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NFORMASI MOBIL TOYOTA'])[1]/following::div[6]</value>
+      <webElementGuid>eef3d62f-2017-40d3-a1ca-9a65fb19b8b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hubungi Kami'])[2]/preceding::div[3]</value>
+      <webElementGuid>5b660011-b13e-4996-a1e0-c02a06f6637b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div/div</value>
+      <webElementGuid>f3b62401-a381-4299-bc85-7b596f05d967</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'minta-penawaran' and (text() = 'Minta Penawaran' or . = 'Minta Penawaran')]</value>
+      <webElementGuid>908b171e-8b0a-4fb8-9e60-1c21b2c9c84c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

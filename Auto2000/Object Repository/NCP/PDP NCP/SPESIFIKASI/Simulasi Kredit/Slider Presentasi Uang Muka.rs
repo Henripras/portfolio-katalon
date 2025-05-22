@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Slider Presentasi Uang Muka</name>
+   <tag></tag>
+   <elementGuidId>2b13d570-d3b1-4660-85c4-8c48cfcc7a96</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@class='rc-slider-dot'][contains(@style, 'left: 30%')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5628b5bf-2130-4755-a13f-d97372b08f70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rc-slider-dot</value>
+      <webElementGuid>ed38b419-6623-4322-8f3e-9929117b9ca3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;id-minta-penawaran&quot;)/div[@class=&quot;overflow-auto bg-gray10 p-6&quot;]/section[@class=&quot;container text-black lg:px-10 lg:py-5 lg:flex lg:flex-col  lg:gap-10 lg:items-center mt-4&quot;]/div[@class=&quot;lg:flex lg:flex-col lg:flex-1 lg:gap-12 lg:items-center  lg:px-16&quot;]/div[@class=&quot;mt-6 lg:mt-0 w-full&quot;]/div[@class=&quot;h-20 lg:h-28 pt-14 lg:pt-20 w-full px-7 lg:px-0&quot;]/div[@class=&quot;rc-slider slider-custom-simulation-modal rc-slider-horizontal rc-slider-with-marks&quot;]/div[@class=&quot;rc-slider-step&quot;]/span[@class=&quot;rc-slider-dot&quot;]</value>
+      <webElementGuid>15f66d3b-3c1d-4b8c-9eb4-77a2f53dea2b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='id-minta-penawaran']/div[2]/section[2]/div/div/div/div/div[3]/span[7]</value>
+      <webElementGuid>4662ae9e-e44d-4c11-8546-47f23aa12cbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[7]</value>
+      <webElementGuid>60d50560-7cba-409b-980f-27871f998dc6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

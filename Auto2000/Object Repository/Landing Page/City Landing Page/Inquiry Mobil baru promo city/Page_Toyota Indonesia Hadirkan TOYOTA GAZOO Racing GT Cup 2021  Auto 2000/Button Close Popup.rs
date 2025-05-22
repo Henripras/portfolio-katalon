@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button Close Popup</name>
+   <tag></tag>
+   <elementGuidId>8d6e8be0-77a0-45be-b632-6c4811412789</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//*[name()='svg'])[36]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.flex.justify-center.items-center.cursor-pointer.w-8.h-8</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b02f82a1-ecd0-4338-9915-1b5c276d17bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex justify-center items-center cursor-pointer w-8 h-8</value>
+      <webElementGuid>c307d1de-9856-4f10-8319-d60f795484a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;bg-white&quot;]/div[@class=&quot;relative&quot;]/div[@class=&quot;lg:container xl:px-0&quot;]/div[@class=&quot;grid grid-cols-1 gap-6 lg:grid-cols-[2fr_1fr]&quot;]/div[@class=&quot;hidden my-4 md:mt-5 md:block&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;opacity-100 duration-300 ease-in-out fixed w-[100vw] h-[100vh] z-[70] top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 bg-opacity-30 bg-black&quot;]/div[@class=&quot;false duration-300 ease-in-out flex flex-col absolute bg-white rounded top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 w-[520px]&quot;]/div[@class=&quot;flex items-start justify-between md-max-w:p-4 p-6 border-b border-reliableBlack20&quot;]/div[@class=&quot;flex justify-center items-center cursor-pointer w-8 h-8&quot;]</value>
+      <webElementGuid>338ee490-5b1c-42fb-aad5-971dd4a0adb5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[2]/div/div/div[2]/div/div/div/div/div[2]</value>
+      <webElementGuid>746630e5-f61c-48fc-9706-2f3cb4d61e78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div[2]</value>
+      <webElementGuid>97ff5b0e-d9ee-4949-b5f2-f0d0bf398a0d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

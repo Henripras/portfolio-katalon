@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Provinsi</name>
+   <tag></tag>
+   <elementGuidId>968e03ca-550e-46ce-bdc9-b1375b42de70</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div[2]/div/div/div[2]/div/section/form/div[3]/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>20adfa47-3446-4352-930a-515b2f4fd596</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>block text-[#666666] text-[13px] font-medium mb-[10px] lg:text-reliableBlack70 lg:text-sm lg:mb-2</value>
+      <webElementGuid>5b19ef69-9fa0-4165-a49d-f599150f8a47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Provinsi</value>
+      <webElementGuid>28a659d6-1e98-4fe6-8cef-280da47fec9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;bg-white&quot;]/div[@class=&quot;relative&quot;]/div[@class=&quot;lg:container xl:px-0&quot;]/div[@class=&quot;grid grid-cols-1 gap-6 lg:grid-cols-[2fr_1fr]&quot;]/div[@class=&quot;hidden my-4 md:mt-5 md:block&quot;]/div[@class=&quot;container&quot;]/section[@class=&quot;bg-reliableBlack5 p-5&quot;]/form[@class=&quot;bg-inherit&quot;]/div[@class=&quot;mb-[18px] lg:mb-5&quot;]/div[@class=&quot;relative w-full&quot;]/label[@class=&quot;block text-[#666666] text-[13px] font-medium mb-[10px] lg:text-reliableBlack70 lg:text-sm lg:mb-2&quot;]</value>
+      <webElementGuid>ca263bb3-df8f-4774-94aa-b9d1d577814e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[2]/div/div/div[2]/div/section/form/div[3]/div/label</value>
+      <webElementGuid>c3f29935-cb1b-4ab5-8316-7b1e9d04e693</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Model Mobil'])[1]/following::label[1]</value>
+      <webElementGuid>a07eb1d5-a1ca-418f-b1de-d05b8402208a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nomor Handphone'])[1]/following::label[2]</value>
+      <webElementGuid>3069242c-2b2d-43ce-9600-3538cffadb26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kota'])[1]/preceding::label[1]</value>
+      <webElementGuid>210c951b-8ad5-4fb3-a866-196fb747b56f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Syarat dan Ketentuan'])[1]/preceding::label[2]</value>
+      <webElementGuid>84b1a705-7c73-4ac5-a139-039f7e688d8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Provinsi']/parent::*</value>
+      <webElementGuid>d880a75b-901c-4f49-b4a7-3f2212dcc15f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/label</value>
+      <webElementGuid>3cd67fe5-e027-481e-879d-1bc270d1b0d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Provinsi' or . = 'Provinsi')]</value>
+      <webElementGuid>0fdac271-c052-4951-bf01-8727db19a747</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

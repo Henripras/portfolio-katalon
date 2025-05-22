@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>1-2 Bulan Ae</name>
+   <tag></tag>
+   <elementGuidId>14e38fed-8a3c-4869-9a80-2127524544b9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[contains(@class, 'w-full')]//li[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>102f1fcb-7250-4b37-8764-da0766b39355</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>dd-form-1-2-bulan
+              </value>
+      <webElementGuid>4ef1234a-373d-44e1-b693-346f53c3c824</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>px-4 py-2 hover:bg-gray-100 cursor-pointer</value>
+      <webElementGuid>2850e566-0bbb-4952-98f7-8351d2216e84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1-2 Bulan</value>
+      <webElementGuid>882924ed-bfaa-44e3-a5fb-782ba997f7a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dd-form-1-2-bulan
+              &quot;)</value>
+      <webElementGuid>7782d11f-52ba-4c75-b2fa-fae27558e722</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//li[@id='dd-form-1-2-bulan
+              ']</value>
+      <webElementGuid>5cb478f1-9fdc-42b0-b9bd-3607de867cc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[2]/div[2]/div/div[2]/div/form/div/div[4]/div/ul/li[2]</value>
+      <webElementGuid>1abd7be2-92b1-4460-be92-20c8c09c92c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Di bawah 1 Bulan'])[1]/following::li[1]</value>
+      <webElementGuid>a3861937-1eb6-4e5d-85ce-e3d271b769db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Waktu Perkiraan Pembelian Mobil'])[1]/following::li[2]</value>
+      <webElementGuid>1a882bfa-9848-49cd-b7f0-de2cea5c67a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Di atas 2 Bulan'])[1]/preceding::li[1]</value>
+      <webElementGuid>2f8287de-fe5f-4f4a-8969-95aec1225860</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Account Executive'])[1]/preceding::li[2]</value>
+      <webElementGuid>73661388-1860-4f3c-9a42-433190af3b30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='1-2 Bulan']/parent::*</value>
+      <webElementGuid>286e6e24-5c93-4e98-8618-4585b48881d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/ul/li[2]</value>
+      <webElementGuid>1e9b6585-cceb-4e03-89bf-a81deb25a589</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[@id = 'dd-form-1-2-bulan
+              ' and (text() = '1-2 Bulan' or . = '1-2 Bulan')]</value>
+      <webElementGuid>76ee4b95-4574-429b-a230-bd686336d693</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

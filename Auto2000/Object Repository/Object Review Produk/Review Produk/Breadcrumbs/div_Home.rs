@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Home</name>
+   <tag></tag>
+   <elementGuidId>59e340a1-d326-4c4e-9413-71a7b553f20c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='link-breadcrumb-Home']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b7b181e8-ae60-4d45-a739-87b97c470207</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-black whitespace-nowrap text-xs uppercase font-medium hover:text-gray-900 lg:text-sm false</value>
+      <webElementGuid>3f09bca7-c086-4805-89d9-ebaca0caaca5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Home</value>
+      <webElementGuid>df56d4a5-0f2b-43a0-bdec-02d5f17a4366</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;link-breadcrumb-Home&quot;)/div[@class=&quot;text-black whitespace-nowrap text-xs uppercase font-medium hover:text-gray-900 lg:text-sm false&quot;]</value>
+      <webElementGuid>ab09d96f-60cb-464f-9541-5cda391a8fae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='link-breadcrumb-Home']/div</value>
+      <webElementGuid>b47a174c-1690-4ec9-a80a-f6acd01404d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/a/div</value>
+      <webElementGuid>af20ff2e-c885-40ac-80cc-c25a67418fa2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Home' or . = 'Home')]</value>
+      <webElementGuid>93875c4e-4780-4554-8526-771a3ba8e3cb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

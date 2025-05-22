@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>CloseBtn</name>
+   <tag></tag>
+   <elementGuidId>5ef27396-31a4-471a-8e5e-d5372ba5d327</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[contains(@data-testid, 'btn-close-modal-share')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>7f57140f-74b3-4603-87f2-e3da079d4d59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>20</value>
+      <webElementGuid>caab8595-37fc-4162-a1ca-1461a6cebbe5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>20</value>
+      <webElementGuid>091c71dd-3f39-405a-a1de-93d0e8afc7e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 24 24</value>
+      <webElementGuid>537c1f81-4eb6-4baf-817f-0d896a41fb99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>017e5a77-9f48-4298-9a1a-cd0f21cd803d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>cdda61af-1657-40db-ad0b-26bdcac240f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;bg-white&quot;]/div[@class=&quot;relative&quot;]/div[@class=&quot;lg:container xl:px-0&quot;]/div[@class=&quot;grid grid-cols-1 gap-6 lg:grid-cols-[2fr_1fr]&quot;]/div[1]/div[@class=&quot;opacity-100 duration-300 ease-in-out fixed w-[100vw] h-[100vh] z-[70] top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 bg-opacity-30 bg-black&quot;]/div[@class=&quot;false duration-300 ease-in-out flex flex-col absolute bg-white rounded top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 !h-[240px] w-[90vw] md:!w-[622px]&quot;]/div[@class=&quot;flex items-start justify-between md-max-w:p-4 p-6 border-b border-reliableBlack20&quot;]/div[@class=&quot;flex justify-center items-center cursor-pointer w-8 h-8&quot;]/svg[1]</value>
+      <webElementGuid>24b11556-d1e7-40e1-ad3a-e1d7cb647797</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

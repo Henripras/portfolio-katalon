@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Inquiry Mobil Baru Promo City</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>598b852e-cc71-4bf7-92b1-efb2381b9e34</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>decae318-eb08-4c59-a691-25619a03e059</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'https://uat.auto2000.co.id/dealer-toyota'</defaultValue>
+      <description></description>
+      <id>decae318-eb08-4c59-a691-25619a03e059</id>
+      <masked>false</masked>
+      <name>UAT</name>
+   </variable>
+</TestCaseEntity>

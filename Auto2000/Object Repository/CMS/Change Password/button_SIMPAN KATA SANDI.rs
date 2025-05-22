@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_SIMPAN KATA SANDI</name>
+   <tag></tag>
+   <elementGuidId>66979767-5b7f-48a7-8a4d-8cd385e208b6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button)[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;SIMPAN KATA SANDI&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>cb9a484b-faae-4658-b2c3-2c283ca77913</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>relative flex whitespace-nowrap justify-center items-center px-4 gap-x-1.5 font-semibold bg-reliableBlack20  h-[52px] text-base leading-[22px] rounded    w-full text-white</value>
+      <webElementGuid>452dda7e-b804-4191-990b-764d0499bc7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>e0c4d126-18e5-4c61-b054-3d76852f514c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SIMPAN KATA SANDI</value>
+      <webElementGuid>9ed22d27-c626-4dab-970c-7c82072d9a8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;:r2:&quot;)/div[@class=&quot;relative rounded-lg bg-white shadow dark:bg-gray-700 flex flex-col max-h-[90vh]&quot;]/form[@class=&quot;overflow-auto&quot;]/div[@class=&quot;p-6 flex-1 overflow-auto&quot;]/div[@class=&quot;mt-6 gap-4&quot;]/div[@class=&quot;flex gap-4&quot;]/button[@class=&quot;relative flex whitespace-nowrap justify-center items-center px-4 gap-x-1.5 font-semibold bg-reliableBlack20  h-[52px] text-base leading-[22px] rounded    w-full text-white&quot;]</value>
+      <webElementGuid>0bb05772-8b22-434d-9b25-26af4b9a4436</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='']</value>
+      <webElementGuid>5d0fe0e6-3346-42ab-8fa4-f2bbc273087a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id=':r2:']/div/form/div/div[2]/div/button</value>
+      <webElementGuid>6d951c08-cf1e-4142-a14a-4b5e0f33e7e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Konfirmasi Password'])[1]/following::button[1]</value>
+      <webElementGuid>5cc6018c-af13-4f0a-8429-967afec14670</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password Baru'])[1]/following::button[1]</value>
+      <webElementGuid>3f64591c-66bb-4824-93a0-bca5ebcd252f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button</value>
+      <webElementGuid>dc921c81-2a81-4015-807f-597991a1a2c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'SIMPAN KATA SANDI' or . = 'SIMPAN KATA SANDI')]</value>
+      <webElementGuid>4700c058-3d87-4c32-b5bf-c4082d50c0db</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

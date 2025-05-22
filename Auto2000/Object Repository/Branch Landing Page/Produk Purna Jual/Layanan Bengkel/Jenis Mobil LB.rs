@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Jenis Mobil LB</name>
+   <tag></tag>
+   <elementGuidId>d33694c3-41f4-472f-bc8a-6eebdc92c72e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@placeholder='Pilih Jenis Kendaraan']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>86540513-3d0c-4dd1-b23b-7fd3da86da13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>3de29f0a-8e4c-461c-bf0f-7965b8dfca4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full outline-none px-4 py-2 bg-reliableBlack3 placeholder:text-reliableBlack60 text-reliableBlack border-b border-reliableBlack30 focus:border-reliableBlack60 lg:px-5 lg:py-4 px-5 py-3.5 bg-reliableBlack3 border-[#5F5F5F] max-h-fit lg:max-h-fit focus:border-reliableBlack cursor-pointer</value>
+      <webElementGuid>26409711-5c73-4f83-b7b0-b9980d8ec743</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Pilih Jenis Kendaraan</value>
+      <webElementGuid>7289b7cf-3103-4f28-a7e7-063228b4d1e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;bg-white&quot;]/div[@class=&quot;relative&quot;]/section[@class=&quot;my-8 container lg:px-0&quot;]/div[@class=&quot;opacity-100 duration-300 ease-in-out fixed w-[100vw] h-[100vh] z-[70] top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 bg-opacity-30 bg-black&quot;]/div[@class=&quot;false duration-300 ease-in-out flex flex-col absolute bg-white rounded top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 w-[622px]&quot;]/div[@class=&quot;overflow-auto p-6 max-h-[80vh]&quot;]/form[1]/div[@class=&quot;grid grid-cols-1 gap-[18px] lg:pb-0 lg:grid-cols-2 lg:gap-x-3 lg:gap-y-5 pb-48&quot;]/div[4]/div[@class=&quot;relative w-full&quot;]/div[@class=&quot;flex items-center cursor-pointer&quot;]/input[@class=&quot;w-full outline-none px-4 py-2 bg-reliableBlack3 placeholder:text-reliableBlack60 text-reliableBlack border-b border-reliableBlack30 focus:border-reliableBlack60 lg:px-5 lg:py-4 px-5 py-3.5 bg-reliableBlack3 border-[#5F5F5F] max-h-fit lg:max-h-fit focus:border-reliableBlack cursor-pointer&quot;]</value>
+      <webElementGuid>4b2d1d9a-6de7-4bb1-a3cb-851397e14b61</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@id='']</value>
+      <webElementGuid>07adbd28-f7d3-4159-bc50-ee82876a65a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[2]/section[4]/div[2]/div/div[2]/form/div/div[4]/div/div/input</value>
+      <webElementGuid>1634e903-f0b4-4a5c-9ca1-6432a99024ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div[4]/div/div/input</value>
+      <webElementGuid>d639ef7a-ea21-4cf7-bf85-1bcb5f8b6d9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Pilih Jenis Kendaraan']</value>
+      <webElementGuid>18f32c3b-a02d-4887-85ec-ef127a6cd919</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Description</name>
+   <tag></tag>
+   <elementGuidId>a510b29c-5225-4460-b564-99d77ef044c5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='splide15-slide01']/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>af36dc0e-83ea-450b-b373-116fbd673b68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-[14px] leading-[20px] text-black90  break-words overflow-hidden text-[14px] text-[#000] md:text-base font-normal px-4 lg:px-0 md:px-4</value>
+      <webElementGuid>ca1afe64-cc99-41eb-964c-d9bc4512db9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Toyota Avanza 2024 Harga Terbaru, Spesifikasi dan Promo Bulan IniDapatkan harga Toyota Avanza terbaru 2024 disini. Mobil MPV  terbaik dengan cicilan ringan mulai dari Rp 3 Jutaan per bulan. Cek  spesifikasi, booking test drive &amp; review mobil Avanza di sini.</value>
+      <webElementGuid>75c48cd6-bd43-48c8-9f8f-058cf8f47d28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;splide15-slide01&quot;)/div[@class=&quot;text-[14px] leading-[20px] text-black90  break-words overflow-hidden text-[14px] text-[#000] md:text-base font-normal px-4 lg:px-0 md:px-4&quot;]</value>
+      <webElementGuid>bd2113cc-6250-4254-9a6e-3706d990c89c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='splide15-slide01']/div[2]</value>
+      <webElementGuid>315b0f9c-28df-4161-b21b-2c7bc906bc8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div[2]</value>
+      <webElementGuid>5bb598ba-b490-495a-a515-a6dd41d34cd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Toyota Avanza 2024 Harga Terbaru, Spesifikasi dan Promo Bulan IniDapatkan harga Toyota Avanza terbaru 2024 disini. Mobil MPV  terbaik dengan cicilan ringan mulai dari Rp 3 Jutaan per bulan. Cek  spesifikasi, booking test drive &amp; review mobil Avanza di sini.' or . = 'Toyota Avanza 2024 Harga Terbaru, Spesifikasi dan Promo Bulan IniDapatkan harga Toyota Avanza terbaru 2024 disini. Mobil MPV  terbaik dengan cicilan ringan mulai dari Rp 3 Jutaan per bulan. Cek  spesifikasi, booking test drive &amp; review mobil Avanza di sini.')]</value>
+      <webElementGuid>e3868d3d-c772-4d43-a906-437aba0f056a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

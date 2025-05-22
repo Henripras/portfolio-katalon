@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>section offering card</name>
+   <tag></tag>
+   <elementGuidId>a9d820a9-9b63-4613-8b60-9b3eac85ccd5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div[5]/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>be06171c-d8a3-4257-b77a-4df834a5cc74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>offering-card </value>
+      <webElementGuid>a0c663ae-f7fb-4158-b236-0a8657dc9e85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>All New AvanzaAll New Avanza 1.5 G CVT TSSHarga OTR Jakarta Pusat MulaiRp. 300.500.000Toyota Avanza 2024 Harga Terbaru, Spesifikasi dan Promo Bulan IniDapatkan harga Toyota Avanza terbaru 2024 disini. Mobil MPV  terbaik dengan cicilan ringan mulai dari Rp 3 Jutaan per bulan. Cek  spesifikasi, booking test drive &amp; review mobil Avanza di sini.MINTA PENAWARANAll New Avanza 1.5 G M/THarga OTR Jakarta Pusat MulaiRp. 259.800.000Toyota Avanza 2024 Harga Terbaru, Spesifikasi dan Promo Bulan IniDapatkan harga Toyota Avanza terbaru 2024 disini. Mobil MPV  terbaik dengan cicilan ringan mulai dari Rp 3 Jutaan per bulan. Cek  spesifikasi, booking test drive &amp; review mobil Avanza di sini.MINTA PENAWARANFORTUNER 2.8 VRZ GR-S 4x4 A/T (TWO TONE)Harga OTR Jakarta Pusat MulaiRp. 735.850.000Toyota Fortuner 4x4 2024 Harga Terbaru, Spesifikasi dan Promo Bulan IniDapatkan harga mobil Fortuner 4x4 GR Sport 2024 disini. Cicilan mulai  Rp 8 jutaan dengan DP 50%. Cek spesifikasi Fortuner 4x4 GR Sport, booking  test drive &amp; review mobil di sini.MINTA PENAWARANAll New Avanza 1.3 E CVTHarga OTR Jakarta Pusat MulaiRp. 251.800.000Toyota Avanza 2024 Harga Terbaru, Spesifikasi dan Promo Bulan IniDapatkan harga Toyota Avanza terbaru 2024 disini. Mobil MPV  terbaik dengan cicilan ringan mulai dari Rp 3 Jutaan per bulan. Cek  spesifikasi, booking test drive &amp; review mobil Avanza di sini.MINTA PENAWARAN</value>
+      <webElementGuid>b7847845-f889-4c7f-9d60-57027aae759a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;bg-white&quot;]/div[@class=&quot;lg:container xl:px-0&quot;]/div[@class=&quot;grid grid-cols-1 md:gap-6 lg:grid-cols-[2fr_1fr]&quot;]/div[@class=&quot;container lg:p-0 my-4 max-w-lg md:mt-8 sm:max-w-sm&quot;]/div[@class=&quot;offering-card&quot;]</value>
+      <webElementGuid>1e55c9d0-f919-4286-89a0-29c4045cf333</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[5]/div/div[2]/div</value>
+      <webElementGuid>100fbe52-cbee-483c-9159-e81dc7fd1341</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div[2]/div</value>
+      <webElementGuid>d8c06890-e5a9-49fb-bd34-86a58d20b597</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'All New AvanzaAll New Avanza 1.5 G CVT TSSHarga OTR Jakarta Pusat MulaiRp. 300.500.000Toyota Avanza 2024 Harga Terbaru, Spesifikasi dan Promo Bulan IniDapatkan harga Toyota Avanza terbaru 2024 disini. Mobil MPV  terbaik dengan cicilan ringan mulai dari Rp 3 Jutaan per bulan. Cek  spesifikasi, booking test drive &amp; review mobil Avanza di sini.MINTA PENAWARANAll New Avanza 1.5 G M/THarga OTR Jakarta Pusat MulaiRp. 259.800.000Toyota Avanza 2024 Harga Terbaru, Spesifikasi dan Promo Bulan IniDapatkan harga Toyota Avanza terbaru 2024 disini. Mobil MPV  terbaik dengan cicilan ringan mulai dari Rp 3 Jutaan per bulan. Cek  spesifikasi, booking test drive &amp; review mobil Avanza di sini.MINTA PENAWARANFORTUNER 2.8 VRZ GR-S 4x4 A/T (TWO TONE)Harga OTR Jakarta Pusat MulaiRp. 735.850.000Toyota Fortuner 4x4 2024 Harga Terbaru, Spesifikasi dan Promo Bulan IniDapatkan harga mobil Fortuner 4x4 GR Sport 2024 disini. Cicilan mulai  Rp 8 jutaan dengan DP 50%. Cek spesifikasi Fortuner 4x4 GR Sport, booking  test drive &amp; review mobil di sini.MINTA PENAWARANAll New Avanza 1.3 E CVTHarga OTR Jakarta Pusat MulaiRp. 251.800.000Toyota Avanza 2024 Harga Terbaru, Spesifikasi dan Promo Bulan IniDapatkan harga Toyota Avanza terbaru 2024 disini. Mobil MPV  terbaik dengan cicilan ringan mulai dari Rp 3 Jutaan per bulan. Cek  spesifikasi, booking test drive &amp; review mobil Avanza di sini.MINTA PENAWARAN' or . = 'All New AvanzaAll New Avanza 1.5 G CVT TSSHarga OTR Jakarta Pusat MulaiRp. 300.500.000Toyota Avanza 2024 Harga Terbaru, Spesifikasi dan Promo Bulan IniDapatkan harga Toyota Avanza terbaru 2024 disini. Mobil MPV  terbaik dengan cicilan ringan mulai dari Rp 3 Jutaan per bulan. Cek  spesifikasi, booking test drive &amp; review mobil Avanza di sini.MINTA PENAWARANAll New Avanza 1.5 G M/THarga OTR Jakarta Pusat MulaiRp. 259.800.000Toyota Avanza 2024 Harga Terbaru, Spesifikasi dan Promo Bulan IniDapatkan harga Toyota Avanza terbaru 2024 disini. Mobil MPV  terbaik dengan cicilan ringan mulai dari Rp 3 Jutaan per bulan. Cek  spesifikasi, booking test drive &amp; review mobil Avanza di sini.MINTA PENAWARANFORTUNER 2.8 VRZ GR-S 4x4 A/T (TWO TONE)Harga OTR Jakarta Pusat MulaiRp. 735.850.000Toyota Fortuner 4x4 2024 Harga Terbaru, Spesifikasi dan Promo Bulan IniDapatkan harga mobil Fortuner 4x4 GR Sport 2024 disini. Cicilan mulai  Rp 8 jutaan dengan DP 50%. Cek spesifikasi Fortuner 4x4 GR Sport, booking  test drive &amp; review mobil di sini.MINTA PENAWARANAll New Avanza 1.3 E CVTHarga OTR Jakarta Pusat MulaiRp. 251.800.000Toyota Avanza 2024 Harga Terbaru, Spesifikasi dan Promo Bulan IniDapatkan harga Toyota Avanza terbaru 2024 disini. Mobil MPV  terbaik dengan cicilan ringan mulai dari Rp 3 Jutaan per bulan. Cek  spesifikasi, booking test drive &amp; review mobil Avanza di sini.MINTA PENAWARAN')]</value>
+      <webElementGuid>ff94a6d2-de80-43b5-bc6d-24d8727299a3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

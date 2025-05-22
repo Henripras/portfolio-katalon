@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button Aksesoris</name>
+   <tag></tag>
+   <elementGuidId>20e1004a-3b51-47b1-991a-84af70765d55</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[text()=&quot;BELI AKSESORIS&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>717ef363-6ef6-4557-986d-1490963fd273</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>branch-purna-jual</value>
+      <webElementGuid>583bb6e6-3662-4824-9b32-f6e933600ff6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex items-center gap-4</value>
+      <webElementGuid>73dd56ca-532c-4bdd-8f6a-ffe00a2adf04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://uat.auto2000.co.id/c/aksesoris</value>
+      <webElementGuid>5e8f8c36-52ac-498a-b535-0e64bcc8315f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BELI AKSESORIS</value>
+      <webElementGuid>68721a1d-1807-4a98-93c7-706d7504a90d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;bg-white&quot;]/div[@class=&quot;relative&quot;]/section[@class=&quot;my-8 container lg:px-0&quot;]/div[1]/div[@class=&quot;grid grid-cols-1 md:grid-cols-3 lg:grid-cols-3 md:gap-6&quot;]/div[@class=&quot;flex flex-row justify-between gap-7 border-b pt-4 pb-[18px]&quot;]/div[@class=&quot;flex flex-col gap-2&quot;]/a[@id=&quot;branch-purna-jual&quot;]</value>
+      <webElementGuid>e26334eb-52da-4179-ae42-86aa20b6f409</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//a[@id='branch-purna-jual'])[2]</value>
+      <webElementGuid>c001124c-dca4-4ed2-a654-d1fbda9ddb8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[2]/section[4]/div/div[2]/div[2]/div/a</value>
+      <webElementGuid>ab871284-5308-4fca-bedd-cc2602a2a769</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tersedia berbagai aksesoris Toyota yang dirancang, diuji, dan disertifikasi sesuai Toyota Anda'])[1]/following::a[1]</value>
+      <webElementGuid>eb4945df-428a-4dd6-b56e-e59623008a1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aksesoris'])[2]/following::a[1]</value>
+      <webElementGuid>b66b3906-bb25-45b3-ae6c-8f0e38b7bd67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Layanan Bengkel'])[1]/preceding::a[1]</value>
+      <webElementGuid>b2341f5a-762d-4569-a90d-6e553652ec39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://uat.auto2000.co.id/c/aksesoris')])[2]</value>
+      <webElementGuid>5bb66e20-e49f-433a-b48b-f1290daa71d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[4]/div/div[2]/div[2]/div/a</value>
+      <webElementGuid>c049a063-8e1a-4d3d-aa43-8a10ffd8238e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'branch-purna-jual' and @href = 'https://uat.auto2000.co.id/c/aksesoris' and (text() = 'BELI AKSESORIS' or . = 'BELI AKSESORIS')]</value>
+      <webElementGuid>cdb7e94a-fa04-486d-aa71-de7550c77664</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Email LB</name>
+   <tag></tag>
+   <elementGuidId>0851b60b-b8f6-4822-8cca-289cd191e7c8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@placeholder='sample@email.com' and @type='text']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>8762b500-3709-42fb-8ffd-71132a5c8d00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>sample@email.com</value>
+      <webElementGuid>e9437a50-c3b9-4d14-9e14-a45c742cc722</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>7a9c91b0-17ef-4c25-9456-8f06e3d97130</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full outline-none bg-reliableBlack3 bg-reliableBlack3 text-reliableBlack border-b border-reliableBlack30 placeholder:text-reliableBlack60 focus:border-reliableBlack60 false w-full px-4 py-2 lg:px-5 lg:py-4 max-h-[30px] lg:max-h-[40px] text-base lg:text-base leading-4 px-5 py-3.5 bg-reliableBlack3 border-[#5F5F5F] max-h-fit lg:max-h-fit focus:border-reliableBlack undefined  focus:outline-none</value>
+      <webElementGuid>9f7179a0-abbd-4ca0-a245-9bc77973d5df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;bg-white&quot;]/div[@class=&quot;relative&quot;]/section[@class=&quot;my-8 container lg:px-0&quot;]/div[@class=&quot;opacity-100 duration-300 ease-in-out fixed w-[100vw] h-[100vh] z-[70] top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 bg-opacity-30 bg-black&quot;]/div[@class=&quot;false duration-300 ease-in-out flex flex-col absolute bg-white rounded top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 w-[622px]&quot;]/div[@class=&quot;overflow-auto p-6 max-h-[80vh]&quot;]/form[1]/div[@class=&quot;grid grid-cols-1 gap-[18px] lg:pb-0 lg:grid-cols-2 lg:gap-x-3 lg:gap-y-5 pb-48&quot;]/div[3]/div[1]/div[@class=&quot;relative&quot;]/div[@class=&quot;relative mt-2  flex justify-between&quot;]/input[@class=&quot;w-full outline-none bg-reliableBlack3 bg-reliableBlack3 text-reliableBlack border-b border-reliableBlack30 placeholder:text-reliableBlack60 focus:border-reliableBlack60 false w-full px-4 py-2 lg:px-5 lg:py-4 max-h-[30px] lg:max-h-[40px] text-base lg:text-base leading-4 px-5 py-3.5 bg-reliableBlack3 border-[#5F5F5F] max-h-fit lg:max-h-fit focus:border-reliableBlack undefined  focus:outline-none&quot;]</value>
+      <webElementGuid>c9962a11-baca-4fff-936e-19a7444e77ad</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@value=''])[4]</value>
+      <webElementGuid>46f0a550-34be-4d7c-9735-6713fe897157</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[2]/section[4]/div[2]/div/div[2]/form/div/div[3]/div/div/div/input</value>
+      <webElementGuid>459af885-8802-4266-af25-581dc561aabb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/input</value>
+      <webElementGuid>cfe79bb1-065a-4c97-85f5-8ea0e89d53b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'sample@email.com' and @type = 'text']</value>
+      <webElementGuid>00322bf9-ede8-4d3c-8dc5-39963e6f244b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

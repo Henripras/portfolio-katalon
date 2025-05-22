@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Review Cabang Auto2000 Sudirman6 Feb 2024</name>
+   <tag></tag>
+   <elementGuidId>69cd9643-a821-4815-ab2b-40ec521c5927</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='hero-banner-news']/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2ce44e9e-1bd7-4123-b364-e7d926322c3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pt-2 px-4 pb-4 lg:pt-8 lg:px-6 lg:pb-6</value>
+      <webElementGuid>188504ba-cc5a-4ac0-9160-f833330fdfe8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Review Cabang Auto2000 Sudirman6 Feb 2024</value>
+      <webElementGuid>83e910c3-6aae-4bf4-a871-f73e3abc741c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hero-banner-news&quot;)/div[@class=&quot;pt-2 px-4 pb-4 lg:pt-8 lg:px-6 lg:pb-6&quot;]</value>
+      <webElementGuid>cdee2ab2-ae8c-49f1-af47-bb78a6164131</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='hero-banner-news']/div[2]</value>
+      <webElementGuid>531c3818-d7b5-4540-a342-71f600262618</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/a/div[2]</value>
+      <webElementGuid>6da47cf1-3416-4021-8e81-d59fa25b624d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Review Cabang Auto2000 Sudirman6 Feb 2024' or . = 'Review Cabang Auto2000 Sudirman6 Feb 2024')]</value>
+      <webElementGuid>f7a4c36a-d10b-4391-8aff-00e65fae89c9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

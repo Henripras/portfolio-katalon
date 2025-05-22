@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Checkbox</name>
+   <tag></tag>
+   <elementGuidId>7b7aa092-1fd0-40f6-87c7-52aea3ba8b35</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[contains(@class, 'w-[17px]') and contains(@class, 'h-[17px]') and contains(@class, 'border') and contains(@class, 'rounded-none') and contains(@class, 'bg-inherit') and contains(@class, 'border-supportiveRed') and contains(@class, 'hover:bg-reliableBlack10')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2bd3f7cb-97a1-4cd7-9f7b-c1412f98b32f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-[17px] h-[17px] border rounded-none bg-inherit border-supportiveRed hover:bg-reliableBlack10 </value>
+      <webElementGuid>24707d88-2aea-4913-8d58-3ddf689a983e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;bg-white&quot;]/div[@class=&quot;relative&quot;]/div[@class=&quot;lg:container xl:px-0&quot;]/div[@class=&quot;grid grid-cols-1 gap-6 lg:grid-cols-[2fr_1fr]&quot;]/div[@class=&quot;hidden my-4 md:mt-5 md:block&quot;]/div[@class=&quot;container&quot;]/section[@class=&quot;bg-reliableBlack5 p-5&quot;]/form[@class=&quot;bg-inherit&quot;]/div[@class=&quot;mb-[18px] lg:mb-5&quot;]/label[@class=&quot;flex gap-5 text-sm font-normal mt-5 items-center cursor-pointer&quot;]/div[@class=&quot;relative&quot;]/div[@class=&quot;w-[17px] h-[17px] border rounded-none bg-inherit border-supportiveRed hover:bg-reliableBlack10&quot;]</value>
+      <webElementGuid>262cb414-a87d-41b3-9632-8c96c6716fec</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[2]/div/div/div[2]/div/section/form/div[5]/label/div/div</value>
+      <webElementGuid>bcb47fbb-a939-4424-ad20-c31af9ea01fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/div/div</value>
+      <webElementGuid>2b877385-0a04-48e8-b0d4-240b70ecbe7b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Section Info</name>
+   <tag></tag>
+   <elementGuidId>13167fe0-e0ec-4cb8-adfb-da486e06421a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/section[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b578e380-a338-487d-9299-aadd3754febe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>container xl:px-0</value>
+      <webElementGuid>fc2d7868-3faf-4898-8894-f3fa950efa2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Review Toyota di Auto2000 2024 - Produk dan LayananTemukan informasi mengenai ulasan atau review Toyota terkini dan berbagai informasi menarik seputar ulasan produk dan layanan yang hadir di Auto2000. Dapatkan informasi terbaru mengenai teknologi dan tren terkini di industri otomotif. Kunjungi Auto2000 Digiroom sekarang juga untuk menemukan review lengkap yang dapat meLIHAT SELENGKAPNYA</value>
+      <webElementGuid>3b3f0348-22d9-4b30-8c88-99bc10a03fc6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;bg-white&quot;]/section[@class=&quot;my-10 lg:my-20&quot;]/div[@class=&quot;container xl:px-0&quot;]</value>
+      <webElementGuid>fbd1aae4-d3e1-40a7-b379-f32e451cd2a0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/section[2]/div</value>
+      <webElementGuid>d5fcd3d7-8679-4b2e-bd1f-f238aa18a96a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[2]/div</value>
+      <webElementGuid>8644f91c-343f-4886-a082-b34b3a82c78d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Review Toyota di Auto2000 2024 - Produk dan LayananTemukan informasi mengenai ulasan atau review Toyota terkini dan berbagai informasi menarik seputar ulasan produk dan layanan yang hadir di Auto2000. Dapatkan informasi terbaru mengenai teknologi dan tren terkini di industri otomotif. Kunjungi Auto2000 Digiroom sekarang juga untuk menemukan review lengkap yang dapat meLIHAT SELENGKAPNYA' or . = 'Review Toyota di Auto2000 2024 - Produk dan LayananTemukan informasi mengenai ulasan atau review Toyota terkini dan berbagai informasi menarik seputar ulasan produk dan layanan yang hadir di Auto2000. Dapatkan informasi terbaru mengenai teknologi dan tren terkini di industri otomotif. Kunjungi Auto2000 Digiroom sekarang juga untuk menemukan review lengkap yang dapat meLIHAT SELENGKAPNYA')]</value>
+      <webElementGuid>19bb0907-c596-40af-8ffb-6e23d874f1e5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

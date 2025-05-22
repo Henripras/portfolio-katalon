@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Lama Tenor</name>
+   <tag></tag>
+   <elementGuidId>b426b8bc-140c-46e5-887d-183ae86f3b85</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[text()='24']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4c4331a7-9f21-44b6-a416-ad2ff5255192</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-[55px] h-[55px] border border-reliableBlack10 text-black text-sm font-medium lg:w-16 lg:h-16 lg:text-xl lg:font-semibold</value>
+      <webElementGuid>1bd75eeb-69fb-462f-8ec2-c5d510c5d3de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>36</value>
+      <webElementGuid>e7a2de2d-13b1-46e8-949b-ce9d1742d7eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;id-minta-penawaran&quot;)/div[@class=&quot;overflow-auto bg-gray10 p-6&quot;]/section[@class=&quot;container text-black lg:px-10 lg:py-5 lg:flex lg:flex-col  lg:gap-10 lg:items-center mt-4&quot;]/div[@class=&quot;lg:flex lg:flex-col lg:flex-1 lg:gap-12 lg:items-center  lg:px-16&quot;]/div[@class=&quot;w-full mt-6 lg:mt-0&quot;]/div[@class=&quot;flex justify-between lg:justify-center lg:gap-5 mt-5 lg:mt-4&quot;]/button[@class=&quot;w-[55px] h-[55px] border border-reliableBlack10 text-black text-sm font-medium lg:w-16 lg:h-16 lg:text-xl lg:font-semibold&quot;]</value>
+      <webElementGuid>af587583-68d0-4445-b1c9-fd9854595e7d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='id-minta-penawaran']/div[2]/section[2]/div/div[2]/div/button[3]</value>
+      <webElementGuid>91961b70-02cb-416c-9681-b827a7155009</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MINTA PENAWARAN'])[1]/following::button[3]</value>
+      <webElementGuid>723e7ad7-7b70-4bba-8901-97901c5cf9c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dapatkan informasi AGYA lengkap mulai dari harga OTR, Spesifikasi dan Promo'])[2]/following::button[3]</value>
+      <webElementGuid>1fc3a36e-e69e-4af0-8306-abd9e8ce6a7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HITUNG SIMULASI'])[1]/preceding::button[3]</value>
+      <webElementGuid>1346b8ae-9242-4728-9247-8f290e533fe3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Selengkapnya'])[1]/preceding::button[4]</value>
+      <webElementGuid>f40100b1-2859-4080-97ba-c39d3f5ce119</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='36']/parent::*</value>
+      <webElementGuid>142f6ff1-a704-4730-b53a-bd71b6f1a1fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[3]</value>
+      <webElementGuid>f5879b96-cc45-40d4-96da-a4d245c6582c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = '36' or . = '36')]</value>
+      <webElementGuid>17c23270-5066-4fa9-812c-736a1032933a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

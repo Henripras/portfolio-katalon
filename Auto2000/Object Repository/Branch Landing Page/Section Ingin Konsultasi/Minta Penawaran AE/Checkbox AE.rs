@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Checkbox AE</name>
+   <tag></tag>
+   <elementGuidId>61264c68-e514-49bc-ad24-4bd0cb755137</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='branch-cb-term']/label/div/div)[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>81a074f5-519e-416a-aa9a-c0823c76c53e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-[17px] h-[17px] border rounded-none bg-inherit border-supportiveRed hover:bg-reliableBlack10 </value>
+      <webElementGuid>35d8bc7f-d190-4603-98b1-2d5260485c63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;bg-white&quot;]/div[@class=&quot;relative&quot;]/div[@class=&quot;opacity-100 duration-300 ease-in-out fixed w-[100vw] h-[100vh] z-[70] top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 bg-opacity-30 bg-black&quot;]/div[@class=&quot;false duration-300 ease-in-out flex flex-col absolute bg-white rounded top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 w-[622px]&quot;]/div[@class=&quot;overflow-auto p-6 max-h-[80vh]&quot;]/div[1]/form[@class=&quot;container xl:px-0&quot;]/div[@class=&quot;w-full mt-6 lg:max-w-[533px] lg:mx-auto lg:mt-8&quot;]/div[@id=&quot;branch-cb-term&quot;]/label[@class=&quot;flex gap-4 text-sm font-normal items-center cursor-pointer&quot;]/div[@class=&quot;relative&quot;]/div[@class=&quot;w-[17px] h-[17px] border rounded-none bg-inherit border-supportiveRed hover:bg-reliableBlack10&quot;]</value>
+      <webElementGuid>4c57eb65-96f1-4901-9b28-5e64bfdbc992</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='branch-cb-term']/label/div/div)[2]</value>
+      <webElementGuid>722e9cec-59a8-4b10-bebe-a7e10a40baf5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/form/div[2]/div/label/div/div</value>
+      <webElementGuid>775e95fe-83d0-4730-bac2-2a1348f0c307</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

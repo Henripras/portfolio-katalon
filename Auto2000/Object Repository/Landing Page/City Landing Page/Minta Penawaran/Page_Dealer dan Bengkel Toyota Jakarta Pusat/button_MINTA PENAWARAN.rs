@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_MINTA PENAWARAN</name>
+   <tag></tag>
+   <elementGuidId>d4fc4770-db6b-408d-94aa-d5fb37855b01</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id=&quot;ask-trade-plp&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ask-trade-plp</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ffa48bd4-48ee-439e-819a-ec30b6341a1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ask-trade-plp</value>
+      <webElementGuid>a6374985-100b-424b-bfca-a44210167cb9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lg:ml-5 px-6 h-[52px] bg-supportiveRed text-white rounded font-bold</value>
+      <webElementGuid>05bded5d-ec7c-47bf-9196-246404acc8a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>request a quote</value>
+      <webElementGuid>b7a5424d-c67a-4b91-a89a-4eb3d283abd1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>MINTA PENAWARAN</value>
+      <webElementGuid>5b4639a8-7ea5-4396-ae5b-f6811e9fb84c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;bg-white&quot;]/div[@class=&quot;z-50 md:pt-5 md:pb-4 md:border-b md:bg-white&quot;]/section[@class=&quot;bg-reliableBlack3 md:bg-white&quot;]/div[@class=&quot;flex flex-col items-center relative justify-between md:flex-row container xl:px-0&quot;]/div[@class=&quot;hidden md:flex&quot;]/button[@id=&quot;ask-trade-plp&quot;]</value>
+      <webElementGuid>87bb6132-5f9e-41b1-803a-32536c35aabb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='ask-trade-plp']</value>
+      <webElementGuid>ec56232f-3f6f-4365-9ffc-7fa73f2d02cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[2]/section/div/div[2]/button[3]</value>
+      <webElementGuid>aebb5307-e799-4786-9105-db32d61877ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[3]</value>
+      <webElementGuid>3d819689-1ecc-473a-8b22-cbaaa41cd9d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'ask-trade-plp' and (text() = 'MINTA PENAWARAN' or . = 'MINTA PENAWARAN')]</value>
+      <webElementGuid>cfca92c6-d0e6-49fb-a1f1-401a6f0c64b1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

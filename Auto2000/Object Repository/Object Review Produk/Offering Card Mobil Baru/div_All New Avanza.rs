@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_All New Avanza</name>
+   <tag></tag>
+   <elementGuidId>aae6c7bc-b3e1-441d-b5d1-08457f8b0f40</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div[5]/div/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0dde7261-7826-462c-8000-00da68d17949</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-[14px] leading-[20px] font-semibold text-black90  break-words overflow-hidden mb-4 lg:text-xl lg</value>
+      <webElementGuid>99e42037-1eb6-4aea-8235-1180a9c2fcfa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>All New Avanza</value>
+      <webElementGuid>55bdfacc-42e7-42a4-a83c-3e6adb7e565c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;bg-white&quot;]/div[@class=&quot;lg:container xl:px-0&quot;]/div[@class=&quot;grid grid-cols-1 md:gap-6 lg:grid-cols-[2fr_1fr]&quot;]/div[@class=&quot;container lg:p-0 my-4 max-w-lg md:mt-8 sm:max-w-sm&quot;]/div[@class=&quot;offering-card&quot;]/div[@class=&quot;text-[14px] leading-[20px] font-semibold text-black90  break-words overflow-hidden mb-4 lg:text-xl lg&quot;]</value>
+      <webElementGuid>ddd209b7-6b00-4be0-a676-712ddbaf4d7f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[5]/div/div[2]/div/div</value>
+      <webElementGuid>ee5d7635-2f07-48dc-be05-ca46c4afd744</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div[2]/div/div</value>
+      <webElementGuid>80825a27-69b6-49f0-9aeb-015c44f4ce38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'All New Avanza' or . = 'All New Avanza')]</value>
+      <webElementGuid>f24cda27-809d-4b87-b1d4-a22f02de1f78</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Inquiry form</name>
+   <tag></tag>
+   <elementGuidId>bbbaf9d8-4d79-43a6-a95b-45d1986dd6d0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div[2]/div/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b981f189-1f37-45be-880d-b2bf6e92011b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>container</value>
+      <webElementGuid>88f7cb2e-f2e4-49f5-a481-d89756922b1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Miliki Mobil Baru dengan MudahDapatkan penawaran mobil baru Toyota dari Account Executive kami. Data pribadi Anda aman bersama kami.Nama LengkapNomor Handphone+62Model MobilProvinsiKotaSaya telah membaca dan menyetujui Syarat dan Ketentuan Auto2000Data pribadi Anda aman bersama kami Kebijakan PrivasiSaya TertarikMasukkan Kode OTP</value>
+      <webElementGuid>5c870ad2-2f35-4ebb-b6dd-9c04ed802c45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;bg-white&quot;]/div[@class=&quot;relative&quot;]/div[@class=&quot;lg:container xl:px-0&quot;]/div[@class=&quot;grid grid-cols-1 gap-6 lg:grid-cols-[2fr_1fr]&quot;]/div[@class=&quot;hidden my-4 md:mt-5 md:block&quot;]/div[@class=&quot;container&quot;]</value>
+      <webElementGuid>af9d8ccd-ef05-4690-8428-0926712982e1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[2]/div/div/div[2]/div</value>
+      <webElementGuid>f8048a0c-dcda-4698-9609-cc0a2d467b6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div[2]/div/div/div[2]/div</value>
+      <webElementGuid>9ab70ac3-5c77-4655-8d5d-2ddee2a8b80d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Miliki Mobil Baru dengan MudahDapatkan penawaran mobil baru Toyota dari Account Executive kami. Data pribadi Anda aman bersama kami.Nama LengkapNomor Handphone+62Model MobilProvinsiKotaSaya telah membaca dan menyetujui Syarat dan Ketentuan Auto2000Data pribadi Anda aman bersama kami Kebijakan PrivasiSaya TertarikMasukkan Kode OTP' or . = 'Miliki Mobil Baru dengan MudahDapatkan penawaran mobil baru Toyota dari Account Executive kami. Data pribadi Anda aman bersama kami.Nama LengkapNomor Handphone+62Model MobilProvinsiKotaSaya telah membaca dan menyetujui Syarat dan Ketentuan Auto2000Data pribadi Anda aman bersama kami Kebijakan PrivasiSaya TertarikMasukkan Kode OTP')]</value>
+      <webElementGuid>60c92c75-a436-4c8f-9f57-8f1173baab3d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

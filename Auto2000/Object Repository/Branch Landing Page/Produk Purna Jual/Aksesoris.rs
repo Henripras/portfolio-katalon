@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Aksesoris</name>
+   <tag></tag>
+   <elementGuidId>2e73c6d6-6d31-412a-b335-d6e11852a88e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[text()=&quot;Aksesoris&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a8692e58-c7d7-4c42-976d-62452f52acab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-[16px] leading-[24px] break-words text-black90 break-words overflow-hidden text-reliableBlack90 font-bold text-sm lg:text-base uppercase</value>
+      <webElementGuid>8569b901-efa1-4b1e-8a0d-f5c3467f6442</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Aksesoris</value>
+      <webElementGuid>eef8b78a-2693-40e6-9a67-c1b749a930ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;bg-white&quot;]/div[@class=&quot;relative&quot;]/section[@class=&quot;my-8 container lg:px-0&quot;]/div[1]/div[@class=&quot;grid grid-cols-1 md:grid-cols-3 lg:grid-cols-3 md:gap-6&quot;]/div[@class=&quot;flex flex-row justify-between gap-7 border-b pt-4 pb-[18px]&quot;]/div[@class=&quot;flex flex-col gap-2&quot;]/div[@class=&quot;text-[16px] leading-[24px] break-words text-black90 break-words overflow-hidden text-reliableBlack90 font-bold text-sm lg:text-base uppercase&quot;]</value>
+      <webElementGuid>5288dd57-5141-4502-80e4-5f366854e9b7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[2]/section[4]/div/div[2]/div[2]/div/div</value>
+      <webElementGuid>0c3e1900-318a-4cab-9c91-0468c624ab20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PESAN SEKARANG'])[1]/following::div[3]</value>
+      <webElementGuid>d47db184-ec12-4a95-b34d-efc3ac3f4c74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Layanan purna jual yang menyediakan jasa perbaikan berupa servis perawatan berkala'])[1]/following::div[4]</value>
+      <webElementGuid>417433b4-0e57-49c2-a98d-bbd7ded56566</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tersedia berbagai aksesoris Toyota yang dirancang, diuji, dan disertifikasi sesuai Toyota Anda'])[1]/preceding::div[1]</value>
+      <webElementGuid>4907cba0-d506-409d-bffa-47b6bad54f99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BELI AKSESORIS'])[1]/preceding::div[2]</value>
+      <webElementGuid>979c5643-9694-475e-b860-6b4f0914835d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[4]/div/div[2]/div[2]/div/div</value>
+      <webElementGuid>6644d552-8201-4e46-8800-620ce7f05390</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Aksesoris' or . = 'Aksesoris')]</value>
+      <webElementGuid>2e12285e-fb21-4fc1-b973-af90640e012b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Direct Map</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fdf67baf-66bd-41e0-90ff-109093f36fcf</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7bfdf442-ce1f-4491-a52e-eec5362c8c03</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'https://uat.auto2000.co.id/dealer-toyota'</defaultValue>
+      <description></description>
+      <id>7bfdf442-ce1f-4491-a52e-eec5362c8c03</id>
+      <masked>false</masked>
+      <name>UAT</name>
+   </variable>
+</TestCaseEntity>

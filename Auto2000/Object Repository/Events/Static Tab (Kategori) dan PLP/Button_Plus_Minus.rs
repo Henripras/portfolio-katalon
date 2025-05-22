@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button_Plus_Minus</name>
+   <tag></tag>
+   <elementGuidId>2295e6ca-59c3-48d7-a5b4-0a20127edff2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//*[name()='svg'])[27]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>summary</value>
+      <webElementGuid>6570ba40-20af-4ddc-9d8b-c88e4b256497</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex justify-start items-center -my-[18px] py-[13px] md:py-[18px] text-sm text-start font-medium text-reliableBlack cursor-pointer lg:text-base </value>
+      <webElementGuid>4f98cbdc-835c-4492-b02c-0033208149d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Apakah Berita dan Artikel otomotif mobil Auto2000 menyajikan informasi merawat mobil Toyota? </value>
+      <webElementGuid>7000910f-2044-422b-a2b1-82372ffd0912</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;bg-white&quot;]/section[@class=&quot;mt-10 mb-[47.72px] lg:my-20&quot;]/div[@class=&quot;container xl:px-0&quot;]/button[@class=&quot;block w-full border-b border-reliableBlack10&quot;]/details[@class=&quot;py-[18px] lg:px-5&quot;]/summary[@class=&quot;flex justify-start items-center -my-[18px] py-[13px] md:py-[18px] text-sm text-start font-medium text-reliableBlack cursor-pointer lg:text-base&quot;]</value>
+      <webElementGuid>3aed406a-0832-405c-bdf6-821a20407819</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/section[3]/div/button/details/summary</value>
+      <webElementGuid>7993a6d6-bca2-4819-8e8f-e319f7ed5891</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FAQ Berita dan Artikel Otomotif Mobil Auto2000 Tahun 2024'])[1]/following::summary[1]</value>
+      <webElementGuid>5c76b7c7-a07f-4d35-9cd4-aa84b40c4494</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Informasi berita'])[1]/following::summary[1]</value>
+      <webElementGuid>ee0d84e8-9b33-4b30-b02e-39f664b306ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apa itu Halaman Berita dan Tips AutoFamily?'])[1]/preceding::summary[1]</value>
+      <webElementGuid>411e8e31-b2fd-4623-a0f0-23c603b15258</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//summary</value>
+      <webElementGuid>c220e354-2557-461d-8310-dfb621c29fa2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//summary[(text() = 'Apakah Berita dan Artikel otomotif mobil Auto2000 menyajikan informasi merawat mobil Toyota? ' or . = 'Apakah Berita dan Artikel otomotif mobil Auto2000 menyajikan informasi merawat mobil Toyota? ')]</value>
+      <webElementGuid>5897caae-225f-4465-9d1e-22d6b7707772</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

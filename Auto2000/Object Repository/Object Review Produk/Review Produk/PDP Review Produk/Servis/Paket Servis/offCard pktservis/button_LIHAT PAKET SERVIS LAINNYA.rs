@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_LIHAT PAKET SERVIS LAINNYA</name>
+   <tag></tag>
+   <elementGuidId>c843db34-9280-4142-a67e-9a3cb7ecbe63</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='submit'])[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>762f2a67-026f-44e0-8867-2f4810b6d443</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>relative flex whitespace-nowrap justify-center items-center px-4 gap-x-1.5 font-semibold bg-reliableBlack90  h-[52px] text-base leading-[22px] rounded    text-white w-full mt-6</value>
+      <webElementGuid>e12b6b50-56af-4c4b-8b54-14162949ea7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>86e6212b-3533-497c-851e-93d13bbc4a51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>LIHAT PAKET SERVIS LAINNYA</value>
+      <webElementGuid>6f54414a-8416-45f6-93dc-0a9065f14edc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;splide19-slide01&quot;)/div[@class=&quot;px-4 lg:px-0 md:px-4 pb-4&quot;]/button[@class=&quot;relative flex whitespace-nowrap justify-center items-center px-4 gap-x-1.5 font-semibold bg-reliableBlack90  h-[52px] text-base leading-[22px] rounded    text-white w-full mt-6&quot;]</value>
+      <webElementGuid>1f1cc838-1d33-47a9-a5e2-a464442ce3a5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='submit'])[3]</value>
+      <webElementGuid>7e7600d6-90eb-4c0b-abee-06f435a44ae6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='splide19-slide01']/div[3]/button</value>
+      <webElementGuid>cf1f1d30-d5ca-4aba-b89b-51d1e72bd93a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div[3]/button</value>
+      <webElementGuid>3578cfcd-fd8b-4a49-afa5-fd4c7e46bb9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'LIHAT PAKET SERVIS LAINNYA' or . = 'LIHAT PAKET SERVIS LAINNYA')]</value>
+      <webElementGuid>7b84a5ab-4dfe-4abc-98dd-e9f3a81bda71</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

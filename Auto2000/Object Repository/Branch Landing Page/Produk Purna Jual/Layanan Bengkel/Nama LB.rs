@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Nama LB</name>
+   <tag></tag>
+   <elementGuidId>1b0bc3d7-a6b8-4a7d-a3bf-ab38410fecb4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@placeholder='Nama Depan dan Belakang']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>0b2b3a96-5240-4464-b3c5-cca2573a192a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Nama Depan dan Belakang</value>
+      <webElementGuid>af62ec16-ef77-47f6-8c14-f3ac4b0af1ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>6fb450e4-fd2e-4a8a-bff0-a5b3d5668277</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full outline-none bg-reliableBlack3 bg-reliableBlack3 text-reliableBlack border-b border-reliableBlack30 placeholder:text-reliableBlack60 focus:border-reliableBlack60 false w-full px-4 py-2 lg:px-5 lg:py-4 max-h-[30px] lg:max-h-[40px] text-base lg:text-base leading-4 px-5 py-3.5 bg-reliableBlack3 border-[#5F5F5F] max-h-fit lg:max-h-fit focus:border-reliableBlack undefined  focus:outline-none</value>
+      <webElementGuid>a30d6790-625e-4a08-9d80-68b94ed265ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;bg-white&quot;]/div[@class=&quot;relative&quot;]/section[@class=&quot;my-8 container lg:px-0&quot;]/div[@class=&quot;opacity-100 duration-300 ease-in-out fixed w-[100vw] h-[100vh] z-[70] top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 bg-opacity-30 bg-black&quot;]/div[@class=&quot;false duration-300 ease-in-out flex flex-col absolute bg-white rounded top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 w-[622px]&quot;]/div[@class=&quot;overflow-auto p-6 max-h-[80vh]&quot;]/form[1]/div[@class=&quot;grid grid-cols-1 gap-[18px] lg:pb-0 lg:grid-cols-2 lg:gap-x-3 lg:gap-y-5 pb-48&quot;]/div[1]/div[1]/div[@class=&quot;relative&quot;]/div[@class=&quot;relative mt-2  flex justify-between&quot;]/input[@class=&quot;w-full outline-none bg-reliableBlack3 bg-reliableBlack3 text-reliableBlack border-b border-reliableBlack30 placeholder:text-reliableBlack60 focus:border-reliableBlack60 false w-full px-4 py-2 lg:px-5 lg:py-4 max-h-[30px] lg:max-h-[40px] text-base lg:text-base leading-4 px-5 py-3.5 bg-reliableBlack3 border-[#5F5F5F] max-h-fit lg:max-h-fit focus:border-reliableBlack undefined  focus:outline-none&quot;]</value>
+      <webElementGuid>a866c363-7753-40c4-9e7b-108965f67c9a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@value=''])[2]</value>
+      <webElementGuid>b862bcff-a6df-4e00-90a1-6d72dc4bf5f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[2]/section[4]/div[2]/div/div[2]/form/div/div/div/div/div/input</value>
+      <webElementGuid>db5057de-94f0-4177-bee3-6012d928ad24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/div/div/div/input</value>
+      <webElementGuid>6fb30781-0d88-4465-a269-b3d739a5a968</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Nama Depan dan Belakang' and @type = 'text']</value>
+      <webElementGuid>ea9048b6-7e70-4d40-8a1a-afa30d61e76e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

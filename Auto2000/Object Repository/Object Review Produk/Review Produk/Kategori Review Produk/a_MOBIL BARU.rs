@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_MOBIL BARU</name>
+   <tag></tag>
+   <elementGuidId>893442a3-3de4-428f-9945-4d2a3a932817</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/section/div/div[2]/div/div/a[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6d048ade-d323-4506-b047-198fe66f58e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inline-block text-xs uppercase text-reliableBlack whitespace-nowrap py-3.5 px-4 border-b-4 lg:text-base lg:py-4 lg:px-5  lg:border-b-[3px] hover:border-supportiveRed border-transparent</value>
+      <webElementGuid>5d93ad98-28f7-43be-8f0f-0abcd0d614aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://pre.auto2000.co.id/review-produk/?kategori=mobil-baru</value>
+      <webElementGuid>5a2c6fa3-d1f3-4e84-9b6d-14a5d3c42b89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>MOBIL BARU</value>
+      <webElementGuid>71756c52-175d-43b6-85c7-fa54633975d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;bg-white&quot;]/section[@class=&quot;my-[10px] lg:my-[20px]&quot;]/div[@class=&quot;lg:container xl:px-0&quot;]/div[@class=&quot;my-[9px] lg:my-2&quot;]/div[@class=&quot;flex justify-between items-center sticky z-20 bg-white top-[60px] md:top-[150px] lg:top-[173px] xl:top-[171px]&quot;]/div[@class=&quot;flex items-center justify-start w-full border-b-[1px] bg-white overflow-x-auto no-scrollbar&quot;]/a[@class=&quot;inline-block text-xs uppercase text-reliableBlack whitespace-nowrap py-3.5 px-4 border-b-4 lg:text-base lg:py-4 lg:px-5  lg:border-b-[3px] hover:border-supportiveRed border-transparent&quot;]</value>
+      <webElementGuid>591e7c68-8817-43a7-8a39-d8333112fad0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/section/div/div[2]/div/div/a[2]</value>
+      <webElementGuid>2cb73217-72ea-45e1-8faa-4075ce1ea38b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'MOBIL BARU')]</value>
+      <webElementGuid>406d89a0-34f7-447a-b01b-312303961197</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://pre.auto2000.co.id/review-produk/?kategori=mobil-baru')]</value>
+      <webElementGuid>e741fe63-1eb0-4fbe-b891-c95aedb3653d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/a[2]</value>
+      <webElementGuid>daf515c9-1832-474b-84c5-4fe385b2bb38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://pre.auto2000.co.id/review-produk/?kategori=mobil-baru' and (text() = 'MOBIL BARU' or . = 'MOBIL BARU')]</value>
+      <webElementGuid>dde3c2d3-098b-4cb3-ad5d-3bae5a86f4e3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

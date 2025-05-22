@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Checkbox Promo</name>
+   <tag></tag>
+   <elementGuidId>01f36c98-e9d8-427d-9b3e-ab17f3b19b07</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[contains(@id, 'cb-syarat')]/following-sibling::div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7bc221ce-58a9-4f3c-bc42-d11145b9ffc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-[17px] h-[17px] border rounded-none bg-inherit border-supportiveRed hover:bg-reliableBlack10 </value>
+      <webElementGuid>8196204c-cd0a-47a8-80a3-844e682f4687</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;bg-white&quot;]/div[@class=&quot;relative&quot;]/div[@class=&quot;lg:container xl:px-0&quot;]/div[@class=&quot;grid grid-cols-1 gap-6 lg:grid-cols-[2fr_1fr]&quot;]/div[@class=&quot;container hidden md:mt-5 lg:p-0 md:block&quot;]/section[@class=&quot;bg-reliableBlack5 p-5&quot;]/form[@class=&quot;bg-inherit&quot;]/div[@class=&quot;mb-[18px] lg:mb-5&quot;]/label[@class=&quot;flex gap-5 text-sm font-normal mt-5 items-center cursor-pointer&quot;]/div[@class=&quot;relative&quot;]/div[@class=&quot;w-[17px] h-[17px] border rounded-none bg-inherit border-supportiveRed hover:bg-reliableBlack10&quot;]</value>
+      <webElementGuid>e82c91f9-b54b-4aa0-9557-1e44bf700bab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[3]/div/div/div[2]/section/form/div[5]/label/div/div</value>
+      <webElementGuid>ffa627e3-e34b-4aa6-b0c2-e3c3f4314319</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/div/div</value>
+      <webElementGuid>c65b831a-b498-4ef0-bf06-26317331aaf3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

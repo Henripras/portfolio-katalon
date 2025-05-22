@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>CardPertamaBerita</name>
+   <tag></tag>
+   <elementGuidId>f71264c4-5f19-44cc-bf49-027ae796c413</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='card-news-crm-paa-berapa-rasio-kompresi-vios-ulasan']/div/div[2]/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>14b99766-e674-45b3-895c-75172b09f7ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-[124px] h-[70px] md:w-[177.77px] md:h-[100px] object-cover aspect-video</value>
+      <webElementGuid>77fa64a4-c367-44ed-890b-4c34e817421b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://astradigitaldigiroomprd.blob.core.windows.net/storage-prd-001/berapa%20rasio%20kompresi%20vios.jpg</value>
+      <webElementGuid>69a97517-b56d-4829-afd2-cbab9fda8ea0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>berapa rasio kompresi vios.jpg</value>
+      <webElementGuid>7833f162-a056-4e38-ae94-87e7c495c705</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;card-news-crm-paa-berapa-rasio-kompresi-vios-ulasan&quot;)/div[@class=&quot;border-b-[1px] border-[#E9E9E9] lg:-mt-8&quot;]/div[@class=&quot;flex justify-start md:gap-3 gap-[10px] pt-2 px-4 pb-4&quot;]/img[@class=&quot;w-[124px] h-[70px] md:w-[177.77px] md:h-[100px] object-cover aspect-video&quot;]</value>
+      <webElementGuid>196f8598-c75e-4ade-8681-d99338b6815b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='card-news-crm-paa-berapa-rasio-kompresi-vios-ulasan']/div/div[2]/img</value>
+      <webElementGuid>6989fe47-d2cb-4cab-b401-cf8e408ec996</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='berapa rasio kompresi vios.jpg']</value>
+      <webElementGuid>5719eba2-d4ad-4dfc-805e-476080496a0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/img</value>
+      <webElementGuid>88a8f680-f1fe-4339-993d-21cbb0f0be39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://astradigitaldigiroomprd.blob.core.windows.net/storage-prd-001/berapa%20rasio%20kompresi%20vios.jpg' and @alt = 'berapa rasio kompresi vios.jpg']</value>
+      <webElementGuid>27bcdea3-d5c0-4b11-8525-82e92868e78f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

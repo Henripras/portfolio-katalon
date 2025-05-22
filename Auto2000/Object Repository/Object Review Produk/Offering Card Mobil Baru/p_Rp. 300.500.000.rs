@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Rp. 300.500.000</name>
+   <tag></tag>
+   <elementGuidId>df436e23-f3f8-4aea-a605-ed5589d95d15</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.text-base.text-supportiveRed.font-bold.mb-3</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='splide15-slide01']/div/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>229b090e-a3ce-4ab3-9f4f-f0ae14947958</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-base text-supportiveRed font-bold mb-3</value>
+      <webElementGuid>630f1056-2a1b-4725-bb6b-9deec695103d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Rp. 300.500.000</value>
+      <webElementGuid>8ac4e557-67db-46f6-b263-d7bc595609e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;splide15-slide01&quot;)/div[@class=&quot;flex flex-col justify-between  px-4 lg:px-0 md:px-4&quot;]/div[@class=&quot;flex flex-row items-center pdp-net-rp pdp-net-rp-calc price-btn-bookOrBuy pdp-site newPriceForDPDiscount&quot;]/p[@class=&quot;text-base text-supportiveRed font-bold mb-3&quot;]</value>
+      <webElementGuid>378b1675-de5a-4920-b3b9-fcf3087517db</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='splide15-slide01']/div/div/p</value>
+      <webElementGuid>c0a8d553-9f2d-43ca-a997-c0f185148bfd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/div/p</value>
+      <webElementGuid>d1345889-15c4-4557-9e88-9a1399f57669</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Rp. 300.500.000' or . = 'Rp. 300.500.000')]</value>
+      <webElementGuid>ac4d9a30-08ba-4b9f-bb2d-a0924dfd00ea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

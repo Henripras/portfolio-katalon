@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Saya Tertarik</name>
+   <tag></tag>
+   <elementGuidId>8663ec6a-86d4-42dd-a030-796cc0c200f1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='btn-submit-interest']/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.text-base.font-bold.uppercase.text-black90</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>cbce8e1b-4a19-4dab-88a8-9d0eb71dab4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-base font-bold uppercase text-black90</value>
+      <webElementGuid>8c91c467-34db-4b08-a81b-64a1e8b89db7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Saya Tertarik</value>
+      <webElementGuid>53082667-2f32-4cc3-a04c-8a5715a47ce2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;btn-submit-interest&quot;)/div[@class=&quot;text-right md:text-center&quot;]/p[@class=&quot;text-base font-bold uppercase text-black90&quot;]</value>
+      <webElementGuid>b2d38a8f-320b-46da-bd42-030edc28755e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='btn-submit-interest']/div/p</value>
+      <webElementGuid>08bd0fac-82fe-46ca-81ae-9551f70021fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div/p</value>
+      <webElementGuid>a2102078-e9ea-4e6a-a463-83e718b49dd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Saya Tertarik' or . = 'Saya Tertarik')]</value>
+      <webElementGuid>ada2964d-9d88-47a6-9e08-e2b7260e7df6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

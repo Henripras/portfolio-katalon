@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Landing Page City</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7e4741cb-5f42-435e-865c-fc49bd4e3937</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7eede03b-d329-4d5c-be2d-486c9415db0d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>76363d56-86a2-46bf-96a5-06434dd04459</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6c521129-a860-438f-a9ed-d0c5f0898c57</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'https://sit.auto2000.co.id/dealer-toyota/jakarta-pusat?'</defaultValue>
+      <description></description>
+      <id>7eede03b-d329-4d5c-be2d-486c9415db0d</id>
+      <masked>false</masked>
+      <name>SIT</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://uat.auto2000.co.id/dealer-toyota/jakarta-pusat?'</defaultValue>
+      <description></description>
+      <id>76363d56-86a2-46bf-96a5-06434dd04459</id>
+      <masked>false</masked>
+      <name>UAT</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6c521129-a860-438f-a9ed-d0c5f0898c57</id>
+      <masked>false</masked>
+      <name>PreProd</name>
+   </variable>
+</TestCaseEntity>

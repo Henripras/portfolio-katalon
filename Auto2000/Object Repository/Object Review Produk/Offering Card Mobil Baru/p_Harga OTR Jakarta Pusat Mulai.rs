@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Harga OTR Jakarta Pusat Mulai</name>
+   <tag></tag>
+   <elementGuidId>20ebe501-a59d-43ff-adda-a97602efe5e6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='splide15-slide01']/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>83dc7220-b748-4c89-b142-4d0360387211</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-sm text-reliableBlack font-medium px-4 lg:px-0 md:px-4</value>
+      <webElementGuid>2ee8e385-cafb-4455-8a48-b0d79554db7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Harga OTR Jakarta Pusat Mulai</value>
+      <webElementGuid>abfe433c-d81e-4cec-b247-67f2dabd35f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;splide15-slide01&quot;)/div[@class=&quot;flex flex-col justify-between  px-4 lg:px-0 md:px-4&quot;]/p[@class=&quot;text-sm text-reliableBlack font-medium px-4 lg:px-0 md:px-4&quot;]</value>
+      <webElementGuid>ff069d03-dcc5-4334-adf8-af1d96942649</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='splide15-slide01']/div/p</value>
+      <webElementGuid>fb1d31e6-e538-478e-b6e3-4895db0b66ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/p</value>
+      <webElementGuid>66e3738a-1271-4ba6-b2e4-0f9efaafc33e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Harga OTR Jakarta Pusat Mulai' or . = 'Harga OTR Jakarta Pusat Mulai')]</value>
+      <webElementGuid>2c762e01-2f30-4d53-9fd0-3e036ec4e34b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

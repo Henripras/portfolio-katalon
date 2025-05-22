@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button Hitung Simulasi</name>
+   <tag></tag>
+   <elementGuidId>040735ee-08d9-4a50-8df9-4e95ba0dc845</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[contains(@class, 'bg-reliableBlack') and contains(., 'HITUNG SIMULASI')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>77c8dad9-df6a-4ec2-a12e-b7b492770c7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>relative flex whitespace-nowrap justify-center items-center px-4 gap-x-1.5 font-semibold bg-reliableBlack  h-[52px] text-base leading-[22px] rounded    text-white w-full lg:w-[328px] my-6 lg:my-0</value>
+      <webElementGuid>a8686621-552e-4721-950e-9379baf8b428</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>41f4c652-ec10-43d3-87a8-43ea17813b57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>HITUNG SIMULASI</value>
+      <webElementGuid>31a372af-ae71-4dc6-846a-262b5b25da5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;id-minta-penawaran&quot;)/div[@class=&quot;overflow-auto bg-gray10 p-6&quot;]/section[@class=&quot;container text-black lg:px-10 lg:py-5 lg:flex lg:flex-col  lg:gap-10 lg:items-center mt-4&quot;]/div[@class=&quot;lg:flex lg:flex-col lg:flex-1 lg:gap-12 lg:items-center  lg:px-16&quot;]/button[@class=&quot;relative flex whitespace-nowrap justify-center items-center px-4 gap-x-1.5 font-semibold bg-reliableBlack  h-[52px] text-base leading-[22px] rounded    text-white w-full lg:w-[328px] my-6 lg:my-0&quot;]</value>
+      <webElementGuid>e76e7722-429d-43d2-abc0-44e3ce9eee77</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='']</value>
+      <webElementGuid>c5f8a546-362c-4612-945f-2f1feddcb149</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='id-minta-penawaran']/div[2]/section[2]/div/button</value>
+      <webElementGuid>faa6b831-3cb0-47af-858f-f204ef3020ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MINTA PENAWARAN'])[1]/following::button[6]</value>
+      <webElementGuid>932ff127-3026-4953-a7b3-09c09a53dc9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dapatkan informasi AGYA lengkap mulai dari harga OTR, Spesifikasi dan Promo'])[2]/following::button[6]</value>
+      <webElementGuid>2cde0fc6-32ef-4dd0-b57b-a9532a0d98ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Selengkapnya'])[1]/preceding::button[1]</value>
+      <webElementGuid>3ad60be4-6916-4bbf-bc83-13d4752473e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[2]/div/button</value>
+      <webElementGuid>c309c7ac-4cb4-49a5-9e7e-b3a5ec6e383d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'HITUNG SIMULASI' or . = 'HITUNG SIMULASI')]</value>
+      <webElementGuid>b48c319b-9295-413d-b44f-c0bab2ca17ac</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

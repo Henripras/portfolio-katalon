@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_LIHAT SELENGKAPNYA</name>
+   <tag></tag>
+   <elementGuidId>d080ee58-1e7a-47fd-bf39-06908bc14465</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/section[2]/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>5616c328-5a3b-4172-8471-16c8756fe8cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>post-1</value>
+      <webElementGuid>dfe1299d-d1cd-4c2f-8ff4-1308aed71097</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>read-more-trigger text-sm font-semibold text-hyperLink uppercase lg:text-base mt-5 flex gap-3 items-center cursor-pointer</value>
+      <webElementGuid>76984cf0-f805-43e9-8ae1-b156e98e41c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>LIHAT SELENGKAPNYA</value>
+      <webElementGuid>fb6980ac-0cc7-4e8c-b3cd-e5a8ea8414a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;bg-white&quot;]/section[@class=&quot;my-10 lg:my-20&quot;]/div[@class=&quot;container xl:px-0&quot;]/label[@class=&quot;read-more-trigger text-sm font-semibold text-hyperLink uppercase lg:text-base mt-5 flex gap-3 items-center cursor-pointer&quot;]</value>
+      <webElementGuid>952575c2-8c21-4370-b48b-b578e3cca55a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/section[2]/div/label</value>
+      <webElementGuid>5053bd63-1b56-45cf-bd5f-c8d018f902bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[2]/div/label</value>
+      <webElementGuid>8c382e11-d4f7-47cf-91c5-052781a9aa79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'LIHAT SELENGKAPNYA' or . = 'LIHAT SELENGKAPNYA')]</value>
+      <webElementGuid>4ebd7c4a-3d4c-4469-82cf-c370ea6c659f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

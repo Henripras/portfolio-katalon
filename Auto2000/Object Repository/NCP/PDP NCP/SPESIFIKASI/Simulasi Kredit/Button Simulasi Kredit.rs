@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button Simulasi Kredit</name>
+   <tag></tag>
+   <elementGuidId>23a17058-6bf8-450a-abd2-a68c88088400</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#id-simulasi-kredit</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='id-simulasi-kredit']&#xd;
+</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>63040115-d1c4-4df0-b4d3-23411efe13bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>id-simulasi-kredit</value>
+      <webElementGuid>fd8a070c-62bd-4c23-af52-22f1bc15958d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>relative flex whitespace-nowrap justify-center items-center px-4 gap-x-1.5 font-semibold bg-reliableBlack5 !text-[14px]  h-[52px] text-base leading-[22px] rounded    w-full mt-5</value>
+      <webElementGuid>1a95428f-77a7-4fa0-8697-9b2c2bde9fc9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>5be55d5f-f358-4cf2-a3d7-2ac1e5b4fae7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SIMULASI KREDIT</value>
+      <webElementGuid>6b95712f-e717-4ebf-afe4-dd5211f9ee95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;id-simulasi-kredit&quot;)</value>
+      <webElementGuid>b26f9e33-ac4f-4881-9557-fe57dc260caf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='id-simulasi-kredit']</value>
+      <webElementGuid>6a70690d-1952-4b13-a0fc-b7c7c68577d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/section[2]/div/div[3]/div[4]/div[4]/button</value>
+      <webElementGuid>be4b5849-003e-4d23-a181-e46ab02b717d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BELI MOBIL'])[1]/following::button[1]</value>
+      <webElementGuid>c8d9732e-6141-48a6-a47b-4f53e4d5966c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dapatkan informasi AGYA lengkap mulai dari harga OTR, Spesifikasi dan Promo'])[1]/following::button[2]</value>
+      <webElementGuid>045c2a17-e102-4424-86d3-96c24afa120a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TOYOTA AGYA 2024'])[2]/preceding::button[1]</value>
+      <webElementGuid>1d2a514a-7076-42a6-b94f-b584b984a76c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[4]/button</value>
+      <webElementGuid>8c4094e4-43b1-428e-8eea-54f1f1f10d19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'id-simulasi-kredit' and @type = 'submit' and (text() = 'SIMULASI KREDIT' or . = 'SIMULASI KREDIT')]</value>
+      <webElementGuid>577ddea9-bce3-4957-88b1-68ddfc6e664a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

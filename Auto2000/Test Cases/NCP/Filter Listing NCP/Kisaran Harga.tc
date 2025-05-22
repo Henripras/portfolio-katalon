@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Kisaran Harga</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cc705bfa-880c-416a-85ee-5c3f80501ceb</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>38286697-2b95-4729-8eb5-ac9206bc1e44</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'244263000'</defaultValue>
+      <description></description>
+      <id>38286697-2b95-4729-8eb5-ac9206bc1e44</id>
+      <masked>false</masked>
+      <name>eleWidth</name>
+   </variable>
+</TestCaseEntity>

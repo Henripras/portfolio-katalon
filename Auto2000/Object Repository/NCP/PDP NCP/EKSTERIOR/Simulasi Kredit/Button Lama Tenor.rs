@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button Lama Tenor</name>
+   <tag></tag>
+   <elementGuidId>9cb1605d-1706-495b-a21a-ddfce92f9118</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[text()='48']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>79cce4cf-984f-440e-af5d-8141c66e761e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-[55px] h-[55px] border border-reliableBlack10 text-black text-sm font-medium lg:w-16 lg:h-16 lg:text-xl lg:font-semibold</value>
+      <webElementGuid>ec248ec6-fab3-4197-bb80-d2497a45dbe3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>48</value>
+      <webElementGuid>60d88c1e-bfb4-4963-a35f-05cc64fa05cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;bg-white&quot;]/div[@class=&quot;opacity-100 duration-300 ease-in-out fixed w-[100vw] h-[100vh] z-[70] top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 bg-opacity-30 bg-black !z-[100]&quot;]/div[@class=&quot;lg:max-h-[80vh] false duration-300 ease-in-out flex flex-col absolute bg-white rounded top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 !h-[95vh] w-[90vw] md:!w-[622px]&quot;]/div[@class=&quot;overflow-auto bg-gray10 p-6&quot;]/section[@class=&quot;container text-black lg:px-10 lg:py-5 lg:flex lg:flex-col  lg:gap-10 lg:items-center mt-4&quot;]/div[@class=&quot;lg:flex lg:flex-col lg:flex-1 lg:gap-12 lg:items-center  lg:px-16&quot;]/div[@class=&quot;w-full mt-6 lg:mt-0&quot;]/div[@class=&quot;flex justify-between lg:justify-center lg:gap-5 mt-5 lg:mt-4&quot;]/button[@class=&quot;w-[55px] h-[55px] border border-reliableBlack10 text-black text-sm font-medium lg:w-16 lg:h-16 lg:text-xl lg:font-semibold&quot;]</value>
+      <webElementGuid>5423ef60-dbe3-4d69-8062-d720bd15e7a4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[2]/div/div[2]/section[2]/div/div[2]/div/button[4]</value>
+      <webElementGuid>85fb4f81-d0af-4a48-87dc-316ad24942ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MINTA PENAWARAN'])[1]/following::button[4]</value>
+      <webElementGuid>28f0b430-54bd-4bfd-bb65-c79e6c54a89b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih'])[2]/following::button[4]</value>
+      <webElementGuid>8786820c-42e5-46b3-a71b-faf05cd6152c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HITUNG SIMULASI'])[1]/preceding::button[2]</value>
+      <webElementGuid>3a1b5fbd-f30d-45b5-b920-0e76bdd77630</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Selengkapnya'])[1]/preceding::button[3]</value>
+      <webElementGuid>59982e84-1284-4a13-be8b-520c66a328ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='48']/parent::*</value>
+      <webElementGuid>fdf8a74b-7a03-4661-8e00-99b7e49b5922</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[4]</value>
+      <webElementGuid>93b815a5-6f72-46aa-9574-561f90968691</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = '48' or . = '48')]</value>
+      <webElementGuid>d77dabae-1175-47b9-b60e-8363f5610121</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

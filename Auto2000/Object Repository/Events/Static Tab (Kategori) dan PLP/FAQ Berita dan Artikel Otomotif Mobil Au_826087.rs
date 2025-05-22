@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>FAQ Berita dan Artikel Otomotif Mobil Au_826087</name>
+   <tag></tag>
+   <elementGuidId>497fe65e-1be8-4f97-a734-89fa10949c63</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//h2[@id='branch-faq']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#branch-faq</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>512d7292-3d35-4b07-b7e0-b71b5aa235ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>branch-faq</value>
+      <webElementGuid>7c0a5b07-9929-4413-842b-b1a591efabc5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-base mb-3 text-reliableBlack font-bold uppercase lg:text-2xl</value>
+      <webElementGuid>c396f656-090e-4293-89d0-5e2048dea07b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>FAQ Berita dan Artikel Otomotif Mobil Auto2000 Tahun 2024</value>
+      <webElementGuid>6d7b3ee1-36a2-446d-ab7b-1d77181b0787</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;bg-white&quot;]/section[@class=&quot;mt-10 mb-[47.72px] lg:my-20&quot;]/div[@class=&quot;container xl:px-0&quot;]/h2[@id=&quot;branch-faq&quot;]</value>
+      <webElementGuid>eba3f5fb-0d4d-4b36-b08d-d203a23cb60b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h2[@id='branch-faq']</value>
+      <webElementGuid>54949fbd-09eb-45b6-acff-1bb048d65df1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/section[3]/div/h2</value>
+      <webElementGuid>09efb31f-5049-4059-afaf-91f78da7a143</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Informasi berita'])[1]/following::h2[1]</value>
+      <webElementGuid>6ee04e1b-7d09-4b08-b9ef-d9f87606d0a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Informasi'])[1]/following::h2[1]</value>
+      <webElementGuid>14d3ce93-db6a-47e9-942c-babcad80e787</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apakah Berita dan Artikel otomotif mobil Auto2000 menyajikan informasi merawat mobil Toyota?'])[1]/preceding::h2[1]</value>
+      <webElementGuid>cba95efe-641d-4c96-946a-c5034d0e6d3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apa itu Halaman Berita dan Tips AutoFamily?'])[1]/preceding::h2[1]</value>
+      <webElementGuid>6c5f3c9f-51ff-4f95-bebb-af048eebc176</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='FAQ Berita dan Artikel Otomotif Mobil Auto2000 Tahun 2024']/parent::*</value>
+      <webElementGuid>237ed7b6-08d8-4ae0-b1cc-49431c6e3bed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[3]/div/h2</value>
+      <webElementGuid>ee74bb8e-50b3-4c21-b19d-452967762ade</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[@id = 'branch-faq' and (text() = 'FAQ Berita dan Artikel Otomotif Mobil Auto2000 Tahun 2024' or . = 'FAQ Berita dan Artikel Otomotif Mobil Auto2000 Tahun 2024')]</value>
+      <webElementGuid>b103cb20-b1f0-46bb-b72b-651c1bfdb204</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

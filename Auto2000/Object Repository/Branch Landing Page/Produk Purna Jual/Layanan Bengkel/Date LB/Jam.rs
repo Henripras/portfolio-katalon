@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Jam</name>
+   <tag></tag>
+   <elementGuidId>810fc6e5-437f-41f1-aa82-496be33cee08</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[span[text()=&quot;09:00&quot;]]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>bb3380fb-8f35-41b4-a2e1-7a2dff8fd940</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-sm lg:text-base font-medium text-reliableBlack</value>
+      <webElementGuid>d64ea967-e1e2-4782-9a84-2b228fc8a465</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>10:00</value>
+      <webElementGuid>752408bb-9f43-493d-902f-0ee73629b797</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;bg-white&quot;]/div[@class=&quot;relative&quot;]/section[@class=&quot;my-8 container lg:px-0&quot;]/div[@class=&quot;opacity-100 duration-300 ease-in-out fixed w-[100vw] h-[100vh] z-[70] top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 bg-opacity-30 bg-black&quot;]/div[@class=&quot;false duration-300 ease-in-out flex flex-col absolute bg-white rounded top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 w-[622px]&quot;]/div[@class=&quot;overflow-auto p-6 max-h-fit&quot;]/section[1]/div[@class=&quot;w-full mb-6 pb-32 lg:pb-0&quot;]/div[@class=&quot;grid grid-cols-3 gap-1&quot;]/label[@class=&quot;w-auto h-[44px] lg:w-[185px] lg:h-[48px] flex justify-center items-center rounded bg-reliableBlack5
+              cursor-pointer&quot;]/span[@class=&quot;text-sm lg:text-base font-medium text-reliableBlack&quot;]</value>
+      <webElementGuid>6746b3c9-a1a7-4f32-a2af-f0c69a1e0311</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[2]/section[4]/div[3]/div/div[2]/section/div[2]/div/label[4]/span</value>
+      <webElementGuid>d3914a3f-80fd-4915-9cfc-714197c76282</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jum'])[2]/following::span[5]</value>
+      <webElementGuid>7510b527-df07-4dd7-b1c5-6e35108cca4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kam'])[2]/following::span[7]</value>
+      <webElementGuid>fa48e003-dd34-4d92-ac8a-138d5252c32d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Simpan'])[1]/preceding::span[6]</value>
+      <webElementGuid>cda0de15-e200-4d13-9d01-544e026a1717</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masukkan Kode OTP'])[1]/preceding::span[7]</value>
+      <webElementGuid>0833da40-e767-467b-996f-6135d0a5f388</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='10:00']/parent::*</value>
+      <webElementGuid>6b4a2041-a712-4260-833c-23662d5a89b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/label[4]/span</value>
+      <webElementGuid>477daa4d-9522-4359-bb7a-6d8626510746</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '10:00' or . = '10:00')]</value>
+      <webElementGuid>b0ff8e5f-69d2-4dac-8547-d728fe0106ce</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

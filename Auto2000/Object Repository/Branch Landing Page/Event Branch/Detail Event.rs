@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Detail Event</name>
+   <tag></tag>
+   <elementGuidId>2eb29d32-d5bf-4d01-95a6-6ab25cd5ac3f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[contains(@class, 'flex') and contains(@class, 'justify-start') and contains(@class, 'pt-2') and contains(@class, 'px-4') and contains(@class, 'pb-4')])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>8cb57f1d-b36b-47cf-aac3-21b37b750978</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-[124px] h-[70px] md:w-[177.77px] md:h-[100px] object-cover aspect-video</value>
+      <webElementGuid>271b07fb-4e1c-4a83-9eaf-b50913987093</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://astradigitaldigiroomuat.blob.core.windows.net/storage-uat-001/Kesan-AutoFamily-Sukun-Meminang-Mobil-Baru-Toyota-4624_undefined.png</value>
+      <webElementGuid>00770c77-a361-49cb-8296-1b6dd906f7d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Kesan-AutoFamily-Sukun-Meminang-Mobil-Baru-Toyota-4624_undefined.png</value>
+      <webElementGuid>9666d042-627d-41f5-bbe0-c6a1896dbeae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;card-news-jakarta-pusat/auto2000cempakaputih/berita-dan-tips/kesan-autofamily-sukun-meminang-mobil-baru-toyota-4624&quot;)/div[@class=&quot;border-b-[1px] border-[#E9E9E9] lg:-mt-8&quot;]/div[@class=&quot;flex justify-start md:gap-3 gap-[10px] pt-2 px-4 pb-4&quot;]/img[@class=&quot;w-[124px] h-[70px] md:w-[177.77px] md:h-[100px] object-cover aspect-video&quot;]</value>
+      <webElementGuid>44b1bfbb-c4b7-44d0-ae4c-9cd26e1cf6a3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='card-news-jakarta-pusat/auto2000cempakaputih/berita-dan-tips/kesan-autofamily-sukun-meminang-mobil-baru-toyota-4624']/div/div[2]/img</value>
+      <webElementGuid>6307882e-ff4f-485f-95e4-2e6c2b79b222</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Kesan-AutoFamily-Sukun-Meminang-Mobil-Baru-Toyota-4624_undefined.png']</value>
+      <webElementGuid>cfd3936c-289d-45f3-9a98-273e608d1e28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/img</value>
+      <webElementGuid>2c5f4735-c00b-4fdd-9c87-474165da1d92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://astradigitaldigiroomuat.blob.core.windows.net/storage-uat-001/Kesan-AutoFamily-Sukun-Meminang-Mobil-Baru-Toyota-4624_undefined.png' and @alt = 'Kesan-AutoFamily-Sukun-Meminang-Mobil-Baru-Toyota-4624_undefined.png']</value>
+      <webElementGuid>6e46b9c5-139e-4558-b227-2609b3b60866</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

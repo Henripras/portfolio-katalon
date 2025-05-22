@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Menampilkan9dari27</name>
+   <tag></tag>
+   <elementGuidId>b4ca89f4-bb3c-4c50-b7d7-0de03dae20fe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;__next&quot;]/main/section[1]/div/div[2]/div[3]/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>ac912ebf-1ff3-45df-a7eb-2b70c5d92356</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hidden items-center gap-1 text-lg lg:flex</value>
+      <webElementGuid>273113e3-6b09-4884-a92c-b7925128ac5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Menampilkan9dari27</value>
+      <webElementGuid>c7fd1032-ca00-44af-84ee-4684ab2737de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;bg-white&quot;]/section[@class=&quot;my-[10px] lg:my-[20px]&quot;]/div[@class=&quot;lg:container xl:px-0&quot;]/div[@class=&quot;my-[9px] lg:my-2&quot;]/div[@class=&quot;flex items-center justify-center mt-6 lg:mt-9 lg:justify-between&quot;]/p[@class=&quot;hidden items-center gap-1 text-lg lg:flex&quot;]</value>
+      <webElementGuid>16c30e23-2c09-4a2c-b054-94715eaff928</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/section/div/div[2]/div[3]/p</value>
+      <webElementGuid>b5851660-2312-42b9-8404-8ce60d17a83d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/p</value>
+      <webElementGuid>d3d5e1db-ad2e-4889-9d67-af85e21b4c69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Menampilkan9dari27' or . = 'Menampilkan9dari27')]</value>
+      <webElementGuid>6cbb5eba-72f9-4579-9fb0-6bd2302109e3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

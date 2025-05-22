@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>fill information</name>
+   <tag></tag>
+   <elementGuidId>c5be247c-fa2d-4cca-be2a-e17ec2bf2825</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/section[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>92d032d8-c991-4b29-a561-a04677d75149</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>prose !max-w-full content-description text-xs lg:text-base max-h-full overflow-hidden</value>
+      <webElementGuid>dc34d471-1760-4c0d-bd66-ca57470fe9d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Temukan informasi mengenai ulasan atau review Toyota terkini dan berbagai informasi menarik seputar ulasan produk dan layanan yang hadir di Auto2000. Dapatkan informasi terbaru mengenai teknologi dan tren terkini di industri otomotif. Kunjungi Auto2000 Digiroom sekarang juga untuk menemukan review lengkap yang dapat memperkaya pengetahuan Anda tentang dunia otomotif. Jangan lewatkan kesempatan untuk menjadi yang terdepan dalam mendapatkan informasi terbaru seputar mobil Toyota.</value>
+      <webElementGuid>0f57f634-5c41-4ece-b35d-4ec498be14da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;bg-white&quot;]/section[@class=&quot;my-10 lg:my-20&quot;]/div[@class=&quot;container xl:px-0&quot;]/div[@class=&quot;prose !max-w-full content-description text-xs lg:text-base max-h-full overflow-hidden&quot;]</value>
+      <webElementGuid>2df0eaa9-b988-4efe-ad4d-7e15194316ef</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/section[2]/div/div</value>
+      <webElementGuid>c8135035-643b-4b77-82da-b516c29530b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[2]/div/div</value>
+      <webElementGuid>ce547851-e969-4337-a9b7-d3e905539818</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Temukan informasi mengenai ulasan atau review Toyota terkini dan berbagai informasi menarik seputar ulasan produk dan layanan yang hadir di Auto2000. Dapatkan informasi terbaru mengenai teknologi dan tren terkini di industri otomotif. Kunjungi Auto2000 Digiroom sekarang juga untuk menemukan review lengkap yang dapat memperkaya pengetahuan Anda tentang dunia otomotif. Jangan lewatkan kesempatan untuk menjadi yang terdepan dalam mendapatkan informasi terbaru seputar mobil Toyota.' or . = 'Temukan informasi mengenai ulasan atau review Toyota terkini dan berbagai informasi menarik seputar ulasan produk dan layanan yang hadir di Auto2000. Dapatkan informasi terbaru mengenai teknologi dan tren terkini di industri otomotif. Kunjungi Auto2000 Digiroom sekarang juga untuk menemukan review lengkap yang dapat memperkaya pengetahuan Anda tentang dunia otomotif. Jangan lewatkan kesempatan untuk menjadi yang terdepan dalam mendapatkan informasi terbaru seputar mobil Toyota.')]</value>
+      <webElementGuid>18b75535-6c50-4e1e-97b9-dd325a48003c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

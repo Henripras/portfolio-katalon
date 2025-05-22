@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_LIHAT DETAIL</name>
+   <tag></tag>
+   <elementGuidId>d2917e04-fc57-4040-abc7-a379dc8f4299</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#id-ncp-lihat-detail</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(((//div[@id=&quot;id-product-card&quot;])[1])//div)//div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#id-ncp-lihat-detail >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b403898d-49d1-41cc-b160-bc52f5f78404</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>id-ncp-lihat-detail</value>
+      <webElementGuid>959b0a05-de6e-405d-9c0a-dac1a4b6b686</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bg-white flex justify-between items-center px-3 py-4 border-b border-reliableBlack10</value>
+      <webElementGuid>782b311e-fcab-4239-a973-b2d393e6fc7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://uat.auto2000.co.id/mobil-baru-toyota/p/agya</value>
+      <webElementGuid>e7405b51-7f7c-4472-bf90-91282dea185d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>LIHAT DETAIL</value>
+      <webElementGuid>3bda40c8-f272-4a6b-be64-e8d986c282a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;bg-white&quot;]/div[@class=&quot;md:container md:px-0&quot;]/div[@class=&quot;lg:flex lg:gap-6&quot;]/section[@class=&quot;mt-4 mb-6 lg:my-8&quot;]/div[@class=&quot;lg:container lg:relative lg:flex md:relative md:flex&quot;]/div[1]/div[2]/div[@class=&quot;px-0 mt-4 grid grid-cols-2 md:grid-cols-3 lg:grid-cols-3&quot;]/div[1]/div[@id=&quot;id-product-card&quot;]/div[@class=&quot;hidden sm:block absolute w-full -bottom-[80%] translate-y-full group-hover:-bottom-[17px] group-hover:translate-y-2.5 bg-white transition-all duration-700 pb-4 ease-[cubic-bezier(0.09,1.03,0.58,1.07)]&quot;]/a[@id=&quot;id-ncp-lihat-detail&quot;]</value>
+      <webElementGuid>9f9d66bb-a68d-4a70-965a-70b42692906c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='id-ncp-lihat-detail']</value>
+      <webElementGuid>acd94dbd-3006-48e4-8299-bfcff3f8d4b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='id-product-card']/div[4]/a</value>
+      <webElementGuid>71fd0f85-8b7f-4b8e-9694-b1b48aa8b65b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terlaris'])[1]/following::a[1]</value>
+      <webElementGuid>343246cc-43a3-4591-b735-8da7c84192de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HATCHBACK(2)'])[1]/following::a[1]</value>
+      <webElementGuid>b557f675-dafa-4c4f-94c1-40d33605bb65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MPV(7)'])[1]/preceding::a[16]</value>
+      <webElementGuid>8e93a511-a40b-42a1-b945-3ea818f75dfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Penawaran Terbaik'])[1]/preceding::a[16]</value>
+      <webElementGuid>4afc4693-7cd3-4356-99af-d9f6e3c26a78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://uat.auto2000.co.id/mobil-baru-toyota/p/agya')]</value>
+      <webElementGuid>f99fe316-84c3-4885-a3ca-b3f862de1172</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div[4]/a</value>
+      <webElementGuid>1ba76e61-ec9d-488b-bc18-e4aece896b90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'id-ncp-lihat-detail' and @href = 'https://uat.auto2000.co.id/mobil-baru-toyota/p/agya' and (text() = 'LIHAT DETAIL' or . = 'LIHAT DETAIL')]</value>
+      <webElementGuid>87eddbf5-4398-4ec9-b07a-4211e439d4f4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

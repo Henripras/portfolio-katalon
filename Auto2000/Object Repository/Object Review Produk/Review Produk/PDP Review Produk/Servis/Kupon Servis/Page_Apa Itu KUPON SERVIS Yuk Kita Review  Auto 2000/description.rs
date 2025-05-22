@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>description</name>
+   <tag></tag>
+   <elementGuidId>f73bbf0f-aaab-4f8e-b203-4d6ff445e794</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='splide14-slide01']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1791354f-d8b9-4220-9cae-7e05b57d7e20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-[14px] leading-[20px] text-black90  break-words overflow-hidden text-[14px] text-[#000] md:text-base font-normal px-4 lg:px-0 md:px-4</value>
+      <webElementGuid>c866dbe4-3bbc-43fa-bc8b-aac9fcac33c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dengan membeli kupon ini, Auto Family akan mendapatkan rangkaian Ganti Oli dengan detail paket sebagai berikut : Jasa : • Jasa penggantian oli Produk/Sparepart : • Oli Mesin TMO Syn 10W-40SN kemasan 1L (sejumlah 3L) : pelumasan terbaik untuk mobil Auto Family • Toyota Oil Filter (15601-BZ030) : Berfungsi menyaring kotoran berupa campuran debu dan kotoran lain yang masuk ke dalam mobil Kupon Ganti Oli ini berlaku untuk mobil Toyota tipe : - Agya 1000 cc</value>
+      <webElementGuid>380c969d-2c5a-41ec-9bad-0b046a3f4bda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;splide14-slide01&quot;)/div[@class=&quot;text-[14px] leading-[20px] text-black90  break-words overflow-hidden text-[14px] text-[#000] md:text-base font-normal px-4 lg:px-0 md:px-4&quot;]</value>
+      <webElementGuid>c11502a0-62a0-4914-a599-3abe713d9b86</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='splide14-slide01']/div</value>
+      <webElementGuid>01ca042c-667b-4fe7-bdbb-e06ce8c19b7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div</value>
+      <webElementGuid>7733cf65-02c8-4d7e-980a-52cf5499d338</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Dengan membeli kupon ini, Auto Family akan mendapatkan rangkaian Ganti Oli dengan detail paket sebagai berikut : Jasa : • Jasa penggantian oli Produk/Sparepart : • Oli Mesin TMO Syn 10W-40SN kemasan 1L (sejumlah 3L) : pelumasan terbaik untuk mobil Auto Family • Toyota Oil Filter (15601-BZ030) : Berfungsi menyaring kotoran berupa campuran debu dan kotoran lain yang masuk ke dalam mobil Kupon Ganti Oli ini berlaku untuk mobil Toyota tipe : - Agya 1000 cc' or . = 'Dengan membeli kupon ini, Auto Family akan mendapatkan rangkaian Ganti Oli dengan detail paket sebagai berikut : Jasa : • Jasa penggantian oli Produk/Sparepart : • Oli Mesin TMO Syn 10W-40SN kemasan 1L (sejumlah 3L) : pelumasan terbaik untuk mobil Auto Family • Toyota Oil Filter (15601-BZ030) : Berfungsi menyaring kotoran berupa campuran debu dan kotoran lain yang masuk ke dalam mobil Kupon Ganti Oli ini berlaku untuk mobil Toyota tipe : - Agya 1000 cc')]</value>
+      <webElementGuid>22f36ed7-cb27-4742-a202-572210fc25fd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

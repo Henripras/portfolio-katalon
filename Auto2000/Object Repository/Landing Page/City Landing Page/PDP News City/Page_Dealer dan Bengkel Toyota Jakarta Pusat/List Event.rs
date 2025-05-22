@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>List Event</name>
+   <tag></tag>
+   <elementGuidId>030fcddb-b49c-4da5-b9ec-b4d3b3bcb692</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/section[4]/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2ebcdae5-a9ca-4cae-808e-3715b83108c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>grid grid-cols-2 md:grid-cols-2 lg:grid-cols-4 md:gap-6</value>
+      <webElementGuid>138d2553-7bd8-433d-a8e9-97ae8bcbb8c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Toyota Indonesia Hadirkan TOYOTA GAZOO Racing GT Cup 202110 Feb 2024Auto2000 Expo Digelar Akhir Pekan Ini dengan Sederet Promo Menarik10 Feb 2024</value>
+      <webElementGuid>2fd7ba4e-551d-4245-862d-7a681eeeb74d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;bg-white&quot;]/section[@class=&quot;py-6 border-t-4 lg:py-10&quot;]/div[@class=&quot;px-4 container&quot;]/div[@class=&quot;grid grid-cols-2 md:grid-cols-2 lg:grid-cols-4 md:gap-6&quot;]</value>
+      <webElementGuid>792d79fa-3a30-40bc-ac6d-4317ca0b9b13</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/section[4]/div/div[2]</value>
+      <webElementGuid>cb2c2b06-651f-4eaa-a125-1366bd29bc73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[4]/div/div[2]</value>
+      <webElementGuid>60c5a347-1fa4-4e1a-afef-9aa6528d8060</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Toyota Indonesia Hadirkan TOYOTA GAZOO Racing GT Cup 202110 Feb 2024Auto2000 Expo Digelar Akhir Pekan Ini dengan Sederet Promo Menarik10 Feb 2024' or . = 'Toyota Indonesia Hadirkan TOYOTA GAZOO Racing GT Cup 202110 Feb 2024Auto2000 Expo Digelar Akhir Pekan Ini dengan Sederet Promo Menarik10 Feb 2024')]</value>
+      <webElementGuid>6bd3636f-0c8a-47dc-9bbe-9e247c5e4ce1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

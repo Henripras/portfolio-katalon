@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_pb-8</name>
+   <tag></tag>
+   <elementGuidId>a327eacd-fcba-41df-9700-4a969c76a90a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='card-current-info-toyota-indonesia-hadirkan-toyota-gazoo-racing-gt-cup-2021']/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#card-current-info-toyota-indonesia-hadirkan-toyota-gazoo-racing-gt-cup-2021 > div.border.border-reliableBlack10.h-full > div.pb-8</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f51337af-59e9-491c-84e6-ab2d358aa038</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pb-8</value>
+      <webElementGuid>cf7115bf-6749-436c-a5af-ff01d433935a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;card-current-info-toyota-indonesia-hadirkan-toyota-gazoo-racing-gt-cup-2021&quot;)/div[@class=&quot;border border-reliableBlack10 h-full&quot;]/div[@class=&quot;pb-8&quot;]</value>
+      <webElementGuid>b31b52db-d3a9-4c81-82b1-ac6a884881f9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='card-current-info-toyota-indonesia-hadirkan-toyota-gazoo-racing-gt-cup-2021']/div/div</value>
+      <webElementGuid>e711c8da-e1ab-46fc-9b3c-7bfac2aeb4f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[4]/div/div[2]/a/div/div</value>
+      <webElementGuid>d8c01a18-251c-4e2f-9d5c-1a04835d01a4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

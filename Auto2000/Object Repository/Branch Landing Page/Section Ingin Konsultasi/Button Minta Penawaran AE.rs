@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button Minta Penawaran AE</name>
+   <tag></tag>
+   <elementGuidId>356e982b-a055-46da-9e89-583c13e18bee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;branch-offer-sales&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#splide11-slide03 > div > div.flex.flex-col.items-center.border.border-reliableBlack310.pt-5.pb-7.px-4 > #branch-offer-sales</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>679b4beb-4efc-42b3-9e06-92e2b522044a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>relative flex whitespace-nowrap justify-center items-center px-4 gap-x-1.5 font-semibold bg-white  h-[52px] text-base leading-[22px] rounded    border border-reliableBlack60 text-sm h-[50px] lg:h-[42px]</value>
+      <webElementGuid>13e57d70-9b27-4070-9d03-e99395b38dd5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>0d429e9f-569e-4789-92a6-08c79d000297</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>branch-offer-sales</value>
+      <webElementGuid>0f86b04c-3c78-40a2-800b-fa81c54fd277</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>sales card</value>
+      <webElementGuid>ee492939-7cc9-48ed-b0bc-cb45d78d958d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>MINTA PENAWARAN</value>
+      <webElementGuid>c94b46bd-60cc-4ad0-a874-0af2e96ada8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;splide11-slide03&quot;)/div[1]/div[@class=&quot;flex flex-col items-center border border-reliableBlack310 pt-5 pb-7 px-4&quot;]/button[@id=&quot;branch-offer-sales&quot;]</value>
+      <webElementGuid>2b4ba388-bf4e-4d56-8562-82030aea8390</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@id='branch-offer-sales'])[3]</value>
+      <webElementGuid>35db9b62-f11f-4767-a6b9-bee220cca88a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='splide11-slide03']/div/div/button</value>
+      <webElementGuid>f1b900d6-0868-40a5-be2a-d8ad95753405</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SANXXXXXTIE'])[1]/following::button[1]</value>
+      <webElementGuid>53659314-3357-4370-9b83-29c768fb369a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MINTA PENAWARAN'])[2]/following::button[1]</value>
+      <webElementGuid>bd0864b2-62f3-4f22-b2c5-e80c7097819a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='XXXXX'])[1]/preceding::button[1]</value>
+      <webElementGuid>e4bf92e3-348a-4cc6-9cc2-ce03cddc3122</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/div/div/button</value>
+      <webElementGuid>7d512765-ec17-4dc4-81c1-88f1e4bcf9d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and @id = 'branch-offer-sales' and (text() = 'MINTA PENAWARAN' or . = 'MINTA PENAWARAN')]</value>
+      <webElementGuid>245c99fb-f965-48f1-9ef0-77eecdfdbc09</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button Beli Mobil</name>
+   <tag></tag>
+   <elementGuidId>cdeace4c-98bb-48a6-a47c-b09f6379f90a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#id-beli-mobil > #id-beli-mobil</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='id-beli-mobil']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4a89fefd-08bf-4f02-a1f4-952f28f62583</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>id-beli-mobil</value>
+      <webElementGuid>415228fb-0143-4f5f-bceb-5d90a17bbd79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>relative flex whitespace-nowrap justify-center items-center px-4 gap-x-1.5 font-semibold bg-reliableBlack md:px-0 px-4 !text-[14px] w-full  h-[52px] text-base leading-[22px] rounded    text-white</value>
+      <webElementGuid>5d28f17f-8657-41a4-a87d-9bcb165b1ce1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>185732e2-00c4-4019-aa97-473e5a724f29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BELI MOBIL</value>
+      <webElementGuid>420789fd-002e-4307-9e5c-00fe1fe49daf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;bg-white&quot;]/section[@class=&quot;md:container !px-0 mb-[60px]&quot;]/div[@class=&quot;py-4 px-0&quot;]/div[@class=&quot;lg:flex gap-12 items-center&quot;]/div[4]/div[@class=&quot;md:px-0 px-4&quot;]/div[@class=&quot;flex flex-row gap-5&quot;]/a[@id=&quot;id-beli-mobil&quot;]/button[@id=&quot;id-beli-mobil&quot;]</value>
+      <webElementGuid>be485428-ef45-4299-968c-6a4a77e21ba6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='id-beli-mobil']</value>
+      <webElementGuid>2e697638-bd01-4742-a867-8a14267d290f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='id-beli-mobil']/button</value>
+      <webElementGuid>2fe601fe-aa9e-4c78-88d0-9f4555d2ce7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dapatkan informasi AGYA lengkap mulai dari harga OTR, Spesifikasi dan Promo'])[1]/following::button[1]</value>
+      <webElementGuid>7bf704d8-3db1-4c36-93c1-11ce2333ddbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TOYOTA AGYA 2024'])[1]/following::button[1]</value>
+      <webElementGuid>c28b920d-b6b5-407b-86a1-8d8276e321ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SIMULASI KREDIT'])[1]/preceding::button[1]</value>
+      <webElementGuid>ae622308-c1eb-446b-ab90-8caef934ac57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/button</value>
+      <webElementGuid>2a12a5c6-66c4-4b93-a750-637d53836e79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'id-beli-mobil' and @type = 'submit' and (text() = 'BELI MOBIL' or . = 'BELI MOBIL')]</value>
+      <webElementGuid>78f9ed1e-ec5c-474d-a26f-5c50612b06f0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

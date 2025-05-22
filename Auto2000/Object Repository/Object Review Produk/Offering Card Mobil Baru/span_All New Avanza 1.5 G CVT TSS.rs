@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_All New Avanza 1.5 G CVT TSS</name>
+   <tag></tag>
+   <elementGuidId>a25f9786-15d6-4a64-a136-4f262996b251</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='splide15-slide01']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4571143e-7e84-4b77-8eaa-e2cbe3ab1cc8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>px-4 lg:px-0 md:px-4 text-[14px] md:text-xl text-reliableBlack font-bold mb-2</value>
+      <webElementGuid>def90dbd-1f31-4fc4-97bb-253870f8c92d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>All New Avanza 1.5 G CVT TSS</value>
+      <webElementGuid>e63e5873-16be-4f36-b95c-68852d25d447</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;splide15-slide01&quot;)/span[@class=&quot;px-4 lg:px-0 md:px-4 text-[14px] md:text-xl text-reliableBlack font-bold mb-2&quot;]</value>
+      <webElementGuid>b125b252-d1f6-4431-bbbe-e842c207e14a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='splide15-slide01']/span</value>
+      <webElementGuid>b28ba472-7bb0-46ae-a39c-f5e7c4440773</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/ul/li/span</value>
+      <webElementGuid>1d7bebf6-1d7b-4a58-8a7c-f98c410110b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'All New Avanza 1.5 G CVT TSS' or . = 'All New Avanza 1.5 G CVT TSS')]</value>
+      <webElementGuid>a0043c53-1539-4b18-a17d-8719ae3abc46</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

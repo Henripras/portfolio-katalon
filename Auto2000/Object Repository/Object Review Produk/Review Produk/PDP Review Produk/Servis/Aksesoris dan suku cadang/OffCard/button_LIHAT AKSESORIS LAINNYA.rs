@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_LIHAT AKSESORIS LAINNYA</name>
+   <tag></tag>
+   <elementGuidId>8e920791-a288-4e12-90c6-1a50d6f1320b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='submit'])[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>6529cf95-f44a-44b8-ac37-9010ee414b65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>relative flex whitespace-nowrap justify-center items-center px-4 gap-x-1.5 font-semibold bg-reliableBlack90  h-[52px] text-base leading-[22px] rounded    text-white w-full mt-6</value>
+      <webElementGuid>43ff3ebf-e953-4981-90c1-7d011fde49e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>fc27b5b7-5797-4810-bf49-7c1e721d3249</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>LIHAT AKSESORIS LAINNYA</value>
+      <webElementGuid>89c0b7d8-f992-4bbb-b811-c61e4ff644e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;splide13-slide01&quot;)/div[@class=&quot;px-4 lg:px-0 md:px-4 pb-4&quot;]/button[@class=&quot;relative flex whitespace-nowrap justify-center items-center px-4 gap-x-1.5 font-semibold bg-reliableBlack90  h-[52px] text-base leading-[22px] rounded    text-white w-full mt-6&quot;]</value>
+      <webElementGuid>92c86e9c-cf3d-4912-808c-446938fd44fe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='submit'])[3]</value>
+      <webElementGuid>3ae97447-b5f8-40e3-a4ce-09a6763b5cb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='splide13-slide01']/div[3]/button</value>
+      <webElementGuid>cf6c49af-6497-4edf-98f2-d15878435763</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div[3]/button</value>
+      <webElementGuid>57cc5839-c24b-4d03-b727-a649fd6654fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'LIHAT AKSESORIS LAINNYA' or . = 'LIHAT AKSESORIS LAINNYA')]</value>
+      <webElementGuid>0874d572-ef13-4020-bb84-d653b9c402eb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

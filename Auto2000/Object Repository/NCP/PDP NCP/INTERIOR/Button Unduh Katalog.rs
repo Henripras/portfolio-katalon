@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button Unduh Katalog</name>
+   <tag></tag>
+   <elementGuidId>c1e42e50-7f6f-4c3b-b222-9f1e21b07495</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#id-unduh-katalog</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='id-unduh-katalog']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b585cb17-0fae-4598-bd30-8c9e608156a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>id-unduh-katalog</value>
+      <webElementGuid>2c7b34c7-c8c9-474f-a137-55d68b16c6f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cursor-pointer rounded relative flex whitespace-nowrap justify-center items-center  gap-x-1.5 font-semibold !bg-reliableBlack5 md:px-0 px-4 !text-[14px] lg:w-1/3 w-1/2 text-black</value>
+      <webElementGuid>c0f5f0b0-57bc-48e9-b49e-89cd4a63f667</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>UNDUH KATALOG</value>
+      <webElementGuid>4dd1c6f1-5e29-4b52-a51e-1dea4c8b2efa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;id-unduh-katalog&quot;)</value>
+      <webElementGuid>915bea87-15e6-46ba-985c-26d226495247</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='id-unduh-katalog']</value>
+      <webElementGuid>8e7e4932-bc72-407b-a51d-d48e96dbadd1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/section[2]/div/div[3]/div[2]/div[2]/div/div</value>
+      <webElementGuid>8fc0b31d-bbb7-473e-939a-b476a33e50cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih'])[1]/following::div[9]</value>
+      <webElementGuid>11f0b848-ef19-4de1-8b94-04f095e67aee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HUBUNGI ACCOUNT EXECUTIVE KAMI'])[1]/following::div[10]</value>
+      <webElementGuid>8eb6b6f0-ecb6-41d4-b9de-a5253d7ba053</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SIMULASI KREDIT'])[1]/preceding::div[1]</value>
+      <webElementGuid>17f9bcfd-7546-4d45-87d5-2f7696591fd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div[2]/div/div</value>
+      <webElementGuid>6c4ba73c-f73e-4463-b61a-9754cee46538</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'id-unduh-katalog' and (text() = 'UNDUH KATALOG' or . = 'UNDUH KATALOG')]</value>
+      <webElementGuid>a69c9195-b0ec-4545-ae3e-4bc714134f5f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

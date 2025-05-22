@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Rp. 2.500.000</name>
+   <tag></tag>
+   <elementGuidId>9038e66a-dc85-47b9-96ba-124ea7377f0c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.text-base.text-supportiveRed.font-bold.mb-3</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='splide19-slide01']/div/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>3d0e6d6c-1636-4624-b060-17b268ebc41d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-base text-supportiveRed font-bold mb-3</value>
+      <webElementGuid>d6cad735-4940-4e29-9713-78780029e597</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Rp. 2.500.000</value>
+      <webElementGuid>cc99d3cb-05d3-4620-99d1-da404419bd3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;splide19-slide01&quot;)/div[@class=&quot;flex flex-col justify-between  px-4 lg:px-0 md:px-4&quot;]/div[@class=&quot;flex flex-row items-center&quot;]/p[@class=&quot;text-base text-supportiveRed font-bold mb-3&quot;]</value>
+      <webElementGuid>9a3b57fc-e0f9-4ff9-917f-04012d41acc3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='splide19-slide01']/div/div/p</value>
+      <webElementGuid>4264ab94-7396-4758-a8b7-ff629c00d891</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/div/p</value>
+      <webElementGuid>8de483b5-c751-4a0a-be39-f21553f0b2a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Rp. 2.500.000' or . = 'Rp. 2.500.000')]</value>
+      <webElementGuid>2f5fa42d-5f7d-40f3-8e5e-c153784f586c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

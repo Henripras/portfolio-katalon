@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>pdpCard</name>
+   <tag></tag>
+   <elementGuidId>cf713696-cc17-48b2-8861-61427841e175</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[contains(@class, 'flex') and contains(@class, 'justify-start') and contains(@class, 'pt-2') and contains(@class, 'px-4') and contains(@class, 'pb-4')])[2]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@src = 'https://astradigitaldigiroomprd.blob.core.windows.net/storage-prd-001/pick%20up%20niaga.jpg?sp=racwdli&amp;st=2023-12-07T06:41:56Z&amp;se=2024-12-07T14:41:56Z&amp;sv=2022-11-02&amp;sr=c&amp;sig=mjlbObk2%2FW2GezR3GDeAC98hEXoErtTbOWz6L0e8QJo%3D' and @alt = 'pick up niaga.jpg']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>7432ec28-0722-4031-ab4b-0614acbfe503</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-[124px] h-[70px] md:w-[177.77px] md:h-[100px] object-cover aspect-video</value>
+      <webElementGuid>34af92aa-25d1-40e3-b4de-f9313d8b762f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://astradigitaldigiroomprd.blob.core.windows.net/storage-prd-001/pick%20up%20niaga.jpg?sp=racwdli&amp;st=2023-12-07T06:41:56Z&amp;se=2024-12-07T14:41:56Z&amp;sv=2022-11-02&amp;sr=c&amp;sig=mjlbObk2%2FW2GezR3GDeAC98hEXoErtTbOWz6L0e8QJo%3D</value>
+      <webElementGuid>4c25ad6d-6397-4de7-aae9-b085469fa3e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>pick up niaga.jpg</value>
+      <webElementGuid>c405e603-6bef-484a-a2da-79ca49bb387f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;card-news-pick-up-niaga&quot;)/div[@class=&quot;border-b-[1px] border-[#E9E9E9] lg:-mt-8&quot;]/div[@class=&quot;flex justify-start md:gap-3 gap-[10px] pt-2 px-4 pb-4&quot;]/img[@class=&quot;w-[124px] h-[70px] md:w-[177.77px] md:h-[100px] object-cover aspect-video&quot;]</value>
+      <webElementGuid>0c2a1bd9-fa3e-4390-bccb-51014e3abea0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='card-news-pick-up-niaga']/div/div[2]/img</value>
+      <webElementGuid>a13cfa5e-a655-40a3-a5cf-494a15e6cc41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='pick up niaga.jpg']</value>
+      <webElementGuid>d7f800e2-f137-4750-8aea-28452f840441</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/img</value>
+      <webElementGuid>75591e44-b3ab-4279-9689-b80d713b6f91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://astradigitaldigiroomprd.blob.core.windows.net/storage-prd-001/pick%20up%20niaga.jpg?sp=racwdli&amp;st=2023-12-07T06:41:56Z&amp;se=2024-12-07T14:41:56Z&amp;sv=2022-11-02&amp;sr=c&amp;sig=mjlbObk2%2FW2GezR3GDeAC98hEXoErtTbOWz6L0e8QJo%3D' and @alt = 'pick up niaga.jpg']</value>
+      <webElementGuid>11aada50-250e-451b-8264-3fe81ffe9963</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

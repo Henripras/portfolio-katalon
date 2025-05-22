@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Inline message error</name>
+   <tag></tag>
+   <elementGuidId>c09a8d77-1dcd-4238-82b5-5a3deb8f735c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='branch-input-phone-number-plp']/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>0533a2e8-91f0-4b6f-88d1-2a3edb7355ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>container px-0 text-xs font-normal text-supportiveRed my-2 lg:text-sm</value>
+      <webElementGuid>78bbff3d-498f-40ec-9d81-7ab9c2bef686</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mohon Masukkan Nomor Handphone Yang Valid</value>
+      <webElementGuid>29595cc7-bcbc-433a-8d1b-5dff14e3aa5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;bg-white&quot;]/div[@class=&quot;opacity-100 duration-300 ease-in-out fixed w-[100vw] h-[100vh] z-[70] top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 bg-opacity-30 bg-black&quot;]/div[@class=&quot;false duration-300 ease-in-out flex flex-col absolute bg-white rounded top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 w-[622px]&quot;]/div[@class=&quot;overflow-auto p-6 max-h-[80vh]&quot;]/div[1]/form[@class=&quot;container xl:px-0&quot;]/div[@class=&quot;grid grid-cols-1 gap-[18px] lg:grid-cols-2 lg:gap-6 lg:gap-x-3 lg:gap-y-5&quot;]/div[@id=&quot;branch-input-phone-number-plp&quot;]/p[@class=&quot;container px-0 text-xs font-normal text-supportiveRed my-2 lg:text-sm&quot;]</value>
+      <webElementGuid>4f5dce1b-154e-40b9-8c6a-1b35110a2d8c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='branch-input-phone-number-plp']/p</value>
+      <webElementGuid>62dbb00a-d66d-4341-9ad0-d010af96e8e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/form/div/div[2]/p</value>
+      <webElementGuid>a9528064-5eed-440a-bdd6-2b1ca9579ed8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Mohon Masukkan Nomor Handphone Yang Valid' or . = 'Mohon Masukkan Nomor Handphone Yang Valid')]</value>
+      <webElementGuid>54ea1447-1bbf-4dfe-ac93-385b62cb0d70</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

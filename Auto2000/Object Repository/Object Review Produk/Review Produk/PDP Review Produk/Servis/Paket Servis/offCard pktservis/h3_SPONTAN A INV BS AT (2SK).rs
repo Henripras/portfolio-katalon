@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_SPONTAN A INV BS AT (2SK)</name>
+   <tag></tag>
+   <elementGuidId>e1aab0df-a485-4994-963c-3f364eb7f958</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='splide19-slide01']/h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>c8c6f420-daae-4c4e-a5aa-0c3da4656336</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>px-4 lg:px-0 md:px-4 text-[14px] md:text-xl text-reliableBlack font-bold mb-2</value>
+      <webElementGuid>84ca9eae-77a3-4d6f-8125-9404c587492a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SPONTAN A INV BS AT (2SK)</value>
+      <webElementGuid>39c075b8-7b46-4ced-b7c3-d2a0bf7582e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;splide19-slide01&quot;)/h3[@class=&quot;px-4 lg:px-0 md:px-4 text-[14px] md:text-xl text-reliableBlack font-bold mb-2&quot;]</value>
+      <webElementGuid>7d40bf33-e059-4cbe-b76d-013048c9cd5c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='splide19-slide01']/h3</value>
+      <webElementGuid>d43444ff-f04a-4ef2-894e-c12629edf97e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>a8cfaa5c-de72-4d1d-9312-36b26c71e53b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'SPONTAN A INV BS AT (2SK)' or . = 'SPONTAN A INV BS AT (2SK)')]</value>
+      <webElementGuid>0bb72d22-1523-4139-abc4-be639ba15ab4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

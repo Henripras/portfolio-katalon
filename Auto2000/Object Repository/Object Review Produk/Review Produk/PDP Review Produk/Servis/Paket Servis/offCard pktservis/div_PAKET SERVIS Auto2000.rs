@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_PAKET SERVIS Auto2000</name>
+   <tag></tag>
+   <elementGuidId>a37ff8a3-edbf-426d-a975-90a4b0ef0237</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div[5]/div/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9ab15d44-0843-422c-a783-38643a6ad656</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-[14px] leading-[20px] font-semibold text-black90  break-words overflow-hidden mb-4 lg:text-xl lg</value>
+      <webElementGuid>1dfed07c-f233-490b-8e84-813c7ed9a164</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>PAKET SERVIS Auto2000</value>
+      <webElementGuid>af701809-fa88-440c-8bb5-fc1a5fc85757</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;bg-white&quot;]/div[@class=&quot;lg:container xl:px-0&quot;]/div[@class=&quot;grid grid-cols-1 md:gap-6 lg:grid-cols-[2fr_1fr]&quot;]/div[@class=&quot;container lg:p-0 my-4 max-w-lg md:mt-8 sm:max-w-sm&quot;]/div[@class=&quot;variant-accsesoris&quot;]/div[@class=&quot;text-[14px] leading-[20px] font-semibold text-black90  break-words overflow-hidden mb-4 lg:text-xl lg&quot;]</value>
+      <webElementGuid>aa939a64-ce29-4c1f-bbc4-8575aa4abd13</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[5]/div/div[2]/div/div</value>
+      <webElementGuid>0c10e95f-8ce8-4367-8ef8-427b9bb4140c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div[2]/div/div</value>
+      <webElementGuid>47871591-be5c-416d-953c-a00d462fa833</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'PAKET SERVIS Auto2000' or . = 'PAKET SERVIS Auto2000')]</value>
+      <webElementGuid>de4c06eb-6fee-415f-8c00-c6eb2dcbd4c6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

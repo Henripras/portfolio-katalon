@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button Next</name>
+   <tag></tag>
+   <elementGuidId>77bdad38-1a89-4600-8b1b-a9161357e40d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[normalize-space()='Selanjutnya']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7dd3b5e3-f65a-4c55-9ec9-bdf831e51028</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex-1 h-12 lg:h-24 bg-reliableBlack mb-12 uppercase flex items-center justify-center text-center text-white text-xs lg:text-xl font-bold transition-colors hover:text-slate-400  hover:cursor-pointer</value>
+      <webElementGuid>0a139085-cee4-4e64-adae-c15f3aec0b0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://sit.auto2000.co.id/mobil-baru-toyota/p/agya/interior</value>
+      <webElementGuid>fbd2c74d-73de-411e-aad5-04fedfd5b4f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Selanjutnya </value>
+      <webElementGuid>3e5d538a-0dee-46e4-823f-f3758a0a1758</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;bg-white&quot;]/div[@class=&quot;flex mt-[60px]&quot;]/a[@class=&quot;flex-1 h-12 lg:h-24 bg-reliableBlack mb-12 uppercase flex items-center justify-center text-center text-white text-xs lg:text-xl font-bold transition-colors hover:text-slate-400  hover:cursor-pointer&quot;]</value>
+      <webElementGuid>e5590f0b-438d-4a13-b8db-6ade23a8c2c7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[3]/a[2]</value>
+      <webElementGuid>98344cd1-23f8-4016-bc21-8b8b102edc55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Selanjutnya')]</value>
+      <webElementGuid>b431a793-f69a-478e-9bbe-a0a04d2df25f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sebelumnya'])[1]/following::a[1]</value>
+      <webElementGuid>6e92fb76-1338-44e8-8f30-681715479ccb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='INFORMASI TOYOTA AGYA'])[1]/following::a[2]</value>
+      <webElementGuid>a62495a1-49ca-43ad-b029-832f239bca6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Minta Penawaran'])[1]/preceding::a[1]</value>
+      <webElementGuid>5a3de90f-9ca1-44e0-b12f-864c80fd43a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hubungi Kami'])[2]/preceding::a[1]</value>
+      <webElementGuid>350b265e-3e18-4428-99cf-a3519dac3bfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Selanjutnya']/parent::*</value>
+      <webElementGuid>301bc6e1-5a17-49ae-aec5-86647d1301b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://sit.auto2000.co.id/mobil-baru-toyota/p/agya/interior')])[2]</value>
+      <webElementGuid>bec92205-00a5-4278-9478-b7fd62f3034d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a[2]</value>
+      <webElementGuid>a097b0c7-cd03-4967-af17-85fec6dea738</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://sit.auto2000.co.id/mobil-baru-toyota/p/agya/interior' and (text() = 'Selanjutnya ' or . = 'Selanjutnya ')]</value>
+      <webElementGuid>e55eabd8-0825-4ccd-8165-134a932d6505</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

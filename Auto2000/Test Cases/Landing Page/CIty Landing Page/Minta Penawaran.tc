@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Minta Penawaran</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8770e547-472a-4d67-a3f5-d6cfd73a972b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1a5e8cc1-a67e-4303-8b66-388915ce6160</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'https://sit.auto2000.co.id/dealer-toyota'</defaultValue>
+      <description></description>
+      <id>1a5e8cc1-a67e-4303-8b66-388915ce6160</id>
+      <masked>false</masked>
+      <name>UAT</name>
+   </variable>
+</TestCaseEntity>

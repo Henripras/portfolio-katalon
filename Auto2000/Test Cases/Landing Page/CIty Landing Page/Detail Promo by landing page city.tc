@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Detail Promo by landing page city</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>531eac08-85b1-47a9-bc1f-a0666b02a3f8</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e811ec2a-f267-49ac-9933-ec16a9807ff7</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'https://uat.auto2000.co.id/dealer-toyota'</defaultValue>
+      <description></description>
+      <id>e811ec2a-f267-49ac-9933-ec16a9807ff7</id>
+      <masked>false</masked>
+      <name>UAT</name>
+   </variable>
+</TestCaseEntity>

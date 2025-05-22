@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>line</name>
+   <tag></tag>
+   <elementGuidId>d26b625e-7e7a-42ca-9d9a-338e8260a573</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.absolute.right-2.text-red-500 > svg > line:nth-of-type(2)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>line</value>
+      <webElementGuid>b62b19ab-99eb-4648-a0dd-cbb13614cad1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>x1</name>
+      <type>Main</type>
+      <value>6</value>
+      <webElementGuid>ce950d3e-6b7c-4199-a568-b423b160557c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>y1</name>
+      <type>Main</type>
+      <value>6</value>
+      <webElementGuid>135f4cde-1c01-467b-b54f-b7f5f1a1191e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>x2</name>
+      <type>Main</type>
+      <value>18</value>
+      <webElementGuid>893e9d0a-2542-40ce-8f4c-b26da06cd274</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>y2</name>
+      <type>Main</type>
+      <value>18</value>
+      <webElementGuid>63c52e6c-3692-4cea-8518-516555759b66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;bg-white&quot;]/div[@class=&quot;opacity-100 duration-300 ease-in-out fixed w-[100vw] h-[100vh] z-[70] top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 bg-opacity-30 bg-black&quot;]/div[@class=&quot;false duration-300 ease-in-out flex flex-col absolute bg-white rounded top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 w-[622px]&quot;]/div[@class=&quot;overflow-auto p-6 max-h-[80vh]&quot;]/form[@class=&quot;w-full h-full&quot;]/div[@class=&quot;mb-[18px] lg:mb-5&quot;]/div[@class=&quot;relative w-full&quot;]/div[@class=&quot;flex items-center cursor-pointer&quot;]/span[@class=&quot;absolute right-2 text-red-500&quot;]/svg[1]/line[2]</value>
+      <webElementGuid>5fa29e5a-ba3d-4965-8ea4-2a88e8faa203</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Facebook</name>
+   <tag></tag>
+   <elementGuidId>3b16cdab-507a-43f1-b1a5-9b6225ca868a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(@id, 'btn-share-facebook')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#btn-share-x > svg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>aa7fbde9-8fee-4318-b697-e2615d1bebec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>23</value>
+      <webElementGuid>e6a20a76-81d0-4194-826d-ab9f416c00f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>23</value>
+      <webElementGuid>69f369c6-95c9-4b0d-aa79-14e306f488cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 39 36</value>
+      <webElementGuid>1d89f869-24b5-4cd8-8694-85829647443b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>b9e6c282-16b3-4b5d-98ac-67013dad0d65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>ef18508c-88fa-4241-8277-634d36f2a158</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;btn-share-x&quot;)/svg[1]</value>
+      <webElementGuid>d7ffd7e6-aa45-413d-b267-5f445d6cf299</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bagikan'])[1]/following::*[name()='svg'][4]</value>
+      <webElementGuid>80aa5240-f5b2-4492-96fc-4b48997574d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='sporty'])[2]/following::*[name()='svg'][4]</value>
+      <webElementGuid>8a172243-c36c-45b8-b095-435b6cb07157</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Harga Toyota Vellfire 2023'])[1]/preceding::*[name()='svg'][3]</value>
+      <webElementGuid>1994dae9-db1d-49ce-89d9-a454662dd2e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Desain Eksterior Toyota New Vellfire'])[1]/preceding::*[name()='svg'][3]</value>
+      <webElementGuid>71a4eb30-42f4-435b-bdd5-62725333707e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

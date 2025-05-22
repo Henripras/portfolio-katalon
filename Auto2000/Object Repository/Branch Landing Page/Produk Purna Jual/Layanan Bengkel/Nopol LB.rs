@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Nopol LB</name>
+   <tag></tag>
+   <elementGuidId>fa2d0075-7ff0-470b-9028-666d18a1b8b4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@placeholder='Nomor Polisi']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>ad43e15a-216c-4dd8-a947-1b8bdef4c2d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Nomor Polisi</value>
+      <webElementGuid>5c59b85f-2ca2-4c25-96d1-f5de91f9ea40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>fafedef8-56ab-4bc4-ae05-12b4513802f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full outline-none bg-reliableBlack3 bg-reliableBlack3 text-reliableBlack border-b border-reliableBlack30 placeholder:text-reliableBlack60 focus:border-reliableBlack60 false w-full px-4 py-2 lg:px-5 lg:py-4 max-h-[30px] lg:max-h-[40px] text-base lg:text-base leading-4 px-5 py-3.5 bg-reliableBlack3 border-[#5F5F5F] max-h-fit lg:max-h-fit focus:border-reliableBlack undefined  focus:outline-none</value>
+      <webElementGuid>f4ff6033-a66b-46ba-a2a3-5842ca4aa4a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;bg-white&quot;]/div[@class=&quot;relative&quot;]/section[@class=&quot;my-8 container lg:px-0&quot;]/div[@class=&quot;opacity-100 duration-300 ease-in-out fixed w-[100vw] h-[100vh] z-[70] top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 bg-opacity-30 bg-black&quot;]/div[@class=&quot;false duration-300 ease-in-out flex flex-col absolute bg-white rounded top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 w-[622px]&quot;]/div[@class=&quot;overflow-auto p-6 max-h-[80vh]&quot;]/form[1]/div[@class=&quot;grid grid-cols-1 gap-[18px] lg:pb-0 lg:grid-cols-2 lg:gap-x-3 lg:gap-y-5 pb-48&quot;]/div[5]/div[1]/div[@class=&quot;relative&quot;]/div[@class=&quot;relative mt-2  flex justify-between&quot;]/input[@class=&quot;w-full outline-none bg-reliableBlack3 bg-reliableBlack3 text-reliableBlack border-b border-reliableBlack30 placeholder:text-reliableBlack60 focus:border-reliableBlack60 false w-full px-4 py-2 lg:px-5 lg:py-4 max-h-[30px] lg:max-h-[40px] text-base lg:text-base leading-4 px-5 py-3.5 bg-reliableBlack3 border-[#5F5F5F] max-h-fit lg:max-h-fit focus:border-reliableBlack undefined  focus:outline-none&quot;]</value>
+      <webElementGuid>cdde3d52-299a-4ec6-ac48-e670904631e1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@value=''])[6]</value>
+      <webElementGuid>a43d6835-5c3d-4883-8224-8632a134273a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[2]/section[4]/div[2]/div/div[2]/form/div/div[5]/div/div/div/input</value>
+      <webElementGuid>2f9dade4-b0d2-407c-8c26-0b1249075e7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/input</value>
+      <webElementGuid>0257ca60-0faa-4c92-bd79-217e81bb58fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Nomor Polisi' and @type = 'text']</value>
+      <webElementGuid>997fa51b-2db4-422a-96f0-990e935c0992</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button THS</name>
+   <tag></tag>
+   <elementGuidId>5d318ffe-a7cc-4e1c-ba86-9c30adef2f75</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='branch-purna-jual']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#branch-purna-jual</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ca20adda-8b9e-4c7c-9fcd-0bc63adb0274</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>branch-purna-jual</value>
+      <webElementGuid>373a7d48-9b67-42b1-ac7e-c49128906b6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex items-center gap-4</value>
+      <webElementGuid>3aec0729-b285-403f-aed2-6ea0b87d9a85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://uat.auto2000.co.id/ths-home-service</value>
+      <webElementGuid>0eefed43-00b0-4d34-ba9e-4cbd5900be34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>PESAN SEKARANG</value>
+      <webElementGuid>a10c37bd-da55-4c63-a8d9-24c34903483b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;bg-white&quot;]/div[@class=&quot;relative&quot;]/section[@class=&quot;my-8 container lg:px-0&quot;]/div[1]/div[@class=&quot;grid grid-cols-1 md:grid-cols-3 lg:grid-cols-3 md:gap-6&quot;]/div[@class=&quot;flex flex-row justify-between gap-7 border-b pt-4 pb-[18px]&quot;]/div[@class=&quot;flex flex-col gap-2&quot;]/a[@id=&quot;branch-purna-jual&quot;]</value>
+      <webElementGuid>f3e360b5-8708-4e96-9113-e20eeb34f6a7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='branch-purna-jual']</value>
+      <webElementGuid>3d41135e-267f-45e5-8531-801d7fd9300c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[2]/section[4]/div/div[2]/div/div/a</value>
+      <webElementGuid>a5986df6-3762-43c7-a155-c11a2cf1276a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Layanan purna jual yang menyediakan jasa perbaikan berupa servis perawatan berkala'])[1]/following::a[1]</value>
+      <webElementGuid>f7ef0cca-f090-49c7-aa26-3518d0d024f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Toyota Home Service'])[1]/following::a[1]</value>
+      <webElementGuid>e4cacc80-941b-4238-9ed5-403d1cd0146c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aksesoris'])[2]/preceding::a[1]</value>
+      <webElementGuid>08647381-b041-4a83-a4fe-d9f1201cc770</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://uat.auto2000.co.id/ths-home-service')]</value>
+      <webElementGuid>2cc10e20-1345-40a6-ac71-92ebdc543fcf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[4]/div/div[2]/div/div/a</value>
+      <webElementGuid>87301cbb-e03d-4577-9aaf-c691b7b25578</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'branch-purna-jual' and @href = 'https://uat.auto2000.co.id/ths-home-service' and (text() = 'PESAN SEKARANG' or . = 'PESAN SEKARANG')]</value>
+      <webElementGuid>7d61fc54-25e1-42ad-af32-1cec227f6406</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Hubungi Kami</name>
+   <tag></tag>
+   <elementGuidId>1d5252e4-4519-4e83-ad96-b0b8ad020330</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#hubungi-kami</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='hubungi-kami']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b60c9870-c336-4a2c-b431-57e0a1ad4694</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>hubungi-kami</value>
+      <webElementGuid>34e98db4-5573-4563-836a-6f239fd997b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex lg:p-4 lg:gap-2 items-center justify-center cursor-pointer w-full flex-col lg:flex-row btn-tertiary-white</value>
+      <webElementGuid>a4f645af-8152-4ef0-b5e8-e9a6b7c1df68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hubungi Kami</value>
+      <webElementGuid>a11226a4-c494-4179-9753-a17e9de20d26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hubungi-kami&quot;)</value>
+      <webElementGuid>25d6d07d-d3b9-46a0-b11c-13804c6c4644</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='hubungi-kami']</value>
+      <webElementGuid>1d884df9-668c-4c2b-9063-de8f76ed8944</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[7]/div/div[3]/a/div</value>
+      <webElementGuid>7899d436-a249-45ca-8f2b-c7c0acb17d8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Minta Penawaran'])[1]/following::div[3]</value>
+      <webElementGuid>5f18bc58-c804-4de3-a802-50f2db27b10a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selanjutnya'])[1]/following::div[8]</value>
+      <webElementGuid>0c014918-c8a5-434b-8d5a-3062e5d79581</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bandingkan'])[1]/preceding::div[3]</value>
+      <webElementGuid>50057508-08e5-4700-a810-2a4244fcaae6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div[3]/a/div</value>
+      <webElementGuid>9a01b425-1fe2-4a75-8cf9-a17fc3e3ccba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'hubungi-kami' and (text() = 'Hubungi Kami' or . = 'Hubungi Kami')]</value>
+      <webElementGuid>2a18a1f9-79e1-4288-9552-e83b1c7529d8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

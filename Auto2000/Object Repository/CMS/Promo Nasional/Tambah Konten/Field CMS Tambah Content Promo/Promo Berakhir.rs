@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Promo Berakhir</name>
+   <tag></tag>
+   <elementGuidId>7f14e36b-121e-4481-bd27-cb11dddf4210</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.react-datepicker</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div[2]/div/div[2]/div/div/div/form/div/div[2]/div[3]/div[2]/div/div/div[2]/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Next MonthJuly 2024SuMoTuWeThFrSa30123456789101112131415161718192021222324252627&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f51b7392-746f-42d9-a04c-2dbcec121b89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>react-datepicker</value>
+      <webElementGuid>d8f9e60e-3431-4433-8cda-fa01bddb32be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Next MonthJuly 2024SuMoTuWeThFrSa3012345678910111213141516171819202122232425262728293031123Time00:0000:3001:0001:3002:0002:3003:0003:3004:0004:3005:0005:3006:0006:3007:0007:3008:0008:3009:0009:3010:0010:3011:0011:3012:0012:3013:0013:3014:0014:3015:0015:3016:0016:3017:0017:3018:0018:3019:0019:3020:0020:3021:0021:3022:0022:3023:0023:30</value>
+      <webElementGuid>4b53c9e0-0b11-427a-90ee-86c8534b717e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;relative&quot;]/div[@class=&quot;bg-gray-100 text-gray-800&quot;]/div[@class=&quot;container relative&quot;]/div[2]/div[1]/div[1]/div[@class=&quot;px-12 gap-2&quot;]/form[1]/div[@class=&quot;mb-6 bg-white p-12 w-full relative&quot;]/div[2]/div[@class=&quot;flex flex-row justify-between items-center w-full gap-4&quot;]/div[@class=&quot;w-full&quot;]/div[1]/div[1]/div[@class=&quot;react-datepicker__tab-loop&quot;]/div[@class=&quot;react-datepicker-popper&quot;]/div[1]/div[@class=&quot;react-datepicker&quot;]</value>
+      <webElementGuid>60cd26a4-f647-49e9-8cde-25eddefcaa0e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[2]/div/div[2]/div/div/div/form/div/div[2]/div[3]/div[2]/div/div/div[2]/div[2]/div/div</value>
+      <webElementGuid>a9b04e18-d186-4c95-ba21-b636485dd596</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DD/MM/YYYY --:-- --'])[1]/following::div[5]</value>
+      <webElementGuid>89d23e58-c2e3-4a70-b7eb-090aea4841bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/following::div[10]</value>
+      <webElementGuid>0048a73d-833c-424e-a9cc-d9d843012499</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/div[2]/div/div</value>
+      <webElementGuid>a3aca867-3729-4137-a0e2-355df16f07e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Next MonthJuly 2024SuMoTuWeThFrSa3012345678910111213141516171819202122232425262728293031123Time00:0000:3001:0001:3002:0002:3003:0003:3004:0004:3005:0005:3006:0006:3007:0007:3008:0008:3009:0009:3010:0010:3011:0011:3012:0012:3013:0013:3014:0014:3015:0015:3016:0016:3017:0017:3018:0018:3019:0019:3020:0020:3021:0021:3022:0022:3023:0023:30' or . = 'Next MonthJuly 2024SuMoTuWeThFrSa3012345678910111213141516171819202122232425262728293031123Time00:0000:3001:0001:3002:0002:3003:0003:3004:0004:3005:0005:3006:0006:3007:0007:3008:0008:3009:0009:3010:0010:3011:0011:3012:0012:3013:0013:3014:0014:3015:0015:3016:0016:3017:0017:3018:0018:3019:0019:3020:0020:3021:0021:3022:0022:3023:0023:30')]</value>
+      <webElementGuid>de269a1a-70e3-4746-b461-0a1c8e0db977</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

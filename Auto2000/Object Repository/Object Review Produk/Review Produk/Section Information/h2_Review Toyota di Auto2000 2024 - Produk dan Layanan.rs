@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Review Toyota di Auto2000 2024 - Produk dan Layanan</name>
+   <tag></tag>
+   <elementGuidId>e033e43c-186b-4dd9-9926-773062946a29</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/section[2]/div/h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>529ea7d2-a4e3-41e8-9193-7697e8d7026f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-base font-bold text-reliableBlack uppercase mb-4 lg:text-2xl lg:mb-2</value>
+      <webElementGuid>326c771c-caac-483d-86c9-bea473ea6cf4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Review Toyota di Auto2000 2024 - Produk dan Layanan</value>
+      <webElementGuid>fbe04e03-36bb-4d54-9ad8-34e0f40350d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;bg-white&quot;]/section[@class=&quot;my-10 lg:my-20&quot;]/div[@class=&quot;container xl:px-0&quot;]/h2[@class=&quot;text-base font-bold text-reliableBlack uppercase mb-4 lg:text-2xl lg:mb-2&quot;]</value>
+      <webElementGuid>afcb3cbd-71cc-4c89-9f96-1acc6ae16b33</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/section[2]/div/h2</value>
+      <webElementGuid>691348ff-cdfc-450d-9a0a-f7426c90436c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>97c5f8e8-59b4-47a0-ba43-932d49348702</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Review Toyota di Auto2000 2024 - Produk dan Layanan' or . = 'Review Toyota di Auto2000 2024 - Produk dan Layanan')]</value>
+      <webElementGuid>4c9b885c-304f-437c-abea-c4fd4b693995</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

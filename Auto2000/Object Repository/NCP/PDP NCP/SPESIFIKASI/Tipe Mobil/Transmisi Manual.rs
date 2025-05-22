@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Transmisi Manual</name>
+   <tag></tag>
+   <elementGuidId>7c1047d7-bc4e-4086-8198-2f15d90988cc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[text()='Manual']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>a41b8835-f6a6-4507-adea-0384900091c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>2257ae02-9bac-4fe3-9d27-003c2ffb62a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>block text-[14px] uppercase cursor-pointer select-none rounded-[4px] p-2 text-center peer-checked:bg-[#231F20] peer-checked:text-600 peer-checked:text-white</value>
+      <webElementGuid>8ff14e90-548a-4d0a-bca6-7514939f3704</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Manual</value>
+      <webElementGuid>087a8631-3c0b-4af4-9d1c-33cd08fef773</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;bg-white&quot;]/section[@class=&quot;md:container !px-0 mb-[60px]&quot;]/div[@class=&quot;py-4 px-0&quot;]/div[@class=&quot;opacity-100 duration-300 ease-in-out fixed w-[100vw] h-[100vh] z-[70] top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 bg-opacity-30 bg-black&quot;]/div[@class=&quot;false duration-300 ease-in-out flex flex-col absolute bg-white rounded top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2&quot;]/div[@class=&quot;overflow-auto px-6 py-6 w-[622px]&quot;]/div[@class=&quot;overflow-y-auto max-h-[500px]&quot;]/section[@class=&quot;mx-auto md:mb-0 mb-4 md:mt-0 mt-3&quot;]/div[@class=&quot;px-4 md:px-0&quot;]/div[@class=&quot;md:max-w-[456px] mx-auto md:mb-0 mb-4 md:mt-0 mt-3&quot;]/div[@class=&quot;md:w-[456px] grid grid-cols-2 gap-2 rounded-[8px] bg-[#F4F4F4] p-2 md:mb-8 mb-1&quot;]/div[2]/label[@class=&quot;block text-[14px] uppercase cursor-pointer select-none rounded-[4px] p-2 text-center peer-checked:bg-[#231F20] peer-checked:text-600 peer-checked:text-white&quot;]</value>
+      <webElementGuid>8a06fbf2-9566-412d-9d47-156cd2ba49f2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/section[2]/div/div[2]/div/div[2]/div/section/div/div/div[2]/div[2]/label</value>
+      <webElementGuid>3fc5b85b-b14a-448c-b593-95b38964863b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Otomatis'])[1]/following::label[1]</value>
+      <webElementGuid>843aeedf-96b4-49f6-a3d7-ef6f1f8619d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih Transmisi'])[1]/following::label[2]</value>
+      <webElementGuid>f8b3d21f-9fb8-4388-9c6b-a8a1e12c6624</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NEW AGYA 1.2 G A/T'])[1]/preceding::label[1]</value>
+      <webElementGuid>d28dc3ab-676c-460d-9548-28f9051a3cdd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp. 159.400.000 (Preorder)'])[1]/preceding::label[1]</value>
+      <webElementGuid>b3a3bbb9-16b8-44c7-a385-c9c4d091393a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Manual']/parent::*</value>
+      <webElementGuid>0ae70bd5-73ad-494a-9528-dee44f573deb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/label</value>
+      <webElementGuid>1adb97fb-d288-4b03-b4de-8ad61ae98832</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Manual' or . = 'Manual')]</value>
+      <webElementGuid>ceb697eb-6bd9-4b1f-93fb-51267668756e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

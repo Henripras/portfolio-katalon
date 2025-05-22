@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Apakah Berita dan Artikel otomotif mobil_89d74e</name>
+   <tag></tag>
+   <elementGuidId>fca27c88-1226-4c6c-b643-3d5de79f3ca6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='branch-faq']/h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>732d897e-9a7e-47bd-8044-210f9b89dae2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>question-0 </value>
+      <webElementGuid>2708ea03-452f-4a94-8d24-274d920dcc85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Apakah Berita dan Artikel otomotif mobil Auto2000 menyajikan informasi merawat mobil Toyota?</value>
+      <webElementGuid>8422b188-9c39-4520-b470-24b6ce239c4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;bg-white&quot;]/section[@class=&quot;mt-10 mb-[47.72px] lg:my-20&quot;]/div[@class=&quot;container xl:px-0&quot;]/button[@class=&quot;block w-full border-b border-reliableBlack10&quot;]/details[@class=&quot;py-[18px] lg:px-5&quot;]/summary[@class=&quot;flex justify-start items-center -my-[18px] py-[13px] md:py-[18px] text-sm text-start font-medium text-reliableBlack cursor-pointer lg:text-base&quot;]/div[@class=&quot;w-full flex justify-between items-center&quot;]/div[@id=&quot;branch-faq&quot;]/h3[@class=&quot;question-0&quot;]</value>
+      <webElementGuid>cbc6d12f-d7e4-4091-bf4e-299ca4a7f809</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='branch-faq']/h3</value>
+      <webElementGuid>536c3b51-3cf0-42a8-a7a5-2f35bbcb4c13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>4f551d7b-2c3d-4675-a71e-e5ac56285300</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Apakah Berita dan Artikel otomotif mobil Auto2000 menyajikan informasi merawat mobil Toyota?' or . = 'Apakah Berita dan Artikel otomotif mobil Auto2000 menyajikan informasi merawat mobil Toyota?')]</value>
+      <webElementGuid>27f4f149-d360-498a-89d2-00198bf66d10</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Inquiry News City</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2732b8aa-f004-4e73-938c-50c0dc44635a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d5f9e48e-c265-4518-b8b6-7dbb95ef2bb0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'https://uat.auto2000.co.id/dealer-toyota'</defaultValue>
+      <description></description>
+      <id>d5f9e48e-c265-4518-b8b6-7dbb95ef2bb0</id>
+      <masked>false</masked>
+      <name>UAT</name>
+   </variable>
+</TestCaseEntity>

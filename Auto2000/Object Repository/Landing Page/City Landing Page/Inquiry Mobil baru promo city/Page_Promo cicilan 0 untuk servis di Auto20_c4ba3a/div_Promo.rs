@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Promo</name>
+   <tag></tag>
+   <elementGuidId>632188f3-7bcd-4fbc-bd80-80239839f7ee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='link-breadcrumb-Promo']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>93718a01-1aa6-41d3-9ebe-70cc5668ef96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-black whitespace-nowrap text-xs uppercase font-medium hover:text-gray-900 lg:text-sm md:ml-2</value>
+      <webElementGuid>8c230a9f-fb64-4652-abe4-3ddeb0ba68d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Promo</value>
+      <webElementGuid>c0f12f67-e09f-4735-a685-7de21bd36692</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;link-breadcrumb-Promo&quot;)/div[@class=&quot;text-black whitespace-nowrap text-xs uppercase font-medium hover:text-gray-900 lg:text-sm md:ml-2&quot;]</value>
+      <webElementGuid>fe9e7d5b-20c8-4afb-949f-efdc24436238</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='link-breadcrumb-Promo']/div</value>
+      <webElementGuid>809907e5-1772-491d-9d6a-d5daa5fd8ce2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a/div</value>
+      <webElementGuid>e46f5273-1154-432b-8829-bc6ce6d3f60f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Promo' or . = 'Promo')]</value>
+      <webElementGuid>030b9b16-1ef7-43f1-aa96-6eb900bf1261</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
