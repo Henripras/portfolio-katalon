@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Field Deskripsi</name>
+   <tag></tag>
+   <elementGuidId>462cd5ee-88c7-491c-955d-24a9cee0cb1d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>textarea[name=&quot;description&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//textarea[@name='description']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Enter a description&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>baec3825-eea8-4b4b-8834-f7c822a6e0f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>placeholder:text-[#DEDEDE] shadow-sm appearance-none border rounded-md w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline !h-[100px] bg-white</value>
+      <webElementGuid>cc94165d-49a2-435d-8555-132e2a8df2cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Enter a description</value>
+      <webElementGuid>3c510d29-43af-4a98-97d1-47b215b44fa1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>maxlength</name>
+      <type>Main</type>
+      <value>250</value>
+      <webElementGuid>3bd99993-5072-4598-acec-c2fa60bc2395</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>description</value>
+      <webElementGuid>61134229-cffc-487d-af81-8f5f690dfef8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;children-wrapper&quot;)/div[@class=&quot;flex justify-center&quot;]/div[@class=&quot;flex flex-col gap-7 w-[508px] md:w-full&quot;]/div[@class=&quot;fixed inset-0 bg-gray-800 bg-opacity-50 flex justify-center items-center z-50&quot;]/div[@class=&quot;w-full max-w-[552px] rounded-lg border border-[#D3D2D2] bg-white&quot;]/div[@class=&quot;max-h-[85vh] overflow-auto&quot;]/form[1]/div[@class=&quot;p-6 pb-4 flex flex-col gap-5&quot;]/div[1]/div[@class=&quot;flex flex-col gap-1&quot;]/div[2]/textarea[@class=&quot;placeholder:text-[#DEDEDE] shadow-sm appearance-none border rounded-md w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline !h-[100px] bg-white&quot;]</value>
+      <webElementGuid>c0fbc50c-658a-4632-9c04-209f8c78aad9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//textarea[@name='description']</value>
+      <webElementGuid>b39ebc78-a857-4c98-bd84-151f563c1ef0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='children-wrapper']/div/div/div[3]/div/div[2]/form/div/div/div/div[2]/textarea</value>
+      <webElementGuid>18f490b1-993c-4061-973d-ca7b33f391be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/div/div[2]/textarea</value>
+      <webElementGuid>dd992d58-9c19-456b-b227-c863f51bf004</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@placeholder = 'Enter a description' and @name = 'description']</value>
+      <webElementGuid>3dc4f2de-69e5-4024-bd3d-e26a508e17df</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

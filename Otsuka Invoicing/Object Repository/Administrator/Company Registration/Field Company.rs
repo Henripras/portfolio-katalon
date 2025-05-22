@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Field Company</name>
+   <tag></tag>
+   <elementGuidId>92477e64-ea3c-456d-af93-961a70096849</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='PT Quality Assurance 1']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Please fill name of company&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>2e707eb2-93f6-4f8b-b1fb-9a5408d5ade4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>69d65ea5-589f-4a60-9955-04129a2a8ae6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Please fill name of company</value>
+      <webElementGuid>5da0f7c1-2bac-4717-a8f0-e5e3f904367f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full px-3 h-[52px] flex items-center placeholder:text-[#DEDEDE] focus:outline-none rounded-md  false</value>
+      <webElementGuid>a8cd6ebd-70a1-4a20-a169-f114041052e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>max</name>
+      <type>Main</type>
+      <value>100</value>
+      <webElementGuid>c58b40c4-b8d0-425d-9efc-899d062131b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>PT Quality Assurance 1</value>
+      <webElementGuid>15a34ff3-2aa8-4a12-a860-cbdfb2f49e4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;children-wrapper&quot;)/div[@class=&quot;flex justify-between&quot;]/div[@class=&quot;w-[768px] md:w-full&quot;]/div[1]/div[@class=&quot;flex flex-col gap-9&quot;]/div[@class=&quot;relative&quot;]/div[@class=&quot;border border-[#EDEDED] p-6 rounded-lg shadow-table-shadow max-w-[550px] py-5 px-6 mx-auto&quot;]/div[@class=&quot;mt-7 flex flex-col gap-y-4&quot;]/div[@class=&quot;relative w-full flex flex-col gap-1&quot;]/div[@class=&quot;null border border-[#DEDEDE] rounded-md text-black bg-white&quot;]/input[@class=&quot;w-full px-3 h-[52px] flex items-center placeholder:text-[#DEDEDE] focus:outline-none rounded-md  false&quot;]</value>
+      <webElementGuid>4274738b-3f01-46ec-9faa-f3661c11baf4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='PT Quality Assurance 1']</value>
+      <webElementGuid>c64a7b9a-329b-45f3-bdbf-3db23d403c47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='children-wrapper']/div/div/div/div/div[2]/div/div/div/div[2]/input</value>
+      <webElementGuid>c5410c80-a115-4e2c-ae30-1e1b0bb3ff15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>c1ab988a-ee87-459b-bbcd-3b7b144d76b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Please fill name of company']</value>
+      <webElementGuid>c82baaea-5b9f-437f-823d-3593b96b6144</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

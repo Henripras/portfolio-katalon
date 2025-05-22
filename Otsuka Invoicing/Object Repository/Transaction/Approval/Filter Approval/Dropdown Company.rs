@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Dropdown Company</name>
+   <tag></tag>
+   <elementGuidId>6a3dd3c3-5ec1-4b60-827b-26c2c71d3c6d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@value=''])[10]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Select Company&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>bc0935b2-87e2-4b64-94ae-2b61eeb6fee4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>9b04c42f-fc4c-4496-afb9-38cbd944285f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full focus:outline-none text-ellipsis</value>
+      <webElementGuid>0aeb3a70-c259-4ee5-8680-a67ee9a468e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Select Company</value>
+      <webElementGuid>d19a20c4-f5c3-48d3-9e75-bbf7f0132513</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;children-wrapper&quot;)/div[@class=&quot;flex justify-between&quot;]/div[@class=&quot;w-[768px] md:w-full&quot;]/div[1]/div[2]/div[@class=&quot;w-full&quot;]/div[@class=&quot;fixed inset-0 bg-gray-800 bg-opacity-50 flex justify-center items-center z-50&quot;]/div[@class=&quot;w-full max-w-[552px] rounded-lg border border-[#D3D2D2] bg-white&quot;]/div[@class=&quot;max-h-[85vh] overflow-auto&quot;]/form[1]/div[@class=&quot;p-6 pb-4 flex flex-col gap-5&quot;]/div[4]/div[@class=&quot;flex flex-col gap-1 relative w-full&quot;]/div[@class=&quot;relative&quot;]/div[@class=&quot;border border-[#DEDEDE] px-3 py-2 rounded-md flex justify-between items-center w-full h-[52px] cursor-pointer bg-white&quot;]/input[@class=&quot;w-full focus:outline-none text-ellipsis&quot;]</value>
+      <webElementGuid>9eb4a8a6-76b6-4e23-a361-ca825cd48514</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@value=''])[10]</value>
+      <webElementGuid>f58e75af-7b98-4b20-8e8b-f037ecc079fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='children-wrapper']/div/div/div/div[2]/div/div[4]/div/div[2]/form/div/div[4]/div/div[2]/div/input</value>
+      <webElementGuid>50de155c-96a5-4d37-ae73-506185d11c28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div[2]/div/input</value>
+      <webElementGuid>0a678ca4-6364-41d3-a1ff-b621aac33e89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Select Company']</value>
+      <webElementGuid>fd55f724-626e-44c1-b8a5-1cea4bcef8c3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Field Footer</name>
+   <tag></tag>
+   <elementGuidId>97865d5a-6038-493a-94d0-41cf1ea719fc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//textarea[@name='footer']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>textarea[name=&quot;footer&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Please fill Company Footer&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>5992a1a3-cd24-408a-95ef-ddf8d6cb82b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>placeholder:text-[#DEDEDE] shadow-sm appearance-none border rounded-md w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline h-[100px] bg-white</value>
+      <webElementGuid>2a3c3e7d-fa24-4e5d-8b83-da1dba8713be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Please fill Company Footer</value>
+      <webElementGuid>29df218d-02d6-4bce-9ed0-055900e40dc7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>maxlength</name>
+      <type>Main</type>
+      <value>250</value>
+      <webElementGuid>0a0af4d8-0940-4938-9cd5-696a287a13a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>footer</value>
+      <webElementGuid>1486fbc3-e6ed-45cf-9cd1-3efb53fb901d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>PT Quality Assurance 1</value>
+      <webElementGuid>1d8161d8-ca92-43c0-9c0d-99090176f8bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;children-wrapper&quot;)/div[1]/div[@class=&quot;flex flex-col gap-9&quot;]/div[@class=&quot;flex justify-center relative&quot;]/div[@class=&quot;w-[744px]&quot;]/div[@class=&quot;pb-0&quot;]/form[1]/div[@class=&quot;flex flex-col gap-7&quot;]/div[@class=&quot;grid grid-cols-2 gap-x-6 gap-y-3 p-6 border border-[#F6F6F6] rounded-lg shadow-sm&quot;]/div[@class=&quot;col-span-2 row-span-1&quot;]/div[1]/div[@class=&quot;flex flex-col gap-1&quot;]/div[2]/textarea[@class=&quot;placeholder:text-[#DEDEDE] shadow-sm appearance-none border rounded-md w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline h-[100px] bg-white&quot;]</value>
+      <webElementGuid>2ed7c7d5-c3b9-49be-b837-d73c6d2ae297</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//textarea[@name='footer']</value>
+      <webElementGuid>99ab86c5-932b-4595-9586-15b2e55f5c9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='children-wrapper']/div/div/div[2]/div/div/form/div/div/div[3]/div/div/div[2]/textarea</value>
+      <webElementGuid>afee7919-9536-4d32-8b05-e0cc99ed1e86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Footer'])[1]/following::textarea[1]</value>
+      <webElementGuid>5ba49c18-92ec-484b-9867-8456ab87dae6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PT Quality Assurance 1'])[2]/following::textarea[1]</value>
+      <webElementGuid>f23975c3-1346-424b-8e80-0941386648d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Change File'])[1]/preceding::textarea[1]</value>
+      <webElementGuid>b1fb7d32-0c36-4fb7-8fe2-d9f31043c3ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]/textarea</value>
+      <webElementGuid>2446ed54-a7cf-44f2-82bd-c25f7b42fe9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@placeholder = 'Please fill Company Footer' and @name = 'footer' and (text() = 'PT Quality Assurance 1' or . = 'PT Quality Assurance 1')]</value>
+      <webElementGuid>f57b0eda-06fd-48c8-b914-6a50575d621a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button Print</name>
+   <tag></tag>
+   <elementGuidId>3780b038-0852-426e-b656-a39e7d4b97b1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[contains(@class, 'cursor-pointer')])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>2d50ef30-32ea-47aa-9834-14197b1c1a4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>49a29ba3-4900-4d8b-81a0-bc511e8c71d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cursor-pointer rounded-md flex gap-1 items-center bg-white w-[36px] h-[36px] border border-[#C7C8C9] justify-center false</value>
+      <webElementGuid>506706ae-00fd-4b57-b625-10e8ca14a23a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;children-wrapper&quot;)/div[@class=&quot;flex flex-col items-center gap-6&quot;]/div[@class=&quot;flex justify-center&quot;]/div[@class=&quot;rounded-lg shadow-md w-full lg:w-[748px] overflow-hidden&quot;]/div[@class=&quot;h-max min-h-[236px] px-10 pb-6 pt-[58px] tablet-size:pt-[80px] md:pt-[58px]&quot;]/div[@class=&quot;flex flex-col gap-6&quot;]/div[@class=&quot;flex justify-between&quot;]/div[@class=&quot;flex items-center gap-2&quot;]/div[3]/button[@class=&quot;cursor-pointer rounded-md flex gap-1 items-center bg-white w-[36px] h-[36px] border border-[#C7C8C9] justify-center false&quot;]</value>
+      <webElementGuid>64a0d35e-fb65-47f7-a858-0f7b2976dfe0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[2]</value>
+      <webElementGuid>f7434bcd-f6d8-4756-896f-849f3178c9da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='children-wrapper']/div/div/div/div[2]/div[2]/div/div[2]/div[3]/button</value>
+      <webElementGuid>3565a07b-76f4-425d-8d61-bc49bcebddf2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/'])[3]/following::button[2]</value>
+      <webElementGuid>966c22ae-56bc-44eb-bf73-e79454eb19ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/'])[2]/following::button[2]</value>
+      <webElementGuid>40b03b65-04fb-4140-941a-1c888d19ad30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ticket Read'])[1]/preceding::button[1]</value>
+      <webElementGuid>75b6dd5d-4863-4639-abd0-5ee68c044def</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit roles permissions'])[1]/preceding::button[1]</value>
+      <webElementGuid>9f708ac6-73be-4774-8404-e73f2a6b76db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button</value>
+      <webElementGuid>59c48f73-534b-474d-ab01-0f147e0fc515</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button']</value>
+      <webElementGuid>90b1d45f-e954-4ccb-8dd9-e6050dde20f0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

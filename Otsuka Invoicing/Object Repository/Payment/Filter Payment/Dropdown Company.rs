@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Dropdown Company</name>
+   <tag></tag>
+   <elementGuidId>3dbf4920-b946-4b39-a660-70f9cd140df5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@value=''])[10]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Select Company&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>30376762-f646-46af-8940-abcc17653def</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>cbceddb6-4cf7-4541-8db5-5a9338907f27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full focus:outline-none text-ellipsis</value>
+      <webElementGuid>75249af5-3b55-418c-a388-7c8d98f09686</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Select Company</value>
+      <webElementGuid>af64f437-1cd9-4a49-a9dd-8d3dc5002819</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;children-wrapper&quot;)/div[@class=&quot;flex justify-between&quot;]/div[@class=&quot;w-[768px] md:w-full&quot;]/div[1]/div[2]/div[@class=&quot;w-full&quot;]/div[@class=&quot;fixed inset-0 bg-gray-800 bg-opacity-50 flex justify-center items-center z-50&quot;]/div[@class=&quot;w-full max-w-[552px] rounded-lg border border-[#D3D2D2] bg-white&quot;]/div[@class=&quot;max-h-[85vh] overflow-auto&quot;]/form[1]/div[@class=&quot;p-6 pb-4 flex flex-col gap-5&quot;]/div[4]/div[@class=&quot;flex flex-col gap-1 relative w-full&quot;]/div[@class=&quot;relative&quot;]/div[@class=&quot;border border-[#DEDEDE] px-3 py-2 rounded-md flex justify-between items-center w-full h-[52px] cursor-pointer bg-white&quot;]/input[@class=&quot;w-full focus:outline-none text-ellipsis&quot;]</value>
+      <webElementGuid>f069fad0-4571-459c-a993-81fc7b44036f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@value=''])[10]</value>
+      <webElementGuid>a1bcccc1-87bc-46da-931d-3b4ea5d335d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='children-wrapper']/div/div/div/div[2]/div/div[4]/div/div[2]/form/div/div[4]/div/div[2]/div/input</value>
+      <webElementGuid>1559bb81-86fa-431e-9180-f33e68925615</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div[2]/div/input</value>
+      <webElementGuid>0f30b549-2e8c-4a4a-b775-a9c29f39a1bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Select Company']</value>
+      <webElementGuid>5bca388b-e07c-49ee-a3ca-962505df6e5c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

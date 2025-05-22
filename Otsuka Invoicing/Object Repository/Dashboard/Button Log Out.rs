@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button Log Out</name>
+   <tag></tag>
+   <elementGuidId>b16c13c7-fdf2-449a-9828-e11ee83b2fd3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.p-3.flex.items-center.gap-x-2.cursor-pointer</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='navbar-layout']/div/div[2]/div[2]/div[6]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^Logout$/</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>40b974af-12c0-4e05-8f51-e7ce24f8720c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-3 flex items-center gap-x-2 cursor-pointer</value>
+      <webElementGuid>29dafbda-6c34-48ad-9ba6-86780f56b7f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Logout</value>
+      <webElementGuid>5914de01-5cae-4387-a6ae-955a3d6eeadb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbar-layout&quot;)/div[@class=&quot;bg-[#F3F4F8] text-black p-4 gap-10 flex justify-between items-center border-b-2 border-[#ECECEC]&quot;]/div[@class=&quot;flex relative items-center mr-[44px]&quot;]/div[@class=&quot;bg-white absolute right-0 top-12 border border-[#F2F2F2] p-2 w-[240px] rounded-md shadow-[0_10px_20px_0_rgba(10,10,10,0.12)] flex flex-col gap-y-2 z-50&quot;]/div[@class=&quot;p-3 flex items-center gap-x-2 cursor-pointer&quot;]</value>
+      <webElementGuid>a9b2ce79-408c-47fc-a82b-875d1d148136</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navbar-layout']/div/div[2]/div[2]/div[6]</value>
+      <webElementGuid>455d030f-3ef9-4199-929c-96ea6975c65c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Access'])[1]/following::div[2]</value>
+      <webElementGuid>d9cebd32-6f88-424c-8bd4-5e44b4bff26d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Profile'])[1]/following::div[5]</value>
+      <webElementGuid>a6f9e2d2-2bc4-4e52-ab53-5f69851e2dce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[3]/preceding::div[4]</value>
+      <webElementGuid>e4bfa5d9-2c38-4d36-900a-7f4a5e3abaa4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[6]</value>
+      <webElementGuid>45cb6749-9851-4ef8-a3be-ad776c12ca35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Logout' or . = 'Logout')]</value>
+      <webElementGuid>3539236d-f9d6-47c6-bbec-0d4a41fdb19e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

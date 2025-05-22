@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Dropdown Currency</name>
+   <tag></tag>
+   <elementGuidId>5c8b8fb9-e206-4eec-b8f1-56696a0e631b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='children-wrapper']/div/div/div[2]/form/div/div/div/div[8]/div/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div:nth-child(8) > div > div > .relative > .border</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>02e4ddab-a886-41a7-8388-096a11654ba2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>border border-[#DEDEDE] px-3 py-2 rounded-md flex justify-between items-center w-full h-[52px] cursor-pointer bg-white</value>
+      <webElementGuid>9bd014a4-7c01-483d-be24-abff4291f132</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>4fe8fdc4-f398-4744-841f-28f118c75708</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;children-wrapper&quot;)/div[@class=&quot;flex justify-center&quot;]/div[@class=&quot;flex flex-col gap-7 w-[508px] md:w-full&quot;]/div[@class=&quot;pb-[100px]&quot;]/form[1]/div[@class=&quot;flex flex-col gap-7&quot;]/div[@class=&quot;flex flex-col gap-6&quot;]/div[@class=&quot;p-6 border border-[#F6F6F6] rounded-lg shadow-sm grid grid-cols-2 gap-x-6 gap-y-4&quot;]/div[@class=&quot;col-span-1 row-span-1&quot;]/div[1]/div[@class=&quot;flex flex-col gap-1 relative w-full&quot;]/div[@class=&quot;relative&quot;]/div[@class=&quot;border border-[#DEDEDE] px-3 py-2 rounded-md flex justify-between items-center w-full h-[52px] cursor-pointer bg-white&quot;]</value>
+      <webElementGuid>4df3cb1c-0f2e-4d80-b0ac-74ceb760b587</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='children-wrapper']/div/div/div[2]/form/div/div/div/div[8]/div/div/div[2]/div</value>
+      <webElementGuid>add435af-062c-491a-b953-9e9b198f4d2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Currency'])[1]/following::div[2]</value>
+      <webElementGuid>2f4af062-5962-49c8-a48b-093b60d751a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PIC’s Email To'])[1]/following::div[7]</value>
+      <webElementGuid>bb4ffa7c-241d-484a-a0b4-3532f0aa71fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recurring'])[1]/preceding::div[2]</value>
+      <webElementGuid>efe7f46d-dd11-4954-a37a-d5cda6ccd004</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/preceding::div[3]</value>
+      <webElementGuid>20c52f5f-886c-4543-9e38-49031ed516a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div/div[2]/div</value>
+      <webElementGuid>47912726-2baf-436a-b333-03197275ad95</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

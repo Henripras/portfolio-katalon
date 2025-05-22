@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Sub Menu Approval</name>
+   <tag></tag>
+   <elementGuidId>f14a65e4-9600-4d6a-aad7-14dc8ce8f142</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sidebar']/div[3]/div[2]/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^Approval$/</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2ebbdd16-e32d-40e4-8c54-09a807c68615</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex items-center p-2 ml-1 mb-2 cursor-pointer text-gray-400 hover:bg-[#151A2D] rounded font-medium</value>
+      <webElementGuid>7a4aa355-e7d2-4bb9-853f-80b499b7207c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Approval</value>
+      <webElementGuid>398a352d-7f29-47d0-8cc8-5e7323e22155</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sidebar&quot;)/div[3]/div[@class=&quot;pl-8&quot;]/div[@class=&quot;flex items-center p-2 ml-1 mb-2 cursor-pointer text-gray-400 hover:bg-[#151A2D] rounded font-medium&quot;]</value>
+      <webElementGuid>e46d5604-a52d-4b08-90b6-cdd651951721</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sidebar']/div[3]/div[2]/div[3]</value>
+      <webElementGuid>49ce71e4-cad1-41cc-9710-22ec1bffd2d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Non-Trade'])[1]/following::div[1]</value>
+      <webElementGuid>9b84bf0e-926e-4241-88e0-ca9a6a30ae14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trade'])[1]/following::div[2]</value>
+      <webElementGuid>b48eed7f-6650-47d2-b837-3de868259f1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payment'])[1]/preceding::div[1]</value>
+      <webElementGuid>443b9d76-aa77-4308-878c-95aefe55f0be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]</value>
+      <webElementGuid>23584f88-7954-4a47-a869-435d8939696d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Approval' or . = 'Approval')]</value>
+      <webElementGuid>59258966-15dd-48c0-abfa-f554609c64a5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

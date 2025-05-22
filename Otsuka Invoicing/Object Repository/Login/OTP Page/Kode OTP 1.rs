@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Kode OTP 1</name>
+   <tag></tag>
+   <elementGuidId>955301b6-abc8-4aaa-980b-206eaeb3fd86</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='text' and @maxlength='1'])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.w-\[60px\] >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>824e6d70-2d14-4f2d-8fff-b3a3618517e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>75815ab2-115c-4c31-932f-0b9e841e4bda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>maxlength</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>2e02b1f8-9327-419f-88d8-c69c4fdde57c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-[60px] h-[52px] text-center text-xl border border-[#DEDEDE] rounded focus:outline-none focus:ring-2 focus:ring-blue-500</value>
+      <webElementGuid>db781d61-bd0a-4d1b-910e-c17e8bf7a917</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;flex justify-end md:justify-end items-center bg-cover bg-center global-bg&quot;]/div[@class=&quot;rounded-lg&quot;]/div[@class=&quot;bg-white p-10 rounded-lg mx-[73px] my-8 max-h-[800px] flex flex-col overflow-auto&quot;]/div[@class=&quot;flex-grow&quot;]/div[@class=&quot;flex flex-col gap-[20px]&quot;]/div[@class=&quot;flex flex-col gap-10&quot;]/div[1]/div[@class=&quot;flex gap-3 mt-2&quot;]/input[@class=&quot;w-[60px] h-[52px] text-center text-xl border border-[#DEDEDE] rounded focus:outline-none focus:ring-2 focus:ring-blue-500&quot;]</value>
+      <webElementGuid>799b68ec-d5ee-41c6-b72b-8f2762786123</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='']</value>
+      <webElementGuid>333e649a-ad39-431c-8acc-8ca55f46d300</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div/div/div[2]/div/div/div/div/input</value>
+      <webElementGuid>16565d3b-c24e-46fb-a762-b627a0ccf129</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>02811e43-ae86-479b-811c-20d89c0b559b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text']</value>
+      <webElementGuid>c78b80ee-1785-4051-ae52-91acbb6f7258</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button Close History</name>
+   <tag></tag>
+   <elementGuidId>50f8b6a3-50e3-4ff4-837a-e1fae11c9b6a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.react-responsive-modal-closeButton > svg</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@data-testid='close-button']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-testid=&quot;close-button&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>c3d12237-7c86-43de-9696-79bf27710a5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>28</value>
+      <webElementGuid>39976444-b1d6-4868-8b63-b4101595f7be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>28</value>
+      <webElementGuid>5d483c69-f74c-4c33-a3e0-f0dcf45f9f50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 36 36</value>
+      <webElementGuid>86db6ff9-c8ad-4f7b-adff-397ef72054ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>close-icon</value>
+      <webElementGuid>4fb9313e-d8eb-401a-b1ad-f0bccb8fe06e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[3]/div[@class=&quot;react-responsive-modal-root&quot;]/div[@class=&quot;react-responsive-modal-container react-responsive-modal-containerCenter&quot;]/div[@class=&quot;react-responsive-modal-modal react-responsive-modal-modal-invoice-template&quot;]/button[@class=&quot;react-responsive-modal-closeButton&quot;]/svg[1]</value>
+      <webElementGuid>8272ffc0-3fc1-496f-be35-6c275b34f3ee</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PT Quality Assurance'])[2]/following::*[name()='svg'][1]</value>
+      <webElementGuid>67e552a2-cf13-4443-b475-fd19850a48f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terms &amp; Conditions'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>39a5ba32-1f32-4eb5-bef3-f35c347ea356</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

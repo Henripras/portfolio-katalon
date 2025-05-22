@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button Add New Row</name>
+   <tag></tag>
+   <elementGuidId>0e33ff7a-7be8-4eae-b4aa-03a35e970da4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Add New Row&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>06d1d84a-fd2f-4ef8-b138-f0da5ad3b678</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3dfbffb9-d4c7-4fa8-9179-b0bf8cf66c48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cursor-pointer rounded-md flex gap-1 items-center !px-4 bg-[#2B2F3F] w-[177px] h-[44px] !gap-2 false</value>
+      <webElementGuid>4c35e3be-4d1b-4324-a45b-ca3788c3b859</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add New Row</value>
+      <webElementGuid>e2851b3a-13b1-4284-bfe2-b80890321981</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;children-wrapper&quot;)/div[@class=&quot;flex justify-center&quot;]/div[@class=&quot;flex flex-col gap-7 w-[508px] md:w-full&quot;]/div[@class=&quot;pb-[100px]&quot;]/form[1]/div[@class=&quot;flex flex-col gap-7&quot;]/div[@class=&quot;flex flex-col gap-6&quot;]/div[@class=&quot;p-6 border border-[#F6F6F6] rounded-lg shadow-sm grid grid-cols-2 gap-x-6 gap-y-4&quot;]/div[@class=&quot;col-span-2 row-span-1&quot;]/div[1]/div[@class=&quot;flex flex-col gap-[18px]&quot;]/div[@class=&quot;flex justify-between items-center&quot;]/button[@class=&quot;cursor-pointer rounded-md flex gap-1 items-center !px-4 bg-[#2B2F3F] w-[177px] h-[44px] !gap-2 false&quot;]</value>
+      <webElementGuid>3d9926c4-ab00-48b5-b2bd-cdcf12017e05</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[2]</value>
+      <webElementGuid>b504c25a-9171-479d-9bbb-67d3d7006d02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='children-wrapper']/div/div/div[2]/form/div/div/div/div[12]/div/div/div/button</value>
+      <webElementGuid>0132aea1-1438-483e-944e-6dcc9a855b1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Method of Recurring'])[1]/following::button[1]</value>
+      <webElementGuid>eb276e87-14c2-4b1d-9dd0-11d2351f1267</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[9]/following::button[1]</value>
+      <webElementGuid>e463c2fa-2561-438d-8805-db98671b7e89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Term &amp; Condition'])[1]/preceding::button[1]</value>
+      <webElementGuid>9d5ce73f-00ec-4052-93de-6b47e8aa02cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Invoice'])[2]/preceding::button[1]</value>
+      <webElementGuid>26193ae1-e90a-4089-9d78-c733e1bb317c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[12]/div/div/div/button</value>
+      <webElementGuid>c92e0a90-0284-43e2-92a9-82fa0928b07a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Add New Row' or . = 'Add New Row')]</value>
+      <webElementGuid>5fbf3df0-d721-4799-a954-a08b6cb38ecd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

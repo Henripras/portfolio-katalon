@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Sub Menu Non Trade</name>
+   <tag></tag>
+   <elementGuidId>5153f05d-1ba4-4fe6-8644-7794e1d03794</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sidebar']/div[3]/div[2]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^Non-Trade$/</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ffa34805-4597-4abb-87c8-75dc86ea6067</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex items-center p-2 ml-1 mb-2 cursor-pointer text-gray-400 hover:bg-[#151A2D] rounded font-medium</value>
+      <webElementGuid>8d5ec36b-4d24-43ca-8292-9746e9fc7756</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Non-Trade</value>
+      <webElementGuid>ba09f9b0-12e2-478c-9ae4-b5b4624cb2a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sidebar&quot;)/div[3]/div[@class=&quot;pl-8&quot;]/div[@class=&quot;flex items-center p-2 ml-1 mb-2 cursor-pointer text-gray-400 hover:bg-[#151A2D] rounded font-medium&quot;]</value>
+      <webElementGuid>37763021-d73f-4573-8aaa-8581b77dc2c6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sidebar']/div[3]/div[2]/div[2]</value>
+      <webElementGuid>2784f9ce-a8b5-4222-8da3-932cc41af383</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trade'])[1]/following::div[1]</value>
+      <webElementGuid>9f819155-eb5e-4a4f-be1f-53de0215baf9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transaction'])[1]/following::div[4]</value>
+      <webElementGuid>6ed96e67-2a5b-4e68-872e-91de258c23b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payment'])[1]/preceding::div[1]</value>
+      <webElementGuid>1b2f9781-031b-4127-a719-b965558a81bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div[2]</value>
+      <webElementGuid>ee2b9f39-a99a-4306-af64-7c906a97c7a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Non-Trade' or . = 'Non-Trade')]</value>
+      <webElementGuid>dc02f100-01e3-4658-8b0b-550dd1562198</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

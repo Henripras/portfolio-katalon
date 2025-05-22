@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Export Excel</name>
+   <tag></tag>
+   <elementGuidId>bd2c8db5-7fe0-4a27-8378-f7bca901c331</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@class='cursor-pointer rounded-md flex gap-1 items-center flex item-center gap-x-2 border border-[#C7C8C9] rounded-md px-3 py-4 justify-center w-[80px] false' and .//p[text()='XLSX']]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Excel icon XLSX&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a3cdaca4-9e00-48b1-8096-b2b92d07ce2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>929d43dc-25fb-48af-b4f0-2ec09de04d9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cursor-pointer rounded-md flex gap-1 items-center flex item-center gap-x-2 border border-[#C7C8C9] rounded-md px-3 py-4 justify-center w-[80px] false</value>
+      <webElementGuid>28f3aa78-2925-4cfc-bd9f-db5175f9df55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>XLSX</value>
+      <webElementGuid>2badcae4-41c9-4eef-aecf-bc4442666920</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;children-wrapper&quot;)/div[@class=&quot;flex justify-between&quot;]/div[@class=&quot;w-[768px] md:w-full&quot;]/div[1]/div[2]/div[@class=&quot;w-full&quot;]/div[1]/div[@class=&quot;mt-4 flex flex-col sm:flex-row justify-between sm:items-center&quot;]/div[@class=&quot;flex items-center gap-x-2&quot;]/button[@class=&quot;cursor-pointer rounded-md flex gap-1 items-center flex item-center gap-x-2 border border-[#C7C8C9] rounded-md px-3 py-4 justify-center w-[80px] false&quot;]</value>
+      <webElementGuid>50a23ac3-d1a8-4595-967e-65d1e8afb878</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='button']</value>
+      <webElementGuid>30f87c35-f98e-434a-b8e1-7ee6a1b41e4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='children-wrapper']/div/div/div/div[2]/div/div/div[2]/div/button</value>
+      <webElementGuid>e1d7f2bc-4e1c-44bd-9296-0338e8351d18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payment'])[4]/following::button[1]</value>
+      <webElementGuid>fd8a2552-fe59-425f-ac91-ee349bbccecc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PT Quality Assurance 1'])[1]/following::button[1]</value>
+      <webElementGuid>63231226-06d4-408f-bed3-ab950943d765</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show'])[1]/preceding::button[6]</value>
+      <webElementGuid>69e1a1ce-876a-48d5-b43b-fa3f1bb6c38f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data'])[1]/preceding::button[6]</value>
+      <webElementGuid>ea3113f1-0fae-4dba-8608-2b7174473a03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>67503a9c-7a15-4084-a82c-66d8cc3c17ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'XLSX' or . = 'XLSX')]</value>
+      <webElementGuid>779558cc-10c1-4488-8725-a086e654eac8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

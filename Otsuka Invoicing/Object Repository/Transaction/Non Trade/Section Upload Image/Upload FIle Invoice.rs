@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Upload FIle Invoice</name>
+   <tag></tag>
+   <elementGuidId>320cd038-9142-4205-bffa-26f4dabfcce6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='children-wrapper']/div/div/div[2]/form/div/div/div[2]/div/div/div/div[2]/div[2]/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Upload File&quot;i >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>cf342f59-6c00-41ca-88a5-ba38f0cc49ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>invoice_file</value>
+      <webElementGuid>b4381f42-2441-4555-9c5c-47494f6864f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inline-block text-[10px] md:text-[12px] 2xl:text-[16px] xl:text-[14px] font-semibold px-3 py-2 bg-[#4C79AB] text-white rounded-md cursor-pointer hover:bg-[#48709d] focus:outline-none focus:ring-2 focus:ring-blue-500 w-max text-center</value>
+      <webElementGuid>278491d3-c32a-4eb6-a23d-0eeab8ce57c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Upload File</value>
+      <webElementGuid>95fe08d7-24fa-4eb9-825d-fa2e495dd9e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;children-wrapper&quot;)/div[@class=&quot;flex justify-center&quot;]/div[@class=&quot;flex flex-col gap-7 w-[508px] md:w-full&quot;]/div[@class=&quot;pb-[100px]&quot;]/form[1]/div[@class=&quot;flex flex-col gap-7&quot;]/div[@class=&quot;flex flex-col gap-6&quot;]/div[@class=&quot;p-6 border border-[#F6F6F6] rounded-lg shadow-sm grid grid-cols-2 gap-x-6 gap-y-4&quot;]/div[@class=&quot;col-span-1 row-span-1&quot;]/div[1]/div[@class=&quot;flex flex-col gap-1 overflow-x-hidden&quot;]/div[@class=&quot;p-4 border-dashed border-2 border-[#dbdbdb] w-full h-[120px] md:h-auto xl:h-auto rounded-md shadow-sm bg-[#F5F5F5] flex gap-2 flex-col lg:flex-row itm items-start lg:items-center justify-between&quot;]/div[@class=&quot;flex flex-col&quot;]/label[@class=&quot;inline-block text-[10px] md:text-[12px] 2xl:text-[16px] xl:text-[14px] font-semibold px-3 py-2 bg-[#4C79AB] text-white rounded-md cursor-pointer hover:bg-[#48709d] focus:outline-none focus:ring-2 focus:ring-blue-500 w-max text-center&quot;]</value>
+      <webElementGuid>734c1b67-cbff-4c7e-8ecd-ca64ffbbe265</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='children-wrapper']/div/div/div[2]/form/div/div/div[2]/div/div/div/div[2]/div[2]/label</value>
+      <webElementGuid>4d3fb7d8-7dfe-448b-b7a5-da12111d85ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Format File: PDF, JPEG, JPG and PNG'])[2]/following::label[1]</value>
+      <webElementGuid>1faac24d-5ea0-44bf-a8cb-3f4a60b5c9f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delivery Order'])[1]/preceding::label[1]</value>
+      <webElementGuid>17da5a81-5d58-4054-8813-efb0a2fb37b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Format File: PDF, JPEG, JPG and PNG'])[3]/preceding::label[2]</value>
+      <webElementGuid>a7c942ac-d1b5-49dc-a963-d7291b6de3c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/div[2]/label</value>
+      <webElementGuid>2b429b14-c175-4734-87ec-8d81416ac229</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Upload File' or . = 'Upload File')]</value>
+      <webElementGuid>85275c7a-1a9a-4ec0-b48d-c9f6382a9b4d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

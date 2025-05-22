@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button Upload Tax Form</name>
+   <tag></tag>
+   <elementGuidId>2a9aa704-c457-4e26-81d0-46547922128e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='children-wrapper']/div/div/div[2]/form/div/div/div/div[6]/div/div/div[2]/div[2]/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.inline-block >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>2f7d9c39-ef6b-445d-990f-e54d183f428f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>tax_form</value>
+      <webElementGuid>9f469f0e-94bc-4e1f-930b-cf886b5bca49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inline-block text-[10px] md:text-[12px] 2xl:text-[16px] xl:text-[14px] font-semibold px-3 py-2 bg-[#4C79AB] text-white rounded-md cursor-pointer hover:bg-[#48709d] focus:outline-none focus:ring-2 focus:ring-blue-500 w-max text-center</value>
+      <webElementGuid>517e1a7b-94e2-4dae-9328-18eaa1331307</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Upload File</value>
+      <webElementGuid>88526d6c-f9cd-443d-84cf-8f247e09a34b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;children-wrapper&quot;)/div[@class=&quot;flex justify-center&quot;]/div[@class=&quot;flex flex-col gap-7 w-[508px] md:w-full&quot;]/div[@class=&quot;pb-[100px]&quot;]/form[1]/div[@class=&quot;flex flex-col gap-7&quot;]/div[@class=&quot;flex flex-col gap-6&quot;]/div[@class=&quot;p-6 border border-[#F6F6F6] rounded-lg shadow-sm grid grid-cols-2 gap-x-6 gap-y-4&quot;]/div[@class=&quot;col-span-1 row-span-1&quot;]/div[1]/div[@class=&quot;flex flex-col gap-1 overflow-x-hidden&quot;]/div[@class=&quot;p-4 border-dashed border-2 border-[#dbdbdb] w-full h-[120px] md:h-auto xl:h-auto rounded-md shadow-sm bg-[#F5F5F5] flex gap-2 flex-col lg:flex-row itm items-start lg:items-center justify-between&quot;]/div[@class=&quot;flex flex-col&quot;]/label[@class=&quot;inline-block text-[10px] md:text-[12px] 2xl:text-[16px] xl:text-[14px] font-semibold px-3 py-2 bg-[#4C79AB] text-white rounded-md cursor-pointer hover:bg-[#48709d] focus:outline-none focus:ring-2 focus:ring-blue-500 w-max text-center&quot;]</value>
+      <webElementGuid>1ee57c69-c6df-41aa-b9c7-305f58f4dc97</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='children-wrapper']/div/div/div[2]/form/div/div/div/div[6]/div/div/div[2]/div[2]/label</value>
+      <webElementGuid>96cdb391-49fb-4230-bc0d-f4e1fce86c4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Format File: PDF, JPEG, JPG and PNG'])[1]/following::label[1]</value>
+      <webElementGuid>c5d9bc09-59b6-4469-a43a-bbcc16abefbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ship To'])[1]/preceding::label[1]</value>
+      <webElementGuid>c4f9a31d-6cee-4a36-8256-a298b2e7ac52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Currency'])[1]/preceding::label[2]</value>
+      <webElementGuid>162dfbce-44a2-46d9-9842-5653cfe93765</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Upload File']/parent::*</value>
+      <webElementGuid>e2a9bb43-26db-4358-a924-86eb00f3971e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/label</value>
+      <webElementGuid>dac074a9-aef9-4857-9630-2018538fd924</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Upload File' or . = 'Upload File')]</value>
+      <webElementGuid>3920b52d-28bc-4708-95b1-a5be51498354</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

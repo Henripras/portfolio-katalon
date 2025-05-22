@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button View</name>
+   <tag></tag>
+   <elementGuidId>eabcb41e-c252-489f-a682-6043e2fd0aef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//h1[text()='View'])[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;Company Trial 2 03/01/2025 Active View&quot;i] >> internal:role=heading</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>6dc4a512-e702-48c1-826d-c5780eb10c6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-medium text-sm text-[#414347]</value>
+      <webElementGuid>37e65f46-8e0f-4aec-94e0-32d5db8ec198</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>View</value>
+      <webElementGuid>a3c11029-16b2-4ffd-87eb-728b118ccb31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;children-wrapper&quot;)/div[@class=&quot;flex justify-between&quot;]/div[@class=&quot;w-[768px] md:w-full&quot;]/div[1]/div[@class=&quot;flex flex-col gap-9&quot;]/div[@class=&quot;w-full&quot;]/div[@class=&quot;mt-6 shadow-table-shadow rounded-lg h-auto&quot;]/div[@class=&quot;flex flex-col gap-[18px]&quot;]/div[@class=&quot;border border-[#DEDEDE] rounded-lg w-full overflow-auto&quot;]/table[@class=&quot;table-auto w-full&quot;]/tbody[1]/tr[@class=&quot;w-full border-b border-b-[#EDEDED] relative&quot;]/td[@class=&quot;p-4&quot;]/p[@class=&quot;text-nowrap false&quot;]/div[@class=&quot;cursor-pointer inline-flex items-center gap-x-2&quot;]/h1[@class=&quot;font-medium text-sm text-[#414347]&quot;]</value>
+      <webElementGuid>28521e61-70fd-4236-a793-65bb0511c43c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='children-wrapper']/div/div/div/div/div[2]/div[2]/div/div/table/tbody/tr/td[4]/p/div/h1</value>
+      <webElementGuid>2cd6b05d-4c20-43a4-bc7e-b5fe636a182d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View by Company Access'])[1]/following::h1[1]</value>
+      <webElementGuid>35ace2a9-ce38-4e5c-8b22-8b92d71e5190</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Access'])[1]/following::h1[2]</value>
+      <webElementGuid>310f6a59-4fae-4255-a45c-82a9926e2719</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View'])[2]/preceding::h1[1]</value>
+      <webElementGuid>bb67e0f4-30f5-430d-ad69-45f2590468be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View'])[3]/preceding::h1[2]</value>
+      <webElementGuid>9026a9b8-7b68-43e7-b12c-d0dbb2763126</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='View']/parent::*</value>
+      <webElementGuid>f6a56b6e-8137-4c9a-a47d-507e87d30c47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p/div/h1</value>
+      <webElementGuid>38a6b8e6-c698-4081-ae07-59ef56ee77f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'View' or . = 'View')]</value>
+      <webElementGuid>878af8cf-06df-45cc-824d-94b23f4cf380</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
