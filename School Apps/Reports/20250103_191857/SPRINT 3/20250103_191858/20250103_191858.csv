@@ -1,0 +1,26 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+SPRINT 3,Chrome 131.0.0.0,,,03-01-2025 19:19:04,03-01-2025 19:30:53,11m - 49.638s,PASSED
+,,,,,,,
+Test Cases/Regresi Feature/Sprint 3/Regresi Beranda,Chrome 131.0.0.0,,,03-01-2025 19:19:04,03-01-2025 19:20:02,57.426s,PASSED
+"for ([i = 1, i <= maxLoop, (i++)])",Chrome 131.0.0.0,,,03-01-2025 19:19:04,03-01-2025 19:20:02,57.165s,PASSED
+,,,,,,,
+Test Cases/Regresi Feature/Sprint 3/Regresi Informasi,Chrome 131.0.0.0,,,03-01-2025 19:20:02,03-01-2025 19:21:04,1m - 2.057s,PASSED
+"for ([i = 1, i <= maxLoop, (i++)])",Chrome 131.0.0.0,,,03-01-2025 19:20:02,03-01-2025 19:21:04,1m - 1.985s,PASSED
+,,,,,,,
+Test Cases/Regresi Feature/Sprint 3/Regresi Invoice,Chrome 131.0.0.0,,,03-01-2025 19:21:04,03-01-2025 19:21:34,30.595s,PASSED
+"for ([i = 1, i <= maxLoop, (i++)])",Chrome 131.0.0.0,,,03-01-2025 19:21:04,03-01-2025 19:21:34,30.513s,PASSED
+,,,,,,,
+Test Cases/Regresi Feature/Sprint 3/Regresi Laporan,Chrome 131.0.0.0,,,03-01-2025 19:21:34,03-01-2025 19:24:22,2m - 47.719s,PASSED
+"for ([i = 1, i <= maxLoop, (i++)])",Chrome 131.0.0.0,,,03-01-2025 19:21:34,03-01-2025 19:24:22,2m - 47.656s,PASSED
+,,,,,,,
+Test Cases/Regresi Feature/Sprint 3/Regresi Profile,Chrome 131.0.0.0,,,03-01-2025 19:24:22,03-01-2025 19:24:59,37.321s,PASSED
+"for ([i = 1, i <= maxLoop, (i++)])",Chrome 131.0.0.0,,,03-01-2025 19:24:22,03-01-2025 19:24:59,37.266s,PASSED
+,,,,,,,
+Test Cases/Regresi Feature/Sprint 3/Regresi Siswa,Chrome 131.0.0.0,,,03-01-2025 19:24:59,03-01-2025 19:27:52,2m - 52.981s,PASSED
+"for ([i = 1, i <= maxLoop, (i++)])",Chrome 131.0.0.0,,,03-01-2025 19:24:59,03-01-2025 19:27:52,2m - 52.931s,PASSED
+,,,,,,,
+Test Cases/Regresi Feature/Sprint 3/Regresi Sumbangan,Chrome 131.0.0.0,,,03-01-2025 19:27:52,03-01-2025 19:29:00,1m - 7.929s,PASSED
+"for ([i = 1, i <= maxLoop, (i++)])",Chrome 131.0.0.0,,,03-01-2025 19:27:52,03-01-2025 19:29:00,1m - 7.867s,PASSED
+,,,,,,,
+Test Cases/Regresi Feature/Sprint 3/Regresi User Management,Chrome 131.0.0.0,,,03-01-2025 19:29:00,03-01-2025 19:30:53,1m - 53.306s,PASSED
+"for ([i = 1, i <= maxLoop, (i++)])",Chrome 131.0.0.0,,,03-01-2025 19:29:00,03-01-2025 19:30:53,1m - 53.256s,PASSED

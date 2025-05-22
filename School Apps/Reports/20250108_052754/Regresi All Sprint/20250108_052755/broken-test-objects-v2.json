@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Master Data/Admin Sekolah/Master Siswa/Filter Dan Search Siswa/Rekomendasi Siswa",
+      "brokenLocator": "//div[@id\u003d\u0027layout-content\u0027]/div/div[2]/div[2]/div/div[4]/div/p",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Tambah\u0027])[1]/following::p[10]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20250108_052754/Regresi All Sprint/20250108_052755/Object Repository/Master Data/Admin Sekolah/Master Siswa/Filter Dan Search Siswa/Rekomendasi Siswa_neighbor.png"
+    }
+  ]
+}

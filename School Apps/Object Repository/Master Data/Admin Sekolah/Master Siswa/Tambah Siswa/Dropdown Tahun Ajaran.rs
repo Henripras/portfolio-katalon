@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Dropdown Tahun Ajaran</name>
+   <tag></tag>
+   <elementGuidId>33c3b60d-ce35-40be-9d32-8690692473b3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='layout-content']/div[2]/div/form/div/div[2]/div[3]/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^Tahun Ajaran\*Pilih tahun ajaran$/ >> [data-testid=&quot;select-field&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>553c53b0-f422-4222-9845-b99deb6853db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-disabled</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>d6348a1d-70b4-47ab-9289-d2c122911675</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>28ccb2c8-1084-440b-a8d6-a9ed7472cfa9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>select-field</value>
+      <webElementGuid>ce2b0226-2d69-4f18-9cc2-0e82df79433d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex min-h-[52px] w-full cursor-pointer items-center overflow-hidden text-ellipsis whitespace-nowrap rounded-[6px] border px-3 py-2 hover:border-blue6 focus:border-blue6 focus:outline-none border-neutral5 undefined</value>
+      <webElementGuid>dd47ee3d-3da7-4645-9fdd-fe19e621a017</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pilih tahun ajaran</value>
+      <webElementGuid>e891f7ad-72f5-4183-ba0a-d79085444559</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;layout-content&quot;)/div[@class=&quot;flex h-full flex-col overflow-auto&quot;]/div[@class=&quot;grow px-10&quot;]/form[1]/div[@class=&quot;grid grid-cols-2 gap-x-6 gap-y-4&quot;]/div[@class=&quot;flex gap-6&quot;]/div[@class=&quot;relative flex flex-col gap-1 w-full&quot;]/div[@class=&quot;relative&quot;]/div[@class=&quot;flex min-h-[52px] w-full cursor-pointer items-center overflow-hidden text-ellipsis whitespace-nowrap rounded-[6px] border px-3 py-2 hover:border-blue6 focus:border-blue6 focus:outline-none border-neutral5 undefined&quot;]</value>
+      <webElementGuid>cf223c34-2418-479c-bbf8-4cb21df71a09</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='layout-content']/div[2]/div/form/div/div[2]/div[3]/div[2]/div</value>
+      <webElementGuid>411c38c4-4ead-4f3c-8fda-5bc5f7db461e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tambah Data Siswa'])[1]/following::div[22]</value>
+      <webElementGuid>b28c20f0-5d36-4b5b-912d-ced0de4c99a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/'])[2]/following::div[22]</value>
+      <webElementGuid>cf9de2d3-05d2-43dc-8e49-982b17c5c9d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Batal'])[1]/preceding::div[42]</value>
+      <webElementGuid>1d6edd12-ddd7-44aa-9ae3-77cabb3a17ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Simpan'])[1]/preceding::div[43]</value>
+      <webElementGuid>3bcc0ffc-0f3d-408f-8075-81c018bc8f42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/div[2]/div</value>
+      <webElementGuid>ec554068-a0b0-4f92-b676-e3fc797f8180</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Pilih tahun ajaran' or . = 'Pilih tahun ajaran')]</value>
+      <webElementGuid>0b507d79-3e98-47e1-b71d-7f86aeb72a91</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

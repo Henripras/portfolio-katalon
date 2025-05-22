@@ -1,0 +1,55 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test Laporan Pembayaran,Chrome 131.0.0.0,,,12-12-2024 12:47:50,12-12-2024 12:48:34,44.195s,PASSED
+,,,,,,,
+Test Cases/Laporan/Laporan Pembayaran/Filter Search Laporan Pembayaran,Chrome 131.0.0.0,,,12-12-2024 12:47:50,12-12-2024 12:48:14,23.628s,PASSED
+"openBrowser("""")",Chrome 131.0.0.0,,,12-12-2024 12:47:50,12-12-2024 12:47:52,1.992s,PASSED
+"navigateToUrl(""https://school-payment.digiform.co.id/login"")",Chrome 131.0.0.0,,,12-12-2024 12:47:52,12-12-2024 12:47:53,0.380s,PASSED
+"setText(findTestObject(""Master Data/Admin Sekolah/Login/Field Email""), ""admin.sekolah@gmail.com"")",Chrome 131.0.0.0,,,12-12-2024 12:47:53,12-12-2024 12:47:55,1.853s,PASSED
+"setText(findTestObject(""Master Data/Admin Sekolah/Login/Input Password""), ""Test1234"")",Chrome 131.0.0.0,,,12-12-2024 12:47:55,12-12-2024 12:47:55,0.579s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Login/Button Submit""))",Chrome 131.0.0.0,,,12-12-2024 12:47:55,12-12-2024 12:47:55,0.291s,PASSED
+"click(findTestObject(""Laporan/Laporan Pembayaran/Menu Laporan""))",Chrome 131.0.0.0,,,12-12-2024 12:47:55,12-12-2024 12:47:57,1.968s,PASSED
+"click(findTestObject(""Laporan/Laporan Pembayaran/Sub Menu Pembayaran""))",Chrome 131.0.0.0,,,12-12-2024 12:47:57,12-12-2024 12:47:58,0.823s,PASSED
+"click(findTestObject(""Laporan/Laporan Pembayaran/Filter Search Laporan Pembayaran/Dropdown Kelas""))",Chrome 131.0.0.0,,,12-12-2024 12:47:58,12-12-2024 12:47:59,0.723s,PASSED
+"click(findTestObject(""Laporan/Laporan Pembayaran/Filter Search Laporan Pembayaran/Field Pencarian Kelas""))",Chrome 131.0.0.0,,,12-12-2024 12:47:59,12-12-2024 12:47:59,0.513s,PASSED
+"setText(findTestObject(""Laporan/Laporan Pembayaran/Filter Search Laporan Pembayaran/Field Pencarian Kelas""), ""XII IPS 2"")",Chrome 131.0.0.0,,,12-12-2024 12:47:59,12-12-2024 12:48:00,0.556s,PASSED
+"verifyElementVisible(findTestObject(""Laporan/Laporan Pembayaran/Filter Search Laporan Pembayaran/Value Dropdown Kelas XII IPS 2""), STOP_ON_FAILURE)",Chrome 131.0.0.0,,,12-12-2024 12:48:00,12-12-2024 12:48:00,0.297s,PASSED
+"click(findTestObject(""Laporan/Laporan Pembayaran/Filter Search Laporan Pembayaran/Value Dropdown Kelas XII IPS 2""))",Chrome 131.0.0.0,,,12-12-2024 12:48:00,12-12-2024 12:48:01,0.329s,PASSED
+"click(findTestObject(""Laporan/Laporan Pembayaran/Filter Search Laporan Pembayaran/Dropdown Metode Pembayaran""))",Chrome 131.0.0.0,,,12-12-2024 12:48:01,12-12-2024 12:48:01,0.500s,PASSED
+"click(findTestObject(""Laporan/Laporan Pembayaran/Filter Search Laporan Pembayaran/Value Metode Pembayaran Kasir""))",Chrome 131.0.0.0,,,12-12-2024 12:48:01,12-12-2024 12:48:02,0.555s,PASSED
+"click(findTestObject(""Laporan/Laporan Pembayaran/Filter Search Laporan Pembayaran/Dropdown Status""))",Chrome 131.0.0.0,,,12-12-2024 12:48:02,12-12-2024 12:48:02,0.496s,PASSED
+"click(findTestObject(""Laporan/Laporan Pembayaran/Filter Search Laporan Pembayaran/Value Status Lunas""))",Chrome 131.0.0.0,,,12-12-2024 12:48:02,12-12-2024 12:48:03,0.524s,PASSED
+delay(2),Chrome 131.0.0.0,,,12-12-2024 12:48:03,12-12-2024 12:48:05,2.038s,PASSED
+"click(findTestObject(""Laporan/Laporan Pembayaran/Filter Search Laporan Pembayaran/Button Terapkan""))",Chrome 131.0.0.0,,,12-12-2024 12:48:05,12-12-2024 12:48:05,0.312s,PASSED
+delay(2),Chrome 131.0.0.0,,,12-12-2024 12:48:05,12-12-2024 12:48:07,2.004s,PASSED
+"verifyElementText(findTestObject(""Laporan/Laporan Pembayaran/Filter Search Laporan Pembayaran/Verify Data Table Kasir""), ""kasir"")",Chrome 131.0.0.0,,,12-12-2024 12:48:07,12-12-2024 12:48:07,0.313s,PASSED
+delay(2),Chrome 131.0.0.0,,,12-12-2024 12:48:07,12-12-2024 12:48:09,2.009s,PASSED
+"click(findTestObject(""Laporan/Laporan Pembayaran/Filter Search Laporan Pembayaran/Button Reset""))",Chrome 131.0.0.0,,,12-12-2024 12:48:09,12-12-2024 12:48:10,0.311s,PASSED
+"click(findTestObject(""Laporan/Laporan Pembayaran/Filter Search Laporan Pembayaran/Field Pencarian Siswa""))",Chrome 131.0.0.0,,,12-12-2024 12:48:10,12-12-2024 12:48:10,0.508s,PASSED
+"setText(findTestObject(""Laporan/Laporan Pembayaran/Filter Search Laporan Pembayaran/Field Pencarian Siswa""), ""Rezaldy"")",Chrome 131.0.0.0,,,12-12-2024 12:48:10,12-12-2024 12:48:11,0.648s,PASSED
+"click(findTestObject(""Laporan/Laporan Pembayaran/Filter Search Laporan Pembayaran/Value Rekomendasi Pencarian Siswa""))",Chrome 131.0.0.0,,,12-12-2024 12:48:11,12-12-2024 12:48:12,1.640s,PASSED
+"click(findTestObject(""Laporan/Laporan Pembayaran/Filter Search Laporan Pembayaran/Button Terapkan""))",Chrome 131.0.0.0,,,12-12-2024 12:48:12,12-12-2024 12:48:13,0.514s,PASSED
+"verifyElementText(findTestObject(""Laporan/Laporan Pembayaran/Filter Search Laporan Pembayaran/Verify Nama Siswa""), ""202410221201 - Rezaldy"")",Chrome 131.0.0.0,,,12-12-2024 12:48:13,12-12-2024 12:48:14,0.691s,PASSED
+,,,,,,,
+Test Cases/Laporan/Laporan Pembayaran/Lihat Detail Laporan Pembayaran,Chrome 131.0.0.0,,,12-12-2024 12:48:14,12-12-2024 12:48:24,10.433s,PASSED
+"openBrowser("""")",Chrome 131.0.0.0,,,12-12-2024 12:48:14,12-12-2024 12:48:15,0.979s,PASSED
+"navigateToUrl(""https://school-payment.digiform.co.id/login"")",Chrome 131.0.0.0,,,12-12-2024 12:48:15,12-12-2024 12:48:15,0.396s,PASSED
+"setText(findTestObject(""Master Data/Admin Sekolah/Login/Field Email""), ""admin.sekolah@gmail.com"")",Chrome 131.0.0.0,,,12-12-2024 12:48:15,12-12-2024 12:48:17,1.855s,PASSED
+"setText(findTestObject(""Master Data/Admin Sekolah/Login/Input Password""), ""Test1234"")",Chrome 131.0.0.0,,,12-12-2024 12:48:17,12-12-2024 12:48:18,0.571s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Login/Button Submit""))",Chrome 131.0.0.0,,,12-12-2024 12:48:18,12-12-2024 12:48:18,0.294s,PASSED
+"click(findTestObject(""Laporan/Laporan Pembayaran/Menu Laporan""))",Chrome 131.0.0.0,,,12-12-2024 12:48:18,12-12-2024 12:48:19,1.630s,PASSED
+"click(findTestObject(""Laporan/Laporan Pembayaran/Sub Menu Pembayaran""))",Chrome 131.0.0.0,,,12-12-2024 12:48:19,12-12-2024 12:48:20,0.920s,PASSED
+"click(findTestObject(""Laporan/Laporan Pembayaran/Lihat Detail Laporan Pembayaran/Button Lihat Detail""))",Chrome 131.0.0.0,,,12-12-2024 12:48:20,12-12-2024 12:48:21,0.844s,PASSED
+"verifyElementVisible(findTestObject(""Laporan/Laporan Pembayaran/Lihat Detail Laporan Pembayaran/Button Cetak""))",Chrome 131.0.0.0,,,12-12-2024 12:48:21,12-12-2024 12:48:22,0.560s,PASSED
+"click(findTestObject(""Laporan/Laporan Pembayaran/Lihat Detail Laporan Pembayaran/Button Cetak""))",Chrome 131.0.0.0,,,12-12-2024 12:48:22,12-12-2024 12:48:22,0.311s,PASSED
+delay(2),Chrome 131.0.0.0,,,12-12-2024 12:48:22,12-12-2024 12:48:24,2.011s,PASSED
+,,,,,,,
+Test Cases/Laporan/Laporan Pembayaran/Unduh Excel,Chrome 131.0.0.0,,,12-12-2024 12:48:24,12-12-2024 12:48:34,9.900s,PASSED
+"openBrowser("""")",Chrome 131.0.0.0,,,12-12-2024 12:48:24,12-12-2024 12:48:25,0.922s,PASSED
+"navigateToUrl(""https://school-payment.digiform.co.id/login"")",Chrome 131.0.0.0,,,12-12-2024 12:48:25,12-12-2024 12:48:25,0.431s,PASSED
+"setText(findTestObject(""Master Data/Admin Sekolah/Login/Field Email""), ""admin.sekolah@gmail.com"")",Chrome 131.0.0.0,,,12-12-2024 12:48:25,12-12-2024 12:48:27,1.870s,PASSED
+"setText(findTestObject(""Master Data/Admin Sekolah/Login/Input Password""), ""Test1234"")",Chrome 131.0.0.0,,,12-12-2024 12:48:27,12-12-2024 12:48:28,0.560s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Login/Button Submit""))",Chrome 131.0.0.0,,,12-12-2024 12:48:28,12-12-2024 12:48:28,0.273s,PASSED
+"click(findTestObject(""Laporan/Laporan Pembayaran/Menu Laporan""))",Chrome 131.0.0.0,,,12-12-2024 12:48:28,12-12-2024 12:48:30,2.101s,PASSED
+"click(findTestObject(""Laporan/Laporan Pembayaran/Sub Menu Pembayaran""))",Chrome 131.0.0.0,,,12-12-2024 12:48:30,12-12-2024 12:48:31,0.801s,PASSED
+"click(findTestObject(""Laporan/Laporan Pembayaran/Unduh Excel/Button Unduh Excel""))",Chrome 131.0.0.0,,,12-12-2024 12:48:31,12-12-2024 12:48:32,0.894s,PASSED
+delay(2),Chrome 131.0.0.0,,,12-12-2024 12:48:32,12-12-2024 12:48:34,2.005s,PASSED

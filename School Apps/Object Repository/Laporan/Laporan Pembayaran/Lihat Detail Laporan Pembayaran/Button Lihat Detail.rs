@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button Lihat Detail</name>
+   <tag></tag>
+   <elementGuidId>11572953-26fc-481a-91ee-0d7d380ec8ab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='layout-content']/div/div[3]/div/div/div/div/div/div[3]/div/div[2]/div[3]/div/div[2]/div/div/div[11]/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.flex.items-center.gap-1.text-xs.text-blue10</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;1 INV-12400099 343299 - Watzitooya 12/12/240024, 00:00 VA-Mandiri Fadel SMA XII IPS Laravel Beginner Course Rp750,000 Lunas Lihat&quot;i] >> internal:role=button</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>edaf7189-f36b-4c44-a6bf-98023a063753</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex items-center gap-1 text-xs text-blue10</value>
+      <webElementGuid>30d9a967-fa6e-4439-9a8e-0300f9e45de2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Lihat</value>
+      <webElementGuid>58fe22f2-e3ab-4079-9000-801a317f1747</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;layout-content&quot;)/div[@class=&quot;flex flex-col gap-6&quot;]/div[@class=&quot;flex flex-col gap-3 px-10&quot;]/div[@class=&quot;flex flex-col gap-3&quot;]/div[@class=&quot;mb-8 flex flex-col gap-3 !mb-0&quot;]/div[@class=&quot;ag-theme-quartz single-line-nowrap w-full overflow-x-auto rounded-xl border border-neutral4&quot;]/div[1]/div[1]/div[@class=&quot;ag-root-wrapper ag-ltr ag-layout-auto-height&quot;]/div[@class=&quot;ag-root-wrapper-body ag-focus-managed ag-layout-auto-height&quot;]/div[@class=&quot;ag-root ag-unselectable ag-layout-auto-height ag-body-vertical-content-no-gap ag-body-horizontal-content-no-gap&quot;]/div[@class=&quot;ag-body ag-layout-auto-height&quot;]/div[@class=&quot;ag-body-viewport ag-row-animation ag-layout-auto-height&quot;]/div[@class=&quot;ag-center-cols-viewport&quot;]/div[@class=&quot;ag-center-cols-container&quot;]/div[@class=&quot;ag-row-even ag-row-no-focus ag-row ag-row-level-0 ag-row-position-absolute ag-row-first ag-row-not-inline-editing ag-row-hover&quot;]/div[@class=&quot;ag-cell ag-cell-not-inline-editing ag-cell-normal-height ag-column-last ag-cell-value&quot;]/div[@class=&quot;flex size-full justify-center&quot;]/button[@class=&quot;flex items-center gap-1 text-xs text-blue10&quot;]</value>
+      <webElementGuid>ee3b79f2-72b2-46ab-879b-10e6508b4293</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='layout-content']/div/div[3]/div/div/div/div/div/div[3]/div/div[2]/div[3]/div/div[2]/div/div/div[11]/div/button</value>
+      <webElementGuid>f802503d-d8dd-445a-8c4f-cf0a3eaeae86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp750,000'])[1]/following::button[1]</value>
+      <webElementGuid>709e6032-2f0a-4ba4-9a94-3217b14604bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='XII IPS Laravel Beginner Course'])[1]/following::button[1]</value>
+      <webElementGuid>e219ff77-c4b8-4362-b8ce-92f4cd91d5f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='INV-12400098'])[1]/preceding::button[1]</value>
+      <webElementGuid>f92a7696-c1c8-4345-b348-f91022d4daa0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VA-Mandiri'])[2]/preceding::button[1]</value>
+      <webElementGuid>639f0e81-319c-417d-a4bd-7319f2e7253d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Lihat']/parent::*</value>
+      <webElementGuid>310e8577-402e-483d-b404-f7693f5f1391</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/div/button</value>
+      <webElementGuid>20b0166f-240a-48a7-aa5b-c9eddccd38ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' Lihat' or . = ' Lihat')]</value>
+      <webElementGuid>0bcc93f0-d4ca-40b4-86cc-ee88a1fe59ef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

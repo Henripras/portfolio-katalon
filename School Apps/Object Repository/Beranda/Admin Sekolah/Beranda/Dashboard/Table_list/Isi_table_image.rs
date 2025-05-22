@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Isi_table_image</name>
+   <tag></tag>
+   <elementGuidId>f3b704dd-0949-4a0b-9350-f48604bfa586</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='layout-content']/div/div/div[2]/div/div/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>f1c9d0ff-e18c-49e1-8e67-f30f3be56a19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://school-payment.digiform.co.id/api/assets/announcement/image/1735186070.jpg</value>
+      <webElementGuid>01bcb393-5a94-41c3-b3ad-2e475694783c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Baru Taun</value>
+      <webElementGuid>2cedaf08-d474-4f27-8149-a8322aea1fad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>h-auto w-[92px] max-w-md rounded-md object-cover</value>
+      <webElementGuid>ba4a9d81-c2e7-4a2e-87c7-3dbc146185a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;layout-content&quot;)/div[@class=&quot;h-full rounded-lg bg-white&quot;]/div[@class=&quot;flex size-full&quot;]/div[@class=&quot;grid max-h-screen w-[30%] min-w-[375px] grid-rows-[auto_1fr] bg-[#F8F8F8] px-5&quot;]/div[@class=&quot;mt-5 overflow-y-auto pb-5&quot;]/div[@class=&quot;space-y-4&quot;]/div[@class=&quot;flex cursor-pointer space-x-4&quot;]/img[@class=&quot;h-auto w-[92px] max-w-md rounded-md object-cover&quot;]</value>
+      <webElementGuid>caa09bae-9437-4806-aa22-772da3ad3196</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='layout-content']/div/div/div[2]/div/div/div/img</value>
+      <webElementGuid>1965453a-74e0-41d0-9440-303cc118b5f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Baru Taun']</value>
+      <webElementGuid>e597f5fe-e847-4c03-9078-bf0c33ebee9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/img</value>
+      <webElementGuid>d95cad16-b3f4-42ee-bb85-81726a2ae5fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://school-payment.digiform.co.id/api/assets/announcement/image/1735186070.jpg' and @alt = 'Baru Taun']</value>
+      <webElementGuid>7ec986fc-3ea3-4616-90bc-bd65845f59b3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

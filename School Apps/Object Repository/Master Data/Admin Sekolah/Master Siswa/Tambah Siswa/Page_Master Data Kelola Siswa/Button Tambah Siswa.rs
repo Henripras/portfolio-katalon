@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button Tambah Siswa</name>
+   <tag></tag>
+   <elementGuidId>82ba0943-5b01-4260-a727-1404f3615696</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='layout-content']/div/div/div/button[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Tambah&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0336ab79-f7f8-48a4-8c2f-3c20bb2a3c54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rounded-[6px] flex whitespace-nowrap justify-center items-center font-bold gap-1 h-[44px] py-2 px-6 text-sm bg-blue8 hover:bg-blue9 text-white disabled:bg-secondary2</value>
+      <webElementGuid>b8c30f01-2834-4fb7-a10b-bf12e89d4d60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tambah</value>
+      <webElementGuid>968457e5-d4c4-4e4e-b5a5-c086d3da9b03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;layout-content&quot;)/div[@class=&quot;flex flex-col gap-3 px-10&quot;]/div[@class=&quot;flex items-center justify-between&quot;]/div[@class=&quot;flex gap-2&quot;]/button[@class=&quot;rounded-[6px] flex whitespace-nowrap justify-center items-center font-bold gap-1 h-[44px] py-2 px-6 text-sm bg-blue8 hover:bg-blue9 text-white disabled:bg-secondary2&quot;]</value>
+      <webElementGuid>070d07cc-d35b-4cfc-91e4-f9540e3f9f6a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='layout-content']/div/div/div/button[2]</value>
+      <webElementGuid>505d1e3c-e9d9-4654-b7bf-6ad90e2fafee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unduh'])[1]/following::button[1]</value>
+      <webElementGuid>6f09ea4c-d62e-4a2b-ad26-413a202f7386</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unggah'])[1]/following::button[2]</value>
+      <webElementGuid>86de2839-bfa1-48a2-bb55-2abf6dc54a88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset'])[1]/preceding::button[1]</value>
+      <webElementGuid>013a3030-c883-499f-a687-143921680bb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>12dc2ecb-a1d3-4d58-b822-90e0eb1cf031</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Tambah' or . = 'Tambah')]</value>
+      <webElementGuid>ccec1f3b-4e3a-4470-a010-95e1e6c68ccb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

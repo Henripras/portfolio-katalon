@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Field Email</name>
+   <tag></tag>
+   <elementGuidId>b4653899-d67a-458d-9f1a-529c241f2038</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;email&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='email']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Masukkan Email/Username Anda&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>83a1504c-33ec-49ec-af2b-47c676cc9315</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>016351f2-9152-4558-92d6-48b2bd1d9599</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Masukkan Email/Username Anda</value>
+      <webElementGuid>2a1df169-713c-417f-87df-9da24fe189c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>h-full w-full rounded-md px-3 text-base focus:outline-none</value>
+      <webElementGuid>6fe35810-ec05-43fb-9c20-f903fcdc7f73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>email</value>
+      <webElementGuid>b8759ed0-eaec-4653-9c7c-491b43c95b22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;flex h-screen w-full p-4 md:p-10&quot;]/main[@class=&quot;flex w-full overflow-hidden&quot;]/div[@class=&quot;flex h-auto w-full flex-col items-center justify-center p-4 lg:w-2/5&quot;]/div[@class=&quot;w-full max-w-[420px]&quot;]/form[1]/div[@class=&quot;flex w-full flex-col gap-1 mb-4&quot;]/div[@class=&quot;group relative flex h-[52px] w-full items-center gap-[10px] rounded-md border border-neutral5 focus-within:border-blue6&quot;]/input[@class=&quot;h-full w-full rounded-md px-3 text-base focus:outline-none&quot;]</value>
+      <webElementGuid>655915f2-cf11-43ce-8ec2-cf1eacc0f6f5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@name='email']</value>
+      <webElementGuid>2b97ee8d-681c-43f1-8cd6-dfa7455cf44d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/main/div/div/form/div[2]/div[2]/input</value>
+      <webElementGuid>07f8c466-6e02-4125-8855-77572dadd4ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>98a529e3-71f1-425f-8edc-7846fecedca9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Masukkan Email/Username Anda' and @name = 'email']</value>
+      <webElementGuid>d9ae6eba-8b55-4979-ba07-dfbd57d377bb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

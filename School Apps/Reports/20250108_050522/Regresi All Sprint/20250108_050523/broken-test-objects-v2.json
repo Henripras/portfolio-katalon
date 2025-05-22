@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Master Data/Admin Sekolah/Tahun Ajaran/Menu Tahun Ajaran",
+      "brokenLocator": "(//a[@href\u003d\u0027/master-data/school-year\u0027])[2](//a[@href\u003d\u0027/master-data/school-year\u0027])[2]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(//*[@data-testid \u003d \u0027sidebar-menu-tahun-ajaran\u0027])[2]",
+      "proposedLocatorMethod": "BASIC",
+      "recoveryMethod": "BASIC",
+      "pathToScreenshot": "Reports/20250108_050522/Regresi All Sprint/20250108_050523/Object Repository/Master Data/Admin Sekolah/Tahun Ajaran/Menu Tahun Ajaran_BASIC.png"
+    }
+  ]
+}

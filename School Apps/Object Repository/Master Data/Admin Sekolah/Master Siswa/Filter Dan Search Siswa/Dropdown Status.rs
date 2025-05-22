@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Dropdown Status</name>
+   <tag></tag>
+   <elementGuidId>20f8857f-1fa9-4d05-8484-cf8297227b42</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='layout-content']/div/div[2]/div/div[3]/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^StatusPilih status$/ >> [data-testid=&quot;select-field&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>024bfdfb-1e9c-4642-bc7e-428ed1219966</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-disabled</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>2d948a01-9bc2-4cff-ad8f-1df7302a6eaf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>a8b46879-112e-496c-8239-a4b775847341</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>select-field</value>
+      <webElementGuid>3638518c-b5b3-49ac-8860-3526fce41e98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex min-h-[52px] w-full cursor-pointer items-center overflow-hidden text-ellipsis whitespace-nowrap rounded-[6px] border px-3 py-2 hover:border-blue6 focus:border-blue6 focus:outline-none border-neutral5 bg-white</value>
+      <webElementGuid>5db84259-32e4-421d-ae32-819cb959cfb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pilih status</value>
+      <webElementGuid>af96cb76-b7d2-485e-8bd0-06b0a0d5b680</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;layout-content&quot;)/div[@class=&quot;flex flex-col gap-3 px-10&quot;]/div[@class=&quot;flex flex-col gap-4&quot;]/div[@class=&quot;flex gap-6&quot;]/div[@class=&quot;relative flex flex-col gap-1 w-full max-w-[263px]&quot;]/div[@class=&quot;relative&quot;]/div[@class=&quot;flex min-h-[52px] w-full cursor-pointer items-center overflow-hidden text-ellipsis whitespace-nowrap rounded-[6px] border px-3 py-2 hover:border-blue6 focus:border-blue6 focus:outline-none border-neutral5 bg-white&quot;]</value>
+      <webElementGuid>1106cd42-5522-4508-9503-0828b3840d58</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='layout-content']/div/div[2]/div/div[3]/div[2]/div</value>
+      <webElementGuid>452336d7-754b-4175-93e5-5951856c0813</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tambah'])[1]/following::div[16]</value>
+      <webElementGuid>e9f87586-48c9-4b81-a39d-83bf286ad641</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unduh'])[1]/following::div[17]</value>
+      <webElementGuid>b1dd0e4f-c739-4337-8932-72f71556bd6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset'])[1]/preceding::div[14]</value>
+      <webElementGuid>58941d1c-a075-4dae-8743-1b6b717df864</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terapkan'])[1]/preceding::div[15]</value>
+      <webElementGuid>ce92c2d4-2392-4190-9e70-f71f2b1866af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div[3]/div[2]/div</value>
+      <webElementGuid>0a898114-9a47-4e7d-aa70-6e0748ad073b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Pilih status' or . = 'Pilih status')]</value>
+      <webElementGuid>d343dff4-7255-4bcc-8393-6bd6adef9d4c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

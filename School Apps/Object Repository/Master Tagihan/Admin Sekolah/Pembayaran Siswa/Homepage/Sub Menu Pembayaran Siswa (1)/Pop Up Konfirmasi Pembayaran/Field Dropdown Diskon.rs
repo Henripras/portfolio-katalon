@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Field Dropdown Diskon</name>
+   <tag></tag>
+   <elementGuidId>1d9cea35-e167-43ff-b5e6-db2218d42cb3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modal']/div[2]/div/div[4]/div/div[2]/div[2]/div/div/div</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@data-testid = 'select-field' and (text() = 'Rp' or . = 'Rp')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#modal [data-testid=&quot;select-field&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>select-field</value>
+      <webElementGuid>da31043a-7866-4103-a628-49ea2f78ff1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Rp</value>
+      <webElementGuid>fdd69a9f-9de8-4504-b36e-2fca2b80a659</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal']/div[2]/div/div[4]/div/div[2]/div[2]/div/div/div</value>
+      <webElementGuid>c46502c9-dbbc-4a61-8983-1594d0857b11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='of'])[4]/following::div[17]</value>
+      <webElementGuid>85ffedb1-74dd-46c7-96f7-2c13ead482da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Page'])[2]/following::div[17]</value>
+      <webElementGuid>b719bc4f-74f5-46a4-88a3-4b903b7e660c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div[2]/div[2]/div/div/div</value>
+      <webElementGuid>ee6665fd-66d0-444c-8ade-7d8eb7d2aabc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Rp' or . = 'Rp')]</value>
+      <webElementGuid>d734137a-23ba-4121-8f48-9a2f6a77153a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

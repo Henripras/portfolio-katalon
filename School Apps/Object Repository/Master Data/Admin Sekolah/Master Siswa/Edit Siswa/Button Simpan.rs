@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button Simpan</name>
+   <tag></tag>
+   <elementGuidId>f5f69074-63a2-4389-81ec-736f10ede301</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='layout-content']/div[2]/div[2]/div/button[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Simpan' or . = 'Simpan')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Simpan&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f4ccf8c6-801d-425b-aad0-f3f2db64a138</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rounded-[6px] flex whitespace-nowrap justify-center items-center font-bold gap-1 h-[44px] py-2 px-6 text-sm bg-blue8 hover:bg-blue9 text-white disabled:bg-secondary2</value>
+      <webElementGuid>69db4fc4-44ad-4ac5-8299-5d44213e3eff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Simpan</value>
+      <webElementGuid>e1009a35-b331-46e5-b433-c8872e4ef8e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;layout-content&quot;)/div[@class=&quot;flex h-full flex-col overflow-auto&quot;]/div[@class=&quot;border-t bg-white px-10 py-4&quot;]/div[@class=&quot;flex justify-end gap-3&quot;]/button[@class=&quot;rounded-[6px] flex whitespace-nowrap justify-center items-center font-bold gap-1 h-[44px] py-2 px-6 text-sm bg-blue8 hover:bg-blue9 text-white disabled:bg-secondary2&quot;]</value>
+      <webElementGuid>6c9ed4d7-08c7-49f4-93e1-ece2e110da4b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='layout-content']/div[2]/div[2]/div/button[2]</value>
+      <webElementGuid>2986864a-4100-4b7e-8ef4-47f52e6ff63d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Batal'])[1]/following::button[1]</value>
+      <webElementGuid>3746101c-66b1-435a-a9df-415665fdd54c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='fasda'])[1]/following::button[2]</value>
+      <webElementGuid>e91c7bed-95cd-426e-9162-0b0aa13635b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>62136a7b-1fb7-40eb-8746-2838c0dacebb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Simpan' or . = 'Simpan')]</value>
+      <webElementGuid>d03f19b9-66b8-480c-b2d9-3b99019e1c6b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

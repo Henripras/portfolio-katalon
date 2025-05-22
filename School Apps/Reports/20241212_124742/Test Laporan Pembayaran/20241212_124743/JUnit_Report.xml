@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Test Laporan Pembayaran" time="44.195" tests="3" failures="0" errors="0">
+   <testsuite name="Test Laporan Pembayaran" tests="3" failures="0" errors="0" time="44.195" skipped="0" timestamp="12-12-2024T12:47:50" hostname="henri - Henri" id="Test Suites/Test Laporan Pembayaran">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="C:\\Users\\henri\\Videos\\school-payment-automation-testing\\Reports\\20241212_124742\\Test Laporan Pembayaran\\20241212_124743"/>
+         <property name="logFiles" value="C:\\Users\\henri\\Videos\\school-payment-automation-testing\\Reports\\20241212_124742\\Test Laporan Pembayaran\\20241212_124743\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="henri - Henri"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="10.0.0.223"/>
+         <property name="browser" value="Chrome 131.0.0.0"/>
+         <property name="hostAddress" value="192.168.1.6"/>
+         <property name="sessionId" value="80a03153eb7dc5b9408b49a14c3981cf"/>
+         <property name="seleniumVersion" value="4.22.0"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/Laporan/Laporan Pembayaran/Filter Search Laporan Pembayaran" time="23.628" classname="Test Cases/Laporan/Laporan Pembayaran/Filter Search Laporan Pembayaran" status="PASSED">
+         <system-out><![CDATA[12-12-2024T12:47:50 - [TEST_CASE][PASSED] - Test Cases/Laporan/Laporan Pembayaran/Filter Search Laporan Pembayaran: Test Cases/Laporan/Laporan Pembayaran/Filter Search Laporan Pembayaran
+
+12-12-2024T12:47:50 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+12-12-2024T12:47:51 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+12-12-2024T12:47:51 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+12-12-2024T12:47:52 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+12-12-2024T12:47:52 - [TEST_STEP][PASSED] - navigateToUrl("https://school-payment.digiform.co.id/login"): Navigate to 'https://school-payment.digiform.co.id/login' successfully
+
+12-12-2024T12:47:53 - [MESSAGE][PASSED] - Navigate to 'https://school-payment.digiform.co.id/login' successfully
+
+12-12-2024T12:47:53 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Admin Sekolah/Login/Field Email"), "admin.sekolah@gmail.com"): Text 'admin.sekolah@gmail.com' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Field Email'
+
+12-12-2024T12:47:54 - [MESSAGE][PASSED] - Text 'admin.sekolah@gmail.com' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Field Email'
+
+12-12-2024T12:47:55 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Admin Sekolah/Login/Input Password"), "Test1234"): Text 'Test1234' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Input Password'
+
+12-12-2024T12:47:55 - [MESSAGE][PASSED] - Text 'Test1234' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Input Password'
+
+12-12-2024T12:47:55 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Button Submit")): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Button Submit' is clicked on
+
+12-12-2024T12:47:55 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Button Submit' is clicked on
+
+12-12-2024T12:47:55 - [TEST_STEP][PASSED] - click(findTestObject("Laporan/Laporan Pembayaran/Menu Laporan")): Object: 'Object Repository/Laporan/Laporan Pembayaran/Menu Laporan' is clicked on
+
+12-12-2024T12:47:57 - [MESSAGE][PASSED] - Object: 'Object Repository/Laporan/Laporan Pembayaran/Menu Laporan' is clicked on
+
+12-12-2024T12:47:57 - [TEST_STEP][PASSED] - click(findTestObject("Laporan/Laporan Pembayaran/Sub Menu Pembayaran")): Object: 'Object Repository/Laporan/Laporan Pembayaran/Sub Menu Pembayaran' is clicked on
+
+12-12-2024T12:47:58 - [MESSAGE][PASSED] - Object: 'Object Repository/Laporan/Laporan Pembayaran/Sub Menu Pembayaran' is clicked on
+
+12-12-2024T12:47:58 - [TEST_STEP][PASSED] - click(findTestObject("Laporan/Laporan Pembayaran/Filter Search Laporan Pembayaran/Dropdown Kelas")): Object: 'Object Repository/Laporan/Laporan Pembayaran/Filter Search Laporan Pembayaran/Dropdown Kelas' is clicked on
+
+12-12-2024T12:47:59 - [MESSAGE][PASSED] - Object: 'Object Repository/Laporan/Laporan Pembayaran/Filter Search Laporan Pembayaran/Dropdown Kelas' is clicked on
+
+12-12-2024T12:47:59 - [TEST_STEP][PASSED] - click(findTestObject("Laporan/Laporan Pembayaran/Filter Search Laporan Pembayaran/Field Pencarian Kelas")): Object: 'Object Repository/Laporan/Laporan Pembayaran/Filter Search Laporan Pembayaran/Field Pencarian Kelas' is clicked on
+
+12-12-2024T12:47:59 - [MESSAGE][PASSED] - Object: 'Object Repository/Laporan/Laporan Pembayaran/Filter Search Laporan Pembayaran/Field Pencarian Kelas' is clicked on
+
+12-12-2024T12:47:59 - [TEST_STEP][PASSED] - setText(findTestObject("Laporan/Laporan Pembayaran/Filter Search Laporan Pembayaran/Field Pencarian Kelas"), "XII IPS 2"): Text 'XII IPS 2' is set on object 'Object Repository/Laporan/Laporan Pembayaran/Filter Search Laporan Pembayaran/Field Pencarian Kelas'
+
+12-12-2024T12:48:00 - [MESSAGE][PASSED] - Text 'XII IPS 2' is set on object 'Object Repository/Laporan/Laporan Pembayaran/Filter Search Laporan Pembayaran/Field Pencarian Kelas'
+
+12-12-2024T12:48:00 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Laporan/Laporan Pembayaran/Filter Search Laporan Pembayaran/Value Dropdown Kelas XII IPS 2"), STOP_ON_FAILURE): Object 'Object Repository/Laporan/Laporan Pembayaran/Filter Search Laporan Pembayaran/Value Dropdown Kelas XII IPS 2' is visible
+
+12-12-2024T12:48:00 - [MESSAGE][PASSED] - Object 'Object Repository/Laporan/Laporan Pembayaran/Filter Search Laporan Pembayaran/Value Dropdown Kelas XII IPS 2' is visible
+
+12-12-2024T12:48:00 - [TEST_STEP][PASSED] - click(findTestObject("Laporan/Laporan Pembayaran/Filter Search Laporan Pembayaran/Value Dropdown Kelas XII IPS 2")): Object: 'Object Repository/Laporan/Laporan Pembayaran/Filter Search Laporan Pembayaran/Value Dropdown Kelas XII IPS 2' is clicked on
+
+12-12-2024T12:48:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Laporan/Laporan Pembayaran/Filter Search Laporan Pembayaran/Value Dropdown Kelas XII IPS 2' is clicked on
+
+12-12-2024T12:48:01 - [TEST_STEP][PASSED] - click(findTestObject("Laporan/Laporan Pembayaran/Filter Search Laporan Pembayaran/Dropdown Metode Pembayaran")): Object: 'Object Repository/Laporan/Laporan Pembayaran/Filter Search Laporan Pembayaran/Dropdown Metode Pembayaran' is clicked on
+
+12-12-2024T12:48:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Laporan/Laporan Pembayaran/Filter Search Laporan Pembayaran/Dropdown Metode Pembayaran' is clicked on
+
+12-12-2024T12:48:01 - [TEST_STEP][PASSED] - click(findTestObject("Laporan/Laporan Pembayaran/Filter Search Laporan Pembayaran/Value Metode Pembayaran Kasir")): Object: 'Object Repository/Laporan/Laporan Pembayaran/Filter Search Laporan Pembayaran/Value Metode Pembayaran Kasir' is clicked on
+
+12-12-2024T12:48:02 - [MESSAGE][PASSED] - Object: 'Object Repository/Laporan/Laporan Pembayaran/Filter Search Laporan Pembayaran/Value Metode Pembayaran Kasir' is clicked on
+
+12-12-2024T12:48:02 - [TEST_STEP][PASSED] - click(findTestObject("Laporan/Laporan Pembayaran/Filter Search Laporan Pembayaran/Dropdown Status")): Object: 'Object Repository/Laporan/Laporan Pembayaran/Filter Search Laporan Pembayaran/Dropdown Status' is clicked on
+
+12-12-2024T12:48:02 - [MESSAGE][PASSED] - Object: 'Object Repository/Laporan/Laporan Pembayaran/Filter Search Laporan Pembayaran/Dropdown Status' is clicked on
+
+12-12-2024T12:48:02 - [TEST_STEP][PASSED] - click(findTestObject("Laporan/Laporan Pembayaran/Filter Search Laporan Pembayaran/Value Status Lunas")): Object: 'Object Repository/Laporan/Laporan Pembayaran/Filter Search Laporan Pembayaran/Value Status Lunas' is clicked on
+
+12-12-2024T12:48:03 - [MESSAGE][PASSED] - Object: 'Object Repository/Laporan/Laporan Pembayaran/Filter Search Laporan Pembayaran/Value Status Lunas' is clicked on
+
+12-12-2024T12:48:03 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+12-12-2024T12:48:05 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+12-12-2024T12:48:05 - [TEST_STEP][PASSED] - click(findTestObject("Laporan/Laporan Pembayaran/Filter Search Laporan Pembayaran/Button Terapkan")): Object: 'Object Repository/Laporan/Laporan Pembayaran/Filter Search Laporan Pembayaran/Button Terapkan' is clicked on
+
+12-12-2024T12:48:05 - [MESSAGE][PASSED] - Object: 'Object Repository/Laporan/Laporan Pembayaran/Filter Search Laporan Pembayaran/Button Terapkan' is clicked on
+
+12-12-2024T12:48:05 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+12-12-2024T12:48:07 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+12-12-2024T12:48:07 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Laporan/Laporan Pembayaran/Filter Search Laporan Pembayaran/Verify Data Table Kasir"), "kasir"): Actual text and expected text of test object 'Object Repository/Laporan/Laporan Pembayaran/Filter Search Laporan Pembayaran/Verify Data Table Kasir' are matched.
+
+12-12-2024T12:48:07 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Laporan/Laporan Pembayaran/Filter Search Laporan Pembayaran/Verify Data Table Kasir' are matched.
+
+12-12-2024T12:48:07 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+12-12-2024T12:48:09 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+12-12-2024T12:48:09 - [TEST_STEP][PASSED] - click(findTestObject("Laporan/Laporan Pembayaran/Filter Search Laporan Pembayaran/Button Reset")): Object: 'Object Repository/Laporan/Laporan Pembayaran/Filter Search Laporan Pembayaran/Button Reset' is clicked on
+
+12-12-2024T12:48:10 - [MESSAGE][PASSED] - Object: 'Object Repository/Laporan/Laporan Pembayaran/Filter Search Laporan Pembayaran/Button Reset' is clicked on
+
+12-12-2024T12:48:10 - [TEST_STEP][PASSED] - click(findTestObject("Laporan/Laporan Pembayaran/Filter Search Laporan Pembayaran/Field Pencarian Siswa")): Object: 'Object Repository/Laporan/Laporan Pembayaran/Filter Search Laporan Pembayaran/Field Pencarian Siswa' is clicked on
+
+12-12-2024T12:48:10 - [MESSAGE][PASSED] - Object: 'Object Repository/Laporan/Laporan Pembayaran/Filter Search Laporan Pembayaran/Field Pencarian Siswa' is clicked on
+
+12-12-2024T12:48:10 - [TEST_STEP][PASSED] - setText(findTestObject("Laporan/Laporan Pembayaran/Filter Search Laporan Pembayaran/Field Pencarian Siswa"), "Rezaldy"): Text 'Rezaldy' is set on object 'Object Repository/Laporan/Laporan Pembayaran/Filter Search Laporan Pembayaran/Field Pencarian Siswa'
+
+12-12-2024T12:48:11 - [MESSAGE][PASSED] - Text 'Rezaldy' is set on object 'Object Repository/Laporan/Laporan Pembayaran/Filter Search Laporan Pembayaran/Field Pencarian Siswa'
+
+12-12-2024T12:48:11 - [TEST_STEP][PASSED] - click(findTestObject("Laporan/Laporan Pembayaran/Filter Search Laporan Pembayaran/Value Rekomendasi Pencarian Siswa")): Object: 'Object Repository/Laporan/Laporan Pembayaran/Filter Search Laporan Pembayaran/Value Rekomendasi Pencarian Siswa' is clicked on
+
+12-12-2024T12:48:12 - [MESSAGE][PASSED] - Object: 'Object Repository/Laporan/Laporan Pembayaran/Filter Search Laporan Pembayaran/Value Rekomendasi Pencarian Siswa' is clicked on
+
+12-12-2024T12:48:12 - [TEST_STEP][PASSED] - click(findTestObject("Laporan/Laporan Pembayaran/Filter Search Laporan Pembayaran/Button Terapkan")): Object: 'Object Repository/Laporan/Laporan Pembayaran/Filter Search Laporan Pembayaran/Button Terapkan' is clicked on
+
+12-12-2024T12:48:13 - [MESSAGE][PASSED] - Object: 'Object Repository/Laporan/Laporan Pembayaran/Filter Search Laporan Pembayaran/Button Terapkan' is clicked on
+
+12-12-2024T12:48:13 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Laporan/Laporan Pembayaran/Filter Search Laporan Pembayaran/Verify Nama Siswa"), "202410221201 - Rezaldy"): Actual text and expected text of test object 'Object Repository/Laporan/Laporan Pembayaran/Filter Search Laporan Pembayaran/Verify Nama Siswa' are matched.
+
+12-12-2024T12:48:14 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Laporan/Laporan Pembayaran/Filter Search Laporan Pembayaran/Verify Nama Siswa' are matched.]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Laporan/Laporan Pembayaran/Lihat Detail Laporan Pembayaran" time="10.433" classname="Test Cases/Laporan/Laporan Pembayaran/Lihat Detail Laporan Pembayaran" status="PASSED">
+         <system-out><![CDATA[12-12-2024T12:48:14 - [TEST_CASE][PASSED] - Test Cases/Laporan/Laporan Pembayaran/Lihat Detail Laporan Pembayaran: Test Cases/Laporan/Laporan Pembayaran/Lihat Detail Laporan Pembayaran
+
+12-12-2024T12:48:14 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+12-12-2024T12:48:14 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+12-12-2024T12:48:14 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+12-12-2024T12:48:14 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+12-12-2024T12:48:15 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+12-12-2024T12:48:15 - [TEST_STEP][PASSED] - navigateToUrl("https://school-payment.digiform.co.id/login"): Navigate to 'https://school-payment.digiform.co.id/login' successfully
+
+12-12-2024T12:48:15 - [MESSAGE][PASSED] - Navigate to 'https://school-payment.digiform.co.id/login' successfully
+
+12-12-2024T12:48:15 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Admin Sekolah/Login/Field Email"), "admin.sekolah@gmail.com"): Text 'admin.sekolah@gmail.com' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Field Email'
+
+12-12-2024T12:48:17 - [MESSAGE][PASSED] - Text 'admin.sekolah@gmail.com' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Field Email'
+
+12-12-2024T12:48:17 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Admin Sekolah/Login/Input Password"), "Test1234"): Text 'Test1234' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Input Password'
+
+12-12-2024T12:48:18 - [MESSAGE][PASSED] - Text 'Test1234' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Input Password'
+
+12-12-2024T12:48:18 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Button Submit")): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Button Submit' is clicked on
+
+12-12-2024T12:48:18 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Button Submit' is clicked on
+
+12-12-2024T12:48:18 - [TEST_STEP][PASSED] - click(findTestObject("Laporan/Laporan Pembayaran/Menu Laporan")): Object: 'Object Repository/Laporan/Laporan Pembayaran/Menu Laporan' is clicked on
+
+12-12-2024T12:48:19 - [MESSAGE][PASSED] - Object: 'Object Repository/Laporan/Laporan Pembayaran/Menu Laporan' is clicked on
+
+12-12-2024T12:48:19 - [TEST_STEP][PASSED] - click(findTestObject("Laporan/Laporan Pembayaran/Sub Menu Pembayaran")): Object: 'Object Repository/Laporan/Laporan Pembayaran/Sub Menu Pembayaran' is clicked on
+
+12-12-2024T12:48:20 - [MESSAGE][PASSED] - Object: 'Object Repository/Laporan/Laporan Pembayaran/Sub Menu Pembayaran' is clicked on
+
+12-12-2024T12:48:20 - [TEST_STEP][PASSED] - click(findTestObject("Laporan/Laporan Pembayaran/Lihat Detail Laporan Pembayaran/Button Lihat Detail")): Object: 'Object Repository/Laporan/Laporan Pembayaran/Lihat Detail Laporan Pembayaran/Button Lihat Detail' is clicked on
+
+12-12-2024T12:48:21 - [MESSAGE][PASSED] - Object: 'Object Repository/Laporan/Laporan Pembayaran/Lihat Detail Laporan Pembayaran/Button Lihat Detail' is clicked on
+
+12-12-2024T12:48:21 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Laporan/Laporan Pembayaran/Lihat Detail Laporan Pembayaran/Button Cetak")): Object 'Object Repository/Laporan/Laporan Pembayaran/Lihat Detail Laporan Pembayaran/Button Cetak' is visible
+
+12-12-2024T12:48:22 - [MESSAGE][PASSED] - Object 'Object Repository/Laporan/Laporan Pembayaran/Lihat Detail Laporan Pembayaran/Button Cetak' is visible
+
+12-12-2024T12:48:22 - [TEST_STEP][PASSED] - click(findTestObject("Laporan/Laporan Pembayaran/Lihat Detail Laporan Pembayaran/Button Cetak")): Object: 'Object Repository/Laporan/Laporan Pembayaran/Lihat Detail Laporan Pembayaran/Button Cetak' is clicked on
+
+12-12-2024T12:48:22 - [MESSAGE][PASSED] - Object: 'Object Repository/Laporan/Laporan Pembayaran/Lihat Detail Laporan Pembayaran/Button Cetak' is clicked on
+
+12-12-2024T12:48:22 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+12-12-2024T12:48:24 - [MESSAGE][PASSED] - Delayed 2 second(s)]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Laporan/Laporan Pembayaran/Unduh Excel" time="9.9" classname="Test Cases/Laporan/Laporan Pembayaran/Unduh Excel" status="PASSED">
+         <system-out><![CDATA[12-12-2024T12:48:24 - [TEST_CASE][PASSED] - Test Cases/Laporan/Laporan Pembayaran/Unduh Excel: Test Cases/Laporan/Laporan Pembayaran/Unduh Excel
+
+12-12-2024T12:48:24 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+12-12-2024T12:48:24 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+12-12-2024T12:48:24 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+12-12-2024T12:48:24 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+12-12-2024T12:48:25 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+12-12-2024T12:48:25 - [TEST_STEP][PASSED] - navigateToUrl("https://school-payment.digiform.co.id/login"): Navigate to 'https://school-payment.digiform.co.id/login' successfully
+
+12-12-2024T12:48:25 - [MESSAGE][PASSED] - Navigate to 'https://school-payment.digiform.co.id/login' successfully
+
+12-12-2024T12:48:25 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Admin Sekolah/Login/Field Email"), "admin.sekolah@gmail.com"): Text 'admin.sekolah@gmail.com' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Field Email'
+
+12-12-2024T12:48:27 - [MESSAGE][PASSED] - Text 'admin.sekolah@gmail.com' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Field Email'
+
+12-12-2024T12:48:27 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Admin Sekolah/Login/Input Password"), "Test1234"): Text 'Test1234' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Input Password'
+
+12-12-2024T12:48:28 - [MESSAGE][PASSED] - Text 'Test1234' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Input Password'
+
+12-12-2024T12:48:28 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Button Submit")): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Button Submit' is clicked on
+
+12-12-2024T12:48:28 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Button Submit' is clicked on
+
+12-12-2024T12:48:28 - [TEST_STEP][PASSED] - click(findTestObject("Laporan/Laporan Pembayaran/Menu Laporan")): Object: 'Object Repository/Laporan/Laporan Pembayaran/Menu Laporan' is clicked on
+
+12-12-2024T12:48:30 - [MESSAGE][PASSED] - Object: 'Object Repository/Laporan/Laporan Pembayaran/Menu Laporan' is clicked on
+
+12-12-2024T12:48:30 - [TEST_STEP][PASSED] - click(findTestObject("Laporan/Laporan Pembayaran/Sub Menu Pembayaran")): Object: 'Object Repository/Laporan/Laporan Pembayaran/Sub Menu Pembayaran' is clicked on
+
+12-12-2024T12:48:31 - [MESSAGE][PASSED] - Object: 'Object Repository/Laporan/Laporan Pembayaran/Sub Menu Pembayaran' is clicked on
+
+12-12-2024T12:48:31 - [TEST_STEP][PASSED] - click(findTestObject("Laporan/Laporan Pembayaran/Unduh Excel/Button Unduh Excel")): Object: 'Object Repository/Laporan/Laporan Pembayaran/Unduh Excel/Button Unduh Excel' is clicked on
+
+12-12-2024T12:48:32 - [MESSAGE][PASSED] - Object: 'Object Repository/Laporan/Laporan Pembayaran/Unduh Excel/Button Unduh Excel' is clicked on
+
+12-12-2024T12:48:32 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+12-12-2024T12:48:34 - [MESSAGE][PASSED] - Delayed 2 second(s)]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[12-12-2024T12:47:50 - [TEST_SUITE][PASSED] - Test Laporan Pembayaran: Test Cases/Laporan/Laporan Pembayaran/Unduh Excel]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Regresi Tagihan Persiswa</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fdcc9ef9-7c3d-4d63-94f5-8a64a1ba38a8</testCaseGuid>
+</TestCaseEntity>

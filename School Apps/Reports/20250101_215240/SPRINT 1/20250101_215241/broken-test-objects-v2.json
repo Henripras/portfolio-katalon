@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Master Data/Super Admin/Edit Sekolah/Master Data Sekolah Dashboard/Toast Notif Edit",
+      "brokenLocator": "(//div[@id\u003d\u0027school-success-toast\u0027])[2]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[2]/div/div",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20250101_215240/SPRINT 1/20250101_215241/Object Repository/Master Data/Super Admin/Edit Sekolah/Master Data Sekolah Dashboard/Toast Notif Edit_position.png"
+    }
+  ]
+}

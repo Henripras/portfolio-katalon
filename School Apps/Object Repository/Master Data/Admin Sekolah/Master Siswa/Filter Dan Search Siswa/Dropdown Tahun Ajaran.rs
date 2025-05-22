@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Dropdown Tahun Ajaran</name>
+   <tag></tag>
+   <elementGuidId>261d37fb-a4ea-487b-bbdc-bacf17f3b127</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='layout-content']/div/div[2]/div/div[4]/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^Tahun AjaranPilih tahun ajaran$/ >> [data-testid=&quot;select-field&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>cd312be7-d4a2-4d54-a322-952951dd8035</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-disabled</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>5934d443-5667-48ab-8fd0-3af41bd48ebb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>6f941792-48da-4461-8ed6-403fce6ab301</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>select-field</value>
+      <webElementGuid>441cd91d-fc8c-4e4b-8dce-88f5b1817ab7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex min-h-[52px] w-full cursor-pointer items-center overflow-hidden text-ellipsis whitespace-nowrap rounded-[6px] border px-3 py-2 hover:border-blue6 focus:border-blue6 focus:outline-none border-neutral5 bg-white</value>
+      <webElementGuid>a82d5a1b-46d1-4ef6-a1d4-b0e8d2f096f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pilih tahun ajaran</value>
+      <webElementGuid>bf45237f-5199-4068-96f1-cba11afa5ef7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;layout-content&quot;)/div[@class=&quot;flex flex-col gap-3 px-10&quot;]/div[@class=&quot;flex flex-col gap-4&quot;]/div[@class=&quot;flex gap-6&quot;]/div[@class=&quot;relative flex flex-col gap-1 w-full max-w-[263px]&quot;]/div[@class=&quot;relative&quot;]/div[@class=&quot;flex min-h-[52px] w-full cursor-pointer items-center overflow-hidden text-ellipsis whitespace-nowrap rounded-[6px] border px-3 py-2 hover:border-blue6 focus:border-blue6 focus:outline-none border-neutral5 bg-white&quot;]</value>
+      <webElementGuid>a9918697-fb4f-4aee-aab5-e68b8527fef7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='layout-content']/div/div[2]/div/div[4]/div[2]/div</value>
+      <webElementGuid>bff3f389-e1da-4741-b53f-ba4a7d483c9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tambah'])[1]/following::div[21]</value>
+      <webElementGuid>794505b8-1a2d-4fb6-bb2a-07e2f0a40e18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unduh'])[1]/following::div[22]</value>
+      <webElementGuid>6eb809a0-ed81-4f06-a452-c09a0abe190d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset'])[1]/preceding::div[9]</value>
+      <webElementGuid>5ce0c666-155d-4fff-8bfe-9f2c8fac3f7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terapkan'])[1]/preceding::div[10]</value>
+      <webElementGuid>23aaf3a4-027c-4348-988a-28fbce9ebfca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div</value>
+      <webElementGuid>e6ab4a3f-8d45-4ae6-a25b-25d44529339c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Pilih tahun ajaran' or . = 'Pilih tahun ajaran')]</value>
+      <webElementGuid>3e35ce37-f49d-40fe-b936-f608df5fc052</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

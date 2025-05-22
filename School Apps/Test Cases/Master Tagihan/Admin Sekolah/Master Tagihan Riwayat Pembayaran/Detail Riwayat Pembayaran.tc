@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Detail Riwayat Pembayaran</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bfc18b38-160b-42ba-999c-be6620cac393</testCaseGuid>
+</TestCaseEntity>

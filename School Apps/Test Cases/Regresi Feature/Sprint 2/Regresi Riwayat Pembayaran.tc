@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Regresi Riwayat Pembayaran</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e4e89da7-6a8c-4fee-8768-892b274ce2b1</testCaseGuid>
+</TestCaseEntity>

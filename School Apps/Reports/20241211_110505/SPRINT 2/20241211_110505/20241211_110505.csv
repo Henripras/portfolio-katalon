@@ -1,0 +1,298 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+SPRINT 2,Chrome 131.0.0.0,,,11-12-2024 11:05:13,11-12-2024 11:09:53,4m - 40.286s,PASSED
+,,,,,,,
+Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Pembayaran Per Siswa/Filter Dan Search Tagihan Persiswa,Chrome 131.0.0.0,,,11-12-2024 11:05:13,11-12-2024 11:05:57,43.790s,PASSED
+"openBrowser("""")",Chrome 131.0.0.0,,,11-12-2024 11:05:13,11-12-2024 11:05:16,2.805s,PASSED
+"navigateToUrl(""https://school-payment.digiform.co.id/login"")",Chrome 131.0.0.0,,,11-12-2024 11:05:16,11-12-2024 11:05:26,9.641s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Login/Field Email""))",Chrome 131.0.0.0,,,11-12-2024 11:05:26,11-12-2024 11:05:27,1.633s,PASSED
+"setText(findTestObject(""Master Data/Admin Sekolah/Login/Field Email""), ""admin.sekolah@gmail.com"")",Chrome 131.0.0.0,,,11-12-2024 11:05:27,11-12-2024 11:05:28,0.820s,PASSED
+delay(1),Chrome 131.0.0.0,,,11-12-2024 11:05:28,11-12-2024 11:05:29,1.043s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Login/Input Password""))",Chrome 131.0.0.0,,,11-12-2024 11:05:29,11-12-2024 11:05:30,0.348s,PASSED
+"setText(findTestObject(""Master Data/Admin Sekolah/Login/Input Password""), ""Test1234"")",Chrome 131.0.0.0,,,11-12-2024 11:05:30,11-12-2024 11:05:30,0.675s,PASSED
+delay(1),Chrome 131.0.0.0,,,11-12-2024 11:05:30,11-12-2024 11:05:31,1.020s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Login/Button Submit""))",Chrome 131.0.0.0,,,11-12-2024 11:05:31,11-12-2024 11:05:32,0.360s,PASSED
+delay(1),Chrome 131.0.0.0,,,11-12-2024 11:05:32,11-12-2024 11:05:33,1.022s,PASSED
+"click(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Menu Tagihan""))",Chrome 131.0.0.0,,,11-12-2024 11:05:33,11-12-2024 11:05:34,1.329s,PASSED
+delay(1),Chrome 131.0.0.0,,,11-12-2024 11:05:34,11-12-2024 11:05:35,1.011s,PASSED
+"click(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub-Menu Tagihan Persiswa""))",Chrome 131.0.0.0,,,11-12-2024 11:05:35,11-12-2024 11:05:35,0.350s,PASSED
+delay(1),Chrome 131.0.0.0,,,11-12-2024 11:05:35,11-12-2024 11:05:36,1.024s,PASSED
+"click(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Unit/Klik Dropdown""))",Chrome 131.0.0.0,,,11-12-2024 11:05:36,11-12-2024 11:05:37,0.337s,PASSED
+delay(1),Chrome 131.0.0.0,,,11-12-2024 11:05:37,11-12-2024 11:05:38,1.010s,PASSED
+"click(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Unit/Pilih Value Unit""))",Chrome 131.0.0.0,,,11-12-2024 11:05:38,11-12-2024 11:05:38,0.339s,PASSED
+delay(1),Chrome 131.0.0.0,,,11-12-2024 11:05:38,11-12-2024 11:05:39,1.011s,PASSED
+"click(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Klik Dropdown Kelas""))",Chrome 131.0.0.0,,,11-12-2024 11:05:39,11-12-2024 11:05:39,0.367s,PASSED
+delay(1),Chrome 131.0.0.0,,,11-12-2024 11:05:39,11-12-2024 11:05:40,1.009s,PASSED
+"click(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Klik Field Cari Kelas""))",Chrome 131.0.0.0,,,11-12-2024 11:05:40,11-12-2024 11:05:41,0.414s,PASSED
+delay(1),Chrome 131.0.0.0,,,11-12-2024 11:05:41,11-12-2024 11:05:42,1.012s,PASSED
+"setText(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Klik Field Cari Kelas""), ""kelas - XI IPA 11"")",Chrome 131.0.0.0,,,11-12-2024 11:05:42,11-12-2024 11:05:43,0.621s,PASSED
+"click(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Pilih Kelas""))",Chrome 131.0.0.0,,,11-12-2024 11:05:43,11-12-2024 11:05:43,0.347s,PASSED
+"setText(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Field Nama/Klik Field Nama""), ""danu"")",Chrome 131.0.0.0,,,11-12-2024 11:05:43,11-12-2024 11:05:44,0.675s,PASSED
+"click(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Field Nama/Klik Hasil Cari Siswa""))",Chrome 131.0.0.0,,,11-12-2024 11:05:44,11-12-2024 11:05:45,1.609s,PASSED
+"click(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tombol Terapkan/Klik Tombol Terapkan""))",Chrome 131.0.0.0,,,11-12-2024 11:05:45,11-12-2024 11:05:46,0.513s,PASSED
+delay(1),Chrome 131.0.0.0,Filter By NIS,,11-12-2024 11:05:46,11-12-2024 11:05:47,1.020s,PASSED
+"click(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By NIS/Klik Dropdown Nama""))",Chrome 131.0.0.0,,,11-12-2024 11:05:47,11-12-2024 11:05:47,0.383s,PASSED
+"click(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By NIS/Klik NIS""))",Chrome 131.0.0.0,,,11-12-2024 11:05:47,11-12-2024 11:05:48,0.737s,PASSED
+"click(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Field Nama/Klik Field Nama""))",Chrome 131.0.0.0,,,11-12-2024 11:05:48,11-12-2024 11:05:48,0.552s,PASSED
+delay(1),Chrome 131.0.0.0,,,11-12-2024 11:05:48,11-12-2024 11:05:49,1.013s,PASSED
+"setText(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Field Nama/Klik Field Nama""), ""2024"")",Chrome 131.0.0.0,,,11-12-2024 11:05:49,11-12-2024 11:05:50,0.814s,PASSED
+"click(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By NIS/Pilih Value NIS""))",Chrome 131.0.0.0,,,11-12-2024 11:05:50,11-12-2024 11:05:52,1.683s,PASSED
+delay(1),Chrome 131.0.0.0,,,11-12-2024 11:05:52,11-12-2024 11:05:53,1.007s,PASSED
+"click(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tombol Terapkan/Klik Tombol Terapkan""))",Chrome 131.0.0.0,,,11-12-2024 11:05:53,11-12-2024 11:05:53,0.417s,PASSED
+delay(3),Chrome 131.0.0.0,,,11-12-2024 11:05:53,11-12-2024 11:05:56,3.014s,PASSED
+closeBrowser(),Chrome 131.0.0.0,,,11-12-2024 11:05:56,11-12-2024 11:05:57,0.485s,PASSED
+,,,,,,,
+Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Pembayaran Per Siswa/Sorting Table Tagihan Persiswa,Chrome 131.0.0.0,,,11-12-2024 11:05:57,11-12-2024 11:06:25,27.784s,PASSED
+"openBrowser("""")",Chrome 131.0.0.0,,,11-12-2024 11:05:57,11-12-2024 11:05:58,1.093s,PASSED
+"navigateToUrl(""https://school-payment.digiform.co.id/login"")",Chrome 131.0.0.0,,,11-12-2024 11:05:58,11-12-2024 11:05:58,0.362s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Login/Field Email""))",Chrome 131.0.0.0,,,11-12-2024 11:05:58,11-12-2024 11:06:00,1.620s,PASSED
+"setText(findTestObject(""Master Data/Admin Sekolah/Login/Field Email""), ""admin.sekolah@gmail.com"")",Chrome 131.0.0.0,,,11-12-2024 11:06:00,11-12-2024 11:06:01,0.605s,PASSED
+delay(1),Chrome 131.0.0.0,,,11-12-2024 11:06:01,11-12-2024 11:06:02,1.012s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Login/Input Password""))",Chrome 131.0.0.0,,,11-12-2024 11:06:02,11-12-2024 11:06:02,0.314s,PASSED
+"setText(findTestObject(""Master Data/Admin Sekolah/Login/Input Password""), ""Test1234"")",Chrome 131.0.0.0,,,11-12-2024 11:06:02,11-12-2024 11:06:03,0.580s,PASSED
+delay(1),Chrome 131.0.0.0,,,11-12-2024 11:06:03,11-12-2024 11:06:04,1.018s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Login/Button Submit""))",Chrome 131.0.0.0,,,11-12-2024 11:06:04,11-12-2024 11:06:04,0.313s,PASSED
+delay(1),Chrome 131.0.0.0,,,11-12-2024 11:06:04,11-12-2024 11:06:05,1.013s,PASSED
+"click(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Menu Tagihan""))",Chrome 131.0.0.0,,,11-12-2024 11:06:05,11-12-2024 11:06:06,0.869s,PASSED
+delay(1),Chrome 131.0.0.0,,,11-12-2024 11:06:06,11-12-2024 11:06:07,1.010s,PASSED
+"click(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub-Menu Tagihan Persiswa""))",Chrome 131.0.0.0,,,11-12-2024 11:06:07,11-12-2024 11:06:07,0.367s,PASSED
+delay(1),Chrome 131.0.0.0,,,11-12-2024 11:06:07,11-12-2024 11:06:08,1.012s,PASSED
+"click(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Unit/Klik Dropdown""))",Chrome 131.0.0.0,,,11-12-2024 11:06:08,11-12-2024 11:06:09,0.350s,PASSED
+delay(1),Chrome 131.0.0.0,,,11-12-2024 11:06:09,11-12-2024 11:06:10,1.008s,PASSED
+"click(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Unit/Pilih Value Unit""))",Chrome 131.0.0.0,,,11-12-2024 11:06:10,11-12-2024 11:06:10,0.358s,PASSED
+delay(1),Chrome 131.0.0.0,,,11-12-2024 11:06:10,11-12-2024 11:06:11,1.014s,PASSED
+"click(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Klik Dropdown Kelas""))",Chrome 131.0.0.0,,,11-12-2024 11:06:11,11-12-2024 11:06:11,0.336s,PASSED
+delay(1),Chrome 131.0.0.0,,,11-12-2024 11:06:11,11-12-2024 11:06:12,1.013s,PASSED
+"click(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Klik Field Cari Kelas""))",Chrome 131.0.0.0,,,11-12-2024 11:06:12,11-12-2024 11:06:13,0.347s,PASSED
+delay(1),Chrome 131.0.0.0,,,11-12-2024 11:06:13,11-12-2024 11:06:14,1.017s,PASSED
+"setText(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Klik Field Cari Kelas""), ""kelas - XI IPA 11"")",Chrome 131.0.0.0,,,11-12-2024 11:06:14,11-12-2024 11:06:14,0.623s,PASSED
+"click(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Pilih Kelas""))",Chrome 131.0.0.0,,,11-12-2024 11:06:14,11-12-2024 11:06:15,0.327s,PASSED
+"setText(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Field Nama/Klik Field Nama""), ""danu"")",Chrome 131.0.0.0,,,11-12-2024 11:06:15,11-12-2024 11:06:15,0.641s,PASSED
+"click(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Field Nama/Klik Hasil Cari Siswa""))",Chrome 131.0.0.0,,,11-12-2024 11:06:15,11-12-2024 11:06:17,1.599s,PASSED
+"click(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tombol Terapkan/Klik Tombol Terapkan""))",Chrome 131.0.0.0,,,11-12-2024 11:06:17,11-12-2024 11:06:17,0.484s,PASSED
+delay(1),Chrome 131.0.0.0,,,11-12-2024 11:06:17,11-12-2024 11:06:18,1.015s,PASSED
+"click(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By Nama tagihan""))",Chrome 131.0.0.0,"Ascending
+",,11-12-2024 11:06:18,11-12-2024 11:06:19,0.412s,PASSED
+"click(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By Nama tagihan""))",Chrome 131.0.0.0,Descending,,11-12-2024 11:06:19,11-12-2024 11:06:20,0.889s,PASSED
+delay(1),Chrome 131.0.0.0,,,11-12-2024 11:06:20,11-12-2024 11:06:21,1.022s,PASSED
+"click(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By Tipe Tagihan""))",Chrome 131.0.0.0,Non-Reguler,,11-12-2024 11:06:21,11-12-2024 11:06:21,0.394s,PASSED
+"click(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By Tipe Tagihan""))",Chrome 131.0.0.0,Reguler,,11-12-2024 11:06:21,11-12-2024 11:06:22,0.923s,PASSED
+delay(1),Chrome 131.0.0.0,,,11-12-2024 11:06:22,11-12-2024 11:06:23,1.005s,PASSED
+"click(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By Total Tagihan""))",Chrome 131.0.0.0,Cheapest,,11-12-2024 11:06:23,11-12-2024 11:06:23,0.402s,PASSED
+"click(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By Total Tagihan""))",Chrome 131.0.0.0,Most Expensive,,11-12-2024 11:06:23,11-12-2024 11:06:24,0.883s,PASSED
+closeBrowser(),Chrome 131.0.0.0,,,11-12-2024 11:06:24,11-12-2024 11:06:25,0.373s,PASSED
+,,,,,,,
+Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Pembayaran Per Siswa/Edit Tagihan Persiswa,Chrome 131.0.0.0,,,11-12-2024 11:06:25,11-12-2024 11:06:46,20.964s,PASSED
+min = 1000000,Chrome 131.0.0.0,,,11-12-2024 11:06:25,11-12-2024 11:06:25,0.001s,PASSED
+max = 15000000,Chrome 131.0.0.0,,,11-12-2024 11:06:25,11-12-2024 11:06:25,0.000s,PASSED
+"randomNumber = generateRandomNumber(min, max)",Chrome 131.0.0.0,,,11-12-2024 11:06:25,11-12-2024 11:06:25,0.008s,PASSED
+return ((java.lang.Math.random() * ((max - min) + 1)) as int + min),Chrome 131.0.0.0,,,11-12-2024 11:06:25,11-12-2024 11:06:25,0.056s,PASSED
+"openBrowser("""")",Chrome 131.0.0.0,,,11-12-2024 11:06:25,11-12-2024 11:06:26,1.079s,PASSED
+"navigateToUrl(""https://school-payment.digiform.co.id/login"")",Chrome 131.0.0.0,,,11-12-2024 11:06:26,11-12-2024 11:06:26,0.389s,PASSED
+"setText(findTestObject(""Master Data/Admin Sekolah/Login/Field Email""), ""admin.sekolah@gmail.com"")",Chrome 131.0.0.0,,,11-12-2024 11:06:26,11-12-2024 11:06:28,1.919s,PASSED
+"setText(findTestObject(""Master Data/Admin Sekolah/Login/Input Password""), ""Test1234"")",Chrome 131.0.0.0,,,11-12-2024 11:06:28,11-12-2024 11:06:29,0.607s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Login/Button Submit""))",Chrome 131.0.0.0,,,11-12-2024 11:06:29,11-12-2024 11:06:29,0.329s,PASSED
+delay(1),Chrome 131.0.0.0,,,11-12-2024 11:06:29,11-12-2024 11:06:30,1.012s,PASSED
+"click(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Menu Tagihan""))",Chrome 131.0.0.0,,,11-12-2024 11:06:30,11-12-2024 11:06:31,1.132s,PASSED
+"click(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub-Menu Tagihan Persiswa""))",Chrome 131.0.0.0,,,11-12-2024 11:06:31,11-12-2024 11:06:32,0.843s,PASSED
+"click(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Unit/Klik Dropdown""))",Chrome 131.0.0.0,,,11-12-2024 11:06:32,11-12-2024 11:06:33,0.599s,PASSED
+"click(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Unit/Pilih Value Unit""))",Chrome 131.0.0.0,,,11-12-2024 11:06:33,11-12-2024 11:06:33,0.573s,PASSED
+"click(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Klik Dropdown Kelas""))",Chrome 131.0.0.0,,,11-12-2024 11:06:33,11-12-2024 11:06:34,0.315s,PASSED
+"setText(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Klik Field Cari Kelas""), ""kelas - XI IPA 11"")",Chrome 131.0.0.0,,,11-12-2024 11:06:34,11-12-2024 11:06:35,0.880s,PASSED
+"click(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Pilih Kelas""))",Chrome 131.0.0.0,,,11-12-2024 11:06:35,11-12-2024 11:06:35,0.326s,PASSED
+"click(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By NIS/Klik Dropdown Nama""))",Chrome 131.0.0.0,,,11-12-2024 11:06:35,11-12-2024 11:06:35,0.326s,PASSED
+"click(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By NIS/Klik NIS""))",Chrome 131.0.0.0,,,11-12-2024 11:06:35,11-12-2024 11:06:36,0.558s,PASSED
+"setText(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Field Nama/Klik Field Nama""), ""2024"")",Chrome 131.0.0.0,,,11-12-2024 11:06:36,11-12-2024 11:06:36,0.638s,PASSED
+"click(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Field Nama/Edit Tagihannya""))",Chrome 131.0.0.0,,,11-12-2024 11:06:36,11-12-2024 11:06:38,1.720s,PASSED
+"click(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tombol Terapkan/Klik Tombol Terapkan""))",Chrome 131.0.0.0,,,11-12-2024 11:06:38,11-12-2024 11:06:39,0.477s,PASSED
+delay(2),Chrome 131.0.0.0,,,11-12-2024 11:06:39,11-12-2024 11:06:41,2.012s,PASSED
+"click(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Klik Tri Dots Icon""))",Chrome 131.0.0.0,,,11-12-2024 11:06:41,11-12-2024 11:06:41,0.325s,PASSED
+"click(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Edit Tagihan Persiswa/Klik Edit""))",Chrome 131.0.0.0,,,11-12-2024 11:06:41,11-12-2024 11:06:42,0.618s,PASSED
+"sendKeys(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Edit Tagihan Persiswa/Edit Nama Tagihan""), Keys.chord(CONTROL, ""a""))",Chrome 131.0.0.0,,,11-12-2024 11:06:42,11-12-2024 11:06:42,0.763s,PASSED
+"sendKeys(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Edit Tagihan Persiswa/Edit Nama Tagihan""), Keys.chord(BACK_SPACE))",Chrome 131.0.0.0,,,11-12-2024 11:06:42,11-12-2024 11:06:43,0.308s,PASSED
+"setText(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Edit Tagihan Persiswa/Edit Nama Tagihan""), ""tagihan pempek goreng"")",Chrome 131.0.0.0,,,11-12-2024 11:06:43,11-12-2024 11:06:43,0.645s,PASSED
+"click(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Edit Tagihan Persiswa/Edit Total Tagihan""))",Chrome 131.0.0.0,,,11-12-2024 11:06:43,11-12-2024 11:06:44,0.341s,PASSED
+"sendKeys(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Edit Tagihan Persiswa/Edit Total Tagihan""), Keys.chord(CONTROL, ""a""))",Chrome 131.0.0.0,,,11-12-2024 11:06:44,11-12-2024 11:06:44,0.309s,PASSED
+"sendKeys(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Edit Tagihan Persiswa/Edit Total Tagihan""), Keys.chord(BACK_SPACE))",Chrome 131.0.0.0,,,11-12-2024 11:06:44,11-12-2024 11:06:44,0.324s,PASSED
+"setText(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Edit Tagihan Persiswa/Edit Total Tagihan""), randomNumber.toString())",Chrome 131.0.0.0,,,11-12-2024 11:06:44,11-12-2024 11:06:45,0.605s,PASSED
+"click(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Edit Tagihan Persiswa/Tombol Simpan Tagihan/Tombol Simpan""))",Chrome 131.0.0.0,,,11-12-2024 11:06:45,11-12-2024 11:06:45,0.384s,PASSED
+closeBrowser(),Chrome 131.0.0.0,,,11-12-2024 11:06:45,11-12-2024 11:06:46,0.254s,PASSED
+,,,,,,,
+Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Pembayaran Per Siswa/Delete Tagihan Persiswa,Chrome 131.0.0.0,,,11-12-2024 11:06:46,11-12-2024 11:07:13,27.787s,PASSED
+"openBrowser("""")",Chrome 131.0.0.0,,,11-12-2024 11:06:46,11-12-2024 11:06:47,1.169s,PASSED
+"navigateToUrl(""https://school-payment.digiform.co.id/login"")",Chrome 131.0.0.0,,,11-12-2024 11:06:47,11-12-2024 11:06:47,0.371s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Login/Field Email""))",Chrome 131.0.0.0,,,11-12-2024 11:06:47,11-12-2024 11:06:49,1.595s,PASSED
+"setText(findTestObject(""Master Data/Admin Sekolah/Login/Field Email""), ""admin.sekolah@gmail.com"")",Chrome 131.0.0.0,,,11-12-2024 11:06:49,11-12-2024 11:06:50,0.688s,PASSED
+delay(1),Chrome 131.0.0.0,,,11-12-2024 11:06:50,11-12-2024 11:06:51,1.007s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Login/Input Password""))",Chrome 131.0.0.0,,,11-12-2024 11:06:51,11-12-2024 11:06:51,0.328s,PASSED
+"setText(findTestObject(""Master Data/Admin Sekolah/Login/Input Password""), ""Test1234"")",Chrome 131.0.0.0,,,11-12-2024 11:06:51,11-12-2024 11:06:52,0.640s,PASSED
+delay(1),Chrome 131.0.0.0,,,11-12-2024 11:06:52,11-12-2024 11:06:53,1.009s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Login/Button Submit""))",Chrome 131.0.0.0,,,11-12-2024 11:06:53,11-12-2024 11:06:53,0.329s,PASSED
+delay(1),Chrome 131.0.0.0,,,11-12-2024 11:06:53,11-12-2024 11:06:54,1.013s,PASSED
+"click(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Menu Tagihan""))",Chrome 131.0.0.0,,,11-12-2024 11:06:54,11-12-2024 11:06:55,0.859s,PASSED
+delay(1),Chrome 131.0.0.0,,,11-12-2024 11:06:55,11-12-2024 11:06:56,1.014s,PASSED
+"click(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub-Menu Tagihan Persiswa""))",Chrome 131.0.0.0,,,11-12-2024 11:06:56,11-12-2024 11:06:56,0.342s,PASSED
+delay(1),Chrome 131.0.0.0,,,11-12-2024 11:06:56,11-12-2024 11:06:57,1.009s,PASSED
+"click(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Unit/Klik Dropdown""))",Chrome 131.0.0.0,,,11-12-2024 11:06:57,11-12-2024 11:06:57,0.343s,PASSED
+delay(1),Chrome 131.0.0.0,,,11-12-2024 11:06:57,11-12-2024 11:06:58,1.004s,PASSED
+"click(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Unit/Pilih Value Unit""))",Chrome 131.0.0.0,,,11-12-2024 11:06:58,11-12-2024 11:06:59,0.318s,PASSED
+delay(1),Chrome 131.0.0.0,,,11-12-2024 11:06:59,11-12-2024 11:07:00,1.017s,PASSED
+"click(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Klik Dropdown Kelas""))",Chrome 131.0.0.0,,,11-12-2024 11:07:00,11-12-2024 11:07:00,0.300s,PASSED
+delay(1),Chrome 131.0.0.0,,,11-12-2024 11:07:00,11-12-2024 11:07:01,1.015s,PASSED
+"click(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Klik Field Cari Kelas""))",Chrome 131.0.0.0,,,11-12-2024 11:07:01,11-12-2024 11:07:01,0.345s,PASSED
+delay(1),Chrome 131.0.0.0,,,11-12-2024 11:07:01,11-12-2024 11:07:02,1.010s,PASSED
+"setText(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Klik Field Cari Kelas""), ""kelas - XI IPA 11"")",Chrome 131.0.0.0,,,11-12-2024 11:07:02,11-12-2024 11:07:03,0.673s,PASSED
+"click(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Pilih Kelas""))",Chrome 131.0.0.0,,,11-12-2024 11:07:03,11-12-2024 11:07:03,0.311s,PASSED
+delay(1),Chrome 131.0.0.0,,,11-12-2024 11:07:03,11-12-2024 11:07:04,1.011s,PASSED
+"click(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By NIS/Klik Dropdown Nama""))",Chrome 131.0.0.0,,,11-12-2024 11:07:04,11-12-2024 11:07:05,0.424s,PASSED
+"click(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By NIS/Klik NIS""))",Chrome 131.0.0.0,,,11-12-2024 11:07:05,11-12-2024 11:07:05,0.526s,PASSED
+delay(1),Chrome 131.0.0.0,,,11-12-2024 11:07:05,11-12-2024 11:07:06,1.011s,PASSED
+"click(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Field Nama/Klik Field Nama""))",Chrome 131.0.0.0,,,11-12-2024 11:07:06,11-12-2024 11:07:07,0.318s,PASSED
+"setText(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Field Nama/Klik Field Nama""), ""2024"")",Chrome 131.0.0.0,,,11-12-2024 11:07:07,11-12-2024 11:07:07,0.700s,PASSED
+"click(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By NIS/Pilih Value NIS""))",Chrome 131.0.0.0,"bisa diganti value nya (ex: isinya sekarang [2] tinggal ubah ke [1] atau yang lainnya
+",,11-12-2024 11:07:07,11-12-2024 11:07:09,1.569s,PASSED
+delay(1),Chrome 131.0.0.0,,,11-12-2024 11:07:09,11-12-2024 11:07:10,1.012s,PASSED
+"click(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tombol Terapkan/Klik Tombol Terapkan""))",Chrome 131.0.0.0,,,11-12-2024 11:07:10,11-12-2024 11:07:11,0.513s,PASSED
+delay(1),Chrome 131.0.0.0,,,11-12-2024 11:07:11,11-12-2024 11:07:12,1.018s,PASSED
+"click(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Hapus Tagihan PerSiswa/Tridots Untuk Hapus""))",Chrome 131.0.0.0,,,11-12-2024 11:07:12,11-12-2024 11:07:12,0.339s,PASSED
+"click(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Hapus Tagihan PerSiswa/Option Hapus""))",Chrome 131.0.0.0,,,11-12-2024 11:07:12,11-12-2024 11:07:12,0.583s,PASSED
+"click(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Hapus Tagihan PerSiswa/Hapus Data""))",Chrome 131.0.0.0,,,11-12-2024 11:07:12,11-12-2024 11:07:13,0.567s,PASSED
+closeBrowser(),Chrome 131.0.0.0,,,11-12-2024 11:07:13,11-12-2024 11:07:13,0.365s,PASSED
+,,,,,,,
+Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Pembayaran Siswa/Search Siswa,Chrome 131.0.0.0,,,11-12-2024 11:07:13,11-12-2024 11:07:32,18.904s,PASSED
+"openBrowser("""")",Chrome 131.0.0.0,,,11-12-2024 11:07:13,11-12-2024 11:07:15,1.174s,PASSED
+"navigateToUrl(""https://school-payment.digiform.co.id/login"")",Chrome 131.0.0.0,,,11-12-2024 11:07:15,11-12-2024 11:07:22,7.850s,PASSED
+maximizeWindow(),Chrome 131.0.0.0,,,11-12-2024 11:07:22,11-12-2024 11:07:23,0.081s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Login/Field Email""))",Chrome 131.0.0.0,,,11-12-2024 11:07:23,11-12-2024 11:07:24,1.466s,PASSED
+"setText(findTestObject(""Master Data/Admin Sekolah/Login/Field Email""), ""admin.sekolah@gmail.com"")",Chrome 131.0.0.0,,,11-12-2024 11:07:24,11-12-2024 11:07:25,0.716s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Login/Input Password""))",Chrome 131.0.0.0,,,11-12-2024 11:07:25,11-12-2024 11:07:25,0.321s,PASSED
+"setText(findTestObject(""Master Data/Admin Sekolah/Login/Input Password""), ""Test1234"")",Chrome 131.0.0.0,,,11-12-2024 11:07:25,11-12-2024 11:07:26,0.606s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Login/Button Submit""))",Chrome 131.0.0.0,,,11-12-2024 11:07:26,11-12-2024 11:07:26,0.314s,PASSED
+"click(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Menu Tagihan""))",Chrome 131.0.0.0,,,11-12-2024 11:07:26,11-12-2024 11:07:28,1.794s,PASSED
+"click(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa""))",Chrome 131.0.0.0,,,11-12-2024 11:07:28,11-12-2024 11:07:29,0.740s,PASSED
+"verifyElementVisible(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Field Pencarian Siswa""))",Chrome 131.0.0.0,,,11-12-2024 11:07:29,11-12-2024 11:07:29,0.519s,PASSED
+"setText(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Field Pencarian Siswa""), ""adam"")",Chrome 131.0.0.0,,,11-12-2024 11:07:29,11-12-2024 11:07:30,0.631s,PASSED
+delay(2),Chrome 131.0.0.0,,,11-12-2024 11:07:30,11-12-2024 11:07:32,2.014s,PASSED
+"verifyElementVisible(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Value Rekomendasi Siswa""))",Chrome 131.0.0.0,,,11-12-2024 11:07:32,11-12-2024 11:07:32,0.294s,PASSED
+"click(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Value Rekomendasi Siswa""))",Chrome 131.0.0.0,,,11-12-2024 11:07:32,11-12-2024 11:07:32,0.314s,PASSED
+,,,,,,,
+Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Pembayaran Siswa/Direct dan Verify Nama Siswa Pada Riwayat Pembayaran,Chrome 131.0.0.0,,,11-12-2024 11:07:32,11-12-2024 11:07:48,15.416s,PASSED
+"openBrowser("""")",Chrome 131.0.0.0,,,11-12-2024 11:07:32,11-12-2024 11:07:34,1.483s,PASSED
+"navigateToUrl(""https://school-payment.digiform.co.id/login"")",Chrome 131.0.0.0,,,11-12-2024 11:07:34,11-12-2024 11:07:34,0.350s,PASSED
+maximizeWindow(),Chrome 131.0.0.0,,,11-12-2024 11:07:34,11-12-2024 11:07:34,0.058s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Login/Field Email""))",Chrome 131.0.0.0,,,11-12-2024 11:07:34,11-12-2024 11:07:36,1.464s,PASSED
+"setText(findTestObject(""Master Data/Admin Sekolah/Login/Field Email""), ""admin.sekolah@gmail.com"")",Chrome 131.0.0.0,,,11-12-2024 11:07:36,11-12-2024 11:07:36,0.663s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Login/Input Password""))",Chrome 131.0.0.0,,,11-12-2024 11:07:36,11-12-2024 11:07:37,0.308s,PASSED
+"setText(findTestObject(""Master Data/Admin Sekolah/Login/Input Password""), ""Test1234"")",Chrome 131.0.0.0,,,11-12-2024 11:07:37,11-12-2024 11:07:37,0.589s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Login/Button Submit""))",Chrome 131.0.0.0,,,11-12-2024 11:07:37,11-12-2024 11:07:38,0.315s,PASSED
+"click(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Menu Tagihan""))",Chrome 131.0.0.0,,,11-12-2024 11:07:38,11-12-2024 11:07:40,2.035s,PASSED
+"click(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa""))",Chrome 131.0.0.0,,,11-12-2024 11:07:40,11-12-2024 11:07:40,0.761s,PASSED
+"verifyElementVisible(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Field Pencarian Siswa""))",Chrome 131.0.0.0,,,11-12-2024 11:07:40,11-12-2024 11:07:41,0.509s,PASSED
+"setText(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Field Pencarian Siswa""), ""adam"")",Chrome 131.0.0.0,,,11-12-2024 11:07:41,11-12-2024 11:07:42,0.622s,PASSED
+delay(2),Chrome 131.0.0.0,,,11-12-2024 11:07:42,11-12-2024 11:07:44,2.008s,PASSED
+"verifyElementVisible(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Value Rekomendasi Siswa""))",Chrome 131.0.0.0,,,11-12-2024 11:07:44,11-12-2024 11:07:44,0.282s,PASSED
+"click(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Value Rekomendasi Siswa""))",Chrome 131.0.0.0,,,11-12-2024 11:07:44,11-12-2024 11:07:44,0.326s,PASSED
+"waitForElementClickable(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Page Pembayaran Siswa/Button Riwayat Pembayaran""), 5)",Chrome 131.0.0.0,,,11-12-2024 11:07:44,11-12-2024 11:07:46,2.023s,PASSED
+"click(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Page Pembayaran Siswa/Button Riwayat Pembayaran""))",Chrome 131.0.0.0,,,11-12-2024 11:07:46,11-12-2024 11:07:47,0.331s,PASSED
+"waitForElementVisible(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Verifikasi Nama Siswa""), 5)",Chrome 131.0.0.0,,,11-12-2024 11:07:47,11-12-2024 11:07:47,0.877s,PASSED
+"verifyElementVisible(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Verifikasi Nama Siswa""), STOP_ON_FAILURE)",Chrome 131.0.0.0,,,11-12-2024 11:07:47,11-12-2024 11:07:48,0.276s,PASSED
+"comment(""Nama Siswa Pada Riwayat Pembayaran Sama Dengan Pembayaran Siswa"")",Chrome 131.0.0.0,,,11-12-2024 11:07:48,11-12-2024 11:07:48,0.012s,PASSED
+,,,,,,,
+Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Pembayaran Siswa/Pembayaran Siswa,Chrome 131.0.0.0,,,11-12-2024 11:07:48,11-12-2024 11:09:03,1m - 15.148s,PASSED
+"openBrowser("""")",Chrome 131.0.0.0,,,11-12-2024 11:07:48,11-12-2024 11:07:49,1.356s,PASSED
+"navigateToUrl(""https://school-payment.digiform.co.id/login"")",Chrome 131.0.0.0,,,11-12-2024 11:07:49,11-12-2024 11:07:50,0.430s,PASSED
+maximizeWindow(),Chrome 131.0.0.0,,,11-12-2024 11:07:50,11-12-2024 11:07:50,0.055s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Login/Field Email""))",Chrome 131.0.0.0,,,11-12-2024 11:07:50,11-12-2024 11:07:51,1.460s,PASSED
+"setText(findTestObject(""Master Data/Admin Sekolah/Login/Field Email""), ""admin.sekolah@gmail.com"")",Chrome 131.0.0.0,,,11-12-2024 11:07:51,11-12-2024 11:07:52,0.666s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Login/Input Password""))",Chrome 131.0.0.0,,,11-12-2024 11:07:52,11-12-2024 11:07:52,0.303s,PASSED
+"setText(findTestObject(""Master Data/Admin Sekolah/Login/Input Password""), ""Test1234"")",Chrome 131.0.0.0,,,11-12-2024 11:07:52,11-12-2024 11:07:53,0.629s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Login/Button Submit""))",Chrome 131.0.0.0,,,11-12-2024 11:07:53,11-12-2024 11:07:53,0.322s,PASSED
+"click(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Menu Tagihan""))",Chrome 131.0.0.0,,,11-12-2024 11:07:53,11-12-2024 11:07:55,1.911s,PASSED
+"click(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa""))",Chrome 131.0.0.0,,,11-12-2024 11:07:55,11-12-2024 11:07:56,0.777s,PASSED
+"verifyElementVisible(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Field Pencarian Siswa""))",Chrome 131.0.0.0,,,11-12-2024 11:07:56,11-12-2024 11:07:56,0.498s,PASSED
+"setText(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Field Pencarian Siswa""), ""adam"")",Chrome 131.0.0.0,,,11-12-2024 11:07:56,11-12-2024 11:07:57,0.651s,PASSED
+delay(2),Chrome 131.0.0.0,,,11-12-2024 11:07:57,11-12-2024 11:07:59,2.011s,PASSED
+"verifyElementVisible(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Value Rekomendasi Siswa""))",Chrome 131.0.0.0,,,11-12-2024 11:07:59,11-12-2024 11:07:59,0.304s,PASSED
+"click(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Value Rekomendasi Siswa""))",Chrome 131.0.0.0,,,11-12-2024 11:07:59,11-12-2024 11:08:00,0.343s,PASSED
+"waitForElementClickable(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Page Pembayaran Siswa/Button Riwayat Pembayaran""), 5)",Chrome 131.0.0.0,,,11-12-2024 11:08:00,11-12-2024 11:08:01,1.651s,PASSED
+"click(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Page Pembayaran Siswa/Button Riwayat Pembayaran""))",Chrome 131.0.0.0,,,11-12-2024 11:08:01,11-12-2024 11:08:02,0.313s,PASSED
+"waitForElementVisible(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Verifikasi Nama Siswa""), 5)",Chrome 131.0.0.0,,,11-12-2024 11:08:02,11-12-2024 11:08:02,0.844s,PASSED
+"verifyElementVisible(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Verifikasi Nama Siswa""), STOP_ON_FAILURE)",Chrome 131.0.0.0,,,11-12-2024 11:08:02,11-12-2024 11:08:03,0.256s,PASSED
+"comment(""Nama Siswa Pada Riwayat Pembayaran Sama Dengan Pembayaran Siswa"")",Chrome 131.0.0.0,,,11-12-2024 11:08:03,11-12-2024 11:08:03,0.000s,PASSED
+back(),Chrome 131.0.0.0,,,11-12-2024 11:08:03,11-12-2024 11:08:03,0.044s,PASSED
+waitForPageLoad(5),Chrome 131.0.0.0,,,11-12-2024 11:08:03,11-12-2024 11:08:03,0.071s,PASSED
+"verifyElementVisible(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Field Pencarian Siswa""))",Chrome 131.0.0.0,,,11-12-2024 11:08:03,11-12-2024 11:08:03,0.379s,PASSED
+"setText(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Field Pencarian Siswa""), ""adam"")",Chrome 131.0.0.0,,,11-12-2024 11:08:03,11-12-2024 11:08:04,0.612s,PASSED
+delay(2),Chrome 131.0.0.0,,,11-12-2024 11:08:04,11-12-2024 11:08:06,2.007s,PASSED
+"verifyElementVisible(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Value Rekomendasi Siswa""))",Chrome 131.0.0.0,,,11-12-2024 11:08:06,11-12-2024 11:08:06,0.289s,PASSED
+"click(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Value Rekomendasi Siswa""))",Chrome 131.0.0.0,,,11-12-2024 11:08:06,11-12-2024 11:08:06,0.331s,PASSED
+"rowsToClick = [""Nama Tagihan"", ""Tipe Tagihan"", ""Tanggal Tagihan"", ""Jumlah Tagihan""]",Chrome 131.0.0.0,,,11-12-2024 11:08:06,11-12-2024 11:08:06,0.000s,PASSED
+rowsToClick.each({ java.lang.Object row -> ... }),Chrome 131.0.0.0,,,11-12-2024 11:08:06,11-12-2024 11:08:25,19.039s,PASSED
+"click(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Data in Table/Pilih Checkbox""))",Chrome 131.0.0.0,,,11-12-2024 11:08:25,11-12-2024 11:08:27,1.702s,PASSED
+"click(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Data in Table/Button Bayar Sekarang""))",Chrome 131.0.0.0,,,11-12-2024 11:08:27,11-12-2024 11:08:28,0.591s,PASSED
+delay(2),Chrome 131.0.0.0,,,11-12-2024 11:08:28,11-12-2024 11:08:30,2.010s,PASSED
+"scrollToElement(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Pop Up Konfirmasi Pembayaran/Field Dropdown Diskon""), 0)",Chrome 131.0.0.0,,,11-12-2024 11:08:30,11-12-2024 11:08:30,0.302s,PASSED
+"click(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Pop Up Konfirmasi Pembayaran/Field Dropdown Diskon""))",Chrome 131.0.0.0,,,11-12-2024 11:08:30,11-12-2024 11:08:30,0.340s,PASSED
+"click(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Pop Up Konfirmasi Pembayaran/Dropdown Diskon Persen""))",Chrome 131.0.0.0,,,11-12-2024 11:08:30,11-12-2024 11:08:31,0.561s,PASSED
+"verifyElementVisible(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Pop Up Konfirmasi Pembayaran/Field Diskon""))",Chrome 131.0.0.0,,,11-12-2024 11:08:31,11-12-2024 11:08:31,0.489s,PASSED
+"click(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Pop Up Konfirmasi Pembayaran/Field Diskon""))",Chrome 131.0.0.0,,,11-12-2024 11:08:31,11-12-2024 11:08:32,0.330s,PASSED
+"setText(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Pop Up Konfirmasi Pembayaran/Field Diskon""), ""20"")",Chrome 131.0.0.0,,,11-12-2024 11:08:32,11-12-2024 11:08:32,0.626s,PASSED
+"click(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Pop Up Konfirmasi Pembayaran/Field Uang Yang Dibayarkan""))",Chrome 131.0.0.0,,,11-12-2024 11:08:32,11-12-2024 11:08:33,0.521s,PASSED
+"setText(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Pop Up Konfirmasi Pembayaran/Field Uang Yang Dibayarkan""), ""5000000"")",Chrome 131.0.0.0,,,11-12-2024 11:08:33,11-12-2024 11:08:34,0.795s,PASSED
+"click(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Pop Up Konfirmasi Pembayaran/Button Lanjut Bayar""))",Chrome 131.0.0.0,,,11-12-2024 11:08:34,11-12-2024 11:08:34,0.766s,PASSED
+"verifyElementVisible(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Page Sukses Pembayaran Siswa/Toast Notification Berhasil""))",Chrome 131.0.0.0,,,11-12-2024 11:08:34,11-12-2024 11:08:55,20.989s,PASSED
+delay(2),Chrome 131.0.0.0,,,11-12-2024 11:08:55,11-12-2024 11:08:57,2.007s,PASSED
+"click(findTestObject(""Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Page Sukses Pembayaran Siswa/Button Cetak""))",Chrome 131.0.0.0,,,11-12-2024 11:08:57,11-12-2024 11:08:58,0.413s,PASSED
+delay(5),Chrome 131.0.0.0,,,11-12-2024 11:08:58,11-12-2024 11:09:03,5.005s,PASSED
+,,,,,,,
+Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Riwayat Pembayaran/Sorting Table Riwayat Pembayaran,Chrome 131.0.0.0,,,11-12-2024 11:09:03,11-12-2024 11:09:21,18.517s,PASSED
+"openBrowser("""")",Chrome 131.0.0.0,,,11-12-2024 11:09:03,11-12-2024 11:09:05,1.586s,PASSED
+"navigateToUrl(""https://school-payment.digiform.co.id/login"")",Chrome 131.0.0.0,,,11-12-2024 11:09:05,11-12-2024 11:09:14,9.574s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Login/Field Email""))",Chrome 131.0.0.0,,,11-12-2024 11:09:14,11-12-2024 11:09:16,1.621s,PASSED
+"setText(findTestObject(""Master Data/Admin Sekolah/Login/Field Email""), ""admin.sekolah@gmail.com"")",Chrome 131.0.0.0,,,11-12-2024 11:09:16,11-12-2024 11:09:16,0.685s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Login/Input Password""))",Chrome 131.0.0.0,,,11-12-2024 11:09:16,11-12-2024 11:09:17,0.295s,PASSED
+"setText(findTestObject(""Master Data/Admin Sekolah/Login/Input Password""), ""Test1234"")",Chrome 131.0.0.0,,,11-12-2024 11:09:17,11-12-2024 11:09:17,0.601s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Login/Button Submit""))",Chrome 131.0.0.0,,,11-12-2024 11:09:17,11-12-2024 11:09:18,0.308s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Riwayat Pembayaran/Detail Riwayat Pembayaran/Menu Tagihan""))",Chrome 131.0.0.0,,,11-12-2024 11:09:18,11-12-2024 11:09:20,2.019s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Riwayat Pembayaran/Detail Riwayat Pembayaran/Riwayat Pembayaran""), STOP_ON_FAILURE)",Chrome 131.0.0.0,,,11-12-2024 11:09:20,11-12-2024 11:09:20,0.735s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Riwayat Pembayaran/Sorting Table Riwayat Pembayaran/Sorting Tanggal""))",Chrome 131.0.0.0,,,11-12-2024 11:09:20,11-12-2024 11:09:21,0.999s,PASSED
+,,,,,,,
+Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Riwayat Pembayaran/Filter Riwayat Pembayaran,Chrome 131.0.0.0,,,11-12-2024 11:09:21,11-12-2024 11:09:32,10.548s,PASSED
+"openBrowser("""")",Chrome 131.0.0.0,,,11-12-2024 11:09:21,11-12-2024 11:09:23,1.276s,PASSED
+"navigateToUrl(""https://school-payment.digiform.co.id/login"")",Chrome 131.0.0.0,,,11-12-2024 11:09:23,11-12-2024 11:09:23,0.626s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Login/Field Email""))",Chrome 131.0.0.0,,,11-12-2024 11:09:23,11-12-2024 11:09:25,1.598s,PASSED
+"setText(findTestObject(""Master Data/Admin Sekolah/Login/Field Email""), ""admin.sekolah@gmail.com"")",Chrome 131.0.0.0,,,11-12-2024 11:09:25,11-12-2024 11:09:26,0.686s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Login/Input Password""))",Chrome 131.0.0.0,,,11-12-2024 11:09:26,11-12-2024 11:09:26,0.303s,PASSED
+"setText(findTestObject(""Master Data/Admin Sekolah/Login/Input Password""), ""Test1234"")",Chrome 131.0.0.0,,,11-12-2024 11:09:26,11-12-2024 11:09:27,0.587s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Login/Button Submit""))",Chrome 131.0.0.0,,,11-12-2024 11:09:27,11-12-2024 11:09:27,0.316s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Riwayat Pembayaran/Detail Riwayat Pembayaran/Menu Tagihan""))",Chrome 131.0.0.0,,,11-12-2024 11:09:27,11-12-2024 11:09:29,2.203s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Riwayat Pembayaran/Detail Riwayat Pembayaran/Riwayat Pembayaran""), STOP_ON_FAILURE)",Chrome 131.0.0.0,,,11-12-2024 11:09:29,11-12-2024 11:09:30,0.755s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Riwayat Pembayaran/Filter dan Search Riwayat Pembayaran/Status Pembayaran""))",Chrome 131.0.0.0,,,11-12-2024 11:09:30,11-12-2024 11:09:31,0.974s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Riwayat Pembayaran/Filter dan Search Riwayat Pembayaran/Menunggu""))",Chrome 131.0.0.0,,,11-12-2024 11:09:31,11-12-2024 11:09:31,0.569s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Riwayat Pembayaran/Filter dan Search Riwayat Pembayaran/Terapkan""))",Chrome 131.0.0.0,,,11-12-2024 11:09:31,11-12-2024 11:09:32,0.551s,PASSED
+,,,,,,,
+Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Riwayat Pembayaran/Search Riwayat Pembayaran,Chrome 131.0.0.0,,,11-12-2024 11:09:32,11-12-2024 11:09:44,11.852s,PASSED
+"openBrowser("""")",Chrome 131.0.0.0,,,11-12-2024 11:09:32,11-12-2024 11:09:33,1.278s,PASSED
+"navigateToUrl(""https://school-payment.digiform.co.id/login"")",Chrome 131.0.0.0,,,11-12-2024 11:09:33,11-12-2024 11:09:34,0.371s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Login/Field Email""))",Chrome 131.0.0.0,,,11-12-2024 11:09:34,11-12-2024 11:09:35,1.593s,PASSED
+"setText(findTestObject(""Master Data/Admin Sekolah/Login/Field Email""), ""admin.sekolah@gmail.com"")",Chrome 131.0.0.0,,,11-12-2024 11:09:35,11-12-2024 11:09:36,0.616s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Login/Input Password""))",Chrome 131.0.0.0,,,11-12-2024 11:09:36,11-12-2024 11:09:36,0.302s,PASSED
+"setText(findTestObject(""Master Data/Admin Sekolah/Login/Input Password""), ""Test1234"")",Chrome 131.0.0.0,,,11-12-2024 11:09:36,11-12-2024 11:09:37,0.558s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Login/Button Submit""))",Chrome 131.0.0.0,,,11-12-2024 11:09:37,11-12-2024 11:09:37,0.313s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Riwayat Pembayaran/Detail Riwayat Pembayaran/Menu Tagihan""))",Chrome 131.0.0.0,,,11-12-2024 11:09:37,11-12-2024 11:09:39,1.970s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Riwayat Pembayaran/Detail Riwayat Pembayaran/Riwayat Pembayaran""), STOP_ON_FAILURE)",Chrome 131.0.0.0,,,11-12-2024 11:09:39,11-12-2024 11:09:40,0.768s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Riwayat Pembayaran/Filter dan Search Riwayat Pembayaran/Input Nama""))",Chrome 131.0.0.0,,,11-12-2024 11:09:40,11-12-2024 11:09:41,0.994s,PASSED
+"setText(findTestObject(""Master Data/Admin Sekolah/Riwayat Pembayaran/Filter dan Search Riwayat Pembayaran/Input Nama""), ""danu"")",Chrome 131.0.0.0,,,11-12-2024 11:09:41,11-12-2024 11:09:41,0.671s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Riwayat Pembayaran/Filter dan Search Riwayat Pembayaran/danu""))",Chrome 131.0.0.0,,,11-12-2024 11:09:41,11-12-2024 11:09:43,1.735s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Riwayat Pembayaran/Filter dan Search Riwayat Pembayaran/Terapkan""))",Chrome 131.0.0.0,,,11-12-2024 11:09:43,11-12-2024 11:09:44,0.584s,PASSED
+,,,,,,,
+Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Riwayat Pembayaran/Detail Riwayat Pembayaran,Chrome 131.0.0.0,,,11-12-2024 11:09:44,11-12-2024 11:09:53,9.279s,PASSED
+"openBrowser("""")",Chrome 131.0.0.0,,,11-12-2024 11:09:44,11-12-2024 11:09:45,1.246s,PASSED
+"navigateToUrl(""https://school-payment.digiform.co.id/login"")",Chrome 131.0.0.0,,,11-12-2024 11:09:45,11-12-2024 11:09:46,0.453s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Login/Field Email""))",Chrome 131.0.0.0,,,11-12-2024 11:09:46,11-12-2024 11:09:47,1.635s,PASSED
+"setText(findTestObject(""Master Data/Admin Sekolah/Login/Field Email""), ""admin.sekolah@gmail.com"")",Chrome 131.0.0.0,,,11-12-2024 11:09:47,11-12-2024 11:09:48,0.681s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Login/Input Password""))",Chrome 131.0.0.0,,,11-12-2024 11:09:48,11-12-2024 11:09:48,0.314s,PASSED
+"setText(findTestObject(""Master Data/Admin Sekolah/Login/Input Password""), ""Test1234"")",Chrome 131.0.0.0,,,11-12-2024 11:09:48,11-12-2024 11:09:49,0.602s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Login/Button Submit""))",Chrome 131.0.0.0,,,11-12-2024 11:09:49,11-12-2024 11:09:49,0.308s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Riwayat Pembayaran/Detail Riwayat Pembayaran/Menu Tagihan""))",Chrome 131.0.0.0,,,11-12-2024 11:09:49,11-12-2024 11:09:51,2.105s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Riwayat Pembayaran/Detail Riwayat Pembayaran/Riwayat Pembayaran""), STOP_ON_FAILURE)",Chrome 131.0.0.0,,,11-12-2024 11:09:51,11-12-2024 11:09:52,0.757s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Riwayat Pembayaran/Detail Riwayat Pembayaran/Lihat Detail""))",Chrome 131.0.0.0,,,11-12-2024 11:09:52,11-12-2024 11:09:53,1.090s,PASSED

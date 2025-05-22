@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>dropdown_unit</name>
+   <tag></tag>
+   <elementGuidId>d289d896-5adb-4065-a793-9cfcd5c54038</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit Sekolah'])[2]/following::*[name()='svg'][1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.flex.flex-row.items-center.gap-2 > svg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>ba23eef7-e1f2-4677-8a87-76c0b7de46e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>24</value>
+      <webElementGuid>4436cd3f-76e7-4964-997c-8d24456ca523</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>24</value>
+      <webElementGuid>f9070ba5-fa58-445f-93aa-3495c7ec038c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 24 24</value>
+      <webElementGuid>28e4582a-e2b9-45d2-a807-a9aac4a3170d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>9fc60b8c-e657-4f24-ab64-8b480bbd0852</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>f303a36a-bda0-4819-9cf1-17c1f1c1c9ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>expand-icon</value>
+      <webElementGuid>fbdb673a-9fe2-45ed-bc87-15ad3750724d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;layout-content&quot;)/div[@class=&quot;relative grid grid-cols-2 gap-x-6 gap-y-4 px-10&quot;]/div[@class=&quot;relative flex flex-col gap-1 w-full&quot;]/div[@class=&quot;relative&quot;]/div[@class=&quot;flex min-h-[52px] w-full cursor-pointer items-center overflow-hidden text-ellipsis whitespace-nowrap rounded-[6px] border px-3 py-2 hover:border-blue6 focus:border-blue6 focus:outline-none border-neutral8 undefined&quot;]/div[@class=&quot;flex flex-row items-center gap-2&quot;]/svg[1]</value>
+      <webElementGuid>2ff4a17f-77ac-4aa3-bf1b-54d70e746580</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit Sekolah'])[2]/following::*[name()='svg'][1]</value>
+      <webElementGuid>c21eab50-1321-44ea-9c94-c33c4bb2897d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit Sekolah'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>d90ab441-f0d6-4478-b775-43a2974f747b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Change File'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>f7e64fb6-b9ca-47ff-a63b-5dc2cc26ecd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>789d6151-f37a-4263-a7c5-a5392a9d3a39</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

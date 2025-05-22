@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Dropdown Metode Pembayaran</name>
+   <tag></tag>
+   <elementGuidId>3d5ab68c-27c3-4ffb-ae92-6e5151804430</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='layout-content']/div/div/div/div[3]/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@data-testid = 'select-field' and (text() = 'Pilih metode pembayaran' or . = 'Pilih metode pembayaran')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^Metode PembayaranPilih metode pembayaran$/ >> [data-testid=&quot;select-field&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>866fcd43-ff85-4a72-8666-c7eb3b8e6c60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-disabled</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>5a2ee8dd-a8a9-4a40-b219-78679394bf96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>e44471ef-d291-4bcc-9de5-d3ec149ffb2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>select-field</value>
+      <webElementGuid>642fdd10-10ec-4256-8751-04f4a09e35e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex min-h-[52px] w-full cursor-pointer items-center overflow-hidden text-ellipsis whitespace-nowrap rounded-[6px] border px-3 py-2 hover:border-blue6 focus:border-blue6 focus:outline-none border-neutral5 undefined</value>
+      <webElementGuid>7fa0bd40-d798-4415-aa29-f864b0843788</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pilih metode pembayaran</value>
+      <webElementGuid>687a66b1-3472-4e1e-8d88-2bb050afca58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;layout-content&quot;)/div[@class=&quot;flex flex-col gap-6&quot;]/div[@class=&quot;flex flex-col gap-4 px-10&quot;]/div[@class=&quot;grid grid-cols-7 gap-6&quot;]/div[@class=&quot;relative flex flex-col gap-1 w-full&quot;]/div[@class=&quot;relative&quot;]/div[@class=&quot;flex min-h-[52px] w-full cursor-pointer items-center overflow-hidden text-ellipsis whitespace-nowrap rounded-[6px] border px-3 py-2 hover:border-blue6 focus:border-blue6 focus:outline-none border-neutral5 undefined&quot;]</value>
+      <webElementGuid>67cafd3c-bfba-453d-a004-4a72fe6e3325</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='layout-content']/div/div/div/div[3]/div[2]/div</value>
+      <webElementGuid>6d1d58bb-e379-4d84-a0e2-b1a50c78a92c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Laporan Pembayaran'])[2]/following::div[18]</value>
+      <webElementGuid>cec635e6-9048-4659-a4d8-2c9bd7df23c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/'])[1]/following::div[18]</value>
+      <webElementGuid>185e869c-9fcb-450f-a11e-5a4c913b6f0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset'])[1]/preceding::div[29]</value>
+      <webElementGuid>5e69409b-bcc8-4892-ad49-6a62aa7df501</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terapkan'])[1]/preceding::div[30]</value>
+      <webElementGuid>9aa21c46-3318-4ff6-abe4-6699c9468093</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div</value>
+      <webElementGuid>4cd76ea9-e35b-4eda-a7e9-94be1793ac12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Pilih metode pembayaran' or . = 'Pilih metode pembayaran')]</value>
+      <webElementGuid>8121ddc6-20fa-4024-bb2e-985d6d909170</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

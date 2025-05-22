@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Master Data Menu</name>
+   <tag></tag>
+   <elementGuidId>53dda053-2b21-4cfe-9b35-643cba0fee0e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//*[@data-testid='sidebar-menu-master-data'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>sidebar-menu-master-data</value>
+      <webElementGuid>0b507d9d-e273-4a7b-9bc2-22ae53b5180b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Master Data</value>
+      <webElementGuid>b601aeef-92c3-42ab-a6d0-67e7ba0fdf81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//*[@data-testid='sidebar-menu-master-data'])[2]</value>
+      <webElementGuid>568ac352-9bbb-46ab-940e-3bff0cec3f18</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

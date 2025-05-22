@@ -1,0 +1,1574 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="SPRINT 2" time="289.356" tests="11" failures="1" errors="0">
+   <testsuite name="SPRINT 2" tests="11" failures="1" errors="0" time="289.356" skipped="0" timestamp="01-01-2025T21:59:21" hostname="henri - Henri" id="Test Suites/SPRINT 2">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="C:\\Users\\henri\\Videos\\school-payment-automation-testing\\Reports\\20250101_215240\\SPRINT 2\\20250101_215243"/>
+         <property name="logFiles" value="C:\\Users\\henri\\Videos\\school-payment-automation-testing\\Reports\\20250101_215240\\SPRINT 2\\20250101_215243\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\henri\\Videos\\school-payment-automation-testing\\Reports\\20250101_215240\\SPRINT 2\\20250101_215243\\1735743785950.png"/>
+         <property name="hostName" value="henri - Henri"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="10.0.0.223"/>
+         <property name="browser" value="Chrome 131.0.0.0"/>
+         <property name="hostAddress" value="192.168.1.12"/>
+         <property name="sessionId" value="cd77b18fadb1756d279de9bacbfe0e17"/>
+         <property name="seleniumVersion" value="4.22.0"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Pembayaran Per Siswa/Filter Dan Search Tagihan Persiswa" time="32.489" classname="Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Pembayaran Per Siswa/Filter Dan Search Tagihan Persiswa" status="FAILED">
+         <failure type="FAILED" message="Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Pembayaran Per Siswa/Filter Dan Search Tagihan Persiswa FAILED.&#xa;Reason:&#xa;com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub-Menu Tagihan Persiswa'&#xa;	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:117)&#xa;	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:43)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:75)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)&#xa;	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)&#xa;	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:696)&#xa;	at Filter Dan Search Tagihan Persiswa.run(Filter Dan Search Tagihan Persiswa:44)&#xa;	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)&#xa;	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)&#xa;	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)&#xa;	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:161)&#xa;	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)&#xa;	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:176)&#xa;	at TempTestSuite1735743163758.run(TempTestSuite1735743163758.groovy:35)&#xa;	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)&#xa;	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)&#xa;	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)&#xa;Caused by: org.openqa.selenium.NoSuchWindowException: no such window: target window already closed&#xa;from unknown error: web view not found&#xa;  (Session info: chrome=131.0.6778.205)&#xa;Build info: version: '4.22.0', revision: 'c5f3146703'&#xa;System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'&#xa;Driver info: com.kms.katalon.selenium.driver.CChromeDriver&#xa;Command: [bc7c1be134ce3f37308a71efc2d4c653, findElements {using=xpath, value=//a[@href='/billing/student-each']}]&#xa;Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 130.0.6723.58 (3a50e012e4c9..., userDataDir: C:\Users\henri\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64684}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64684/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: ignore, webSocketUrl: ws://localhost:18539/sessio..., webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}&#xa;Session ID: bc7c1be134ce3f37308a71efc2d4c653&#xa;	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)&#xa;	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)&#xa;	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)&#xa;	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)&#xa;	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)&#xa;	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)&#xa;	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)&#xa;	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)&#xa;	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)&#xa;	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)&#xa;	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElements(ElementLocation.java:182)&#xa;	at org.openqa.selenium.remote.ElementLocation.findElements(ElementLocation.java:103)&#xa;	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:368)&#xa;	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:362)&#xa;	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)&#xa;	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)&#xa;	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)&#xa;	at org.openqa.selenium.support.decorators.WebDriverDecorator.call(WebDriverDecorator.java:249)&#xa;	at org.openqa.selenium.support.decorators.DefaultDecorated.call(DefaultDecorated.java:48)&#xa;	at org.openqa.selenium.support.decorators.WebDriverDecorator.lambda$createProxy$2(WebDriverDecorator.java:321)&#xa;	at org.openqa.selenium.remote.RemoteWebDriver$ByteBuddy$D8p9mnSe.findElements(Unknown Source)&#xa;	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementByNormalMethods(WebUiCommonHelper.java:1036)&#xa;	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsBySelectedMethod(WebUiCommonHelper.java:927)&#xa;	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsBySelectedMethod(WebUiCommonHelper.java:909)&#xa;	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsBySelectedMethod(WebUiCommonHelper.java:904)&#xa;	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsByDefault(WebUiCommonHelper.java:900)&#xa;	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsWithSelfHealing(WebUiCommonHelper.java:746)&#xa;	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElements(WebUiCommonHelper.java:730)&#xa;	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1416)&#xa;	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:66)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)&#xa;	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:35)&#xa;	... 20 more&#xa;"/>
+         <system-out><![CDATA[01-01-2025T21:59:21 - [TEST_CASE][FAILED] - Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Pembayaran Per Siswa/Filter Dan Search Tagihan Persiswa: Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Pembayaran Per Siswa/Filter Dan Search Tagihan Persiswa FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub-Menu Tagihan Persiswa'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:117)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:43)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:75)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:696)
+	at Filter Dan Search Tagihan Persiswa.run(Filter Dan Search Tagihan Persiswa:44)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:161)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:176)
+	at TempTestSuite1735743163758.run(TempTestSuite1735743163758.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.205)
+Build info: version: '4.22.0', revision: 'c5f3146703'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Command: [bc7c1be134ce3f37308a71efc2d4c653, findElements {using=xpath, value=//a[@href='/billing/student-each']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 130.0.6723.58 (3a50e012e4c9..., userDataDir: C:\Users\henri\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64684}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64684/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: ignore, webSocketUrl: ws://localhost:18539/sessio..., webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: bc7c1be134ce3f37308a71efc2d4c653
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElements(ElementLocation.java:182)
+	at org.openqa.selenium.remote.ElementLocation.findElements(ElementLocation.java:103)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:368)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:362)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at org.openqa.selenium.support.decorators.WebDriverDecorator.call(WebDriverDecorator.java:249)
+	at org.openqa.selenium.support.decorators.DefaultDecorated.call(DefaultDecorated.java:48)
+	at org.openqa.selenium.support.decorators.WebDriverDecorator.lambda$createProxy$2(WebDriverDecorator.java:321)
+	at org.openqa.selenium.remote.RemoteWebDriver$ByteBuddy$D8p9mnSe.findElements(Unknown Source)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementByNormalMethods(WebUiCommonHelper.java:1036)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsBySelectedMethod(WebUiCommonHelper.java:927)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsBySelectedMethod(WebUiCommonHelper.java:909)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsBySelectedMethod(WebUiCommonHelper.java:904)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsByDefault(WebUiCommonHelper.java:900)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsWithSelfHealing(WebUiCommonHelper.java:746)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElements(WebUiCommonHelper.java:730)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1416)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:66)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:35)
+	... 20 more
+
+
+01-01-2025T21:59:21 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+01-01-2025T21:59:22 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+01-01-2025T21:59:22 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+01-01-2025T21:59:23 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+01-01-2025T21:59:23 - [TEST_STEP][PASSED] - navigateToUrl("https://school-payment.digiform.co.id/login"): Navigate to 'https://school-payment.digiform.co.id/login' successfully
+
+01-01-2025T21:59:24 - [MESSAGE][PASSED] - Navigate to 'https://school-payment.digiform.co.id/login' successfully
+
+01-01-2025T21:59:24 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Field Email")): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Field Email' is clicked on
+
+01-01-2025T21:59:25 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Field Email' is clicked on
+
+01-01-2025T21:59:25 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Admin Sekolah/Login/Field Email"), "admin.sekolah@gmail.com"): Text 'admin.sekolah@gmail.com' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Field Email'
+
+01-01-2025T21:59:26 - [MESSAGE][PASSED] - Text 'admin.sekolah@gmail.com' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Field Email'
+
+01-01-2025T21:59:26 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+01-01-2025T21:59:27 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+01-01-2025T21:59:27 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Input Password")): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Input Password' is clicked on
+
+01-01-2025T21:59:27 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Input Password' is clicked on
+
+01-01-2025T21:59:27 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Admin Sekolah/Login/Input Password"), "Test1234"): Text 'Test1234' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Input Password'
+
+01-01-2025T21:59:28 - [MESSAGE][PASSED] - Text 'Test1234' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Input Password'
+
+01-01-2025T21:59:28 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+01-01-2025T21:59:29 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+01-01-2025T21:59:29 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Button Submit")): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Button Submit' is clicked on
+
+01-01-2025T21:59:29 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Button Submit' is clicked on
+
+01-01-2025T21:59:29 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+01-01-2025T21:59:30 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+01-01-2025T21:59:30 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Menu Tagihan")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Menu Tagihan' is clicked on
+
+01-01-2025T21:59:50 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Menu Tagihan' is clicked on
+
+01-01-2025T21:59:50 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+01-01-2025T21:59:51 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+01-01-2025T21:59:51 - [TEST_STEP][FAILED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub-Menu Tagihan Persiswa")): Unable to click on object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub-Menu Tagihan Persiswa' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub-Menu Tagihan Persiswa'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:117)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:43)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:75)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:696)
+	at Filter Dan Search Tagihan Persiswa.run(Filter Dan Search Tagihan Persiswa:44)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:161)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:176)
+	at TempTestSuite1735743163758.run(TempTestSuite1735743163758.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.205)
+Build info: version: '4.22.0', revision: 'c5f3146703'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Command: [bc7c1be134ce3f37308a71efc2d4c653, findElements {using=xpath, value=//a[@href='/billing/student-each']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 130.0.6723.58 (3a50e012e4c9..., userDataDir: C:\Users\henri\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64684}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64684/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: ignore, webSocketUrl: ws://localhost:18539/sessio..., webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: bc7c1be134ce3f37308a71efc2d4c653
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElements(ElementLocation.java:182)
+	at org.openqa.selenium.remote.ElementLocation.findElements(ElementLocation.java:103)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:368)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:362)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at org.openqa.selenium.support.decorators.WebDriverDecorator.call(WebDriverDecorator.java:249)
+	at org.openqa.selenium.support.decorators.DefaultDecorated.call(DefaultDecorated.java:48)
+	at org.openqa.selenium.support.decorators.WebDriverDecorator.lambda$createProxy$2(WebDriverDecorator.java:321)
+	at org.openqa.selenium.remote.RemoteWebDriver$ByteBuddy$D8p9mnSe.findElements(Unknown Source)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementByNormalMethods(WebUiCommonHelper.java:1036)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsBySelectedMethod(WebUiCommonHelper.java:927)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsBySelectedMethod(WebUiCommonHelper.java:909)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsBySelectedMethod(WebUiCommonHelper.java:904)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsByDefault(WebUiCommonHelper.java:900)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsWithSelfHealing(WebUiCommonHelper.java:746)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElements(WebUiCommonHelper.java:730)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1416)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:66)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:35)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:75)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:696)
+	at Script1732289592496.run(Script1732289592496.groovy:44)
+	... 15 more
+)
+
+01-01-2025T21:59:52 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub-Menu Tagihan Persiswa'. Try using Self-healing.
+
+01-01-2025T21:59:53 - [MESSAGE][INFO] - [SELF-HEALING] No working XPath is found.
+
+01-01-2025T21:59:54 - [MESSAGE][WARNING] - [SELF-HEALING] no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.205)
+Build info: version: '4.22.0', revision: 'c5f3146703'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Command: [bc7c1be134ce3f37308a71efc2d4c653, findElements {using=xpath, value=}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 130.0.6723.58 (3a50e012e4c9..., userDataDir: C:\Users\henri\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64684}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64684/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: ignore, webSocketUrl: ws://localhost:18539/sessio..., webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: bc7c1be134ce3f37308a71efc2d4c653
+
+01-01-2025T21:59:54 - [MESSAGE][WARNING] - [SELF-HEALING] Cannot find elements when the selector is null
+
+01-01-2025T21:59:54 - [MESSAGE][WARNING] - Cannot take screenshot
+
+01-01-2025T21:59:54 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub-Menu Tagihan Persiswa' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub-Menu Tagihan Persiswa'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:117)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:43)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:75)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:696)
+	at Filter Dan Search Tagihan Persiswa.run(Filter Dan Search Tagihan Persiswa:44)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:161)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:176)
+	at TempTestSuite1735743163758.run(TempTestSuite1735743163758.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.205)
+Build info: version: '4.22.0', revision: 'c5f3146703'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Command: [bc7c1be134ce3f37308a71efc2d4c653, findElements {using=xpath, value=//a[@href='/billing/student-each']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 130.0.6723.58 (3a50e012e4c9..., userDataDir: C:\Users\henri\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64684}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64684/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: ignore, webSocketUrl: ws://localhost:18539/sessio..., webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: bc7c1be134ce3f37308a71efc2d4c653
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElements(ElementLocation.java:182)
+	at org.openqa.selenium.remote.ElementLocation.findElements(ElementLocation.java:103)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:368)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:362)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at org.openqa.selenium.support.decorators.WebDriverDecorator.call(WebDriverDecorator.java:249)
+	at org.openqa.selenium.support.decorators.DefaultDecorated.call(DefaultDecorated.java:48)
+	at org.openqa.selenium.support.decorators.WebDriverDecorator.lambda$createProxy$2(WebDriverDecorator.java:321)
+	at org.openqa.selenium.remote.RemoteWebDriver$ByteBuddy$D8p9mnSe.findElements(Unknown Source)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementByNormalMethods(WebUiCommonHelper.java:1036)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsBySelectedMethod(WebUiCommonHelper.java:927)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsBySelectedMethod(WebUiCommonHelper.java:909)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsBySelectedMethod(WebUiCommonHelper.java:904)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsByDefault(WebUiCommonHelper.java:900)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsWithSelfHealing(WebUiCommonHelper.java:746)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElements(WebUiCommonHelper.java:730)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1416)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:66)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:35)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:75)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:696)
+	at Script1732289592496.run(Script1732289592496.groovy:44)
+	... 15 more
+)]]></system-out>
+         <system-err><![CDATA[01-01-2025T21:59:21 - [TEST_CASE][FAILED] - Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Pembayaran Per Siswa/Filter Dan Search Tagihan Persiswa: Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Pembayaran Per Siswa/Filter Dan Search Tagihan Persiswa FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub-Menu Tagihan Persiswa'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:117)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:43)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:75)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:696)
+	at Filter Dan Search Tagihan Persiswa.run(Filter Dan Search Tagihan Persiswa:44)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:161)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:176)
+	at TempTestSuite1735743163758.run(TempTestSuite1735743163758.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.205)
+Build info: version: '4.22.0', revision: 'c5f3146703'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Command: [bc7c1be134ce3f37308a71efc2d4c653, findElements {using=xpath, value=//a[@href='/billing/student-each']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 130.0.6723.58 (3a50e012e4c9..., userDataDir: C:\Users\henri\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64684}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64684/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: ignore, webSocketUrl: ws://localhost:18539/sessio..., webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: bc7c1be134ce3f37308a71efc2d4c653
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElements(ElementLocation.java:182)
+	at org.openqa.selenium.remote.ElementLocation.findElements(ElementLocation.java:103)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:368)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:362)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at org.openqa.selenium.support.decorators.WebDriverDecorator.call(WebDriverDecorator.java:249)
+	at org.openqa.selenium.support.decorators.DefaultDecorated.call(DefaultDecorated.java:48)
+	at org.openqa.selenium.support.decorators.WebDriverDecorator.lambda$createProxy$2(WebDriverDecorator.java:321)
+	at org.openqa.selenium.remote.RemoteWebDriver$ByteBuddy$D8p9mnSe.findElements(Unknown Source)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementByNormalMethods(WebUiCommonHelper.java:1036)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsBySelectedMethod(WebUiCommonHelper.java:927)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsBySelectedMethod(WebUiCommonHelper.java:909)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsBySelectedMethod(WebUiCommonHelper.java:904)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsByDefault(WebUiCommonHelper.java:900)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsWithSelfHealing(WebUiCommonHelper.java:746)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElements(WebUiCommonHelper.java:730)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1416)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:66)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:35)
+	... 20 more]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Pembayaran Per Siswa/Sorting Table Tagihan Persiswa" time="45.79" classname="Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Pembayaran Per Siswa/Sorting Table Tagihan Persiswa" status="PASSED">
+         <system-out><![CDATA[01-01-2025T21:59:54 - [TEST_CASE][PASSED] - Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Pembayaran Per Siswa/Sorting Table Tagihan Persiswa: Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Pembayaran Per Siswa/Sorting Table Tagihan Persiswa
+
+01-01-2025T21:59:54 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+01-01-2025T21:59:54 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+01-01-2025T21:59:54 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+01-01-2025T21:59:54 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+01-01-2025T21:59:55 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+01-01-2025T21:59:55 - [TEST_STEP][PASSED] - navigateToUrl("https://school-payment.digiform.co.id/login"): Navigate to 'https://school-payment.digiform.co.id/login' successfully
+
+01-01-2025T22:00:15 - [MESSAGE][PASSED] - Navigate to 'https://school-payment.digiform.co.id/login' successfully
+
+01-01-2025T22:00:15 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Field Email")): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Field Email' is clicked on
+
+01-01-2025T22:00:16 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Field Email' is clicked on
+
+01-01-2025T22:00:16 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Admin Sekolah/Login/Field Email"), "admin.sekolah@gmail.com"): Text 'admin.sekolah@gmail.com' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Field Email'
+
+01-01-2025T22:00:17 - [MESSAGE][PASSED] - Text 'admin.sekolah@gmail.com' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Field Email'
+
+01-01-2025T22:00:17 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+01-01-2025T22:00:18 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+01-01-2025T22:00:18 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Input Password")): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Input Password' is clicked on
+
+01-01-2025T22:00:18 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Input Password' is clicked on
+
+01-01-2025T22:00:18 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Admin Sekolah/Login/Input Password"), "Test1234"): Text 'Test1234' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Input Password'
+
+01-01-2025T22:00:19 - [MESSAGE][PASSED] - Text 'Test1234' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Input Password'
+
+01-01-2025T22:00:19 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+01-01-2025T22:00:20 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+01-01-2025T22:00:20 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Button Submit")): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Button Submit' is clicked on
+
+01-01-2025T22:00:20 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Button Submit' is clicked on
+
+01-01-2025T22:00:20 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+01-01-2025T22:00:21 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+01-01-2025T22:00:21 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Menu Tagihan")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Menu Tagihan' is clicked on
+
+01-01-2025T22:00:22 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Menu Tagihan' is clicked on
+
+01-01-2025T22:00:22 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+01-01-2025T22:00:23 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+01-01-2025T22:00:23 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub-Menu Tagihan Persiswa")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub-Menu Tagihan Persiswa' is clicked on
+
+01-01-2025T22:00:23 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub-Menu Tagihan Persiswa' is clicked on
+
+01-01-2025T22:00:23 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+01-01-2025T22:00:24 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+01-01-2025T22:00:24 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Unit/Klik Dropdown")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Unit/Klik Dropdown' is clicked on
+
+01-01-2025T22:00:25 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Unit/Klik Dropdown' is clicked on
+
+01-01-2025T22:00:25 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+01-01-2025T22:00:26 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+01-01-2025T22:00:26 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Unit/Pilih Value Unit")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Unit/Pilih Value Unit' is clicked on
+
+01-01-2025T22:00:26 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Unit/Pilih Value Unit' is clicked on
+
+01-01-2025T22:00:26 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+01-01-2025T22:00:27 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+01-01-2025T22:00:27 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Klik Dropdown Kelas")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Klik Dropdown Kelas' is clicked on
+
+01-01-2025T22:00:27 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Klik Dropdown Kelas' is clicked on
+
+01-01-2025T22:00:27 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+01-01-2025T22:00:28 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+01-01-2025T22:00:28 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Klik Field Cari Kelas")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Klik Field Cari Kelas' is clicked on
+
+01-01-2025T22:00:28 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Klik Field Cari Kelas' is clicked on
+
+01-01-2025T22:00:28 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+01-01-2025T22:00:29 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+01-01-2025T22:00:29 - [TEST_STEP][PASSED] - setText(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Klik Field Cari Kelas"), "XI IPA"): Text 'XI IPA' is set on object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Klik Field Cari Kelas'
+
+01-01-2025T22:00:30 - [MESSAGE][PASSED] - Text 'XI IPA' is set on object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Klik Field Cari Kelas'
+
+01-01-2025T22:00:30 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Pilih Kelas")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Pilih Kelas' is clicked on
+
+01-01-2025T22:00:30 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Pilih Kelas' is clicked on
+
+01-01-2025T22:00:30 - [TEST_STEP][PASSED] - setText(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Field Nama/Klik Field Nama"), "Candra"): Text 'Candra' is set on object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Field Nama/Klik Field Nama'
+
+01-01-2025T22:00:31 - [MESSAGE][PASSED] - Text 'Candra' is set on object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Field Nama/Klik Field Nama'
+
+01-01-2025T22:00:31 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Field Nama/Klik Hasil Cari Siswa")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Field Nama/Klik Hasil Cari Siswa' is clicked on
+
+01-01-2025T22:00:32 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Field Nama/Klik Hasil Cari Siswa' is clicked on
+
+01-01-2025T22:00:32 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tombol Terapkan/Klik Tombol Terapkan")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tombol Terapkan/Klik Tombol Terapkan' is clicked on
+
+01-01-2025T22:00:33 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tombol Terapkan/Klik Tombol Terapkan' is clicked on
+
+01-01-2025T22:00:33 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+01-01-2025T22:00:34 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+01-01-2025T22:00:34 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By Nama tagihan")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By Nama tagihan' is clicked on
+
+01-01-2025T22:00:34 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By Nama tagihan' is clicked on
+
+01-01-2025T22:00:34 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By Nama tagihan")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By Nama tagihan' is clicked on
+
+01-01-2025T22:00:35 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By Nama tagihan' is clicked on
+
+01-01-2025T22:00:35 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+01-01-2025T22:00:36 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+01-01-2025T22:00:36 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By Tipe Tagihan")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By Tipe Tagihan' is clicked on
+
+01-01-2025T22:00:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By Tipe Tagihan' is clicked on
+
+01-01-2025T22:00:36 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By Tipe Tagihan")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By Tipe Tagihan' is clicked on
+
+01-01-2025T22:00:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By Tipe Tagihan' is clicked on
+
+01-01-2025T22:00:37 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+01-01-2025T22:00:38 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+01-01-2025T22:00:38 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By Total Tagihan")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By Total Tagihan' is clicked on
+
+01-01-2025T22:00:38 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By Total Tagihan' is clicked on
+
+01-01-2025T22:00:38 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By Total Tagihan")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By Total Tagihan' is clicked on
+
+01-01-2025T22:00:39 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By Total Tagihan' is clicked on
+
+01-01-2025T22:00:39 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+01-01-2025T22:00:39 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Pembayaran Per Siswa/Edit Tagihan Persiswa" time="18.962" classname="Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Pembayaran Per Siswa/Edit Tagihan Persiswa" status="PASSED">
+         <system-out><![CDATA[01-01-2025T22:00:39 - [TEST_CASE][PASSED] - Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Pembayaran Per Siswa/Edit Tagihan Persiswa: Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Pembayaran Per Siswa/Edit Tagihan Persiswa
+
+01-01-2025T22:00:40 - [TEST_STEP][PASSED] - min = 1000000: null
+
+01-01-2025T22:00:40 - [TEST_STEP][PASSED] - max = 15000000: null
+
+01-01-2025T22:00:40 - [TEST_STEP][PASSED] - randomNumber = generateRandomNumber(min, max): null
+
+01-01-2025T22:00:40 - [TEST_STEP][PASSED] - return ((java.lang.Math.random() * ((max - min) + 1)) as int + min): null
+
+01-01-2025T22:00:40 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+01-01-2025T22:00:40 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+01-01-2025T22:00:40 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+01-01-2025T22:00:40 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+01-01-2025T22:00:40 - [TEST_STEP][PASSED] - navigateToUrl("https://school-payment.digiform.co.id/login"): Navigate to 'https://school-payment.digiform.co.id/login' successfully
+
+01-01-2025T22:00:41 - [MESSAGE][PASSED] - Navigate to 'https://school-payment.digiform.co.id/login' successfully
+
+01-01-2025T22:00:41 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Admin Sekolah/Login/Field Email"), "admin.sekolah@gmail.com"): Text 'admin.sekolah@gmail.com' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Field Email'
+
+01-01-2025T22:00:43 - [MESSAGE][PASSED] - Text 'admin.sekolah@gmail.com' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Field Email'
+
+01-01-2025T22:00:43 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Admin Sekolah/Login/Input Password"), "Test1234"): Text 'Test1234' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Input Password'
+
+01-01-2025T22:00:43 - [MESSAGE][PASSED] - Text 'Test1234' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Input Password'
+
+01-01-2025T22:00:43 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Button Submit")): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Button Submit' is clicked on
+
+01-01-2025T22:00:44 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Button Submit' is clicked on
+
+01-01-2025T22:00:44 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+01-01-2025T22:00:45 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+01-01-2025T22:00:45 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Menu Tagihan")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Menu Tagihan' is clicked on
+
+01-01-2025T22:00:46 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Menu Tagihan' is clicked on
+
+01-01-2025T22:00:46 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub-Menu Tagihan Persiswa")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub-Menu Tagihan Persiswa' is clicked on
+
+01-01-2025T22:00:46 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub-Menu Tagihan Persiswa' is clicked on
+
+01-01-2025T22:00:46 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Unit/Klik Dropdown")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Unit/Klik Dropdown' is clicked on
+
+01-01-2025T22:00:47 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Unit/Klik Dropdown' is clicked on
+
+01-01-2025T22:00:47 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Unit/Pilih Value Unit")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Unit/Pilih Value Unit' is clicked on
+
+01-01-2025T22:00:47 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Unit/Pilih Value Unit' is clicked on
+
+01-01-2025T22:00:47 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Klik Dropdown Kelas")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Klik Dropdown Kelas' is clicked on
+
+01-01-2025T22:00:48 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Klik Dropdown Kelas' is clicked on
+
+01-01-2025T22:00:48 - [TEST_STEP][PASSED] - setText(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Klik Field Cari Kelas"), "XI IPA"): Text 'XI IPA' is set on object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Klik Field Cari Kelas'
+
+01-01-2025T22:00:48 - [MESSAGE][PASSED] - Text 'XI IPA' is set on object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Klik Field Cari Kelas'
+
+01-01-2025T22:00:48 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Pilih Kelas")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Pilih Kelas' is clicked on
+
+01-01-2025T22:00:49 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Pilih Kelas' is clicked on
+
+01-01-2025T22:00:49 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By NIS/Klik Dropdown Nama")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By NIS/Klik Dropdown Nama' is clicked on
+
+01-01-2025T22:00:49 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By NIS/Klik Dropdown Nama' is clicked on
+
+01-01-2025T22:00:49 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By NIS/Klik NIS")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By NIS/Klik NIS' is clicked on
+
+01-01-2025T22:00:50 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By NIS/Klik NIS' is clicked on
+
+01-01-2025T22:00:50 - [TEST_STEP][PASSED] - setText(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Field Nama/Klik Field Nama"), "2024"): Text '2024' is set on object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Field Nama/Klik Field Nama'
+
+01-01-2025T22:00:50 - [MESSAGE][PASSED] - Text '2024' is set on object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Field Nama/Klik Field Nama'
+
+01-01-2025T22:00:50 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Field Nama/Edit Tagihannya")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Field Nama/Edit Tagihannya' is clicked on
+
+01-01-2025T22:00:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Field Nama/Edit Tagihannya' is clicked on
+
+01-01-2025T22:00:52 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tombol Terapkan/Klik Tombol Terapkan")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tombol Terapkan/Klik Tombol Terapkan' is clicked on
+
+01-01-2025T22:00:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tombol Terapkan/Klik Tombol Terapkan' is clicked on
+
+01-01-2025T22:00:52 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+01-01-2025T22:00:54 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+01-01-2025T22:00:54 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Klik Tri Dots Icon")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Klik Tri Dots Icon' is clicked on
+
+01-01-2025T22:00:54 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Klik Tri Dots Icon' is clicked on
+
+01-01-2025T22:00:54 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Edit Tagihan Persiswa/Klik Edit")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Edit Tagihan Persiswa/Klik Edit' is clicked on
+
+01-01-2025T22:00:55 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Edit Tagihan Persiswa/Klik Edit' is clicked on
+
+01-01-2025T22:00:55 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Edit Tagihan Persiswa/Edit Nama Tagihan"), Keys.chord(CONTROL, "a")): Keys 'CONTROL + a' sent to object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Edit Tagihan Persiswa/Edit Nama Tagihan'
+
+01-01-2025T22:00:56 - [MESSAGE][PASSED] - Keys 'CONTROL + a' sent to object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Edit Tagihan Persiswa/Edit Nama Tagihan'
+
+01-01-2025T22:00:56 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Edit Tagihan Persiswa/Edit Nama Tagihan"), Keys.chord(BACK_SPACE)): Keys 'BACK_SPACE + ' sent to object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Edit Tagihan Persiswa/Edit Nama Tagihan'
+
+01-01-2025T22:00:56 - [MESSAGE][PASSED] - Keys 'BACK_SPACE + ' sent to object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Edit Tagihan Persiswa/Edit Nama Tagihan'
+
+01-01-2025T22:00:56 - [TEST_STEP][PASSED] - setText(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Edit Tagihan Persiswa/Edit Nama Tagihan"), "tagihan pempek goreng"): Text 'tagihan pempek goreng' is set on object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Edit Tagihan Persiswa/Edit Nama Tagihan'
+
+01-01-2025T22:00:56 - [MESSAGE][PASSED] - Text 'tagihan pempek goreng' is set on object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Edit Tagihan Persiswa/Edit Nama Tagihan'
+
+01-01-2025T22:00:56 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Edit Tagihan Persiswa/Edit Total Tagihan")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Edit Tagihan Persiswa/Edit Total Tagihan' is clicked on
+
+01-01-2025T22:00:57 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Edit Tagihan Persiswa/Edit Total Tagihan' is clicked on
+
+01-01-2025T22:00:57 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Edit Tagihan Persiswa/Edit Total Tagihan"), Keys.chord(CONTROL, "a")): Keys 'CONTROL + a' sent to object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Edit Tagihan Persiswa/Edit Total Tagihan'
+
+01-01-2025T22:00:57 - [MESSAGE][PASSED] - Keys 'CONTROL + a' sent to object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Edit Tagihan Persiswa/Edit Total Tagihan'
+
+01-01-2025T22:00:57 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Edit Tagihan Persiswa/Edit Total Tagihan"), Keys.chord(BACK_SPACE)): Keys 'BACK_SPACE + ' sent to object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Edit Tagihan Persiswa/Edit Total Tagihan'
+
+01-01-2025T22:00:57 - [MESSAGE][PASSED] - Keys 'BACK_SPACE + ' sent to object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Edit Tagihan Persiswa/Edit Total Tagihan'
+
+01-01-2025T22:00:57 - [TEST_STEP][PASSED] - setText(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Edit Tagihan Persiswa/Edit Total Tagihan"), randomNumber.toString()): Text '14516418' is set on object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Edit Tagihan Persiswa/Edit Total Tagihan'
+
+01-01-2025T22:00:58 - [MESSAGE][PASSED] - Text '14516418' is set on object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Edit Tagihan Persiswa/Edit Total Tagihan'
+
+01-01-2025T22:00:58 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Edit Tagihan Persiswa/Tombol Simpan Tagihan/Tombol Simpan")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Edit Tagihan Persiswa/Tombol Simpan Tagihan/Tombol Simpan' is clicked on
+
+01-01-2025T22:00:58 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Edit Tagihan Persiswa/Tombol Simpan Tagihan/Tombol Simpan' is clicked on
+
+01-01-2025T22:00:58 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+01-01-2025T22:00:58 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Pembayaran Per Siswa/Delete Tagihan Persiswa" time="45.206" classname="Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Pembayaran Per Siswa/Delete Tagihan Persiswa" status="PASSED">
+         <system-out><![CDATA[01-01-2025T22:00:58 - [TEST_CASE][PASSED] - Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Pembayaran Per Siswa/Delete Tagihan Persiswa: Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Pembayaran Per Siswa/Delete Tagihan Persiswa
+
+01-01-2025T22:00:58 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+01-01-2025T22:00:58 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+01-01-2025T22:00:58 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+01-01-2025T22:00:59 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+01-01-2025T22:00:59 - [TEST_STEP][PASSED] - navigateToUrl("https://school-payment.digiform.co.id/login"): Navigate to 'https://school-payment.digiform.co.id/login' successfully
+
+01-01-2025T22:01:00 - [MESSAGE][PASSED] - Navigate to 'https://school-payment.digiform.co.id/login' successfully
+
+01-01-2025T22:01:00 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Field Email")): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Field Email' is clicked on
+
+01-01-2025T22:01:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Field Email' is clicked on
+
+01-01-2025T22:01:01 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Admin Sekolah/Login/Field Email"), "admin.sekolah@gmail.com"): Text 'admin.sekolah@gmail.com' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Field Email'
+
+01-01-2025T22:01:02 - [MESSAGE][PASSED] - Text 'admin.sekolah@gmail.com' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Field Email'
+
+01-01-2025T22:01:02 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+01-01-2025T22:01:03 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+01-01-2025T22:01:03 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Input Password")): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Input Password' is clicked on
+
+01-01-2025T22:01:03 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Input Password' is clicked on
+
+01-01-2025T22:01:03 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Admin Sekolah/Login/Input Password"), "Test1234"): Text 'Test1234' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Input Password'
+
+01-01-2025T22:01:04 - [MESSAGE][PASSED] - Text 'Test1234' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Input Password'
+
+01-01-2025T22:01:04 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+01-01-2025T22:01:05 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+01-01-2025T22:01:05 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Button Submit")): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Button Submit' is clicked on
+
+01-01-2025T22:01:05 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Button Submit' is clicked on
+
+01-01-2025T22:01:05 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+01-01-2025T22:01:06 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+01-01-2025T22:01:06 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Menu Tagihan")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Menu Tagihan' is clicked on
+
+01-01-2025T22:01:26 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Menu Tagihan' is clicked on
+
+01-01-2025T22:01:26 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+01-01-2025T22:01:27 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+01-01-2025T22:01:27 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub-Menu Tagihan Persiswa")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub-Menu Tagihan Persiswa' is clicked on
+
+01-01-2025T22:01:27 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub-Menu Tagihan Persiswa' is clicked on
+
+01-01-2025T22:01:27 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+01-01-2025T22:01:28 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+01-01-2025T22:01:28 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Unit/Klik Dropdown")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Unit/Klik Dropdown' is clicked on
+
+01-01-2025T22:01:29 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Unit/Klik Dropdown' is clicked on
+
+01-01-2025T22:01:29 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+01-01-2025T22:01:30 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+01-01-2025T22:01:30 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Unit/Pilih Value Unit")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Unit/Pilih Value Unit' is clicked on
+
+01-01-2025T22:01:30 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Unit/Pilih Value Unit' is clicked on
+
+01-01-2025T22:01:30 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+01-01-2025T22:01:31 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+01-01-2025T22:01:31 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Klik Dropdown Kelas")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Klik Dropdown Kelas' is clicked on
+
+01-01-2025T22:01:31 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Klik Dropdown Kelas' is clicked on
+
+01-01-2025T22:01:31 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+01-01-2025T22:01:32 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+01-01-2025T22:01:32 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Klik Field Cari Kelas")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Klik Field Cari Kelas' is clicked on
+
+01-01-2025T22:01:33 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Klik Field Cari Kelas' is clicked on
+
+01-01-2025T22:01:33 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+01-01-2025T22:01:34 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+01-01-2025T22:01:34 - [TEST_STEP][PASSED] - setText(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Klik Field Cari Kelas"), "XI IPA"): Text 'XI IPA' is set on object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Klik Field Cari Kelas'
+
+01-01-2025T22:01:34 - [MESSAGE][PASSED] - Text 'XI IPA' is set on object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Klik Field Cari Kelas'
+
+01-01-2025T22:01:34 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Pilih Kelas")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Pilih Kelas' is clicked on
+
+01-01-2025T22:01:34 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Pilih Kelas' is clicked on
+
+01-01-2025T22:01:34 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+01-01-2025T22:01:35 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+01-01-2025T22:01:35 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By NIS/Klik Dropdown Nama")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By NIS/Klik Dropdown Nama' is clicked on
+
+01-01-2025T22:01:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By NIS/Klik Dropdown Nama' is clicked on
+
+01-01-2025T22:01:36 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By NIS/Klik NIS")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By NIS/Klik NIS' is clicked on
+
+01-01-2025T22:01:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By NIS/Klik NIS' is clicked on
+
+01-01-2025T22:01:36 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+01-01-2025T22:01:37 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+01-01-2025T22:01:37 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Field Nama/Klik Field Nama")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Field Nama/Klik Field Nama' is clicked on
+
+01-01-2025T22:01:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Field Nama/Klik Field Nama' is clicked on
+
+01-01-2025T22:01:37 - [TEST_STEP][PASSED] - setText(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Field Nama/Klik Field Nama"), "2024"): Text '2024' is set on object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Field Nama/Klik Field Nama'
+
+01-01-2025T22:01:38 - [MESSAGE][PASSED] - Text '2024' is set on object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Field Nama/Klik Field Nama'
+
+01-01-2025T22:01:38 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By NIS/Pilih Value NIS")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By NIS/Pilih Value NIS' is clicked on
+
+01-01-2025T22:01:40 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By NIS/Pilih Value NIS' is clicked on
+
+01-01-2025T22:01:40 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+01-01-2025T22:01:41 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+01-01-2025T22:01:41 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tombol Terapkan/Klik Tombol Terapkan")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tombol Terapkan/Klik Tombol Terapkan' is clicked on
+
+01-01-2025T22:01:41 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tombol Terapkan/Klik Tombol Terapkan' is clicked on
+
+01-01-2025T22:01:41 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+01-01-2025T22:01:42 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+01-01-2025T22:01:42 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Hapus Tagihan PerSiswa/Tridots Untuk Hapus")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Hapus Tagihan PerSiswa/Tridots Untuk Hapus' is clicked on
+
+01-01-2025T22:01:42 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Hapus Tagihan PerSiswa/Tridots Untuk Hapus' is clicked on
+
+01-01-2025T22:01:42 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Hapus Tagihan PerSiswa/Option Hapus")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Hapus Tagihan PerSiswa/Option Hapus' is clicked on
+
+01-01-2025T22:01:43 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Hapus Tagihan PerSiswa/Option Hapus' is clicked on
+
+01-01-2025T22:01:43 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Hapus Tagihan PerSiswa/Hapus Data")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Hapus Tagihan PerSiswa/Hapus Data' is clicked on
+
+01-01-2025T22:01:43 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Hapus Tagihan PerSiswa/Hapus Data' is clicked on
+
+01-01-2025T22:01:43 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+01-01-2025T22:01:44 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Pembayaran Siswa/Search Siswa" time="10.528" classname="Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Pembayaran Siswa/Search Siswa" status="PASSED">
+         <system-out><![CDATA[01-01-2025T22:01:44 - [TEST_CASE][PASSED] - Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Pembayaran Siswa/Search Siswa: Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Pembayaran Siswa/Search Siswa
+
+01-01-2025T22:01:44 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+01-01-2025T22:01:44 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+01-01-2025T22:01:44 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+01-01-2025T22:01:44 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+01-01-2025T22:01:44 - [TEST_STEP][PASSED] - navigateToUrl("https://school-payment.digiform.co.id/login"): Navigate to 'https://school-payment.digiform.co.id/login' successfully
+
+01-01-2025T22:01:45 - [MESSAGE][PASSED] - Navigate to 'https://school-payment.digiform.co.id/login' successfully
+
+01-01-2025T22:01:45 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+01-01-2025T22:01:45 - [MESSAGE][PASSED] - Current window maximized
+
+01-01-2025T22:01:45 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Field Email")): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Field Email' is clicked on
+
+01-01-2025T22:01:46 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Field Email' is clicked on
+
+01-01-2025T22:01:46 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Admin Sekolah/Login/Field Email"), "admin.sekolah@gmail.com"): Text 'admin.sekolah@gmail.com' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Field Email'
+
+01-01-2025T22:01:47 - [MESSAGE][PASSED] - Text 'admin.sekolah@gmail.com' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Field Email'
+
+01-01-2025T22:01:47 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Input Password")): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Input Password' is clicked on
+
+01-01-2025T22:01:47 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Input Password' is clicked on
+
+01-01-2025T22:01:47 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Admin Sekolah/Login/Input Password"), "Test1234"): Text 'Test1234' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Input Password'
+
+01-01-2025T22:01:48 - [MESSAGE][PASSED] - Text 'Test1234' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Input Password'
+
+01-01-2025T22:01:48 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Button Submit")): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Button Submit' is clicked on
+
+01-01-2025T22:01:48 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Button Submit' is clicked on
+
+01-01-2025T22:01:48 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Menu Tagihan")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Menu Tagihan' is clicked on
+
+01-01-2025T22:01:50 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Menu Tagihan' is clicked on
+
+01-01-2025T22:01:50 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa' is clicked on
+
+01-01-2025T22:01:50 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa' is clicked on
+
+01-01-2025T22:01:50 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Field Pencarian Siswa")): Object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Field Pencarian Siswa' is visible
+
+01-01-2025T22:01:51 - [MESSAGE][PASSED] - Object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Field Pencarian Siswa' is visible
+
+01-01-2025T22:01:51 - [TEST_STEP][PASSED] - setText(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Field Pencarian Siswa"), "adam"): Text 'adam' is set on object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Field Pencarian Siswa'
+
+01-01-2025T22:01:52 - [MESSAGE][PASSED] - Text 'adam' is set on object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Field Pencarian Siswa'
+
+01-01-2025T22:01:52 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+01-01-2025T22:01:54 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+01-01-2025T22:01:54 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Value Rekomendasi Siswa")): Object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Value Rekomendasi Siswa' is visible
+
+01-01-2025T22:01:54 - [MESSAGE][PASSED] - Object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Value Rekomendasi Siswa' is visible
+
+01-01-2025T22:01:54 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Value Rekomendasi Siswa")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Value Rekomendasi Siswa' is clicked on
+
+01-01-2025T22:01:54 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Value Rekomendasi Siswa' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Pembayaran Siswa/Direct dan Verify Nama Siswa Pada Riwayat Pembayaran" time="33.795" classname="Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Pembayaran Siswa/Direct dan Verify Nama Siswa Pada Riwayat Pembayaran" status="PASSED">
+         <system-out><![CDATA[01-01-2025T22:01:54 - [TEST_CASE][PASSED] - Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Pembayaran Siswa/Direct dan Verify Nama Siswa Pada Riwayat Pembayaran: Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Pembayaran Siswa/Direct dan Verify Nama Siswa Pada Riwayat Pembayaran
+
+01-01-2025T22:01:54 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+01-01-2025T22:01:54 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+01-01-2025T22:01:56 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+01-01-2025T22:01:56 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+01-01-2025T22:01:57 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+01-01-2025T22:01:57 - [TEST_STEP][PASSED] - navigateToUrl("https://school-payment.digiform.co.id/login"): Navigate to 'https://school-payment.digiform.co.id/login' successfully
+
+01-01-2025T22:01:57 - [MESSAGE][PASSED] - Navigate to 'https://school-payment.digiform.co.id/login' successfully
+
+01-01-2025T22:01:57 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+01-01-2025T22:01:57 - [MESSAGE][PASSED] - Current window maximized
+
+01-01-2025T22:01:57 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Field Email")): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Field Email' is clicked on
+
+01-01-2025T22:01:59 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Field Email' is clicked on
+
+01-01-2025T22:01:59 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Admin Sekolah/Login/Field Email"), "admin.sekolah@gmail.com"): Text 'admin.sekolah@gmail.com' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Field Email'
+
+01-01-2025T22:01:59 - [MESSAGE][PASSED] - Text 'admin.sekolah@gmail.com' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Field Email'
+
+01-01-2025T22:01:59 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Input Password")): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Input Password' is clicked on
+
+01-01-2025T22:02:00 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Input Password' is clicked on
+
+01-01-2025T22:02:00 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Admin Sekolah/Login/Input Password"), "Test1234"): Text 'Test1234' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Input Password'
+
+01-01-2025T22:02:00 - [MESSAGE][PASSED] - Text 'Test1234' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Input Password'
+
+01-01-2025T22:02:00 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Button Submit")): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Button Submit' is clicked on
+
+01-01-2025T22:02:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Button Submit' is clicked on
+
+01-01-2025T22:02:01 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Menu Tagihan")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Menu Tagihan' is clicked on
+
+01-01-2025T22:02:02 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Menu Tagihan' is clicked on
+
+01-01-2025T22:02:02 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa' is clicked on
+
+01-01-2025T22:02:22 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa' is clicked on
+
+01-01-2025T22:02:22 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Field Pencarian Siswa")): Object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Field Pencarian Siswa' is visible
+
+01-01-2025T22:02:22 - [MESSAGE][PASSED] - Object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Field Pencarian Siswa' is visible
+
+01-01-2025T22:02:22 - [TEST_STEP][PASSED] - setText(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Field Pencarian Siswa"), "adam"): Text 'adam' is set on object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Field Pencarian Siswa'
+
+01-01-2025T22:02:23 - [MESSAGE][PASSED] - Text 'adam' is set on object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Field Pencarian Siswa'
+
+01-01-2025T22:02:23 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+01-01-2025T22:02:25 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+01-01-2025T22:02:25 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Value Rekomendasi Siswa")): Object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Value Rekomendasi Siswa' is visible
+
+01-01-2025T22:02:25 - [MESSAGE][PASSED] - Object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Value Rekomendasi Siswa' is visible
+
+01-01-2025T22:02:25 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Value Rekomendasi Siswa")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Value Rekomendasi Siswa' is clicked on
+
+01-01-2025T22:02:25 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Value Rekomendasi Siswa' is clicked on
+
+01-01-2025T22:02:25 - [TEST_STEP][PASSED] - waitForElementClickable(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Page Pembayaran Siswa/Button Riwayat Pembayaran"), 5): Object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Page Pembayaran Siswa/Button Riwayat Pembayaran' is clickable
+
+01-01-2025T22:02:27 - [MESSAGE][PASSED] - Object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Page Pembayaran Siswa/Button Riwayat Pembayaran' is clickable
+
+01-01-2025T22:02:27 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Page Pembayaran Siswa/Button Riwayat Pembayaran")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Page Pembayaran Siswa/Button Riwayat Pembayaran' is clicked on
+
+01-01-2025T22:02:27 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Page Pembayaran Siswa/Button Riwayat Pembayaran' is clicked on
+
+01-01-2025T22:02:27 - [TEST_STEP][PASSED] - waitForElementVisible(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Verifikasi Nama Siswa"), 5): Object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Verifikasi Nama Siswa' is visible
+
+01-01-2025T22:02:28 - [MESSAGE][PASSED] - Object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Verifikasi Nama Siswa' is visible
+
+01-01-2025T22:02:28 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Verifikasi Nama Siswa"), STOP_ON_FAILURE): Object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Verifikasi Nama Siswa' is visible
+
+01-01-2025T22:02:28 - [MESSAGE][PASSED] - Object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Verifikasi Nama Siswa' is visible
+
+01-01-2025T22:02:28 - [TEST_STEP][PASSED] - comment("Nama Siswa Pada Riwayat Pembayaran Sama Dengan Pembayaran Siswa"): Nama Siswa Pada Riwayat Pembayaran Sama Dengan Pembayaran Siswa
+
+01-01-2025T22:02:28 - [MESSAGE][INFO] - Nama Siswa Pada Riwayat Pembayaran Sama Dengan Pembayaran Siswa]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Pembayaran Siswa/Pembayaran Siswa" time="46.111" classname="Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Pembayaran Siswa/Pembayaran Siswa" status="PASSED">
+         <system-out><![CDATA[01-01-2025T22:02:28 - [TEST_CASE][PASSED] - Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Pembayaran Siswa/Pembayaran Siswa: Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Pembayaran Siswa/Pembayaran Siswa
+
+01-01-2025T22:02:28 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+01-01-2025T22:02:28 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+01-01-2025T22:02:28 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+01-01-2025T22:02:28 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+01-01-2025T22:02:29 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+01-01-2025T22:02:29 - [TEST_STEP][PASSED] - navigateToUrl("https://school-payment.digiform.co.id/login"): Navigate to 'https://school-payment.digiform.co.id/login' successfully
+
+01-01-2025T22:02:29 - [MESSAGE][PASSED] - Navigate to 'https://school-payment.digiform.co.id/login' successfully
+
+01-01-2025T22:02:29 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+01-01-2025T22:02:29 - [MESSAGE][PASSED] - Current window maximized
+
+01-01-2025T22:02:29 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Admin Sekolah/Login/Field Email"), "admin.sekolah@gmail.com"): Text 'admin.sekolah@gmail.com' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Field Email'
+
+01-01-2025T22:02:31 - [MESSAGE][PASSED] - Text 'admin.sekolah@gmail.com' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Field Email'
+
+01-01-2025T22:02:31 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Admin Sekolah/Login/Input Password"), "Test1234"): Text 'Test1234' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Input Password'
+
+01-01-2025T22:02:32 - [MESSAGE][PASSED] - Text 'Test1234' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Input Password'
+
+01-01-2025T22:02:32 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Button Submit")): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Button Submit' is clicked on
+
+01-01-2025T22:02:32 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Button Submit' is clicked on
+
+01-01-2025T22:02:32 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Menu Tagihan")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Menu Tagihan' is clicked on
+
+01-01-2025T22:02:34 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Menu Tagihan' is clicked on
+
+01-01-2025T22:02:34 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa' is clicked on
+
+01-01-2025T22:02:35 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa' is clicked on
+
+01-01-2025T22:02:35 - [TEST_STEP][PASSED] - setText(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Field Pencarian Siswa"), "adam"): Text 'adam' is set on object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Field Pencarian Siswa'
+
+01-01-2025T22:02:36 - [MESSAGE][PASSED] - Text 'adam' is set on object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Field Pencarian Siswa'
+
+01-01-2025T22:02:36 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+01-01-2025T22:02:38 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+01-01-2025T22:02:38 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Value Rekomendasi Siswa")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Value Rekomendasi Siswa' is clicked on
+
+01-01-2025T22:02:38 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Value Rekomendasi Siswa' is clicked on
+
+01-01-2025T22:02:38 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Page Pembayaran Siswa/Button Riwayat Pembayaran")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Page Pembayaran Siswa/Button Riwayat Pembayaran' is clicked on
+
+01-01-2025T22:02:39 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Page Pembayaran Siswa/Button Riwayat Pembayaran' is clicked on
+
+01-01-2025T22:02:39 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Verifikasi Nama Siswa")): Object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Verifikasi Nama Siswa' is visible
+
+01-01-2025T22:02:40 - [MESSAGE][PASSED] - Object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Verifikasi Nama Siswa' is visible
+
+01-01-2025T22:02:40 - [TEST_STEP][PASSED] - back(): Navigate back successfully
+
+01-01-2025T22:02:40 - [MESSAGE][PASSED] - Navigate back successfully
+
+01-01-2025T22:02:40 - [TEST_STEP][PASSED] - setText(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Field Pencarian Siswa"), "adam"): Text 'adam' is set on object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Field Pencarian Siswa'
+
+01-01-2025T22:02:41 - [MESSAGE][PASSED] - Text 'adam' is set on object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Field Pencarian Siswa'
+
+01-01-2025T22:02:41 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+01-01-2025T22:02:43 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+01-01-2025T22:02:43 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Value Rekomendasi Siswa")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Value Rekomendasi Siswa' is clicked on
+
+01-01-2025T22:02:43 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Value Rekomendasi Siswa' is clicked on
+
+01-01-2025T22:02:43 - [TEST_STEP][PASSED] - ["Nama Tagihan", "Tipe Tagihan", "Tanggal Tagihan", "Jumlah Tagihan"].each({ java.lang.Object row -> ... }): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Data in Table/Row Jumlah Tagihan' is clicked on
+
+01-01-2025T22:02:45 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Data in Table/Row Nama Tagihan' is clicked on
+
+01-01-2025T22:02:46 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Data in Table/Row Nama Tagihan' is clicked on
+
+01-01-2025T22:02:48 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Data in Table/Row Nama Tagihan' is clicked on
+
+01-01-2025T22:02:49 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Data in Table/Row Tipe Tagihan' is clicked on
+
+01-01-2025T22:02:51 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Data in Table/Row Tipe Tagihan' is clicked on
+
+01-01-2025T22:02:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Data in Table/Row Tipe Tagihan' is clicked on
+
+01-01-2025T22:02:54 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Data in Table/Row Tanggal Tagihan' is clicked on
+
+01-01-2025T22:02:55 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Data in Table/Row Tanggal Tagihan' is clicked on
+
+01-01-2025T22:02:57 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Data in Table/Row Tanggal Tagihan' is clicked on
+
+01-01-2025T22:02:58 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Data in Table/Row Jumlah Tagihan' is clicked on
+
+01-01-2025T22:03:00 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Data in Table/Row Jumlah Tagihan' is clicked on
+
+01-01-2025T22:03:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Data in Table/Row Jumlah Tagihan' is clicked on
+
+01-01-2025T22:03:01 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Data in Table/Pilih Checkbox")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Data in Table/Pilih Checkbox' is clicked on
+
+01-01-2025T22:03:03 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Data in Table/Pilih Checkbox' is clicked on
+
+01-01-2025T22:03:03 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Data in Table/Button Bayar Sekarang")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Data in Table/Button Bayar Sekarang' is clicked on
+
+01-01-2025T22:03:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Data in Table/Button Bayar Sekarang' is clicked on
+
+01-01-2025T22:03:04 - [TEST_STEP][PASSED] - setText(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Pop Up Konfirmasi Pembayaran/Field Uang Yang Dibayarkan"), "5000000"): Text '5000000' is set on object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Pop Up Konfirmasi Pembayaran/Field Uang Yang Dibayarkan'
+
+01-01-2025T22:03:05 - [MESSAGE][PASSED] - Text '5000000' is set on object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Pop Up Konfirmasi Pembayaran/Field Uang Yang Dibayarkan'
+
+01-01-2025T22:03:05 - [TEST_STEP][PASSED] - handlePaymentErrorLoop(): null
+
+01-01-2025T22:03:05 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Pop Up Konfirmasi Pembayaran/Button Lanjut Bayar")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Pop Up Konfirmasi Pembayaran/Button Lanjut Bayar' is clicked on
+
+01-01-2025T22:03:05 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Pop Up Konfirmasi Pembayaran/Button Lanjut Bayar' is clicked on
+
+01-01-2025T22:03:05 - [TEST_STEP][PASSED] - isErrorDisplayed = false: null
+
+01-01-2025T22:03:05 - [TEST_STEP][PASSED] - attemptCount = 0: null
+
+01-01-2025T22:03:05 - [TEST_STEP][PASSED] - maxAttempts = 5: null
+
+01-01-2025T22:03:05 - [TEST_STEP][PASSED] - while (attemptCount < maxAttempts): null
+
+01-01-2025T22:03:05 - [TEST_STEP][PASSED] - isErrorDisplayed = verifyElementPresent(findTestObject("//Toast[@type='error' and @message='Gagal Melakukan Pembayaran!' and @toastId='failed-billing-page']"), 5, OPTIONAL): Unable to verify object is present (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to verify object is present
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:117)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:43)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.verifyElementPresent(VerifyElementPresentKeyword.groovy:92)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.execute(VerifyElementPresentKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementPresent(WebUiBuiltInKeywords.groovy:1524)
+	at Pembayaran Siswa.handlePaymentErrorLoop(Pembayaran Siswa:88)
+	at Pembayaran Siswa.run(Pembayaran Siswa:72)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:161)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:176)
+	at TempTestSuite1735743163758.run(TempTestSuite1735743163758.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: java.lang.IllegalArgumentException: Object is null
+	at com.kms.katalon.core.helper.KeywordHelper.checkTestObjectParameter(KeywordHelper.java:33)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.doCall(VerifyElementPresentKeyword.groovy:76)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.call(VerifyElementPresentKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:35)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.verifyElementPresent(VerifyElementPresentKeyword.groovy:92)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.execute(VerifyElementPresentKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementPresent(WebUiBuiltInKeywords.groovy:1524)
+	at Script1732261254829.handlePaymentErrorLoop(Script1732261254829.groovy:88)
+	at Script1732261254829.run(Script1732261254829.groovy:72)
+	... 15 more
+)
+
+01-01-2025T22:03:05 - [MESSAGE][WARNING] - Test object with id 'Object Repository///Toast[@type='error' and @message='Gagal Melakukan Pembayaran!' and @toastId='failed-billing-page']' does not exist
+
+01-01-2025T22:03:05 - [MESSAGE][WARNING] - Test object with id 'Object Repository/' does not exist
+
+01-01-2025T22:03:06 - [MESSAGE][WARNING] - Unable to verify object is present (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to verify object is present
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:117)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:43)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.verifyElementPresent(VerifyElementPresentKeyword.groovy:92)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.execute(VerifyElementPresentKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementPresent(WebUiBuiltInKeywords.groovy:1524)
+	at Pembayaran Siswa.handlePaymentErrorLoop(Pembayaran Siswa:88)
+	at Pembayaran Siswa.run(Pembayaran Siswa:72)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:161)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:176)
+	at TempTestSuite1735743163758.run(TempTestSuite1735743163758.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: java.lang.IllegalArgumentException: Object is null
+	at com.kms.katalon.core.helper.KeywordHelper.checkTestObjectParameter(KeywordHelper.java:33)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.doCall(VerifyElementPresentKeyword.groovy:76)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.call(VerifyElementPresentKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:35)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.verifyElementPresent(VerifyElementPresentKeyword.groovy:92)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.execute(VerifyElementPresentKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementPresent(WebUiBuiltInKeywords.groovy:1524)
+	at Script1732261254829.handlePaymentErrorLoop(Script1732261254829.groovy:88)
+	at Script1732261254829.run(Script1732261254829.groovy:72)
+	... 15 more
+)
+[[ATTACHMENT|C:\\Users\\henri\\Videos\\school-payment-automation-testing\\Reports\\20250101_215240\\SPRINT 2\\20250101_215243\\1735743785950.png]]
+
+01-01-2025T22:03:06 - [TEST_STEP][PASSED] - if (isErrorDisplayed): null
+
+01-01-2025T22:03:06 - [TEST_STEP][PASSED] - else: null
+
+01-01-2025T22:03:06 - [TEST_STEP][PASSED] - break: null
+
+01-01-2025T22:03:06 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Page Sukses Pembayaran Siswa/Toast Notification Berhasil")): Object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Page Sukses Pembayaran Siswa/Toast Notification Berhasil' is visible
+
+01-01-2025T22:03:09 - [MESSAGE][PASSED] - Object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Page Sukses Pembayaran Siswa/Toast Notification Berhasil' is visible
+
+01-01-2025T22:03:09 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Page Sukses Pembayaran Siswa/Button Cetak")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Page Sukses Pembayaran Siswa/Button Cetak' is clicked on
+
+01-01-2025T22:03:09 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Page Sukses Pembayaran Siswa/Button Cetak' is clicked on
+
+01-01-2025T22:03:09 - [TEST_STEP][PASSED] - delay(5): Delayed 5 second(s)
+
+01-01-2025T22:03:14 - [MESSAGE][PASSED] - Delayed 5 second(s)]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Riwayat Pembayaran/Sorting Table Riwayat Pembayaran" time="27.695" classname="Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Riwayat Pembayaran/Sorting Table Riwayat Pembayaran" status="PASSED">
+         <system-out><![CDATA[01-01-2025T22:03:14 - [TEST_CASE][PASSED] - Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Riwayat Pembayaran/Sorting Table Riwayat Pembayaran: Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Riwayat Pembayaran/Sorting Table Riwayat Pembayaran
+
+01-01-2025T22:03:14 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+01-01-2025T22:03:14 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+01-01-2025T22:03:14 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+01-01-2025T22:03:14 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+01-01-2025T22:03:15 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+01-01-2025T22:03:15 - [TEST_STEP][PASSED] - navigateToUrl("https://school-payment.digiform.co.id/login"): Navigate to 'https://school-payment.digiform.co.id/login' successfully
+
+01-01-2025T22:03:15 - [MESSAGE][PASSED] - Navigate to 'https://school-payment.digiform.co.id/login' successfully
+
+01-01-2025T22:03:15 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Field Email")): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Field Email' is clicked on
+
+01-01-2025T22:03:17 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Field Email' is clicked on
+
+01-01-2025T22:03:17 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Admin Sekolah/Login/Field Email"), "admin.sekolah@gmail.com"): Text 'admin.sekolah@gmail.com' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Field Email'
+
+01-01-2025T22:03:18 - [MESSAGE][PASSED] - Text 'admin.sekolah@gmail.com' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Field Email'
+
+01-01-2025T22:03:18 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Input Password")): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Input Password' is clicked on
+
+01-01-2025T22:03:18 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Input Password' is clicked on
+
+01-01-2025T22:03:18 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Admin Sekolah/Login/Input Password"), "Test1234"): Text 'Test1234' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Input Password'
+
+01-01-2025T22:03:18 - [MESSAGE][PASSED] - Text 'Test1234' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Input Password'
+
+01-01-2025T22:03:18 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Button Submit")): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Button Submit' is clicked on
+
+01-01-2025T22:03:19 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Button Submit' is clicked on
+
+01-01-2025T22:03:19 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Riwayat Pembayaran/Detail Riwayat Pembayaran/Menu Tagihan")): Object: 'Object Repository/Master Data/Admin Sekolah/Riwayat Pembayaran/Detail Riwayat Pembayaran/Menu Tagihan' is clicked on
+
+01-01-2025T22:03:40 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Riwayat Pembayaran/Detail Riwayat Pembayaran/Menu Tagihan' is clicked on
+
+01-01-2025T22:03:40 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Riwayat Pembayaran/Detail Riwayat Pembayaran/Riwayat Pembayaran"), STOP_ON_FAILURE): Object: 'Object Repository/Master Data/Admin Sekolah/Riwayat Pembayaran/Detail Riwayat Pembayaran/Riwayat Pembayaran' is clicked on
+
+01-01-2025T22:03:41 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Riwayat Pembayaran/Detail Riwayat Pembayaran/Riwayat Pembayaran' is clicked on
+
+01-01-2025T22:03:41 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Riwayat Pembayaran/Sorting Table Riwayat Pembayaran/Sorting Tanggal")): Object: 'Object Repository/Master Data/Admin Sekolah/Riwayat Pembayaran/Sorting Table Riwayat Pembayaran/Sorting Tanggal' is clicked on
+
+01-01-2025T22:03:42 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Riwayat Pembayaran/Sorting Table Riwayat Pembayaran/Sorting Tanggal' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Riwayat Pembayaran/Filter Riwayat Pembayaran" time="8.971" classname="Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Riwayat Pembayaran/Filter Riwayat Pembayaran" status="PASSED">
+         <system-out><![CDATA[01-01-2025T22:03:42 - [TEST_CASE][PASSED] - Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Riwayat Pembayaran/Filter Riwayat Pembayaran: Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Riwayat Pembayaran/Filter Riwayat Pembayaran
+
+01-01-2025T22:03:42 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+01-01-2025T22:03:42 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+01-01-2025T22:03:42 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+01-01-2025T22:03:42 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+01-01-2025T22:03:43 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+01-01-2025T22:03:43 - [TEST_STEP][PASSED] - navigateToUrl("https://school-payment.digiform.co.id/login"): Navigate to 'https://school-payment.digiform.co.id/login' successfully
+
+01-01-2025T22:03:43 - [MESSAGE][PASSED] - Navigate to 'https://school-payment.digiform.co.id/login' successfully
+
+01-01-2025T22:03:43 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Field Email")): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Field Email' is clicked on
+
+01-01-2025T22:03:45 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Field Email' is clicked on
+
+01-01-2025T22:03:45 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Admin Sekolah/Login/Field Email"), "admin.sekolah@gmail.com"): Text 'admin.sekolah@gmail.com' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Field Email'
+
+01-01-2025T22:03:45 - [MESSAGE][PASSED] - Text 'admin.sekolah@gmail.com' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Field Email'
+
+01-01-2025T22:03:45 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Input Password")): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Input Password' is clicked on
+
+01-01-2025T22:03:46 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Input Password' is clicked on
+
+01-01-2025T22:03:46 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Admin Sekolah/Login/Input Password"), "Test1234"): Text 'Test1234' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Input Password'
+
+01-01-2025T22:03:46 - [MESSAGE][PASSED] - Text 'Test1234' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Input Password'
+
+01-01-2025T22:03:46 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Button Submit")): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Button Submit' is clicked on
+
+01-01-2025T22:03:46 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Button Submit' is clicked on
+
+01-01-2025T22:03:46 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Riwayat Pembayaran/Detail Riwayat Pembayaran/Menu Tagihan")): Object: 'Object Repository/Master Data/Admin Sekolah/Riwayat Pembayaran/Detail Riwayat Pembayaran/Menu Tagihan' is clicked on
+
+01-01-2025T22:03:48 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Riwayat Pembayaran/Detail Riwayat Pembayaran/Menu Tagihan' is clicked on
+
+01-01-2025T22:03:48 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Riwayat Pembayaran/Detail Riwayat Pembayaran/Riwayat Pembayaran"), STOP_ON_FAILURE): Object: 'Object Repository/Master Data/Admin Sekolah/Riwayat Pembayaran/Detail Riwayat Pembayaran/Riwayat Pembayaran' is clicked on
+
+01-01-2025T22:03:49 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Riwayat Pembayaran/Detail Riwayat Pembayaran/Riwayat Pembayaran' is clicked on
+
+01-01-2025T22:03:49 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Riwayat Pembayaran/Filter dan Search Riwayat Pembayaran/Status Pembayaran")): Object: 'Object Repository/Master Data/Admin Sekolah/Riwayat Pembayaran/Filter dan Search Riwayat Pembayaran/Status Pembayaran' is clicked on
+
+01-01-2025T22:03:50 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Riwayat Pembayaran/Filter dan Search Riwayat Pembayaran/Status Pembayaran' is clicked on
+
+01-01-2025T22:03:50 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Riwayat Pembayaran/Filter dan Search Riwayat Pembayaran/Menunggu")): Object: 'Object Repository/Master Data/Admin Sekolah/Riwayat Pembayaran/Filter dan Search Riwayat Pembayaran/Menunggu' is clicked on
+
+01-01-2025T22:03:50 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Riwayat Pembayaran/Filter dan Search Riwayat Pembayaran/Menunggu' is clicked on
+
+01-01-2025T22:03:50 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Riwayat Pembayaran/Filter dan Search Riwayat Pembayaran/Terapkan")): Object: 'Object Repository/Master Data/Admin Sekolah/Riwayat Pembayaran/Filter dan Search Riwayat Pembayaran/Terapkan' is clicked on
+
+01-01-2025T22:03:51 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Riwayat Pembayaran/Filter dan Search Riwayat Pembayaran/Terapkan' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Riwayat Pembayaran/Search Riwayat Pembayaran" time="11.378" classname="Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Riwayat Pembayaran/Search Riwayat Pembayaran" status="PASSED">
+         <system-out><![CDATA[01-01-2025T22:03:51 - [TEST_CASE][PASSED] - Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Riwayat Pembayaran/Search Riwayat Pembayaran: Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Riwayat Pembayaran/Search Riwayat Pembayaran
+
+01-01-2025T22:03:51 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+01-01-2025T22:03:51 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+01-01-2025T22:03:51 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+01-01-2025T22:03:51 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+01-01-2025T22:03:52 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+01-01-2025T22:03:52 - [TEST_STEP][PASSED] - navigateToUrl("https://school-payment.digiform.co.id/login"): Navigate to 'https://school-payment.digiform.co.id/login' successfully
+
+01-01-2025T22:03:52 - [MESSAGE][PASSED] - Navigate to 'https://school-payment.digiform.co.id/login' successfully
+
+01-01-2025T22:03:52 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Field Email")): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Field Email' is clicked on
+
+01-01-2025T22:03:54 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Field Email' is clicked on
+
+01-01-2025T22:03:54 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Admin Sekolah/Login/Field Email"), "admin.sekolah@gmail.com"): Text 'admin.sekolah@gmail.com' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Field Email'
+
+01-01-2025T22:03:55 - [MESSAGE][PASSED] - Text 'admin.sekolah@gmail.com' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Field Email'
+
+01-01-2025T22:03:55 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Input Password")): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Input Password' is clicked on
+
+01-01-2025T22:03:55 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Input Password' is clicked on
+
+01-01-2025T22:03:55 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Admin Sekolah/Login/Input Password"), "Test1234"): Text 'Test1234' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Input Password'
+
+01-01-2025T22:03:56 - [MESSAGE][PASSED] - Text 'Test1234' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Input Password'
+
+01-01-2025T22:03:56 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Button Submit")): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Button Submit' is clicked on
+
+01-01-2025T22:03:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Button Submit' is clicked on
+
+01-01-2025T22:03:56 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Riwayat Pembayaran/Detail Riwayat Pembayaran/Menu Tagihan")): Object: 'Object Repository/Master Data/Admin Sekolah/Riwayat Pembayaran/Detail Riwayat Pembayaran/Menu Tagihan' is clicked on
+
+01-01-2025T22:03:58 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Riwayat Pembayaran/Detail Riwayat Pembayaran/Menu Tagihan' is clicked on
+
+01-01-2025T22:03:58 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Riwayat Pembayaran/Detail Riwayat Pembayaran/Riwayat Pembayaran"), STOP_ON_FAILURE): Object: 'Object Repository/Master Data/Admin Sekolah/Riwayat Pembayaran/Detail Riwayat Pembayaran/Riwayat Pembayaran' is clicked on
+
+01-01-2025T22:03:59 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Riwayat Pembayaran/Detail Riwayat Pembayaran/Riwayat Pembayaran' is clicked on
+
+01-01-2025T22:03:59 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Riwayat Pembayaran/Filter dan Search Riwayat Pembayaran/Input Nama")): Object: 'Object Repository/Master Data/Admin Sekolah/Riwayat Pembayaran/Filter dan Search Riwayat Pembayaran/Input Nama' is clicked on
+
+01-01-2025T22:03:59 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Riwayat Pembayaran/Filter dan Search Riwayat Pembayaran/Input Nama' is clicked on
+
+01-01-2025T22:03:59 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Admin Sekolah/Riwayat Pembayaran/Filter dan Search Riwayat Pembayaran/Input Nama"), "danu"): Text 'danu' is set on object 'Object Repository/Master Data/Admin Sekolah/Riwayat Pembayaran/Filter dan Search Riwayat Pembayaran/Input Nama'
+
+01-01-2025T22:04:00 - [MESSAGE][PASSED] - Text 'danu' is set on object 'Object Repository/Master Data/Admin Sekolah/Riwayat Pembayaran/Filter dan Search Riwayat Pembayaran/Input Nama'
+
+01-01-2025T22:04:00 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Riwayat Pembayaran/Filter dan Search Riwayat Pembayaran/danu")): Object: 'Object Repository/Master Data/Admin Sekolah/Riwayat Pembayaran/Filter dan Search Riwayat Pembayaran/danu' is clicked on
+
+01-01-2025T22:04:02 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Riwayat Pembayaran/Filter dan Search Riwayat Pembayaran/danu' is clicked on
+
+01-01-2025T22:04:02 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Riwayat Pembayaran/Filter dan Search Riwayat Pembayaran/Terapkan")): Object: 'Object Repository/Master Data/Admin Sekolah/Riwayat Pembayaran/Filter dan Search Riwayat Pembayaran/Terapkan' is clicked on
+
+01-01-2025T22:04:02 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Riwayat Pembayaran/Filter dan Search Riwayat Pembayaran/Terapkan' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Riwayat Pembayaran/Detail Riwayat Pembayaran" time="8.101" classname="Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Riwayat Pembayaran/Detail Riwayat Pembayaran" status="PASSED">
+         <system-out><![CDATA[01-01-2025T22:04:02 - [TEST_CASE][PASSED] - Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Riwayat Pembayaran/Detail Riwayat Pembayaran: Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Riwayat Pembayaran/Detail Riwayat Pembayaran
+
+01-01-2025T22:04:02 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+01-01-2025T22:04:02 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+01-01-2025T22:04:02 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+01-01-2025T22:04:02 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+01-01-2025T22:04:03 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+01-01-2025T22:04:03 - [TEST_STEP][PASSED] - navigateToUrl("https://school-payment.digiform.co.id/login"): Navigate to 'https://school-payment.digiform.co.id/login' successfully
+
+01-01-2025T22:04:03 - [MESSAGE][PASSED] - Navigate to 'https://school-payment.digiform.co.id/login' successfully
+
+01-01-2025T22:04:03 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Field Email")): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Field Email' is clicked on
+
+01-01-2025T22:04:05 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Field Email' is clicked on
+
+01-01-2025T22:04:05 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Admin Sekolah/Login/Field Email"), "admin.sekolah@gmail.com"): Text 'admin.sekolah@gmail.com' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Field Email'
+
+01-01-2025T22:04:06 - [MESSAGE][PASSED] - Text 'admin.sekolah@gmail.com' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Field Email'
+
+01-01-2025T22:04:06 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Input Password")): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Input Password' is clicked on
+
+01-01-2025T22:04:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Input Password' is clicked on
+
+01-01-2025T22:04:06 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Admin Sekolah/Login/Input Password"), "Test1234"): Text 'Test1234' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Input Password'
+
+01-01-2025T22:04:06 - [MESSAGE][PASSED] - Text 'Test1234' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Input Password'
+
+01-01-2025T22:04:06 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Button Submit")): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Button Submit' is clicked on
+
+01-01-2025T22:04:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Button Submit' is clicked on
+
+01-01-2025T22:04:07 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Riwayat Pembayaran/Detail Riwayat Pembayaran/Menu Tagihan")): Object: 'Object Repository/Master Data/Admin Sekolah/Riwayat Pembayaran/Detail Riwayat Pembayaran/Menu Tagihan' is clicked on
+
+01-01-2025T22:04:09 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Riwayat Pembayaran/Detail Riwayat Pembayaran/Menu Tagihan' is clicked on
+
+01-01-2025T22:04:09 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Riwayat Pembayaran/Detail Riwayat Pembayaran/Riwayat Pembayaran"), STOP_ON_FAILURE): Object: 'Object Repository/Master Data/Admin Sekolah/Riwayat Pembayaran/Detail Riwayat Pembayaran/Riwayat Pembayaran' is clicked on
+
+01-01-2025T22:04:09 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Riwayat Pembayaran/Detail Riwayat Pembayaran/Riwayat Pembayaran' is clicked on
+
+01-01-2025T22:04:09 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Riwayat Pembayaran/Detail Riwayat Pembayaran/Lihat Detail")): Object: 'Object Repository/Master Data/Admin Sekolah/Riwayat Pembayaran/Detail Riwayat Pembayaran/Lihat Detail' is clicked on
+
+01-01-2025T22:04:10 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Riwayat Pembayaran/Detail Riwayat Pembayaran/Lihat Detail' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[01-01-2025T21:59:21 - [TEST_SUITE][FAILED] - SPRINT 2: Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Pembayaran Per Siswa/Filter Dan Search Tagihan Persiswa FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub-Menu Tagihan Persiswa'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:117)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:43)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:75)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:696)
+	at Filter Dan Search Tagihan Persiswa.run(Filter Dan Search Tagihan Persiswa:44)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:161)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:176)
+	at TempTestSuite1735743163758.run(TempTestSuite1735743163758.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.205)
+Build info: version: '4.22.0', revision: 'c5f3146703'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Command: [bc7c1be134ce3f37308a71efc2d4c653, findElements {using=xpath, value=//a[@href='/billing/student-each']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 130.0.6723.58 (3a50e012e4c9..., userDataDir: C:\Users\henri\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64684}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64684/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: ignore, webSocketUrl: ws://localhost:18539/sessio..., webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: bc7c1be134ce3f37308a71efc2d4c653
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElements(ElementLocation.java:182)
+	at org.openqa.selenium.remote.ElementLocation.findElements(ElementLocation.java:103)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:368)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:362)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at org.openqa.selenium.support.decorators.WebDriverDecorator.call(WebDriverDecorator.java:249)
+	at org.openqa.selenium.support.decorators.DefaultDecorated.call(DefaultDecorated.java:48)
+	at org.openqa.selenium.support.decorators.WebDriverDecorator.lambda$createProxy$2(WebDriverDecorator.java:321)
+	at org.openqa.selenium.remote.RemoteWebDriver$ByteBuddy$D8p9mnSe.findElements(Unknown Source)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementByNormalMethods(WebUiCommonHelper.java:1036)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsBySelectedMethod(WebUiCommonHelper.java:927)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsBySelectedMethod(WebUiCommonHelper.java:909)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsBySelectedMethod(WebUiCommonHelper.java:904)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsByDefault(WebUiCommonHelper.java:900)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsWithSelfHealing(WebUiCommonHelper.java:746)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElements(WebUiCommonHelper.java:730)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1416)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:66)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:35)
+	... 20 more]]></system-out>
+      <system-err><![CDATA[01-01-2025T21:59:21 - [TEST_SUITE][FAILED] - SPRINT 2: Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Pembayaran Per Siswa/Filter Dan Search Tagihan Persiswa FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub-Menu Tagihan Persiswa'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:117)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:43)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:75)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:696)
+	at Filter Dan Search Tagihan Persiswa.run(Filter Dan Search Tagihan Persiswa:44)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:161)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:176)
+	at TempTestSuite1735743163758.run(TempTestSuite1735743163758.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.205)
+Build info: version: '4.22.0', revision: 'c5f3146703'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Command: [bc7c1be134ce3f37308a71efc2d4c653, findElements {using=xpath, value=//a[@href='/billing/student-each']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 130.0.6723.58 (3a50e012e4c9..., userDataDir: C:\Users\henri\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64684}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64684/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: ignore, webSocketUrl: ws://localhost:18539/sessio..., webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: bc7c1be134ce3f37308a71efc2d4c653
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElements(ElementLocation.java:182)
+	at org.openqa.selenium.remote.ElementLocation.findElements(ElementLocation.java:103)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:368)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:362)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at org.openqa.selenium.support.decorators.WebDriverDecorator.call(WebDriverDecorator.java:249)
+	at org.openqa.selenium.support.decorators.DefaultDecorated.call(DefaultDecorated.java:48)
+	at org.openqa.selenium.support.decorators.WebDriverDecorator.lambda$createProxy$2(WebDriverDecorator.java:321)
+	at org.openqa.selenium.remote.RemoteWebDriver$ByteBuddy$D8p9mnSe.findElements(Unknown Source)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementByNormalMethods(WebUiCommonHelper.java:1036)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsBySelectedMethod(WebUiCommonHelper.java:927)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsBySelectedMethod(WebUiCommonHelper.java:909)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsBySelectedMethod(WebUiCommonHelper.java:904)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsByDefault(WebUiCommonHelper.java:900)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsWithSelfHealing(WebUiCommonHelper.java:746)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElements(WebUiCommonHelper.java:730)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1416)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:66)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:35)
+	... 20 more]]></system-err>
+   </testsuite>
+</testsuites>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Dropdown NIS</name>
+   <tag></tag>
+   <elementGuidId>7413bd75-b940-4057-be51-6ae6bb7f9e27</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[1]/following::p[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-testid=&quot;option-nis&quot;] [data-testid=&quot;paragraph&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>d4510305-a6b5-4e1f-9b77-62d9f5a40fbb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-sm w-full</value>
+      <webElementGuid>07093941-3564-4da5-ab7e-ae965f9795be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>paragraph</value>
+      <webElementGuid>e6787b19-302b-445f-abd9-4413b1d7ca6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>NIS</value>
+      <webElementGuid>f369a6be-0f23-4765-b76c-cf5b11e3cc81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;fixed z-[9999] rounded-[6px] bg-white p-2 shadow-sm&quot;]/div[@class=&quot;max-h-[200px] overflow-y-auto&quot;]/div[@class=&quot;flex w-full flex-row items-center gap-[10px] px-3 py-2 text-neutral10 hover:bg-blue1&quot;]/p[@class=&quot;text-sm w-full&quot;]</value>
+      <webElementGuid>82e8b034-bb70-4503-9c20-9604a2f0ea1e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[1]/following::p[2]</value>
+      <webElementGuid>1232a4ed-c2b4-44e2-9b63-dccb89d669d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='NIS']/parent::*</value>
+      <webElementGuid>bf347310-c5a7-414a-b3e3-27e9f55c15df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/p</value>
+      <webElementGuid>b3976566-8fa8-418d-9a3a-2aed30018587</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'NIS' or . = 'NIS')]</value>
+      <webElementGuid>1524875a-4afd-4ba1-a385-50d8ed3a6cca</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

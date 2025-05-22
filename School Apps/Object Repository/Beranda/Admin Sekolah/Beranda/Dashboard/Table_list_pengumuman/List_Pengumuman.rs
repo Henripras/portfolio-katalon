@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>List_Pengumuman</name>
+   <tag></tag>
+   <elementGuidId>33317436-bad2-472a-815c-532b6cd288f6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='layout-content']/div/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.mt-5.overflow-y-auto.pb-5</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0b05923e-46f9-4eb8-8ec3-37343200416c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mt-5 overflow-y-auto pb-5</value>
+      <webElementGuid>9656225e-3a2b-4bea-a7e4-396445127c84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Taun BaruEventDiterbitkan 24 Desember 2024notip masokPengumumanDiterbitkan 24 Desember 2024testing notipppEventDiterbitkan 24 Desember 2024Pengumuman Regresi PengumumanDiterbitkan 23 Desember 2024testing luthpi 2EventDiterbitkan 17 Desember 2024Selengkapnya</value>
+      <webElementGuid>4d838e48-e285-4eb9-a003-44b1304da1d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;layout-content&quot;)/div[@class=&quot;h-full rounded-lg bg-white&quot;]/div[@class=&quot;flex size-full&quot;]/div[@class=&quot;grid max-h-screen w-[30%] min-w-[375px] grid-rows-[auto_1fr] bg-[#F8F8F8] px-5&quot;]/div[@class=&quot;mt-5 overflow-y-auto pb-5&quot;]</value>
+      <webElementGuid>6e894ab2-8bd3-4368-bdc8-d9aefa20d782</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='layout-content']/div/div/div[2]/div</value>
+      <webElementGuid>00e085e1-ab5c-43b4-9b8e-45621c893f90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pengumuman &amp; Event'])[2]/following::div[1]</value>
+      <webElementGuid>a514c044-fe25-439c-8b0e-3b00a32a8379</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tagihan Terbayar'])[1]/following::div[2]</value>
+      <webElementGuid>18d302e7-f5b8-4d76-a8e2-8d609620581f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div</value>
+      <webElementGuid>43281f35-26a0-4701-9e5d-e260741e3b63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Taun BaruEventDiterbitkan 24 Desember 2024notip masokPengumumanDiterbitkan 24 Desember 2024testing notipppEventDiterbitkan 24 Desember 2024Pengumuman Regresi PengumumanDiterbitkan 23 Desember 2024testing luthpi 2EventDiterbitkan 17 Desember 2024Selengkapnya' or . = 'Taun BaruEventDiterbitkan 24 Desember 2024notip masokPengumumanDiterbitkan 24 Desember 2024testing notipppEventDiterbitkan 24 Desember 2024Pengumuman Regresi PengumumanDiterbitkan 23 Desember 2024testing luthpi 2EventDiterbitkan 17 Desember 2024Selengkapnya')]</value>
+      <webElementGuid>3bd74f70-79c8-485b-ade3-a87ee12ab64e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

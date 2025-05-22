@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Filter dan Search Laporan Tagihan</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>75a6439c-b9eb-46f7-b55c-51ae60bbdf1a</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Isi_table</name>
+   <tag></tag>
+   <elementGuidId>742b0f79-e0de-42c3-8a57-dd37305b6703</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='layout-content']/div/div/div[2]/div/div/div/div/h5</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h5</value>
+      <webElementGuid>e5caab94-6c01-455c-861f-35151e314b4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-sm lg:text-base line-clamp-2 font-semibold text-[#363636]</value>
+      <webElementGuid>30d6bdac-2af6-478e-9229-d5fac1446fb8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Baru Taun</value>
+      <webElementGuid>df74fcb0-940e-4061-b258-54ee6e687f41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;layout-content&quot;)/div[@class=&quot;h-full rounded-lg bg-white&quot;]/div[@class=&quot;flex size-full&quot;]/div[@class=&quot;grid max-h-screen w-[30%] min-w-[375px] grid-rows-[auto_1fr] bg-[#F8F8F8] px-5&quot;]/div[@class=&quot;mt-5 overflow-y-auto pb-5&quot;]/div[@class=&quot;space-y-4&quot;]/div[@class=&quot;flex cursor-pointer space-x-4&quot;]/div[@class=&quot;flex flex-col gap-y-3&quot;]/h5[@class=&quot;text-sm lg:text-base line-clamp-2 font-semibold text-[#363636]&quot;]</value>
+      <webElementGuid>90468e81-fea8-4334-afa6-a91a13a4c607</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='layout-content']/div/div/div[2]/div/div/div/div/h5</value>
+      <webElementGuid>47d56c26-72f9-41ec-bd86-15b9423b2850</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pengumuman &amp; Event'])[2]/following::h5[1]</value>
+      <webElementGuid>196bf277-d0d0-4ff8-8cab-0334b2c90d2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tagihan Terbayar'])[1]/following::h5[1]</value>
+      <webElementGuid>b4e6fddf-e7c6-49fb-a98e-95404ad11bd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Taun Baru'])[1]/preceding::h5[1]</value>
+      <webElementGuid>15432564-99e7-4c45-b142-262d52b24d16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='notip masok'])[1]/preceding::h5[2]</value>
+      <webElementGuid>d4988673-a9af-4379-9fdb-cda8b047e466</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Baru Taun']/parent::*</value>
+      <webElementGuid>9188d21b-054a-4b38-8a85-0ba1e3617b46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/h5</value>
+      <webElementGuid>96670a02-1811-4317-a2da-a4d451603279</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h5[(text() = 'Baru Taun' or . = 'Baru Taun')]</value>
+      <webElementGuid>118c42c2-87f7-4276-9c0b-a8866c5d9cf9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Value Kelas XI IPA 11</name>
+   <tag></tag>
+   <elementGuidId>78459239-466f-4eed-8f8a-76513b9e3566</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@data-testid = 'option-139']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[12]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-testid=&quot;option-7&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>abb0f569-7497-4fe0-ac24-ac7d10fb5a54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex w-full flex-row items-center gap-[10px] px-3 py-2 text-neutral10 hover:bg-blue1</value>
+      <webElementGuid>dca8d867-0d63-466d-a03d-558309a0158d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>option-139</value>
+      <webElementGuid>047b26a8-11cf-4a1c-9369-13574f8e271c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>7</value>
+      <webElementGuid>a7ecf64d-f66b-42bc-9d56-690a0feb19aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kelas - XI IPA 11</value>
+      <webElementGuid>3adbd438-c5d9-4b2c-a3cf-30dd87e8ca71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;fixed z-[9999] rounded-[6px] bg-white p-2 shadow-sm&quot;]/div[@class=&quot;max-h-[200px] overflow-y-auto&quot;]/div[@class=&quot;flex w-full flex-row items-center gap-[10px] px-3 py-2 text-neutral10 hover:bg-blue1&quot;]</value>
+      <webElementGuid>235c420a-4928-49ad-a26a-c6194e8d3dcb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@value='7']</value>
+      <webElementGuid>980dd3e3-96b3-48ac-80b9-cdc721309398</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[1]/following::div[18]</value>
+      <webElementGuid>ae50059f-1102-413d-bf07-edb7d048c3d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[12]</value>
+      <webElementGuid>1c316429-8528-4e5a-b595-1252c0210d34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Kelas - XI IPA 11' or . = 'Kelas - XI IPA 11')]</value>
+      <webElementGuid>e3d5b6e6-80a0-436b-ad7e-789bbc81855f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

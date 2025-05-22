@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button Cetak</name>
+   <tag></tag>
+   <elementGuidId>f4d98ff8-c7eb-47fd-814f-d3cfb89ee373</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modal']/div[2]/div/div[2]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Cetak' or . = 'Cetak')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Cetak&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0837d7cd-e1e7-46e3-af5b-9b4c319b1e7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rounded-[6px] flex whitespace-nowrap justify-center items-center font-bold gap-1 h-[52px] py-3 px-8 text-base hover:bg-blue9 text-white disabled:bg-secondary2 bg-blue5</value>
+      <webElementGuid>5e32b664-a13f-4cea-b23b-8e788ef53c4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cetak</value>
+      <webElementGuid>0da09457-7aea-41da-9bf9-617486e69b9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal&quot;)/div[@class=&quot;max-h-[calc(100dvh-128px)] overflow-auto break-all p-6 !p-8&quot;]/div[@class=&quot;flex flex-col gap-4&quot;]/div[@class=&quot;flex items-center justify-between rounded-lg bg-neutral3 p-4&quot;]/button[@class=&quot;rounded-[6px] flex whitespace-nowrap justify-center items-center font-bold gap-1 h-[52px] py-3 px-8 text-base hover:bg-blue9 text-white disabled:bg-secondary2 bg-blue5&quot;]</value>
+      <webElementGuid>9a9242f3-9b1e-495b-8676-fe09439ca75a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal']/div[2]/div/div[2]/button</value>
+      <webElementGuid>8ac16ffe-2020-435a-91f5-becb956d87f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SMA - XI IPA 11'])[1]/following::button[1]</value>
+      <webElementGuid>d00b8daf-4052-42c7-8f13-d0e9726e2a62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp100.000'])[1]/following::button[1]</value>
+      <webElementGuid>68b57eb9-26f3-446a-ae1e-31553fa3ccb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Tagihan'])[1]/preceding::button[1]</value>
+      <webElementGuid>77ffffd2-e852-4012-8af2-7e0c9aaaa0b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button</value>
+      <webElementGuid>80701b1e-94be-4a58-a6a0-b93cb7b9dd65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Cetak' or . = 'Cetak')]</value>
+      <webElementGuid>46e06f5c-2b1d-4e8d-ae15-c6cee0cb7d86</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

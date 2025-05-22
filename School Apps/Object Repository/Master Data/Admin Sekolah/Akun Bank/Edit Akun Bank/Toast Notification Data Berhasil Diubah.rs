@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Toast Notification Data Berhasil Diubah</name>
+   <tag></tag>
+   <elementGuidId>fa5d2734-17fa-4193-9954-1a697b03806f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.Toastify__toast-container.Toastify__toast-container--top-right > #success-edit-data-bank-account</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='of'])[2]/following::div[14]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#success-edit-data-bank-account >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1fe941c6-bc78-488a-b3fb-131ed0d10f64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>success-edit-data-bank-account</value>
+      <webElementGuid>9f1cffb9-7ce8-4af2-b246-7bcf5597bd2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-in</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>59bcd72d-c2c5-4122-9125-60013d532bf7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Toastify__toast Toastify__toast-theme--light Toastify__toast--success Toastify__toast--close-on-click</value>
+      <webElementGuid>6d211ef6-0694-4eaf-bcb4-50193b3f0c33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Data Berhasil Diubah!</value>
+      <webElementGuid>97d75657-ee80-4c2d-9728-90907f0c88ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;layout-content&quot;)/div[@id=&quot;success-edit-data-bank-account&quot;]/div[@class=&quot;Toastify__toast-container Toastify__toast-container--top-right&quot;]/div[@id=&quot;success-edit-data-bank-account&quot;]</value>
+      <webElementGuid>ff31a29c-ebe8-49ad-b5ef-9da2e14deca4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//div[@id='success-edit-data-bank-account'])[2]</value>
+      <webElementGuid>d5adf9e7-f898-4dae-b2e7-3fc432d9c6b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='success-edit-data-bank-account']/div/div</value>
+      <webElementGuid>47d6bcef-5160-41e0-9fc3-2ffac8526347</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='of'])[2]/following::div[14]</value>
+      <webElementGuid>747612f0-558e-4346-ba68-d26742addddd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Page'])[1]/following::div[14]</value>
+      <webElementGuid>91098d14-66d3-4d88-acce-a98a51bcb891</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div</value>
+      <webElementGuid>82471e1a-8889-4de2-997d-8c170e1c841a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'success-edit-data-bank-account' and (text() = 'Data Berhasil Diubah!' or . = 'Data Berhasil Diubah!')]</value>
+      <webElementGuid>a0eeb53c-490c-4018-9874-19735745e062</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

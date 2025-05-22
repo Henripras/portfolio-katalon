@@ -1,0 +1,1583 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="SPRINT 1" time="268.623" tests="11" failures="2" errors="1">
+   <testsuite name="SPRINT 1" tests="11" failures="2" errors="1" time="268.623" skipped="0" timestamp="09-12-2024T13:33:14" hostname="henri - Henri" id="Test Suites/SPRINT 1">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="C:\\Users\\henri\\Videos\\school-payment-automation-testing\\Reports\\20241209_133308\\SPRINT 1\\20241209_133309"/>
+         <property name="logFiles" value="C:\\Users\\henri\\Videos\\school-payment-automation-testing\\Reports\\20241209_133308\\SPRINT 1\\20241209_133309\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\henri\\Videos\\school-payment-automation-testing\\Reports\\20241209_133308\\SPRINT 1\\20241209_133309\\1733726075455.png, C:\\Users\\henri\\Videos\\school-payment-automation-testing\\Reports\\20241209_133308\\SPRINT 1\\20241209_133309\\1733726154451.png, C:\\Users\\henri\\Videos\\school-payment-automation-testing\\Reports\\20241209_133308\\SPRINT 1\\20241209_133309\\1733726241189.png"/>
+         <property name="hostName" value="henri - Henri"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="10.0.0.223"/>
+         <property name="browser" value="Chrome 131.0.0.0"/>
+         <property name="hostAddress" value="192.168.1.6"/>
+         <property name="sessionId" value="3749a0e25fa771bc18ee622c8ac6a6bc"/>
+         <property name="seleniumVersion" value="4.22.0"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/Master Data/Admin Sekolah/Master Data Akun Bank/Tambah Akun Bank" time="14.919" classname="Test Cases/Master Data/Admin Sekolah/Master Data Akun Bank/Tambah Akun Bank" status="PASSED">
+         <system-out><![CDATA[09-12-2024T13:33:14 - [TEST_CASE][PASSED] - Test Cases/Master Data/Admin Sekolah/Master Data Akun Bank/Tambah Akun Bank: Test Cases/Master Data/Admin Sekolah/Master Data Akun Bank/Tambah Akun Bank
+
+09-12-2024T13:33:15 - [TEST_STEP][PASSED] - openBrowser("", CONTINUE_ON_FAILURE): Browser is opened with url: ''
+
+09-12-2024T13:33:15 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+09-12-2024T13:33:15 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+09-12-2024T13:33:17 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+09-12-2024T13:33:17 - [TEST_STEP][PASSED] - navigateToUrl("https://school-payment.digiform.co.id/login", CONTINUE_ON_FAILURE): Navigate to 'https://school-payment.digiform.co.id/login' successfully
+
+09-12-2024T13:33:17 - [MESSAGE][PASSED] - Navigate to 'https://school-payment.digiform.co.id/login' successfully
+
+09-12-2024T13:33:17 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Field Email"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Field Email' is clicked on
+
+09-12-2024T13:33:19 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Field Email' is clicked on
+
+09-12-2024T13:33:19 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Admin Sekolah/Login/Field Email"), "admin.sekolah@gmail.com", CONTINUE_ON_FAILURE): Text 'admin.sekolah@gmail.com' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Field Email'
+
+09-12-2024T13:33:19 - [MESSAGE][PASSED] - Text 'admin.sekolah@gmail.com' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Field Email'
+
+09-12-2024T13:33:19 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Input Password"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Input Password' is clicked on
+
+09-12-2024T13:33:20 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Input Password' is clicked on
+
+09-12-2024T13:33:20 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Admin Sekolah/Login/Input Password"), "Test1234", CONTINUE_ON_FAILURE): Text 'Test1234' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Input Password'
+
+09-12-2024T13:33:20 - [MESSAGE][PASSED] - Text 'Test1234' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Input Password'
+
+09-12-2024T13:33:20 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Button Submit"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Button Submit' is clicked on
+
+09-12-2024T13:33:20 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Button Submit' is clicked on
+
+09-12-2024T13:33:20 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Tagihan/Master Data Menu"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Admin Sekolah/Tagihan/Master Data Menu' is clicked on
+
+09-12-2024T13:33:22 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Tagihan/Master Data Menu' is clicked on
+
+09-12-2024T13:33:22 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Akun Bank/Menu Akun Bank"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Admin Sekolah/Akun Bank/Menu Akun Bank' is clicked on
+
+09-12-2024T13:33:23 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Akun Bank/Menu Akun Bank' is clicked on
+
+09-12-2024T13:33:23 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Akun Bank/Button Tambah Akun Bank"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Admin Sekolah/Akun Bank/Button Tambah Akun Bank' is clicked on
+
+09-12-2024T13:33:24 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Akun Bank/Button Tambah Akun Bank' is clicked on
+
+09-12-2024T13:33:24 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Akun Bank/Tambah Akun Bank/Dropdown Pilih Nama Bank"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Admin Sekolah/Akun Bank/Tambah Akun Bank/Dropdown Pilih Nama Bank' is clicked on
+
+09-12-2024T13:33:24 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Akun Bank/Tambah Akun Bank/Dropdown Pilih Nama Bank' is clicked on
+
+09-12-2024T13:33:24 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Akun Bank/Tambah Akun Bank/Pilih Dropdown Nama Bank"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Admin Sekolah/Akun Bank/Tambah Akun Bank/Pilih Dropdown Nama Bank' is clicked on
+
+09-12-2024T13:33:25 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Akun Bank/Tambah Akun Bank/Pilih Dropdown Nama Bank' is clicked on
+
+09-12-2024T13:33:25 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Admin Sekolah/Akun Bank/Tambah Akun Bank/Set Text Nama Rekening"), "Rafael Struick", CONTINUE_ON_FAILURE): Text 'Rafael Struick' is set on object 'Object Repository/Master Data/Admin Sekolah/Akun Bank/Tambah Akun Bank/Set Text Nama Rekening'
+
+09-12-2024T13:33:25 - [MESSAGE][PASSED] - Text 'Rafael Struick' is set on object 'Object Repository/Master Data/Admin Sekolah/Akun Bank/Tambah Akun Bank/Set Text Nama Rekening'
+
+09-12-2024T13:33:25 - [TEST_STEP][PASSED] - nomorRekeningList = ["123141", "14521", "56212", "5212"]: null
+
+09-12-2024T13:33:25 - [TEST_STEP][PASSED] - isErrorPresent = true: null
+
+09-12-2024T13:33:25 - [TEST_STEP][PASSED] - for (String nomorRekening : nomorRekeningList): null
+
+09-12-2024T13:33:25 - [TEST_STEP][PASSED] - inputNomorRekening(nomorRekening): null
+
+09-12-2024T13:33:25 - [TEST_STEP][PASSED] - fieldNomorRekening = findTestObject("Master Data/Admin Sekolah/Akun Bank/Tambah Akun Bank/Set Text Nomor Rekening"): null
+
+09-12-2024T13:33:25 - [TEST_STEP][PASSED] - clearTextUntilEmpty(fieldNomorRekening): null
+
+09-12-2024T13:33:25 - [TEST_STEP][PASSED] - attempt = 0: null
+
+09-12-2024T13:33:25 - [TEST_STEP][PASSED] - while (attempt < maxAttempts): null
+
+09-12-2024T13:33:25 - [TEST_STEP][PASSED] - clearText(field, CONTINUE_ON_FAILURE): Text of object 'Object Repository/Master Data/Admin Sekolah/Akun Bank/Tambah Akun Bank/Set Text Nomor Rekening' is cleared
+
+09-12-2024T13:33:26 - [MESSAGE][PASSED] - Text of object 'Object Repository/Master Data/Admin Sekolah/Akun Bank/Tambah Akun Bank/Set Text Nomor Rekening' is cleared
+
+09-12-2024T13:33:26 - [TEST_STEP][PASSED] - delay(0.5): Delayed 0.5 second(s)
+
+09-12-2024T13:33:26 - [MESSAGE][PASSED] - Delayed 0.5 second(s)
+
+09-12-2024T13:33:26 - [TEST_STEP][PASSED] - currentText = getAttribute(field, "value", CONTINUE_ON_FAILURE): Attribute 'value' of object 'Object Repository/Master Data/Admin Sekolah/Akun Bank/Tambah Akun Bank/Set Text Nomor Rekening' is: ''
+
+09-12-2024T13:33:26 - [MESSAGE][PASSED] - Attribute 'value' of object 'Object Repository/Master Data/Admin Sekolah/Akun Bank/Tambah Akun Bank/Set Text Nomor Rekening' is: ''
+
+09-12-2024T13:33:26 - [TEST_STEP][PASSED] - if (currentText.isEmpty()): null
+
+09-12-2024T13:33:26 - [TEST_STEP][PASSED] - comment("Field berhasil dikosongkan setelah " + attempt + 1 + " percobaan."): Field berhasil dikosongkan setelah 1 percobaan.
+
+09-12-2024T13:33:26 - [MESSAGE][INFO] - Field berhasil dikosongkan setelah 1 percobaan.
+
+09-12-2024T13:33:26 - [TEST_STEP][PASSED] - break: null
+
+09-12-2024T13:33:26 - [TEST_STEP][PASSED] - setText(fieldNomorRekening, nomorRekening): null
+
+09-12-2024T13:33:27 - [MESSAGE][PASSED] - Text '123141' is set on object 'Object Repository/Master Data/Admin Sekolah/Akun Bank/Tambah Akun Bank/Set Text Nomor Rekening'
+
+09-12-2024T13:33:27 - [TEST_STEP][PASSED] - pilihKepemilikanDropdown(): null
+
+09-12-2024T13:33:27 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Akun Bank/Tambah Akun Bank/Dropdown Kepemilikan"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Admin Sekolah/Akun Bank/Tambah Akun Bank/Dropdown Kepemilikan' is clicked on
+
+09-12-2024T13:33:27 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Akun Bank/Tambah Akun Bank/Dropdown Kepemilikan' is clicked on
+
+09-12-2024T13:33:27 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Akun Bank/Tambah Akun Bank/Pilih Dropdown Kepemilikan"), CONTINUE_ON_FAILURE): null
+
+09-12-2024T13:33:28 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Akun Bank/Tambah Akun Bank/Pilih Dropdown Kepemilikan' is clicked on
+
+09-12-2024T13:33:28 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Akun Bank/Tambah Akun Bank/Button Submit"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Admin Sekolah/Akun Bank/Tambah Akun Bank/Button Submit' is clicked on
+
+09-12-2024T13:33:28 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Akun Bank/Tambah Akun Bank/Button Submit' is clicked on
+
+09-12-2024T13:33:28 - [TEST_STEP][PASSED] - isErrorPresent = verifyTextPresent("Nomor rekening sudah terdaftar", false, OPTIONAL): Text 'Nomor rekening sudah terdaftar' is not present on page  (Root cause: com.kms.katalon.core.exception.StepFailedException: Text 'Nomor rekening sudah terdaftar' is not present on page 
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:117)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyTextPresentKeyword$_verifyTextPresent_closure1.doCall(VerifyTextPresentKeyword.groovy:79)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyTextPresentKeyword$_verifyTextPresent_closure1.call(VerifyTextPresentKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:35)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyTextPresentKeyword.verifyTextPresent(VerifyTextPresentKeyword.groovy:83)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyTextPresentKeyword.execute(VerifyTextPresentKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyTextPresent(WebUiBuiltInKeywords.groovy:1783)
+	at Tambah Akun Bank.run(Tambah Akun Bank:61)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:161)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:176)
+	at TempTestSuite1733725989505.run(TempTestSuite1733725989505.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+)
+
+09-12-2024T13:33:29 - [MESSAGE][WARNING] - Text 'Nomor rekening sudah terdaftar' is not present on page  (Root cause: com.kms.katalon.core.exception.StepFailedException: Text 'Nomor rekening sudah terdaftar' is not present on page 
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:117)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyTextPresentKeyword$_verifyTextPresent_closure1.doCall(VerifyTextPresentKeyword.groovy:79)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyTextPresentKeyword$_verifyTextPresent_closure1.call(VerifyTextPresentKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:35)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyTextPresentKeyword.verifyTextPresent(VerifyTextPresentKeyword.groovy:83)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyTextPresentKeyword.execute(VerifyTextPresentKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyTextPresent(WebUiBuiltInKeywords.groovy:1783)
+	at Tambah Akun Bank.run(Tambah Akun Bank:61)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:161)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:176)
+	at TempTestSuite1733725989505.run(TempTestSuite1733725989505.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+)
+
+09-12-2024T13:33:29 - [TEST_STEP][PASSED] - if (!(isErrorPresent)): null
+
+09-12-2024T13:33:29 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Master Data/Admin Sekolah/Akun Bank/Akun Bank Dashboard"), CONTINUE_ON_FAILURE): Object 'Object Repository/Master Data/Admin Sekolah/Akun Bank/Akun Bank Dashboard' is visible
+
+09-12-2024T13:33:29 - [MESSAGE][PASSED] - Object 'Object Repository/Master Data/Admin Sekolah/Akun Bank/Akun Bank Dashboard' is visible
+
+09-12-2024T13:33:29 - [TEST_STEP][PASSED] - break: null
+
+09-12-2024T13:33:29 - [TEST_STEP][PASSED] - if (isErrorPresent): null
+
+09-12-2024T13:33:29 - [TEST_STEP][PASSED] - else: Nomor rekening berhasil didaftarkan.
+
+09-12-2024T13:33:29 - [TEST_STEP][PASSED] - comment("Nomor rekening berhasil didaftarkan."): Nomor rekening berhasil didaftarkan.
+
+09-12-2024T13:33:29 - [MESSAGE][INFO] - Nomor rekening berhasil didaftarkan.]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Master Data/Admin Sekolah/Master Data Akun Bank/Edit Akun Bank" time="0.2" classname="Test Cases/Master Data/Admin Sekolah/Master Data Akun Bank/Edit Akun Bank" status="ERROR">
+         <error type="ERROR" message="Test Cases/Master Data/Admin Sekolah/Master Data Akun Bank/Edit Akun Bank FAILED.&#xa;Reason:&#xa;org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:&#xa;file:/C:/Users/henri/Videos/school-payment-automation-testing/Scripts/Master%20Data/Admin%20Sekolah/Master%20Data%20Akun%20Bank/Edit%20Akun%20Bank/Script1733198752835.groovy: 126: The method public void clearAndSetText(com.kms.katalon.core.testobject.TestObject testObject, java.lang.String newText)  { ... } duplicates another method of the same signature&#xa;. At [126:1]  @ line 126, column 1.&#xa;   void clearAndSetText(TestObject testObject, String newText) {&#xa;   ^&#xa;&#xa;file:/C:/Users/henri/Videos/school-payment-automation-testing/Scripts/Master%20Data/Admin%20Sekolah/Master%20Data%20Akun%20Bank/Edit%20Akun%20Bank/Script1733198752835.groovy: 77: Repetitive method name/signature for method 'void clearAndSetText(com.kms.katalon.core.testobject.TestObject, java.lang.String)' in class 'Script1733198752835'.&#xa; @ line 77, column 1.&#xa;   void clearAndSetText(TestObject testObject, String newText) {&#xa;   ^&#xa;&#xa;file:/C:/Users/henri/Videos/school-payment-automation-testing/Scripts/Master%20Data/Admin%20Sekolah/Master%20Data%20Akun%20Bank/Edit%20Akun%20Bank/Script1733198752835.groovy: 126: Repetitive method name/signature for method 'void clearAndSetText(com.kms.katalon.core.testobject.TestObject, java.lang.String)' in class 'Script1733198752835'.&#xa; @ line 126, column 1.&#xa;   void clearAndSetText(TestObject testObject, String newText) {&#xa;   ^&#xa;&#xa;3 errors&#xa;&#xa;	at com.kms.katalon.core.main.ScriptEngine.getScript(ScriptEngine.java:199)&#xa;	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)&#xa;	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)&#xa;	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)&#xa;	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:161)&#xa;	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)&#xa;	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:176)&#xa;	at TempTestSuite1733725989505.run(TempTestSuite1733725989505.groovy:35)&#xa;	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)&#xa;	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)&#xa;	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)&#xa;"/>
+         <system-out><![CDATA[09-12-2024T13:33:29 - [TEST_CASE][ERROR] - Test Cases/Master Data/Admin Sekolah/Master Data Akun Bank/Edit Akun Bank: Test Cases/Master Data/Admin Sekolah/Master Data Akun Bank/Edit Akun Bank FAILED.
+Reason:
+org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+file:/C:/Users/henri/Videos/school-payment-automation-testing/Scripts/Master%20Data/Admin%20Sekolah/Master%20Data%20Akun%20Bank/Edit%20Akun%20Bank/Script1733198752835.groovy: 126: The method public void clearAndSetText(com.kms.katalon.core.testobject.TestObject testObject, java.lang.String newText)  { ... } duplicates another method of the same signature
+. At [126:1]  @ line 126, column 1.
+   void clearAndSetText(TestObject testObject, String newText) {
+   ^
+
+file:/C:/Users/henri/Videos/school-payment-automation-testing/Scripts/Master%20Data/Admin%20Sekolah/Master%20Data%20Akun%20Bank/Edit%20Akun%20Bank/Script1733198752835.groovy: 77: Repetitive method name/signature for method 'void clearAndSetText(com.kms.katalon.core.testobject.TestObject, java.lang.String)' in class 'Script1733198752835'.
+ @ line 77, column 1.
+   void clearAndSetText(TestObject testObject, String newText) {
+   ^
+
+file:/C:/Users/henri/Videos/school-payment-automation-testing/Scripts/Master%20Data/Admin%20Sekolah/Master%20Data%20Akun%20Bank/Edit%20Akun%20Bank/Script1733198752835.groovy: 126: Repetitive method name/signature for method 'void clearAndSetText(com.kms.katalon.core.testobject.TestObject, java.lang.String)' in class 'Script1733198752835'.
+ @ line 126, column 1.
+   void clearAndSetText(TestObject testObject, String newText) {
+   ^
+
+3 errors
+
+	at com.kms.katalon.core.main.ScriptEngine.getScript(ScriptEngine.java:199)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:161)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:176)
+	at TempTestSuite1733725989505.run(TempTestSuite1733725989505.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)]]></system-out>
+         <system-err><![CDATA[09-12-2024T13:33:29 - [TEST_CASE][ERROR] - Test Cases/Master Data/Admin Sekolah/Master Data Akun Bank/Edit Akun Bank: Test Cases/Master Data/Admin Sekolah/Master Data Akun Bank/Edit Akun Bank FAILED.
+Reason:
+org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+file:/C:/Users/henri/Videos/school-payment-automation-testing/Scripts/Master%20Data/Admin%20Sekolah/Master%20Data%20Akun%20Bank/Edit%20Akun%20Bank/Script1733198752835.groovy: 126: The method public void clearAndSetText(com.kms.katalon.core.testobject.TestObject testObject, java.lang.String newText)  { ... } duplicates another method of the same signature
+. At [126:1]  @ line 126, column 1.
+   void clearAndSetText(TestObject testObject, String newText) {
+   ^
+
+file:/C:/Users/henri/Videos/school-payment-automation-testing/Scripts/Master%20Data/Admin%20Sekolah/Master%20Data%20Akun%20Bank/Edit%20Akun%20Bank/Script1733198752835.groovy: 77: Repetitive method name/signature for method 'void clearAndSetText(com.kms.katalon.core.testobject.TestObject, java.lang.String)' in class 'Script1733198752835'.
+ @ line 77, column 1.
+   void clearAndSetText(TestObject testObject, String newText) {
+   ^
+
+file:/C:/Users/henri/Videos/school-payment-automation-testing/Scripts/Master%20Data/Admin%20Sekolah/Master%20Data%20Akun%20Bank/Edit%20Akun%20Bank/Script1733198752835.groovy: 126: Repetitive method name/signature for method 'void clearAndSetText(com.kms.katalon.core.testobject.TestObject, java.lang.String)' in class 'Script1733198752835'.
+ @ line 126, column 1.
+   void clearAndSetText(TestObject testObject, String newText) {
+   ^
+
+3 errors
+
+	at com.kms.katalon.core.main.ScriptEngine.getScript(ScriptEngine.java:199)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:161)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:176)
+	at TempTestSuite1733725989505.run(TempTestSuite1733725989505.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Master Data/Admin Sekolah/Master Data Kelas/Edit Kelas" time="12.055" classname="Test Cases/Master Data/Admin Sekolah/Master Data Kelas/Edit Kelas" status="PASSED">
+         <system-out><![CDATA[09-12-2024T13:33:29 - [TEST_CASE][PASSED] - Test Cases/Master Data/Admin Sekolah/Master Data Kelas/Edit Kelas: Test Cases/Master Data/Admin Sekolah/Master Data Kelas/Edit Kelas
+
+09-12-2024T13:33:30 - [TEST_STEP][PASSED] - openBrowser("", CONTINUE_ON_FAILURE): Browser is opened with url: ''
+
+09-12-2024T13:33:30 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+09-12-2024T13:33:30 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+09-12-2024T13:33:30 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+09-12-2024T13:33:31 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+09-12-2024T13:33:31 - [TEST_STEP][PASSED] - navigateToUrl("https://school-payment.digiform.co.id/login", CONTINUE_ON_FAILURE): Navigate to 'https://school-payment.digiform.co.id/login' successfully
+
+09-12-2024T13:33:31 - [MESSAGE][PASSED] - Navigate to 'https://school-payment.digiform.co.id/login' successfully
+
+09-12-2024T13:33:31 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Field Email"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Field Email' is clicked on
+
+09-12-2024T13:33:32 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Field Email' is clicked on
+
+09-12-2024T13:33:32 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Admin Sekolah/Login/Field Email"), "admin.sekolah@gmail.com", CONTINUE_ON_FAILURE): Text 'admin.sekolah@gmail.com' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Field Email'
+
+09-12-2024T13:33:33 - [MESSAGE][PASSED] - Text 'admin.sekolah@gmail.com' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Field Email'
+
+09-12-2024T13:33:33 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Input Password"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Input Password' is clicked on
+
+09-12-2024T13:33:33 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Input Password' is clicked on
+
+09-12-2024T13:33:33 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Admin Sekolah/Login/Input Password"), "Test1234", CONTINUE_ON_FAILURE): Text 'Test1234' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Input Password'
+
+09-12-2024T13:33:34 - [MESSAGE][PASSED] - Text 'Test1234' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Input Password'
+
+09-12-2024T13:33:34 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Button Submit"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Button Submit' is clicked on
+
+09-12-2024T13:33:34 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Button Submit' is clicked on
+
+09-12-2024T13:33:34 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/HomePageMenu/Sidebar Menu"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Admin Sekolah/HomePageMenu/Sidebar Menu' is clicked on
+
+09-12-2024T13:33:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/HomePageMenu/Sidebar Menu' is clicked on
+
+09-12-2024T13:33:36 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/HomePageMenu/Sub Menu Kelas"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Admin Sekolah/HomePageMenu/Sub Menu Kelas' is clicked on
+
+09-12-2024T13:33:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/HomePageMenu/Sub Menu Kelas' is clicked on
+
+09-12-2024T13:33:37 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Edit Kelas/Edit Kelas"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Admin Sekolah/Edit Kelas/Edit Kelas' is clicked on
+
+09-12-2024T13:33:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Edit Kelas/Edit Kelas' is clicked on
+
+09-12-2024T13:33:37 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Edit Kelas/Modal Edit/Unit/Pilih Unit"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Admin Sekolah/Edit Kelas/Modal Edit/Unit/Pilih Unit' is clicked on
+
+09-12-2024T13:33:38 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Edit Kelas/Modal Edit/Unit/Pilih Unit' is clicked on
+
+09-12-2024T13:33:38 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Edit Kelas/Modal Edit/Unit/Klik Unit"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Admin Sekolah/Edit Kelas/Modal Edit/Unit/Klik Unit' is clicked on
+
+09-12-2024T13:33:39 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Edit Kelas/Modal Edit/Unit/Klik Unit' is clicked on
+
+09-12-2024T13:33:39 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Edit Kelas/Modal Edit/Suffix/Edit Suffix")): Object: 'Object Repository/Master Data/Admin Sekolah/Edit Kelas/Modal Edit/Suffix/Edit Suffix' is clicked on
+
+09-12-2024T13:33:39 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Edit Kelas/Modal Edit/Suffix/Edit Suffix' is clicked on
+
+09-12-2024T13:33:39 - [TEST_STEP][PASSED] - suffixArray = ["Laravel Beginner Course", "Laravel Advanced Guide", "PHP Crash Course", "Mastering Laravel with PHP", "Laravel for Beginners", "Full Stack PHP Development", "Backend Laravel Pro", "Laravel 4 With PHP", "PHP Framework Essentials", "Laravel API Development"]: null
+
+09-12-2024T13:33:39 - [TEST_STEP][PASSED] - randomSuffix = suffixArray[Random().nextInt(length)]: null
+
+09-12-2024T13:33:39 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Master Data/Admin Sekolah/Edit Kelas/Modal Edit/Suffix/Edit Suffix"), Keys.chord(CONTROL, "a"), CONTINUE_ON_FAILURE): Keys 'CONTROL + a' sent to object: 'Object Repository/Master Data/Admin Sekolah/Edit Kelas/Modal Edit/Suffix/Edit Suffix'
+
+09-12-2024T13:33:39 - [MESSAGE][PASSED] - Keys 'CONTROL + a' sent to object: 'Object Repository/Master Data/Admin Sekolah/Edit Kelas/Modal Edit/Suffix/Edit Suffix'
+
+09-12-2024T13:33:39 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Master Data/Admin Sekolah/Edit Kelas/Modal Edit/Suffix/Edit Suffix"), Keys.chord(BACK_SPACE), CONTINUE_ON_FAILURE): Keys 'BACK_SPACE + ' sent to object: 'Object Repository/Master Data/Admin Sekolah/Edit Kelas/Modal Edit/Suffix/Edit Suffix'
+
+09-12-2024T13:33:39 - [MESSAGE][PASSED] - Keys 'BACK_SPACE + ' sent to object: 'Object Repository/Master Data/Admin Sekolah/Edit Kelas/Modal Edit/Suffix/Edit Suffix'
+
+09-12-2024T13:33:39 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+09-12-2024T13:33:40 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+09-12-2024T13:33:40 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Admin Sekolah/Edit Kelas/Modal Edit/Suffix/Edit Suffix"), randomSuffix, CONTINUE_ON_FAILURE): Text 'Laravel Beginner Course' is set on object 'Object Repository/Master Data/Admin Sekolah/Edit Kelas/Modal Edit/Suffix/Edit Suffix'
+
+09-12-2024T13:33:41 - [MESSAGE][PASSED] - Text 'Laravel Beginner Course' is set on object 'Object Repository/Master Data/Admin Sekolah/Edit Kelas/Modal Edit/Suffix/Edit Suffix'
+
+09-12-2024T13:33:41 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Edit Kelas/Modal Edit/Simpan/Simpan Perubahan"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Admin Sekolah/Edit Kelas/Modal Edit/Simpan/Simpan Perubahan' is clicked on
+
+09-12-2024T13:33:41 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Edit Kelas/Modal Edit/Simpan/Simpan Perubahan' is clicked on
+
+09-12-2024T13:33:41 - [TEST_STEP][PASSED] - closeBrowser(CONTINUE_ON_FAILURE): Browser is closed
+
+09-12-2024T13:33:41 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Master Data/Admin Sekolah/Master Data Kelas/Tambah Kelas" time="11.518" classname="Test Cases/Master Data/Admin Sekolah/Master Data Kelas/Tambah Kelas" status="PASSED">
+         <system-out><![CDATA[09-12-2024T13:33:41 - [TEST_CASE][PASSED] - Test Cases/Master Data/Admin Sekolah/Master Data Kelas/Tambah Kelas: Test Cases/Master Data/Admin Sekolah/Master Data Kelas/Tambah Kelas
+
+09-12-2024T13:33:42 - [TEST_STEP][PASSED] - openBrowser("", CONTINUE_ON_FAILURE): Browser is opened with url: ''
+
+09-12-2024T13:33:42 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+09-12-2024T13:33:42 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+09-12-2024T13:33:42 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+09-12-2024T13:33:42 - [TEST_STEP][PASSED] - navigateToUrl("https://school-payment.digiform.co.id/login"): Navigate to 'https://school-payment.digiform.co.id/login' successfully
+
+09-12-2024T13:33:43 - [MESSAGE][PASSED] - Navigate to 'https://school-payment.digiform.co.id/login' successfully
+
+09-12-2024T13:33:43 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Field Email"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Field Email' is clicked on
+
+09-12-2024T13:33:44 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Field Email' is clicked on
+
+09-12-2024T13:33:44 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Admin Sekolah/Login/Field Email"), "admin.sekolah@gmail.com", CONTINUE_ON_FAILURE): Text 'admin.sekolah@gmail.com' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Field Email'
+
+09-12-2024T13:33:45 - [MESSAGE][PASSED] - Text 'admin.sekolah@gmail.com' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Field Email'
+
+09-12-2024T13:33:45 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Input Password"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Input Password' is clicked on
+
+09-12-2024T13:33:45 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Input Password' is clicked on
+
+09-12-2024T13:33:45 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Admin Sekolah/Login/Input Password"), "Test1234", CONTINUE_ON_FAILURE): Text 'Test1234' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Input Password'
+
+09-12-2024T13:33:46 - [MESSAGE][PASSED] - Text 'Test1234' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Input Password'
+
+09-12-2024T13:33:46 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Button Submit"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Button Submit' is clicked on
+
+09-12-2024T13:33:46 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Button Submit' is clicked on
+
+09-12-2024T13:33:46 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/HomePageMenu/Sidebar Menu"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Admin Sekolah/HomePageMenu/Sidebar Menu' is clicked on
+
+09-12-2024T13:33:48 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/HomePageMenu/Sidebar Menu' is clicked on
+
+09-12-2024T13:33:48 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/HomePageMenu/Sub Menu Kelas"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Admin Sekolah/HomePageMenu/Sub Menu Kelas' is clicked on
+
+09-12-2024T13:33:49 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/HomePageMenu/Sub Menu Kelas' is clicked on
+
+09-12-2024T13:33:49 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Tambah Kelas/Tambah Kelas"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Admin Sekolah/Tambah Kelas/Tambah Kelas' is clicked on
+
+09-12-2024T13:33:49 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Tambah Kelas/Tambah Kelas' is clicked on
+
+09-12-2024T13:33:49 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Tambah Kelas/Modal Tambah/Unit/Pilih Unit"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Admin Sekolah/Tambah Kelas/Modal Tambah/Unit/Pilih Unit' is clicked on
+
+09-12-2024T13:33:50 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Tambah Kelas/Modal Tambah/Unit/Pilih Unit' is clicked on
+
+09-12-2024T13:33:50 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Tambah Kelas/Modal Tambah/Unit/Klik Unit"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Admin Sekolah/Tambah Kelas/Modal Tambah/Unit/Klik Unit' is clicked on
+
+09-12-2024T13:33:50 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Tambah Kelas/Modal Tambah/Unit/Klik Unit' is clicked on
+
+09-12-2024T13:33:50 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Tambah Kelas/Modal Tambah/Prefix/Klik Prefix"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Admin Sekolah/Tambah Kelas/Modal Tambah/Prefix/Klik Prefix' is clicked on
+
+09-12-2024T13:33:51 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Tambah Kelas/Modal Tambah/Prefix/Klik Prefix' is clicked on
+
+09-12-2024T13:33:51 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Tambah Kelas/Modal Tambah/Prefix/Pilih Prefix"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Admin Sekolah/Tambah Kelas/Modal Tambah/Prefix/Pilih Prefix' is clicked on
+
+09-12-2024T13:33:51 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Tambah Kelas/Modal Tambah/Prefix/Pilih Prefix' is clicked on
+
+09-12-2024T13:33:51 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Admin Sekolah/Tambah Kelas/Modal Tambah/Suffix/Input Suffix kelas"), "PHP 4", CONTINUE_ON_FAILURE): Text 'PHP 4' is set on object 'Object Repository/Master Data/Admin Sekolah/Tambah Kelas/Modal Tambah/Suffix/Input Suffix kelas'
+
+09-12-2024T13:33:52 - [MESSAGE][PASSED] - Text 'PHP 4' is set on object 'Object Repository/Master Data/Admin Sekolah/Tambah Kelas/Modal Tambah/Suffix/Input Suffix kelas'
+
+09-12-2024T13:33:52 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Tambah Kelas/Modal Tambah/Jurusan/Klik Jurusan"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Admin Sekolah/Tambah Kelas/Modal Tambah/Jurusan/Klik Jurusan' is clicked on
+
+09-12-2024T13:33:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Tambah Kelas/Modal Tambah/Jurusan/Klik Jurusan' is clicked on
+
+09-12-2024T13:33:52 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Tambah Kelas/Modal Tambah/Jurusan/Pilih Jurusan"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Admin Sekolah/Tambah Kelas/Modal Tambah/Jurusan/Pilih Jurusan' is clicked on
+
+09-12-2024T13:33:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Tambah Kelas/Modal Tambah/Jurusan/Pilih Jurusan' is clicked on
+
+09-12-2024T13:33:53 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Tambah Kelas/Modal Tambah/Tambahkan/Tambah Data"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Admin Sekolah/Tambah Kelas/Modal Tambah/Tambahkan/Tambah Data' is clicked on
+
+09-12-2024T13:33:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Tambah Kelas/Modal Tambah/Tambahkan/Tambah Data' is clicked on
+
+09-12-2024T13:33:53 - [TEST_STEP][PASSED] - closeBrowser(CONTINUE_ON_FAILURE): Browser is closed
+
+09-12-2024T13:33:53 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Master Data/Admin Sekolah/Master Data Tahun Ajaran/Tambah Tahun Ajaran" time="42.191" classname="Test Cases/Master Data/Admin Sekolah/Master Data Tahun Ajaran/Tambah Tahun Ajaran" status="FAILED">
+         <failure type="FAILED" message="Test Cases/Master Data/Admin Sekolah/Master Data Tahun Ajaran/Tambah Tahun Ajaran FAILED.&#xa;Reason:&#xa;com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Master Data/Admin Sekolah/Tahun Ajaran/9Des'&#xa;	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:117)&#xa;	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:43)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:75)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)&#xa;	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)&#xa;	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:696)&#xa;	at Tambah Tahun Ajaran.run(Tambah Tahun Ajaran:42)&#xa;	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)&#xa;	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)&#xa;	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)&#xa;	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:161)&#xa;	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)&#xa;	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:176)&#xa;	at TempTestSuite1733725989505.run(TempTestSuite1733725989505.groovy:35)&#xa;	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)&#xa;	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)&#xa;	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)&#xa;Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Master Data/Admin Sekolah/Tahun Ajaran/9Des' located by '//div/p[@class='text-sm w-7 rounded-lg px-1 py-2 text-center font-bold leading-5 text-error5 cursor-pointer hover:bg-blue6 hover:text-white' and text()='9']' not found&#xa;	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1426)&#xa;	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:66)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)&#xa;	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:35)&#xa;	... 20 more&#xa;"/>
+         <system-out><![CDATA[09-12-2024T13:33:53 - [TEST_CASE][FAILED] - Test Cases/Master Data/Admin Sekolah/Master Data Tahun Ajaran/Tambah Tahun Ajaran: Test Cases/Master Data/Admin Sekolah/Master Data Tahun Ajaran/Tambah Tahun Ajaran FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Master Data/Admin Sekolah/Tahun Ajaran/9Des'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:117)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:43)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:75)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:696)
+	at Tambah Tahun Ajaran.run(Tambah Tahun Ajaran:42)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:161)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:176)
+	at TempTestSuite1733725989505.run(TempTestSuite1733725989505.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Master Data/Admin Sekolah/Tahun Ajaran/9Des' located by '//div/p[@class='text-sm w-7 rounded-lg px-1 py-2 text-center font-bold leading-5 text-error5 cursor-pointer hover:bg-blue6 hover:text-white' and text()='9']' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1426)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:66)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:35)
+	... 20 more
+
+
+09-12-2024T13:33:53 - [TEST_STEP][PASSED] - openBrowser("", CONTINUE_ON_FAILURE): Browser is opened with url: ''
+
+09-12-2024T13:33:53 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+09-12-2024T13:33:53 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+09-12-2024T13:33:54 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+09-12-2024T13:33:54 - [TEST_STEP][PASSED] - navigateToUrl("https://school-payment.digiform.co.id/login", CONTINUE_ON_FAILURE): Navigate to 'https://school-payment.digiform.co.id/login' successfully
+
+09-12-2024T13:33:54 - [MESSAGE][PASSED] - Navigate to 'https://school-payment.digiform.co.id/login' successfully
+
+09-12-2024T13:33:54 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Field Email"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Field Email' is clicked on
+
+09-12-2024T13:33:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Field Email' is clicked on
+
+09-12-2024T13:33:56 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Admin Sekolah/Login/Field Email"), "admin.sekolah@gmail.com", CONTINUE_ON_FAILURE): Text 'admin.sekolah@gmail.com' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Field Email'
+
+09-12-2024T13:33:56 - [MESSAGE][PASSED] - Text 'admin.sekolah@gmail.com' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Field Email'
+
+09-12-2024T13:33:56 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Input Password"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Input Password' is clicked on
+
+09-12-2024T13:33:57 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Input Password' is clicked on
+
+09-12-2024T13:33:57 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Admin Sekolah/Login/Input Password"), "Test1234", CONTINUE_ON_FAILURE): Text 'Test1234' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Input Password'
+
+09-12-2024T13:33:57 - [MESSAGE][PASSED] - Text 'Test1234' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Input Password'
+
+09-12-2024T13:33:57 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Button Submit"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Button Submit' is clicked on
+
+09-12-2024T13:33:57 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Button Submit' is clicked on
+
+09-12-2024T13:33:57 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Master Data Menu"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Admin Sekolah/Master Data Menu' is clicked on
+
+09-12-2024T13:33:59 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Master Data Menu' is clicked on
+
+09-12-2024T13:33:59 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Tahun Ajaran/Menu Tahun Ajaran"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Admin Sekolah/Tahun Ajaran/Menu Tahun Ajaran' is clicked on
+
+09-12-2024T13:34:00 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Tahun Ajaran/Menu Tahun Ajaran' is clicked on
+
+09-12-2024T13:34:00 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Tahun Ajaran/Button Tambah"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Admin Sekolah/Tahun Ajaran/Button Tambah' is clicked on
+
+09-12-2024T13:34:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Tahun Ajaran/Button Tambah' is clicked on
+
+09-12-2024T13:34:01 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Tahun Ajaran/Tahun Mulai/Dropdown Tahun Mulai"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Admin Sekolah/Tahun Ajaran/Tahun Mulai/Dropdown Tahun Mulai' is clicked on
+
+09-12-2024T13:34:02 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Tahun Ajaran/Tahun Mulai/Dropdown Tahun Mulai' is clicked on
+
+09-12-2024T13:34:02 - [TEST_STEP][FAILED] - click(findTestObject("Master Data/Admin Sekolah/Tahun Ajaran/9Des")): Unable to click on object 'Object Repository/Master Data/Admin Sekolah/Tahun Ajaran/9Des' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Master Data/Admin Sekolah/Tahun Ajaran/9Des'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:117)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:43)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:75)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:696)
+	at Tambah Tahun Ajaran.run(Tambah Tahun Ajaran:42)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:161)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:176)
+	at TempTestSuite1733725989505.run(TempTestSuite1733725989505.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Master Data/Admin Sekolah/Tahun Ajaran/9Des' located by '//div/p[@class='text-sm w-7 rounded-lg px-1 py-2 text-center font-bold leading-5 text-error5 cursor-pointer hover:bg-blue6 hover:text-white' and text()='9']' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1426)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:66)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:35)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:75)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:696)
+	at Script1731464255956.run(Script1731464255956.groovy:42)
+	... 15 more
+)
+
+09-12-2024T13:34:33 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //div/p[@class='text-sm w-7 rounded-lg px-1 py-2 text-center font-bold leading-5 text-error5 cursor-pointer hover:bg-blue6 hover:text-white' and text()='9']'. Please recheck the objects properties to make sure the desired element is located. 
+
+09-12-2024T13:34:33 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Master Data/Admin Sekolah/Tahun Ajaran/9Des'. Try using Self-healing.
+
+09-12-2024T13:34:34 - [MESSAGE][INFO] - [SELF-HEALING] No working XPath is found.
+
+09-12-2024T13:34:35 - [MESSAGE][WARNING] - [SELF-HEALING] invalid selector
+from javascript error: {"status":32,"value":"Unable to locate an element with the xpath expression  because of the following error:\nSyntaxError: Failed to execute 'evaluate' on 'Document': The string '' is not a valid XPath expression."}
+  (Session info: chrome=131.0.6778.109)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Build info: version: '4.22.0', revision: 'c5f3146703'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Command: [d91e0d8b137da023c66c58a82a3eadfc, findElements {value=, using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.109, chrome: {chromedriverVersion: 130.0.6723.58 (3a50e012e4c9..., userDataDir: C:\Users\henri\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59140}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59140/devtoo..., se:cdpVersion: 131.0.6778.109, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: ignore, webSocketUrl: ws://localhost:1432/session..., webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d91e0d8b137da023c66c58a82a3eadfc
+
+09-12-2024T13:34:35 - [MESSAGE][WARNING] - [SELF-HEALING] Cannot find elements when the selector is null
+
+09-12-2024T13:34:35 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/Master Data/Admin Sekolah/Tahun Ajaran/9Des' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Master Data/Admin Sekolah/Tahun Ajaran/9Des'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:117)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:43)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:75)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:696)
+	at Tambah Tahun Ajaran.run(Tambah Tahun Ajaran:42)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:161)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:176)
+	at TempTestSuite1733725989505.run(TempTestSuite1733725989505.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Master Data/Admin Sekolah/Tahun Ajaran/9Des' located by '//div/p[@class='text-sm w-7 rounded-lg px-1 py-2 text-center font-bold leading-5 text-error5 cursor-pointer hover:bg-blue6 hover:text-white' and text()='9']' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1426)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:66)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:35)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:75)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:696)
+	at Script1731464255956.run(Script1731464255956.groovy:42)
+	... 15 more
+)
+[[ATTACHMENT|C:\\Users\\henri\\Videos\\school-payment-automation-testing\\Reports\\20241209_133308\\SPRINT 1\\20241209_133309\\1733726075455.png]]]]></system-out>
+         <system-err><![CDATA[09-12-2024T13:33:53 - [TEST_CASE][FAILED] - Test Cases/Master Data/Admin Sekolah/Master Data Tahun Ajaran/Tambah Tahun Ajaran: Test Cases/Master Data/Admin Sekolah/Master Data Tahun Ajaran/Tambah Tahun Ajaran FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Master Data/Admin Sekolah/Tahun Ajaran/9Des'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:117)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:43)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:75)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:696)
+	at Tambah Tahun Ajaran.run(Tambah Tahun Ajaran:42)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:161)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:176)
+	at TempTestSuite1733725989505.run(TempTestSuite1733725989505.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Master Data/Admin Sekolah/Tahun Ajaran/9Des' located by '//div/p[@class='text-sm w-7 rounded-lg px-1 py-2 text-center font-bold leading-5 text-error5 cursor-pointer hover:bg-blue6 hover:text-white' and text()='9']' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1426)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:66)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:35)
+	... 20 more]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Master Data/Admin Sekolah/Master Data Tahun Ajaran/Edit Tahun Ajaran" time="10.326" classname="Test Cases/Master Data/Admin Sekolah/Master Data Tahun Ajaran/Edit Tahun Ajaran" status="PASSED">
+         <system-out><![CDATA[09-12-2024T13:34:35 - [TEST_CASE][PASSED] - Test Cases/Master Data/Admin Sekolah/Master Data Tahun Ajaran/Edit Tahun Ajaran: Test Cases/Master Data/Admin Sekolah/Master Data Tahun Ajaran/Edit Tahun Ajaran
+
+09-12-2024T13:34:35 - [TEST_STEP][PASSED] - openBrowser("", CONTINUE_ON_FAILURE): Browser is opened with url: ''
+
+09-12-2024T13:34:35 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+09-12-2024T13:34:35 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+09-12-2024T13:34:35 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+09-12-2024T13:34:36 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+09-12-2024T13:34:36 - [TEST_STEP][PASSED] - navigateToUrl("https://school-payment.digiform.co.id/login", CONTINUE_ON_FAILURE): Navigate to 'https://school-payment.digiform.co.id/login' successfully
+
+09-12-2024T13:34:37 - [MESSAGE][PASSED] - Navigate to 'https://school-payment.digiform.co.id/login' successfully
+
+09-12-2024T13:34:37 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Field Email"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Field Email' is clicked on
+
+09-12-2024T13:34:38 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Field Email' is clicked on
+
+09-12-2024T13:34:38 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Admin Sekolah/Login/Field Email"), "admin.sekolah@gmail.com", CONTINUE_ON_FAILURE): Text 'admin.sekolah@gmail.com' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Field Email'
+
+09-12-2024T13:34:39 - [MESSAGE][PASSED] - Text 'admin.sekolah@gmail.com' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Field Email'
+
+09-12-2024T13:34:39 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Input Password"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Input Password' is clicked on
+
+09-12-2024T13:34:39 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Input Password' is clicked on
+
+09-12-2024T13:34:39 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Admin Sekolah/Login/Input Password"), "Test1234", CONTINUE_ON_FAILURE): Text 'Test1234' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Input Password'
+
+09-12-2024T13:34:39 - [MESSAGE][PASSED] - Text 'Test1234' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Input Password'
+
+09-12-2024T13:34:39 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Button Submit"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Button Submit' is clicked on
+
+09-12-2024T13:34:40 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Button Submit' is clicked on
+
+09-12-2024T13:34:40 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Master Data Menu"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Admin Sekolah/Master Data Menu' is clicked on
+
+09-12-2024T13:34:41 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Master Data Menu' is clicked on
+
+09-12-2024T13:34:41 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Tahun Ajaran/Menu Tahun Ajaran"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Admin Sekolah/Tahun Ajaran/Menu Tahun Ajaran' is clicked on
+
+09-12-2024T13:34:42 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Tahun Ajaran/Menu Tahun Ajaran' is clicked on
+
+09-12-2024T13:34:42 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Tahun Ajaran/Edit Tahun Ajaran/Icon Edit"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Admin Sekolah/Tahun Ajaran/Edit Tahun Ajaran/Icon Edit' is clicked on
+
+09-12-2024T13:34:43 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Tahun Ajaran/Edit Tahun Ajaran/Icon Edit' is clicked on
+
+09-12-2024T13:34:43 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Tahun Ajaran/Edit Tahun Ajaran/Dropdown Edit tahun Selesai"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Admin Sekolah/Tahun Ajaran/Edit Tahun Ajaran/Dropdown Edit tahun Selesai' is clicked on
+
+09-12-2024T13:34:44 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Tahun Ajaran/Edit Tahun Ajaran/Dropdown Edit tahun Selesai' is clicked on
+
+09-12-2024T13:34:44 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Tahun Ajaran/Edit Tahun Ajaran/Dropdown List Tahun Selesai"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Admin Sekolah/Tahun Ajaran/Edit Tahun Ajaran/Dropdown List Tahun Selesai' is clicked on
+
+09-12-2024T13:34:44 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Tahun Ajaran/Edit Tahun Ajaran/Dropdown List Tahun Selesai' is clicked on
+
+09-12-2024T13:34:44 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Tahun Ajaran/Edit Tahun Ajaran/Pilih List Tahun Selesai"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Admin Sekolah/Tahun Ajaran/Edit Tahun Ajaran/Pilih List Tahun Selesai' is clicked on
+
+09-12-2024T13:34:45 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Tahun Ajaran/Edit Tahun Ajaran/Pilih List Tahun Selesai' is clicked on
+
+09-12-2024T13:34:45 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Tahun Ajaran/Edit Tahun Ajaran/Pilih Tanggal Tahun Selesai"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Admin Sekolah/Tahun Ajaran/Edit Tahun Ajaran/Pilih Tanggal Tahun Selesai' is clicked on
+
+09-12-2024T13:34:45 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Tahun Ajaran/Edit Tahun Ajaran/Pilih Tanggal Tahun Selesai' is clicked on
+
+09-12-2024T13:34:45 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Tahun Ajaran/Button Submit Tahun Ajaran"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Admin Sekolah/Tahun Ajaran/Button Submit Tahun Ajaran' is clicked on
+
+09-12-2024T13:34:45 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Tahun Ajaran/Button Submit Tahun Ajaran' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Master Data/Admin Sekolah/Master Data Tagihan/Filter Tagihan" time="17.567" classname="Test Cases/Master Data/Admin Sekolah/Master Data Tagihan/Filter Tagihan" status="PASSED">
+         <system-out><![CDATA[09-12-2024T13:34:45 - [TEST_CASE][PASSED] - Test Cases/Master Data/Admin Sekolah/Master Data Tagihan/Filter Tagihan: Test Cases/Master Data/Admin Sekolah/Master Data Tagihan/Filter Tagihan
+
+09-12-2024T13:34:46 - [TEST_STEP][PASSED] - openBrowser("", CONTINUE_ON_FAILURE): Browser is opened with url: ''
+
+09-12-2024T13:34:46 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+09-12-2024T13:34:46 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+09-12-2024T13:34:46 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+09-12-2024T13:34:46 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+09-12-2024T13:34:46 - [TEST_STEP][PASSED] - navigateToUrl("https://school-payment.digiform.co.id/login", CONTINUE_ON_FAILURE): Navigate to 'https://school-payment.digiform.co.id/login' successfully
+
+09-12-2024T13:34:47 - [MESSAGE][PASSED] - Navigate to 'https://school-payment.digiform.co.id/login' successfully
+
+09-12-2024T13:34:47 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Field Email"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Field Email' is clicked on
+
+09-12-2024T13:34:48 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Field Email' is clicked on
+
+09-12-2024T13:34:48 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Admin Sekolah/Login/Field Email"), "admin.sekolah@gmail.com", CONTINUE_ON_FAILURE): Text 'admin.sekolah@gmail.com' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Field Email'
+
+09-12-2024T13:34:49 - [MESSAGE][PASSED] - Text 'admin.sekolah@gmail.com' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Field Email'
+
+09-12-2024T13:34:49 - [TEST_STEP][PASSED] - delay(1, CONTINUE_ON_FAILURE): Delayed 1 second(s)
+
+09-12-2024T13:34:50 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+09-12-2024T13:34:50 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Input Password"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Input Password' is clicked on
+
+09-12-2024T13:34:50 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Input Password' is clicked on
+
+09-12-2024T13:34:50 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Admin Sekolah/Login/Input Password"), "Test1234", CONTINUE_ON_FAILURE): Text 'Test1234' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Input Password'
+
+09-12-2024T13:34:51 - [MESSAGE][PASSED] - Text 'Test1234' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Input Password'
+
+09-12-2024T13:34:51 - [TEST_STEP][PASSED] - delay(1, CONTINUE_ON_FAILURE): Delayed 1 second(s)
+
+09-12-2024T13:34:52 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+09-12-2024T13:34:52 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Button Submit"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Button Submit' is clicked on
+
+09-12-2024T13:34:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Button Submit' is clicked on
+
+09-12-2024T13:34:52 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Lihat Tagihan/Menu Master Data"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Admin Sekolah/Lihat Tagihan/Menu Master Data' is clicked on
+
+09-12-2024T13:34:54 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Lihat Tagihan/Menu Master Data' is clicked on
+
+09-12-2024T13:34:54 - [TEST_STEP][PASSED] - delay(1, CONTINUE_ON_FAILURE): Delayed 1 second(s)
+
+09-12-2024T13:34:55 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+09-12-2024T13:34:55 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Lihat Tagihan/Menu Tagihan"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Admin Sekolah/Lihat Tagihan/Menu Tagihan' is clicked on
+
+09-12-2024T13:34:55 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Lihat Tagihan/Menu Tagihan' is clicked on
+
+09-12-2024T13:34:55 - [TEST_STEP][PASSED] - delay(1, CONTINUE_ON_FAILURE): Delayed 1 second(s)
+
+09-12-2024T13:34:56 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+09-12-2024T13:34:56 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Filter Tagihan/Button Filter"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Admin Sekolah/Filter Tagihan/Button Filter' is clicked on
+
+09-12-2024T13:34:57 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Filter Tagihan/Button Filter' is clicked on
+
+09-12-2024T13:34:57 - [TEST_STEP][PASSED] - delay(1, CONTINUE_ON_FAILURE): Delayed 1 second(s)
+
+09-12-2024T13:34:58 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+09-12-2024T13:34:58 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Filter Tagihan/Select Tipe Tagihan"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Admin Sekolah/Filter Tagihan/Select Tipe Tagihan' is clicked on
+
+09-12-2024T13:34:58 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Filter Tagihan/Select Tipe Tagihan' is clicked on
+
+09-12-2024T13:34:58 - [TEST_STEP][PASSED] - delay(1, CONTINUE_ON_FAILURE): Delayed 1 second(s)
+
+09-12-2024T13:34:59 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+09-12-2024T13:34:59 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Filter Tagihan/Tagihan Reguler"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Admin Sekolah/Filter Tagihan/Tagihan Reguler' is clicked on
+
+09-12-2024T13:34:59 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Filter Tagihan/Tagihan Reguler' is clicked on
+
+09-12-2024T13:34:59 - [TEST_STEP][PASSED] - delay(1, CONTINUE_ON_FAILURE): Delayed 1 second(s)
+
+09-12-2024T13:35:00 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+09-12-2024T13:35:00 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Filter Tagihan/Select Rekening Bank"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Admin Sekolah/Filter Tagihan/Select Rekening Bank' is clicked on
+
+09-12-2024T13:35:00 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Filter Tagihan/Select Rekening Bank' is clicked on
+
+09-12-2024T13:35:00 - [TEST_STEP][PASSED] - delay(1, CONTINUE_ON_FAILURE): Delayed 1 second(s)
+
+09-12-2024T13:35:01 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+09-12-2024T13:35:01 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Filter Tagihan/CIMB"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Admin Sekolah/Filter Tagihan/CIMB' is clicked on
+
+09-12-2024T13:35:02 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Filter Tagihan/CIMB' is clicked on
+
+09-12-2024T13:35:02 - [TEST_STEP][PASSED] - delay(1, CONTINUE_ON_FAILURE): Delayed 1 second(s)
+
+09-12-2024T13:35:03 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+09-12-2024T13:35:03 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Filter Tagihan/Button Terapkan"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Admin Sekolah/Filter Tagihan/Button Terapkan' is clicked on
+
+09-12-2024T13:35:03 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Filter Tagihan/Button Terapkan' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Master Data/Admin Sekolah/Master Data Tagihan/Lihat Tagihan" time="8.766" classname="Test Cases/Master Data/Admin Sekolah/Master Data Tagihan/Lihat Tagihan" status="PASSED">
+         <system-out><![CDATA[09-12-2024T13:35:03 - [TEST_CASE][PASSED] - Test Cases/Master Data/Admin Sekolah/Master Data Tagihan/Lihat Tagihan: Test Cases/Master Data/Admin Sekolah/Master Data Tagihan/Lihat Tagihan
+
+09-12-2024T13:35:03 - [TEST_STEP][PASSED] - openBrowser("", CONTINUE_ON_FAILURE): Browser is opened with url: ''
+
+09-12-2024T13:35:03 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+09-12-2024T13:35:03 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+09-12-2024T13:35:03 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+09-12-2024T13:35:04 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+09-12-2024T13:35:04 - [TEST_STEP][PASSED] - navigateToUrl("https://school-payment.digiform.co.id/login", CONTINUE_ON_FAILURE): Navigate to 'https://school-payment.digiform.co.id/login' successfully
+
+09-12-2024T13:35:05 - [MESSAGE][PASSED] - Navigate to 'https://school-payment.digiform.co.id/login' successfully
+
+09-12-2024T13:35:05 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Field Email"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Field Email' is clicked on
+
+09-12-2024T13:35:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Field Email' is clicked on
+
+09-12-2024T13:35:06 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Admin Sekolah/Login/Field Email"), "admin.sekolah@gmail.com", CONTINUE_ON_FAILURE): Text 'admin.sekolah@gmail.com' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Field Email'
+
+09-12-2024T13:35:07 - [MESSAGE][PASSED] - Text 'admin.sekolah@gmail.com' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Field Email'
+
+09-12-2024T13:35:07 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Input Password"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Input Password' is clicked on
+
+09-12-2024T13:35:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Input Password' is clicked on
+
+09-12-2024T13:35:07 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Admin Sekolah/Login/Input Password"), "Test1234", CONTINUE_ON_FAILURE): Text 'Test1234' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Input Password'
+
+09-12-2024T13:35:07 - [MESSAGE][PASSED] - Text 'Test1234' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Input Password'
+
+09-12-2024T13:35:07 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Button Submit"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Button Submit' is clicked on
+
+09-12-2024T13:35:08 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Button Submit' is clicked on
+
+09-12-2024T13:35:08 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Lihat Tagihan/Menu Master Data"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Admin Sekolah/Lihat Tagihan/Menu Master Data' is clicked on
+
+09-12-2024T13:35:10 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Lihat Tagihan/Menu Master Data' is clicked on
+
+09-12-2024T13:35:10 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Lihat Tagihan/Menu Tagihan"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Admin Sekolah/Lihat Tagihan/Menu Tagihan' is clicked on
+
+09-12-2024T13:35:10 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Lihat Tagihan/Menu Tagihan' is clicked on
+
+09-12-2024T13:35:10 - [TEST_STEP][PASSED] - delay(1, CONTINUE_ON_FAILURE): Delayed 1 second(s)
+
+09-12-2024T13:35:11 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+09-12-2024T13:35:11 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Lihat Tagihan/Button View"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Admin Sekolah/Lihat Tagihan/Button View' is clicked on
+
+09-12-2024T13:35:12 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Lihat Tagihan/Button View' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Master Data/Admin Sekolah/Master Data Tagihan/Tambah Tagihan" time="42.226" classname="Test Cases/Master Data/Admin Sekolah/Master Data Tagihan/Tambah Tagihan" status="FAILED">
+         <failure type="FAILED" message="Test Cases/Master Data/Admin Sekolah/Master Data Tagihan/Tambah Tagihan FAILED.&#xa;Reason:&#xa;com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Master Data/Admin Sekolah/Tambah Tagihan/Klik Tahun Ajaran'&#xa;	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:117)&#xa;	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:43)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:75)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)&#xa;	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)&#xa;	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:696)&#xa;	at Tambah Tagihan.run(Tambah Tagihan:45)&#xa;	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)&#xa;	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)&#xa;	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)&#xa;	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:161)&#xa;	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)&#xa;	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:176)&#xa;	at TempTestSuite1733725989505.run(TempTestSuite1733725989505.groovy:35)&#xa;	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)&#xa;	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)&#xa;	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)&#xa;Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Master Data/Admin Sekolah/Tambah Tagihan/Klik Tahun Ajaran' located by '//*[@data-testid = 'select-field' and (text() = 'Pilih tahun ajaran' or . = 'Pilih tahun ajaran')]' not found&#xa;	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1426)&#xa;	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:66)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)&#xa;	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:35)&#xa;	... 20 more&#xa;"/>
+         <system-out><![CDATA[09-12-2024T13:35:12 - [TEST_CASE][FAILED] - Test Cases/Master Data/Admin Sekolah/Master Data Tagihan/Tambah Tagihan: Test Cases/Master Data/Admin Sekolah/Master Data Tagihan/Tambah Tagihan FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Master Data/Admin Sekolah/Tambah Tagihan/Klik Tahun Ajaran'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:117)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:43)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:75)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:696)
+	at Tambah Tagihan.run(Tambah Tagihan:45)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:161)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:176)
+	at TempTestSuite1733725989505.run(TempTestSuite1733725989505.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Master Data/Admin Sekolah/Tambah Tagihan/Klik Tahun Ajaran' located by '//*[@data-testid = 'select-field' and (text() = 'Pilih tahun ajaran' or . = 'Pilih tahun ajaran')]' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1426)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:66)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:35)
+	... 20 more
+
+
+09-12-2024T13:35:12 - [TEST_STEP][PASSED] - openBrowser("", CONTINUE_ON_FAILURE): Browser is opened with url: ''
+
+09-12-2024T13:35:12 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+09-12-2024T13:35:12 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+09-12-2024T13:35:12 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+09-12-2024T13:35:13 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+09-12-2024T13:35:13 - [TEST_STEP][PASSED] - navigateToUrl("https://school-payment.digiform.co.id/login", CONTINUE_ON_FAILURE): Navigate to 'https://school-payment.digiform.co.id/login' successfully
+
+09-12-2024T13:35:13 - [MESSAGE][PASSED] - Navigate to 'https://school-payment.digiform.co.id/login' successfully
+
+09-12-2024T13:35:13 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Admin Sekolah/Login/Field Email"), "admin.sekolah@gmail.com", CONTINUE_ON_FAILURE): Text 'admin.sekolah@gmail.com' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Field Email'
+
+09-12-2024T13:35:15 - [MESSAGE][PASSED] - Text 'admin.sekolah@gmail.com' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Field Email'
+
+09-12-2024T13:35:15 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Admin Sekolah/Login/Input Password"), "Test1234", CONTINUE_ON_FAILURE): Text 'Test1234' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Input Password'
+
+09-12-2024T13:35:16 - [MESSAGE][PASSED] - Text 'Test1234' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Input Password'
+
+09-12-2024T13:35:16 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Button Submit"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Button Submit' is clicked on
+
+09-12-2024T13:35:16 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Button Submit' is clicked on
+
+09-12-2024T13:35:16 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Tambah Tagihan/Menu Master Data"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Admin Sekolah/Tambah Tagihan/Menu Master Data' is clicked on
+
+09-12-2024T13:35:18 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Tambah Tagihan/Menu Master Data' is clicked on
+
+09-12-2024T13:35:18 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Tambah Tagihan/Menu Tagihan"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Admin Sekolah/Tambah Tagihan/Menu Tagihan' is clicked on
+
+09-12-2024T13:35:19 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Tambah Tagihan/Menu Tagihan' is clicked on
+
+09-12-2024T13:35:19 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Tambah Tagihan/Button Tambah"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Admin Sekolah/Tambah Tagihan/Button Tambah' is clicked on
+
+09-12-2024T13:35:20 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Tambah Tagihan/Button Tambah' is clicked on
+
+09-12-2024T13:35:20 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Admin Sekolah/Tambah Tagihan/Input Nama Tagihan"), "KATALONZ", CONTINUE_ON_FAILURE): Text 'KATALONZ' is set on object 'Object Repository/Master Data/Admin Sekolah/Tambah Tagihan/Input Nama Tagihan'
+
+09-12-2024T13:35:21 - [MESSAGE][PASSED] - Text 'KATALONZ' is set on object 'Object Repository/Master Data/Admin Sekolah/Tambah Tagihan/Input Nama Tagihan'
+
+09-12-2024T13:35:21 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Tambah Tagihan/Select Tipe Tagihan"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Admin Sekolah/Tambah Tagihan/Select Tipe Tagihan' is clicked on
+
+09-12-2024T13:35:21 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Tambah Tagihan/Select Tipe Tagihan' is clicked on
+
+09-12-2024T13:35:21 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Tambah Tagihan/Tagihan Regular"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Admin Sekolah/Tambah Tagihan/Tagihan Regular' is clicked on
+
+09-12-2024T13:35:22 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Tambah Tagihan/Tagihan Regular' is clicked on
+
+09-12-2024T13:35:22 - [TEST_STEP][FAILED] - click(findTestObject("Master Data/Admin Sekolah/Tambah Tagihan/Klik Tahun Ajaran")): Unable to click on object 'Object Repository/Master Data/Admin Sekolah/Tambah Tagihan/Klik Tahun Ajaran' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Master Data/Admin Sekolah/Tambah Tagihan/Klik Tahun Ajaran'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:117)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:43)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:75)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:696)
+	at Tambah Tagihan.run(Tambah Tagihan:45)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:161)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:176)
+	at TempTestSuite1733725989505.run(TempTestSuite1733725989505.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Master Data/Admin Sekolah/Tambah Tagihan/Klik Tahun Ajaran' located by '//*[@data-testid = 'select-field' and (text() = 'Pilih tahun ajaran' or . = 'Pilih tahun ajaran')]' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1426)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:66)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:35)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:75)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:696)
+	at Script1731464238981.run(Script1731464238981.groovy:45)
+	... 15 more
+)
+
+09-12-2024T13:35:53 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //*[@data-testid = 'select-field' and (text() = 'Pilih tahun ajaran' or . = 'Pilih tahun ajaran')]'. Please recheck the objects properties to make sure the desired element is located. 
+
+09-12-2024T13:35:53 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Master Data/Admin Sekolah/Tambah Tagihan/Klik Tahun Ajaran'. Try using Self-healing.
+
+09-12-2024T13:35:53 - [MESSAGE][WARNING] - [SELF-HEALING] invalid selector
+from javascript error: {"status":32,"value":"Unable to locate an element with the xpath expression  because of the following error:\nSyntaxError: Failed to execute 'evaluate' on 'Document': The string '' is not a valid XPath expression."}
+  (Session info: chrome=131.0.6778.109)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Build info: version: '4.22.0', revision: 'c5f3146703'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Command: [8e3fd2ef6ae2e21a967a86e77f51ef58, findElements {value=, using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.109, chrome: {chromedriverVersion: 130.0.6723.58 (3a50e012e4c9..., userDataDir: C:\Users\henri\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59246}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59246/devtoo..., se:cdpVersion: 131.0.6778.109, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: ignore, webSocketUrl: ws://localhost:42523/sessio..., webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 8e3fd2ef6ae2e21a967a86e77f51ef58
+
+09-12-2024T13:35:54 - [MESSAGE][WARNING] - [SELF-HEALING] Cannot find elements when the selector is null
+
+09-12-2024T13:35:54 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/Master Data/Admin Sekolah/Tambah Tagihan/Klik Tahun Ajaran' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Master Data/Admin Sekolah/Tambah Tagihan/Klik Tahun Ajaran'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:117)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:43)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:75)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:696)
+	at Tambah Tagihan.run(Tambah Tagihan:45)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:161)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:176)
+	at TempTestSuite1733725989505.run(TempTestSuite1733725989505.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Master Data/Admin Sekolah/Tambah Tagihan/Klik Tahun Ajaran' located by '//*[@data-testid = 'select-field' and (text() = 'Pilih tahun ajaran' or . = 'Pilih tahun ajaran')]' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1426)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:66)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:35)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:75)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:696)
+	at Script1731464238981.run(Script1731464238981.groovy:45)
+	... 15 more
+)
+[[ATTACHMENT|C:\\Users\\henri\\Videos\\school-payment-automation-testing\\Reports\\20241209_133308\\SPRINT 1\\20241209_133309\\1733726154451.png]]]]></system-out>
+         <system-err><![CDATA[09-12-2024T13:35:12 - [TEST_CASE][FAILED] - Test Cases/Master Data/Admin Sekolah/Master Data Tagihan/Tambah Tagihan: Test Cases/Master Data/Admin Sekolah/Master Data Tagihan/Tambah Tagihan FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Master Data/Admin Sekolah/Tambah Tagihan/Klik Tahun Ajaran'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:117)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:43)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:75)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:696)
+	at Tambah Tagihan.run(Tambah Tagihan:45)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:161)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:176)
+	at TempTestSuite1733725989505.run(TempTestSuite1733725989505.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Master Data/Admin Sekolah/Tambah Tagihan/Klik Tahun Ajaran' located by '//*[@data-testid = 'select-field' and (text() = 'Pilih tahun ajaran' or . = 'Pilih tahun ajaran')]' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1426)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:66)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:35)
+	... 20 more]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Master Data/Super Admin/Master Data Sekolah/Tambah Sekolah" time="35.089" classname="Test Cases/Master Data/Super Admin/Master Data Sekolah/Tambah Sekolah" status="PASSED">
+         <system-out><![CDATA[09-12-2024T13:35:54 - [TEST_CASE][PASSED] - Test Cases/Master Data/Super Admin/Master Data Sekolah/Tambah Sekolah: Test Cases/Master Data/Super Admin/Master Data Sekolah/Tambah Sekolah
+
+09-12-2024T13:35:54 - [TEST_STEP][PASSED] - openBrowser("", CONTINUE_ON_FAILURE): Browser is opened with url: ''
+
+09-12-2024T13:35:54 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+09-12-2024T13:35:54 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+09-12-2024T13:35:54 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+09-12-2024T13:35:55 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+09-12-2024T13:35:55 - [TEST_STEP][PASSED] - navigateToUrl("https://school-payment.digiform.co.id/login", CONTINUE_ON_FAILURE): Navigate to 'https://school-payment.digiform.co.id/login' successfully
+
+09-12-2024T13:35:55 - [MESSAGE][PASSED] - Navigate to 'https://school-payment.digiform.co.id/login' successfully
+
+09-12-2024T13:35:55 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Field Email"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Field Email' is clicked on
+
+09-12-2024T13:35:57 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Field Email' is clicked on
+
+09-12-2024T13:35:57 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Admin Sekolah/Login/Field Email"), "admin@gmail.com", CONTINUE_ON_FAILURE): Text 'admin@gmail.com' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Field Email'
+
+09-12-2024T13:35:57 - [MESSAGE][PASSED] - Text 'admin@gmail.com' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Field Email'
+
+09-12-2024T13:35:57 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Input Password"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Input Password' is clicked on
+
+09-12-2024T13:35:58 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Input Password' is clicked on
+
+09-12-2024T13:35:58 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Admin Sekolah/Login/Input Password"), "Test1234", CONTINUE_ON_FAILURE): Text 'Test1234' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Input Password'
+
+09-12-2024T13:35:58 - [MESSAGE][PASSED] - Text 'Test1234' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Input Password'
+
+09-12-2024T13:35:58 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Button Submit"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Button Submit' is clicked on
+
+09-12-2024T13:35:59 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Button Submit' is clicked on
+
+09-12-2024T13:35:59 - [TEST_STEP][PASSED] - waitForPageLoad(5, CONTINUE_ON_FAILURE): Wait for page load successfully
+
+09-12-2024T13:35:59 - [MESSAGE][PASSED] - Wait for page load successfully
+
+09-12-2024T13:35:59 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Super Admin/Homepage Menu/Sidebar Menu"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Super Admin/Homepage Menu/Sidebar Menu' is clicked on
+
+09-12-2024T13:36:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Super Admin/Homepage Menu/Sidebar Menu' is clicked on
+
+09-12-2024T13:36:01 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Super Admin/Homepage Menu/Sub Menu Sekolah"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Super Admin/Homepage Menu/Sub Menu Sekolah' is clicked on
+
+09-12-2024T13:36:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Super Admin/Homepage Menu/Sub Menu Sekolah' is clicked on
+
+09-12-2024T13:36:01 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Super Admin/Master Sekolah Dashboard/Button Tambah"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Super Admin/Master Sekolah Dashboard/Button Tambah' is clicked on
+
+09-12-2024T13:36:02 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Super Admin/Master Sekolah Dashboard/Button Tambah' is clicked on
+
+09-12-2024T13:36:02 - [TEST_STEP][PASSED] - waitForPageLoad(5, CONTINUE_ON_FAILURE): Wait for page load successfully
+
+09-12-2024T13:36:02 - [MESSAGE][PASSED] - Wait for page load successfully
+
+09-12-2024T13:36:02 - [TEST_STEP][PASSED] - sekolahDataList = [["NPSN":"047216429", "Telephone":"08126472631", "NamaSekolah":"SMA Duta Bangsa", "Email":"dutabangsa@sch.id"]]: null
+
+09-12-2024T13:36:02 - [TEST_STEP][PASSED] - for (Map<String, String> sekolahData : sekolahDataList): null
+
+09-12-2024T13:36:02 - [TEST_STEP][PASSED] - fillFormWithData(sekolahData): null
+
+09-12-2024T13:36:02 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Super Admin/Form Sekolah/Field NPSN"), formData["NPSN"]): Text '047216429' is set on object 'Object Repository/Master Data/Super Admin/Form Sekolah/Field NPSN'
+
+09-12-2024T13:36:03 - [MESSAGE][PASSED] - Text '047216429' is set on object 'Object Repository/Master Data/Super Admin/Form Sekolah/Field NPSN'
+
+09-12-2024T13:36:03 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Super Admin/Form Sekolah/Field Telephone"), formData["Telephone"]): Text '08126472631' is set on object 'Object Repository/Master Data/Super Admin/Form Sekolah/Field Telephone'
+
+09-12-2024T13:36:03 - [MESSAGE][PASSED] - Text '08126472631' is set on object 'Object Repository/Master Data/Super Admin/Form Sekolah/Field Telephone'
+
+09-12-2024T13:36:03 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Super Admin/Form Sekolah/Field Nama Sekolah"), formData["NamaSekolah"]): Text 'SMA Duta Bangsa' is set on object 'Object Repository/Master Data/Super Admin/Form Sekolah/Field Nama Sekolah'
+
+09-12-2024T13:36:04 - [MESSAGE][PASSED] - Text 'SMA Duta Bangsa' is set on object 'Object Repository/Master Data/Super Admin/Form Sekolah/Field Nama Sekolah'
+
+09-12-2024T13:36:04 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Super Admin/Form Sekolah/Field Email"), formData["Email"]): null
+
+09-12-2024T13:36:04 - [MESSAGE][PASSED] - Text 'dutabangsa@sch.id' is set on object 'Object Repository/Master Data/Super Admin/Form Sekolah/Field Email'
+
+09-12-2024T13:36:04 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+09-12-2024T13:36:05 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+09-12-2024T13:36:05 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("Master Data/Super Admin/Form Sekolah/Field Email"), 0, CONTINUE_ON_FAILURE): Scroll to object 'Object Repository/Master Data/Super Admin/Form Sekolah/Field Email' successfully
+
+09-12-2024T13:36:05 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+09-12-2024T13:36:06 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Master Data/Super Admin/Form Sekolah/Field Email' successfully
+
+09-12-2024T13:36:06 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Super Admin/Form Sekolah/Dropdown Unit"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Super Admin/Form Sekolah/Dropdown Unit' is clicked on
+
+09-12-2024T13:36:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Super Admin/Form Sekolah/Dropdown Unit' is clicked on
+
+09-12-2024T13:36:06 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Super Admin/Form Sekolah/Isi Dropdown Unit"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Super Admin/Form Sekolah/Isi Dropdown Unit' is clicked on
+
+09-12-2024T13:36:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Super Admin/Form Sekolah/Isi Dropdown Unit' is clicked on
+
+09-12-2024T13:36:06 - [TEST_STEP][PASSED] - logoFilePaths = ["C:\Users\henri\Pictures\Upload Sekolah\Logo Sekolah.png"]: null
+
+09-12-2024T13:36:06 - [TEST_STEP][PASSED] - for (String logoFilePath : logoFilePaths): null
+
+09-12-2024T13:36:06 - [TEST_STEP][PASSED] - uploadLogo(logoFilePath): null
+
+09-12-2024T13:36:06 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Super Admin/Form Sekolah/Button Upload Logo")): Object: 'Object Repository/Master Data/Super Admin/Form Sekolah/Button Upload Logo' is clicked on
+
+09-12-2024T13:36:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Super Admin/Form Sekolah/Button Upload Logo' is clicked on
+
+09-12-2024T13:36:07 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+09-12-2024T13:36:08 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+09-12-2024T13:36:08 - [TEST_STEP][PASSED] - uploadFile(findTestObject("Master Data/Super Admin/Form Sekolah/Input File Upload"), logoFilePath): null
+
+09-12-2024T13:36:08 - [MESSAGE][PASSED] - File 'C:\Users\henri\Pictures\Upload Sekolah\Logo Sekolah.png' sent to object: 'Object Repository/Master Data/Super Admin/Form Sekolah/Input File Upload'
+
+09-12-2024T13:36:08 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+09-12-2024T13:36:09 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+09-12-2024T13:36:09 - [TEST_STEP][PASSED] - kopSuratFilePath = "C:/Users/henri/Pictures/Upload Sekolah/Upload Kop Surat.png": null
+
+09-12-2024T13:36:09 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Super Admin/Form Sekolah/Button Upload Kop Surat"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Super Admin/Form Sekolah/Button Upload Kop Surat' is clicked on
+
+09-12-2024T13:36:09 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Super Admin/Form Sekolah/Button Upload Kop Surat' is clicked on
+
+09-12-2024T13:36:09 - [TEST_STEP][PASSED] - delay(5, CONTINUE_ON_FAILURE): Delayed 5 second(s)
+
+09-12-2024T13:36:14 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+09-12-2024T13:36:14 - [TEST_STEP][PASSED] - uploadFile(findTestObject("Master Data/Super Admin/Form Sekolah/Input Upload File Kop Surat"), kopSuratFilePath, CONTINUE_ON_FAILURE): File 'C:/Users/henri/Pictures/Upload Sekolah/Upload Kop Surat.png' sent to object: 'Object Repository/Master Data/Super Admin/Form Sekolah/Input Upload File Kop Surat'
+
+09-12-2024T13:36:15 - [MESSAGE][PASSED] - File 'C:/Users/henri/Pictures/Upload Sekolah/Upload Kop Surat.png' sent to object: 'Object Repository/Master Data/Super Admin/Form Sekolah/Input Upload File Kop Surat'
+
+09-12-2024T13:36:15 - [TEST_STEP][PASSED] - selectDropdownValue("Master Data/Super Admin/Form Sekolah/Dropdown Provinsi", "Master Data/Super Admin/Form Sekolah/Isi Dropdown Provinsi", 5, 2): null
+
+09-12-2024T13:36:15 - [TEST_STEP][PASSED] - click(findTestObject(dropdownXpath)): Object: 'Object Repository/Master Data/Super Admin/Form Sekolah/Dropdown Provinsi' is clicked on
+
+09-12-2024T13:36:15 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Super Admin/Form Sekolah/Dropdown Provinsi' is clicked on
+
+09-12-2024T13:36:15 - [TEST_STEP][PASSED] - delay(delayBefore): Delayed 5 second(s)
+
+09-12-2024T13:36:20 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+09-12-2024T13:36:20 - [TEST_STEP][PASSED] - click(findTestObject(valueXpath)): Object: 'Object Repository/Master Data/Super Admin/Form Sekolah/Isi Dropdown Provinsi' is clicked on
+
+09-12-2024T13:36:20 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Super Admin/Form Sekolah/Isi Dropdown Provinsi' is clicked on
+
+09-12-2024T13:36:20 - [TEST_STEP][PASSED] - delay(delayAfter): Delayed 2 second(s)
+
+09-12-2024T13:36:22 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+09-12-2024T13:36:22 - [TEST_STEP][PASSED] - selectDropdownValue("Master Data/Super Admin/Form Sekolah/Dropdown Kota", "Master Data/Super Admin/Form Sekolah/Isi Dropdown Kota", 2, 2): null
+
+09-12-2024T13:36:22 - [TEST_STEP][PASSED] - click(findTestObject(dropdownXpath)): Object: 'Object Repository/Master Data/Super Admin/Form Sekolah/Dropdown Kota' is clicked on
+
+09-12-2024T13:36:23 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Super Admin/Form Sekolah/Dropdown Kota' is clicked on
+
+09-12-2024T13:36:23 - [TEST_STEP][PASSED] - delay(delayBefore): Delayed 2 second(s)
+
+09-12-2024T13:36:25 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+09-12-2024T13:36:25 - [TEST_STEP][PASSED] - click(findTestObject(valueXpath)): Object: 'Object Repository/Master Data/Super Admin/Form Sekolah/Isi Dropdown Kota' is clicked on
+
+09-12-2024T13:36:25 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Super Admin/Form Sekolah/Isi Dropdown Kota' is clicked on
+
+09-12-2024T13:36:25 - [TEST_STEP][PASSED] - delay(delayAfter): Delayed 2 second(s)
+
+09-12-2024T13:36:27 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+09-12-2024T13:36:27 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Super Admin/Form Sekolah/Field Alamat"), "Head Office. Pondok Indah Office Tower 1 Lantai 8. Jl. Sultan Iskandar Muda Kav. V - TA, Jakarta Selatan 12310. Tel. +62-21 7654466. Fax. +62-21 7507747.", CONTINUE_ON_FAILURE): Text 'Head Office. Pondok Indah Office Tower 1 Lantai 8. Jl. Sultan Iskandar Muda Kav. V - TA, Jakarta Selatan 12310. Tel. +62-21 7654466. Fax. +62-21 7507747.' is set on object 'Object Repository/Master Data/Super Admin/Form Sekolah/Field Alamat'
+
+09-12-2024T13:36:28 - [MESSAGE][PASSED] - Text 'Head Office. Pondok Indah Office Tower 1 Lantai 8. Jl. Sultan Iskandar Muda Kav. V - TA, Jakarta Selatan 12310. Tel. +62-21 7654466. Fax. +62-21 7507747.' is set on object 'Object Repository/Master Data/Super Admin/Form Sekolah/Field Alamat'
+
+09-12-2024T13:36:28 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Super Admin/Form Sekolah/Button Tambahkan"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Super Admin/Form Sekolah/Button Tambahkan' is clicked on
+
+09-12-2024T13:36:29 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Super Admin/Form Sekolah/Button Tambahkan' is clicked on
+
+09-12-2024T13:36:29 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Super Admin/Form Sekolah/Button YA"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Super Admin/Form Sekolah/Button YA' is clicked on
+
+09-12-2024T13:36:29 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Super Admin/Form Sekolah/Button YA' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Master Data/Super Admin/Master Data Sekolah/Edit Sekolah" time="73.503" classname="Test Cases/Master Data/Super Admin/Master Data Sekolah/Edit Sekolah" status="PASSED">
+         <system-out><![CDATA[09-12-2024T13:36:29 - [TEST_CASE][PASSED] - Test Cases/Master Data/Super Admin/Master Data Sekolah/Edit Sekolah: Test Cases/Master Data/Super Admin/Master Data Sekolah/Edit Sekolah
+
+09-12-2024T13:36:29 - [TEST_STEP][PASSED] - openBrowser("", CONTINUE_ON_FAILURE): Browser is opened with url: ''
+
+09-12-2024T13:36:29 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+09-12-2024T13:36:29 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+09-12-2024T13:36:29 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+09-12-2024T13:36:30 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+09-12-2024T13:36:30 - [TEST_STEP][PASSED] - navigateToUrl("https://school-payment.digiform.co.id/login", CONTINUE_ON_FAILURE): Navigate to 'https://school-payment.digiform.co.id/login' successfully
+
+09-12-2024T13:36:31 - [MESSAGE][PASSED] - Navigate to 'https://school-payment.digiform.co.id/login' successfully
+
+09-12-2024T13:36:31 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Admin Sekolah/Login/Field Email"), "admin@gmail.com", CONTINUE_ON_FAILURE): Text 'admin@gmail.com' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Field Email'
+
+09-12-2024T13:36:32 - [MESSAGE][PASSED] - Text 'admin@gmail.com' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Field Email'
+
+09-12-2024T13:36:32 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Admin Sekolah/Login/Input Password"), "Test1234", CONTINUE_ON_FAILURE): Text 'Test1234' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Input Password'
+
+09-12-2024T13:36:33 - [MESSAGE][PASSED] - Text 'Test1234' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Input Password'
+
+09-12-2024T13:36:33 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Button Submit"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Button Submit' is clicked on
+
+09-12-2024T13:36:33 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Button Submit' is clicked on
+
+09-12-2024T13:36:33 - [TEST_STEP][PASSED] - waitForPageLoad(5, CONTINUE_ON_FAILURE): Wait for page load successfully
+
+09-12-2024T13:36:33 - [MESSAGE][PASSED] - Wait for page load successfully
+
+09-12-2024T13:36:33 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Super Admin/Homepage Menu/Sidebar Menu"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Super Admin/Homepage Menu/Sidebar Menu' is clicked on
+
+09-12-2024T13:36:35 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Super Admin/Homepage Menu/Sidebar Menu' is clicked on
+
+09-12-2024T13:36:35 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Super Admin/Homepage Menu/Sub Menu Sekolah"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Super Admin/Homepage Menu/Sub Menu Sekolah' is clicked on
+
+09-12-2024T13:36:35 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Super Admin/Homepage Menu/Sub Menu Sekolah' is clicked on
+
+09-12-2024T13:36:35 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Super Admin/Edit Sekolah/Master Data Sekolah Dashboard/Button Action"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Super Admin/Edit Sekolah/Master Data Sekolah Dashboard/Button Action' is clicked on
+
+09-12-2024T13:36:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Super Admin/Edit Sekolah/Master Data Sekolah Dashboard/Button Action' is clicked on
+
+09-12-2024T13:36:36 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Super Admin/Edit Sekolah/Master Data Sekolah Dashboard/Button Edit"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Super Admin/Edit Sekolah/Master Data Sekolah Dashboard/Button Edit' is clicked on
+
+09-12-2024T13:36:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Super Admin/Edit Sekolah/Master Data Sekolah Dashboard/Button Edit' is clicked on
+
+09-12-2024T13:36:36 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Master Data/Super Admin/Edit Sekolah/Edit Page/Field NPSN"), Keys.chord(CONTROL, "a")): Keys 'CONTROL + a' sent to object: 'Object Repository/Master Data/Super Admin/Edit Sekolah/Edit Page/Field NPSN'
+
+09-12-2024T13:36:37 - [MESSAGE][PASSED] - Keys 'CONTROL + a' sent to object: 'Object Repository/Master Data/Super Admin/Edit Sekolah/Edit Page/Field NPSN'
+
+09-12-2024T13:36:37 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Master Data/Super Admin/Edit Sekolah/Edit Page/Field NPSN"), Keys.chord(DELETE)): Keys 'DELETE + ' sent to object: 'Object Repository/Master Data/Super Admin/Edit Sekolah/Edit Page/Field NPSN'
+
+09-12-2024T13:36:37 - [MESSAGE][PASSED] - Keys 'DELETE + ' sent to object: 'Object Repository/Master Data/Super Admin/Edit Sekolah/Edit Page/Field NPSN'
+
+09-12-2024T13:36:37 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Super Admin/Edit Sekolah/Edit Page/Field NPSN"), "51285216"): Text '51285216' is set on object 'Object Repository/Master Data/Super Admin/Edit Sekolah/Edit Page/Field NPSN'
+
+09-12-2024T13:36:38 - [MESSAGE][PASSED] - Text '51285216' is set on object 'Object Repository/Master Data/Super Admin/Edit Sekolah/Edit Page/Field NPSN'
+
+09-12-2024T13:36:38 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Master Data/Super Admin/Edit Sekolah/Edit Page/Field Nomor Telfon"), Keys.chord(CONTROL, "a")): Keys 'CONTROL + a' sent to object: 'Object Repository/Master Data/Super Admin/Edit Sekolah/Edit Page/Field Nomor Telfon'
+
+09-12-2024T13:36:38 - [MESSAGE][PASSED] - Keys 'CONTROL + a' sent to object: 'Object Repository/Master Data/Super Admin/Edit Sekolah/Edit Page/Field Nomor Telfon'
+
+09-12-2024T13:36:38 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Master Data/Super Admin/Edit Sekolah/Edit Page/Field Nomor Telfon"), Keys.chord(DELETE)): Keys 'DELETE + ' sent to object: 'Object Repository/Master Data/Super Admin/Edit Sekolah/Edit Page/Field Nomor Telfon'
+
+09-12-2024T13:36:39 - [MESSAGE][PASSED] - Keys 'DELETE + ' sent to object: 'Object Repository/Master Data/Super Admin/Edit Sekolah/Edit Page/Field Nomor Telfon'
+
+09-12-2024T13:36:39 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Super Admin/Edit Sekolah/Edit Page/Field Nomor Telfon"), "08216417262"): Text '08216417262' is set on object 'Object Repository/Master Data/Super Admin/Edit Sekolah/Edit Page/Field Nomor Telfon'
+
+09-12-2024T13:36:39 - [MESSAGE][PASSED] - Text '08216417262' is set on object 'Object Repository/Master Data/Super Admin/Edit Sekolah/Edit Page/Field Nomor Telfon'
+
+09-12-2024T13:36:39 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Master Data/Super Admin/Edit Sekolah/Edit Page/Field Nama Sekolah"), Keys.chord(CONTROL, "a")): Keys 'CONTROL + a' sent to object: 'Object Repository/Master Data/Super Admin/Edit Sekolah/Edit Page/Field Nama Sekolah'
+
+09-12-2024T13:36:39 - [MESSAGE][PASSED] - Keys 'CONTROL + a' sent to object: 'Object Repository/Master Data/Super Admin/Edit Sekolah/Edit Page/Field Nama Sekolah'
+
+09-12-2024T13:36:39 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Master Data/Super Admin/Edit Sekolah/Edit Page/Field Nama Sekolah"), Keys.chord(DELETE)): Keys 'DELETE + ' sent to object: 'Object Repository/Master Data/Super Admin/Edit Sekolah/Edit Page/Field Nama Sekolah'
+
+09-12-2024T13:36:40 - [MESSAGE][PASSED] - Keys 'DELETE + ' sent to object: 'Object Repository/Master Data/Super Admin/Edit Sekolah/Edit Page/Field Nama Sekolah'
+
+09-12-2024T13:36:40 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Super Admin/Edit Sekolah/Edit Page/Field Nama Sekolah"), "Darma Wisata"): Text 'Darma Wisata' is set on object 'Object Repository/Master Data/Super Admin/Edit Sekolah/Edit Page/Field Nama Sekolah'
+
+09-12-2024T13:36:40 - [MESSAGE][PASSED] - Text 'Darma Wisata' is set on object 'Object Repository/Master Data/Super Admin/Edit Sekolah/Edit Page/Field Nama Sekolah'
+
+09-12-2024T13:36:40 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Master Data/Super Admin/Edit Sekolah/Edit Page/Field Email Sekolah"), Keys.chord(CONTROL, "a")): Keys 'CONTROL + a' sent to object: 'Object Repository/Master Data/Super Admin/Edit Sekolah/Edit Page/Field Email Sekolah'
+
+09-12-2024T13:36:41 - [MESSAGE][PASSED] - Keys 'CONTROL + a' sent to object: 'Object Repository/Master Data/Super Admin/Edit Sekolah/Edit Page/Field Email Sekolah'
+
+09-12-2024T13:36:41 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Master Data/Super Admin/Edit Sekolah/Edit Page/Field Email Sekolah"), Keys.chord(DELETE)): Keys 'DELETE + ' sent to object: 'Object Repository/Master Data/Super Admin/Edit Sekolah/Edit Page/Field Email Sekolah'
+
+09-12-2024T13:36:41 - [MESSAGE][PASSED] - Keys 'DELETE + ' sent to object: 'Object Repository/Master Data/Super Admin/Edit Sekolah/Edit Page/Field Email Sekolah'
+
+09-12-2024T13:36:41 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Super Admin/Edit Sekolah/Edit Page/Field Email Sekolah"), "darmawisata@sch.co.id"): Text 'darmawisata@sch.co.id' is set on object 'Object Repository/Master Data/Super Admin/Edit Sekolah/Edit Page/Field Email Sekolah'
+
+09-12-2024T13:36:41 - [MESSAGE][PASSED] - Text 'darmawisata@sch.co.id' is set on object 'Object Repository/Master Data/Super Admin/Edit Sekolah/Edit Page/Field Email Sekolah'
+
+09-12-2024T13:36:41 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Super Admin/Edit Sekolah/Edit Page/Dropdown Provinsi"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Super Admin/Edit Sekolah/Edit Page/Dropdown Provinsi' is clicked on
+
+09-12-2024T13:36:44 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Super Admin/Edit Sekolah/Edit Page/Dropdown Provinsi' is clicked on
+
+09-12-2024T13:36:44 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Super Admin/Edit Sekolah/Edit Page/Value Dropdown Provinsi"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Super Admin/Edit Sekolah/Edit Page/Value Dropdown Provinsi' is clicked on
+
+09-12-2024T13:36:44 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Super Admin/Edit Sekolah/Edit Page/Value Dropdown Provinsi' is clicked on
+
+09-12-2024T13:36:44 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Super Admin/Edit Sekolah/Edit Page/Dropdown Kota"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Super Admin/Edit Sekolah/Edit Page/Dropdown Kota' is clicked on
+
+09-12-2024T13:36:45 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Super Admin/Edit Sekolah/Edit Page/Dropdown Kota' is clicked on
+
+09-12-2024T13:36:45 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Super Admin/Edit Sekolah/Edit Page/Value Dropdown Kota"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Super Admin/Edit Sekolah/Edit Page/Value Dropdown Kota' is clicked on
+
+09-12-2024T13:36:45 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Super Admin/Edit Sekolah/Edit Page/Value Dropdown Kota' is clicked on
+
+09-12-2024T13:36:45 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Master Data/Super Admin/Edit Sekolah/Edit Page/Field Alamat"), Keys.chord(CONTROL, "a")): Keys 'CONTROL + a' sent to object: 'Object Repository/Master Data/Super Admin/Edit Sekolah/Edit Page/Field Alamat'
+
+09-12-2024T13:36:46 - [MESSAGE][PASSED] - Keys 'CONTROL + a' sent to object: 'Object Repository/Master Data/Super Admin/Edit Sekolah/Edit Page/Field Alamat'
+
+09-12-2024T13:36:46 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Master Data/Super Admin/Edit Sekolah/Edit Page/Field Alamat"), Keys.chord(DELETE)): Keys 'DELETE + ' sent to object: 'Object Repository/Master Data/Super Admin/Edit Sekolah/Edit Page/Field Alamat'
+
+09-12-2024T13:36:46 - [MESSAGE][PASSED] - Keys 'DELETE + ' sent to object: 'Object Repository/Master Data/Super Admin/Edit Sekolah/Edit Page/Field Alamat'
+
+09-12-2024T13:36:46 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Super Admin/Edit Sekolah/Edit Page/Field Alamat"), "Ciputat , Sawah Lama , Tangerang Selatan , Banten"): Text 'Ciputat , Sawah Lama , Tangerang Selatan , Banten' is set on object 'Object Repository/Master Data/Super Admin/Edit Sekolah/Edit Page/Field Alamat'
+
+09-12-2024T13:36:46 - [MESSAGE][PASSED] - Text 'Ciputat , Sawah Lama , Tangerang Selatan , Banten' is set on object 'Object Repository/Master Data/Super Admin/Edit Sekolah/Edit Page/Field Alamat'
+
+09-12-2024T13:36:46 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Super Admin/Edit Sekolah/Edit Page/Field Button Simpan"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Super Admin/Edit Sekolah/Edit Page/Field Button Simpan' is clicked on
+
+09-12-2024T13:36:47 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Super Admin/Edit Sekolah/Edit Page/Field Button Simpan' is clicked on
+
+09-12-2024T13:36:47 - [TEST_STEP][PASSED] - npsnList = ["72619516", "8261491", "8461942"]: null
+
+09-12-2024T13:36:47 - [TEST_STEP][PASSED] - for (String npsn : npsnList): null
+
+09-12-2024T13:36:47 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Master Data/Super Admin/Edit Sekolah/Edit Page/Field NPSN"), Keys.chord(CONTROL, "a")): Keys 'CONTROL + a' sent to object: 'Object Repository/Master Data/Super Admin/Edit Sekolah/Edit Page/Field NPSN'
+
+09-12-2024T13:36:47 - [MESSAGE][PASSED] - Keys 'CONTROL + a' sent to object: 'Object Repository/Master Data/Super Admin/Edit Sekolah/Edit Page/Field NPSN'
+
+09-12-2024T13:36:47 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Master Data/Super Admin/Edit Sekolah/Edit Page/Field NPSN"), Keys.chord(DELETE)): Keys 'DELETE + ' sent to object: 'Object Repository/Master Data/Super Admin/Edit Sekolah/Edit Page/Field NPSN'
+
+09-12-2024T13:36:48 - [MESSAGE][PASSED] - Keys 'DELETE + ' sent to object: 'Object Repository/Master Data/Super Admin/Edit Sekolah/Edit Page/Field NPSN'
+
+09-12-2024T13:36:48 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Super Admin/Edit Sekolah/Edit Page/Field NPSN"), npsn): Text '72619516' is set on object 'Object Repository/Master Data/Super Admin/Edit Sekolah/Edit Page/Field NPSN'
+
+09-12-2024T13:36:48 - [MESSAGE][PASSED] - Text '72619516' is set on object 'Object Repository/Master Data/Super Admin/Edit Sekolah/Edit Page/Field NPSN'
+
+09-12-2024T13:36:48 - [TEST_STEP][PASSED] - isErrorVisible = verifyElementVisible(findTestObject("Master Data/Super Admin/Edit Sekolah/Edit Page/Error Message NPSN Sudah Terdaftar"), OPTIONAL): Web element with id: 'Object Repository/Master Data/Super Admin/Edit Sekolah/Edit Page/Error Message NPSN Sudah Terdaftar' located by '//*[(text() = 'NPSN sudah terdaftar' or . = 'NPSN sudah terdaftar')]' not found (Root cause: com.kms.katalon.core.exception.StepFailedException: Web element with id: 'Object Repository/Master Data/Super Admin/Edit Sekolah/Edit Page/Error Message NPSN Sudah Terdaftar' located by '//*[(text() = 'NPSN sudah terdaftar' or . = 'NPSN sudah terdaftar')]' not found
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:117)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword$_verifyElementVisible_closure1.doCall(VerifyElementVisibleKeyword.groovy:89)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword$_verifyElementVisible_closure1.call(VerifyElementVisibleKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:35)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword.verifyElementVisible(VerifyElementVisibleKeyword.groovy:97)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword.execute(VerifyElementVisibleKeyword.groovy:67)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementVisible(WebUiBuiltInKeywords.groovy:438)
+	at Edit Sekolah.run(Edit Sekolah:125)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:161)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:176)
+	at TempTestSuite1733725989505.run(TempTestSuite1733725989505.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+)
+
+09-12-2024T13:37:20 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //*[(text() = 'NPSN sudah terdaftar' or . = 'NPSN sudah terdaftar')]'. Please recheck the objects properties to make sure the desired element is located. 
+
+09-12-2024T13:37:20 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Master Data/Super Admin/Edit Sekolah/Edit Page/Error Message NPSN Sudah Terdaftar'. Try using Self-healing.
+
+09-12-2024T13:37:20 - [MESSAGE][WARNING] - [SELF-HEALING] Cannot find elements when the XPath is null.
+
+09-12-2024T13:37:21 - [MESSAGE][WARNING] - [SELF-HEALING] Cannot find elements when the selector is null
+
+09-12-2024T13:37:21 - [MESSAGE][WARNING] - Web element with id: 'Object Repository/Master Data/Super Admin/Edit Sekolah/Edit Page/Error Message NPSN Sudah Terdaftar' located by '//*[(text() = 'NPSN sudah terdaftar' or . = 'NPSN sudah terdaftar')]' not found (Root cause: com.kms.katalon.core.exception.StepFailedException: Web element with id: 'Object Repository/Master Data/Super Admin/Edit Sekolah/Edit Page/Error Message NPSN Sudah Terdaftar' located by '//*[(text() = 'NPSN sudah terdaftar' or . = 'NPSN sudah terdaftar')]' not found
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:117)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword$_verifyElementVisible_closure1.doCall(VerifyElementVisibleKeyword.groovy:89)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword$_verifyElementVisible_closure1.call(VerifyElementVisibleKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:35)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword.verifyElementVisible(VerifyElementVisibleKeyword.groovy:97)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword.execute(VerifyElementVisibleKeyword.groovy:67)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementVisible(WebUiBuiltInKeywords.groovy:438)
+	at Edit Sekolah.run(Edit Sekolah:125)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:161)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:176)
+	at TempTestSuite1733725989505.run(TempTestSuite1733725989505.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+)
+[[ATTACHMENT|C:\\Users\\henri\\Videos\\school-payment-automation-testing\\Reports\\20241209_133308\\SPRINT 1\\20241209_133309\\1733726241189.png]]
+
+09-12-2024T13:37:21 - [TEST_STEP][PASSED] - if (!(isErrorVisible)): null
+
+09-12-2024T13:37:21 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Super Admin/Edit Sekolah/Edit Page/Button Ya"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Master Data/Super Admin/Edit Sekolah/Edit Page/Button Ya' is clicked on
+
+09-12-2024T13:37:21 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Super Admin/Edit Sekolah/Edit Page/Button Ya' is clicked on
+
+09-12-2024T13:37:21 - [TEST_STEP][PASSED] - break: null
+
+09-12-2024T13:37:21 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Master Data/Super Admin/Edit Sekolah/Master Data Sekolah Dashboard/Toast Notif Edit")): Object 'Object Repository/Master Data/Super Admin/Edit Sekolah/Master Data Sekolah Dashboard/Toast Notif Edit' is visible
+
+09-12-2024T13:37:42 - [MESSAGE][PASSED] - Object 'Object Repository/Master Data/Super Admin/Edit Sekolah/Master Data Sekolah Dashboard/Toast Notif Edit' is visible
+
+09-12-2024T13:37:42 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+09-12-2024T13:37:43 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[09-12-2024T13:33:14 - [TEST_SUITE][ERROR] - SPRINT 1: Test Cases/Master Data/Admin Sekolah/Master Data Akun Bank/Edit Akun Bank FAILED.
+Reason:
+org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+file:/C:/Users/henri/Videos/school-payment-automation-testing/Scripts/Master%20Data/Admin%20Sekolah/Master%20Data%20Akun%20Bank/Edit%20Akun%20Bank/Script1733198752835.groovy: 126: The method public void clearAndSetText(com.kms.katalon.core.testobject.TestObject testObject, java.lang.String newText)  { ... } duplicates another method of the same signature
+. At [126:1]  @ line 126, column 1.
+   void clearAndSetText(TestObject testObject, String newText) {
+   ^
+
+file:/C:/Users/henri/Videos/school-payment-automation-testing/Scripts/Master%20Data/Admin%20Sekolah/Master%20Data%20Akun%20Bank/Edit%20Akun%20Bank/Script1733198752835.groovy: 77: Repetitive method name/signature for method 'void clearAndSetText(com.kms.katalon.core.testobject.TestObject, java.lang.String)' in class 'Script1733198752835'.
+ @ line 77, column 1.
+   void clearAndSetText(TestObject testObject, String newText) {
+   ^
+
+file:/C:/Users/henri/Videos/school-payment-automation-testing/Scripts/Master%20Data/Admin%20Sekolah/Master%20Data%20Akun%20Bank/Edit%20Akun%20Bank/Script1733198752835.groovy: 126: Repetitive method name/signature for method 'void clearAndSetText(com.kms.katalon.core.testobject.TestObject, java.lang.String)' in class 'Script1733198752835'.
+ @ line 126, column 1.
+   void clearAndSetText(TestObject testObject, String newText) {
+   ^
+
+3 errors
+
+	at com.kms.katalon.core.main.ScriptEngine.getScript(ScriptEngine.java:199)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:161)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:176)
+	at TempTestSuite1733725989505.run(TempTestSuite1733725989505.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)]]></system-out>
+      <system-err><![CDATA[09-12-2024T13:33:14 - [TEST_SUITE][ERROR] - SPRINT 1: Test Cases/Master Data/Admin Sekolah/Master Data Akun Bank/Edit Akun Bank FAILED.
+Reason:
+org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+file:/C:/Users/henri/Videos/school-payment-automation-testing/Scripts/Master%20Data/Admin%20Sekolah/Master%20Data%20Akun%20Bank/Edit%20Akun%20Bank/Script1733198752835.groovy: 126: The method public void clearAndSetText(com.kms.katalon.core.testobject.TestObject testObject, java.lang.String newText)  { ... } duplicates another method of the same signature
+. At [126:1]  @ line 126, column 1.
+   void clearAndSetText(TestObject testObject, String newText) {
+   ^
+
+file:/C:/Users/henri/Videos/school-payment-automation-testing/Scripts/Master%20Data/Admin%20Sekolah/Master%20Data%20Akun%20Bank/Edit%20Akun%20Bank/Script1733198752835.groovy: 77: Repetitive method name/signature for method 'void clearAndSetText(com.kms.katalon.core.testobject.TestObject, java.lang.String)' in class 'Script1733198752835'.
+ @ line 77, column 1.
+   void clearAndSetText(TestObject testObject, String newText) {
+   ^
+
+file:/C:/Users/henri/Videos/school-payment-automation-testing/Scripts/Master%20Data/Admin%20Sekolah/Master%20Data%20Akun%20Bank/Edit%20Akun%20Bank/Script1733198752835.groovy: 126: Repetitive method name/signature for method 'void clearAndSetText(com.kms.katalon.core.testobject.TestObject, java.lang.String)' in class 'Script1733198752835'.
+ @ line 126, column 1.
+   void clearAndSetText(TestObject testObject, String newText) {
+   ^
+
+3 errors
+
+	at com.kms.katalon.core.main.ScriptEngine.getScript(ScriptEngine.java:199)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:161)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:176)
+	at TempTestSuite1733725989505.run(TempTestSuite1733725989505.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)]]></system-err>
+   </testsuite>
+</testsuites>

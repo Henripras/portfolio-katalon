@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Menu Laporan</name>
+   <tag></tag>
+   <elementGuidId>747434b1-df8c-4799-b449-23fb2877d380</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@data-testid = 'sidebar-menu' and (text() = 'Laporan' or . = 'Laporan')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@class='flex items-center gap-x-[10px]'])[10]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^LaporanTagihanPembayaran$/ >> [data-testid=&quot;sidebar-menu&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a860ab53-2d2d-420e-bd52-f75af63d239d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex cursor-pointer items-center justify-between rounded-full p-[10px] hover:bg-blue0 hover:text-blue8</value>
+      <webElementGuid>3cba911d-61cf-412f-8d2c-8da865f1508a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>sidebar-menu</value>
+      <webElementGuid>f113d119-9849-4453-845e-61e42a800cd1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Laporan</value>
+      <webElementGuid>2c1a6638-26c3-46b1-b6b5-611be4995582</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-w-screen relative flex min-h-screen overflow-hidden transition-opacity duration-500 ease-in-out&quot;]/section[@class=&quot;border-neutral-5 z-50 h-screen w-full max-w-[234px] border-r border-neutral5 bg-neutral1 px-4 py-6&quot;]/div[@class=&quot;mt-[52px] flex flex-col gap-2&quot;]/div[3]/div[@class=&quot;flex cursor-pointer items-center justify-between rounded-full p-[10px] hover:bg-blue0 hover:text-blue8&quot;]</value>
+      <webElementGuid>63b416c0-c754-4fcc-a6c1-2fedf2881a9b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/section/div/div[3]/div</value>
+      <webElementGuid>f0dea1a8-f45a-46ed-a42a-46de1a6c71e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Beranda'])[3]/preceding::div[16]</value>
+      <webElementGuid>2522a2ab-aee1-4a35-aa04-bfaa9594086f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Siswa Aktif'])[1]/preceding::div[18]</value>
+      <webElementGuid>3d84d43f-1723-4943-9e56-f4b2a5f5117d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div</value>
+      <webElementGuid>78893e0f-602c-487b-af05-e073e7a68e14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Laporan' or . = 'Laporan')]</value>
+      <webElementGuid>e9592c4a-2149-45a4-a482-520e8943058a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Field Alamat</name>
+   <tag></tag>
+   <elementGuidId>4b5a1b4b-a45d-482d-9a7d-a6af003bfbe3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//textarea[@name='address']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>textarea[name=&quot;address&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Masukkan alamat&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>57f9bb6e-be79-4143-9b79-898056c5b786</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Masukkan alamat</value>
+      <webElementGuid>8c5079b4-a484-4e53-b170-3b1717e06593</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>min-w-[360px] px-4 h-[100px] py-3.5 border rounded-md hover:outline-none focus:border-blue6 focus:outline-none placeholder:text-neutral6 border-[#D9D9D9] bg-white hover:border-blue6 w-full</value>
+      <webElementGuid>480ed51b-4e97-461e-aba4-9902122f6b79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>maxlength</name>
+      <type>Main</type>
+      <value>255</value>
+      <webElementGuid>e727b816-d1a1-48d8-b20d-fc6964cf7722</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>address</value>
+      <webElementGuid>904a5eb4-8fb8-46d0-8f18-55d7d84c0e67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;layout-content&quot;)/div[@class=&quot;flex h-full flex-col overflow-auto&quot;]/div[@class=&quot;grow px-10&quot;]/form[1]/div[@class=&quot;grid grid-cols-2 gap-x-6 gap-y-4&quot;]/div[@class=&quot;flex flex-col gap-1&quot;]/textarea[@class=&quot;min-w-[360px] px-4 h-[100px] py-3.5 border rounded-md hover:outline-none focus:border-blue6 focus:outline-none placeholder:text-neutral6 border-[#D9D9D9] bg-white hover:border-blue6 w-full&quot;]</value>
+      <webElementGuid>ca02e0de-d946-46e4-8be9-15b94d99f1a8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//textarea[@name='address']</value>
+      <webElementGuid>6e803a49-95ba-482a-89fa-90a8f0d0e888</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='layout-content']/div[2]/div/form/div/div[9]/textarea</value>
+      <webElementGuid>1a50fd2c-cae5-4ba9-8abc-9a6f32cfdfd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//textarea</value>
+      <webElementGuid>99694df7-7ad7-454f-91f8-b769175260d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@placeholder = 'Masukkan alamat' and @name = 'address']</value>
+      <webElementGuid>5836a567-9734-4510-bafa-e6d47127541f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

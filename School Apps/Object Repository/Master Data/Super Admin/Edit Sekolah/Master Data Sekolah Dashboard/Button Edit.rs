@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button Edit</name>
+   <tag></tag>
+   <elementGuidId>db49053a-d21f-4f9d-a530-98c268fa8127</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@data-testid = 'action-0' and (text() = 'Edit' or . = 'Edit')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='table-action-1']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-testid=&quot;action-0&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ff13beaa-4b7c-42cd-8db1-f433e2d5a76b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hover- group flex cursor-pointer items-center space-x-2 rounded-md px-4 py-2 text-blue10 hover:bg-blue1 hover:text-blue7</value>
+      <webElementGuid>97f30f9f-a42c-47b8-a1b0-2ae4d2ac4470</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>action-0</value>
+      <webElementGuid>0bccea7d-9fb6-4df8-9d48-60297013414f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Edit</value>
+      <webElementGuid>1d989b75-0d54-45b7-be97-0c0b19020932</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;table-action-1&quot;)/div[@class=&quot;hover- group flex cursor-pointer items-center space-x-2 rounded-md px-4 py-2 text-blue10 hover:bg-blue1 hover:text-blue7&quot;]</value>
+      <webElementGuid>b6e8397d-6c32-4243-966b-d7ca14c76558</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='table-action-1']/div</value>
+      <webElementGuid>00d1a2aa-a567-4dcd-a489-a99aba8e4475</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='of'])[2]/following::div[13]</value>
+      <webElementGuid>8908581b-2537-4649-b2de-a3b152c6b80f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Page'])[1]/following::div[13]</value>
+      <webElementGuid>8f9d558e-034e-415a-8f32-12af833794e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div</value>
+      <webElementGuid>67ae91d9-3c02-4c01-a8a2-ef23cb2dcb4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Edit' or . = 'Edit')]</value>
+      <webElementGuid>8ab99587-dacc-46ab-888c-d2265291d823</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

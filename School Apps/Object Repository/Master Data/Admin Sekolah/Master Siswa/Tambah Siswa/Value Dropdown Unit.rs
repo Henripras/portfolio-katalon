@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Value Dropdown Unit</name>
+   <tag></tag>
+   <elementGuidId>9da9b826-ae54-4d01-b996-0a30d0dca7ee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[1]/following::p[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.text-sm.w-full</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-testid=&quot;paragraph&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>81aeba76-2c25-475c-8267-8ade46887acb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-sm w-full</value>
+      <webElementGuid>5191945e-d92f-4aac-af34-4467cc5ba4ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>paragraph</value>
+      <webElementGuid>3bac38ba-03e3-4e5d-a726-51bc9857225f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SMA</value>
+      <webElementGuid>48ca078e-cc64-4a89-b791-dc271395d90a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;fixed z-[9999] rounded-[6px] bg-white p-2 shadow-sm&quot;]/div[@class=&quot;max-h-[200px] overflow-y-auto&quot;]/div[@class=&quot;flex w-full flex-row items-center gap-[10px] px-3 py-2 text-neutral10 hover:bg-blue1&quot;]/p[@class=&quot;text-sm w-full&quot;]</value>
+      <webElementGuid>7b761f30-e0a4-40ff-8b26-d1c6ecb7ba82</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[1]/following::p[1]</value>
+      <webElementGuid>72a44405-6322-43df-bd2e-d486de2d4b1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='SMA']/parent::*</value>
+      <webElementGuid>7495fb74-440d-4cb6-8f95-36131827dedf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/p</value>
+      <webElementGuid>d596f173-8496-4ec5-8ce3-c733ab71b480</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'SMA' or . = 'SMA')]</value>
+      <webElementGuid>209eb239-ebb6-4d04-ad53-506b59ff7a3f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

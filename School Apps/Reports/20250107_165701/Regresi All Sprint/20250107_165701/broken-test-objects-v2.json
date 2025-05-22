@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Master Data/Admin Sekolah/Akun Bank/Menu Akun Bank",
+      "brokenLocator": "",
+      "brokenLocatorMethod": "BASIC",
+      "proposedLocator": "//a[@href\u003d\u0027/master-data/bank\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20250107_165701/Regresi All Sprint/20250107_165701/Object Repository/Master Data/Admin Sekolah/Akun Bank/Menu Akun Bank_XPATH.png"
+    }
+  ]
+}

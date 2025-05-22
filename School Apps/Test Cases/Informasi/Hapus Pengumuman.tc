@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Hapus Pengumuman</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7bb4cb8e-5827-42b7-94c2-fdbd83f28df8</testCaseGuid>
+</TestCaseEntity>

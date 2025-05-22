@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Regresi Informasi Sekolah</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>60df6593-e753-498f-8e2b-e57b047945f1</testCaseGuid>
+</TestCaseEntity>

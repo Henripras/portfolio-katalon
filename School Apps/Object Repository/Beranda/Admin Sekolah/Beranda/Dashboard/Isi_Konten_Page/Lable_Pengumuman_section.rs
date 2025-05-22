@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Lable_Pengumuman_section</name>
+   <tag></tag>
+   <elementGuidId>2567b406-8d35-4759-98ab-1e72b37bb450</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='layout-content']/div/div/div[2]/h3</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>7eeb94de-f15e-4edc-a281-fd07d68b2d8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-bold text-lg lg:text-2xl pt-10 text-neutral10</value>
+      <webElementGuid>9abe0438-3220-4bdd-aae9-2c6de9f7803a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pengumuman &amp; Event</value>
+      <webElementGuid>7a9653d6-d1ad-48d2-8ac9-6f309ae32063</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;layout-content&quot;)/div[@class=&quot;h-full rounded-lg bg-white&quot;]/div[@class=&quot;flex size-full&quot;]/div[@class=&quot;grid max-h-screen w-[30%] min-w-[375px] grid-rows-[auto_1fr] bg-[#F8F8F8] px-5&quot;]/h3[@class=&quot;font-bold text-lg lg:text-2xl pt-10 text-neutral10&quot;]</value>
+      <webElementGuid>39443e24-b9d4-4fff-9513-9bbafff18680</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='layout-content']/div/div/div[2]/h3</value>
+      <webElementGuid>3abfe279-3363-4151-b62f-31078fc9d73b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tagihan Terbayar'])[1]/following::h3[1]</value>
+      <webElementGuid>9dc1552b-28de-4fae-a7f2-8015fbe1c4d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transaksi Pembayaran'])[1]/following::h3[1]</value>
+      <webElementGuid>e8cd9e4c-3165-440f-8faf-fa64728def24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Taun Baru'])[1]/preceding::h3[1]</value>
+      <webElementGuid>6adf07d6-38f8-43ec-baa3-ef654eda7787</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='notip masok'])[1]/preceding::h3[1]</value>
+      <webElementGuid>c6566e4f-f695-47c8-bdf7-ac5acc48a595</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>d42796ad-11f5-4426-87fb-3ea4cd0cd6e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Pengumuman &amp; Event' or . = 'Pengumuman &amp; Event')]</value>
+      <webElementGuid>6563d4c7-a1ca-48ae-92cd-55d4d0d45694</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

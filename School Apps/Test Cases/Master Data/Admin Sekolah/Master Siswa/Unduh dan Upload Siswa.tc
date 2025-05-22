@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Unduh dan Upload Siswa</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ba084243-ab89-4d19-ad92-ec7434af775c</testCaseGuid>
+</TestCaseEntity>

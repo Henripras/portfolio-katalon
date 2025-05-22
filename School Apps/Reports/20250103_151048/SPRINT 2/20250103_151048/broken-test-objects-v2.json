@@ -1,0 +1,24 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Pengaturan Sistem/Admin Sekolah/Isi_Provinsi/p_BANTEN",
+      "brokenLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Simpan\u0027])[1]/following::p[18]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//*/text()[normalize-space(.)\u003d\u0027BANTEN\u0027]/parent::*",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20250103_151048/SPRINT 2/20250103_151048/Object Repository/Pengaturan Sistem/Admin Sekolah/Isi_Provinsi/p_BANTEN_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Pengaturan Sistem/Admin Sekolah/Isi_Kota/p_KOTA TANGERANG SELATAN",
+      "brokenLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Simpan\u0027])[1]/following::p[10]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//*/text()[normalize-space(.)\u003d\u0027KOTA TANGERANG SELATAN\u0027]/parent::*",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20250103_151048/SPRINT 2/20250103_151048/Object Repository/Pengaturan Sistem/Admin Sekolah/Isi_Kota/p_KOTA TANGERANG SELATAN_neighbor.png"
+    }
+  ]
+}

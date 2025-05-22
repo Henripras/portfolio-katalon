@@ -1,0 +1,67 @@
+import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
+import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
+import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
+import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject
+import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
+import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
+import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
+import com.kms.katalon.core.model.FailureHandling as FailureHandling
+import com.kms.katalon.core.testcase.TestCase as TestCase
+import com.kms.katalon.core.testdata.TestData as TestData
+import com.kms.katalon.core.testng.keyword.TestNGBuiltinKeywords as TestNGKW
+import com.kms.katalon.core.testobject.TestObject as TestObject
+import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
+import internal.GlobalVariable as GlobalVariable
+import org.openqa.selenium.Keys as Keys
+import io.appium.java_client.TouchAction as TouchAction
+import io.appium.java_client.touch.TapOptions as TapOptions
+import io.appium.java_client.touch.offset.PointOption as PointOption
+
+Mobile.startApplication('C:\\Users\\akmal\\Downloads\\app-sit-debug.apk', false, FailureHandling.STOP_ON_FAILURE)
+
+Mobile.tap(findTestObject('Mobile/Landing Page Mobile/Tombol Lanjut Landing Page'), 0, FailureHandling.STOP_ON_FAILURE)
+
+Mobile.tap(findTestObject('Mobile/Landing Page Mobile/Tombol Lanjut Landing Page'), 0, FailureHandling.STOP_ON_FAILURE)
+
+Mobile.tap(findTestObject('Mobile/Landing Page Mobile/Tombol Lanjut Landing Page'), 0, FailureHandling.STOP_ON_FAILURE)
+
+Mobile.tap(findTestObject('Mobile/Landing Page Mobile/Dropdown Pilih Sekolah'), 0, FailureHandling.STOP_ON_FAILURE)
+
+Mobile.tap(findTestObject('Mobile/Landing Page Mobile/Value Dropdown Sekolah'), 0, FailureHandling.STOP_ON_FAILURE)
+
+Mobile.tap(findTestObject('Mobile/Landing Page Mobile/Tombol Lanjut'), 0, FailureHandling.STOP_ON_FAILURE)
+
+Mobile.tap(findTestObject('Mobile/Login/Kolom Email'), 0, FailureHandling.STOP_ON_FAILURE)
+
+Mobile.setText(findTestObject('Mobile/Login/Kolom Email'), 'akmalalhaqi123@gmail.com', 0, FailureHandling.STOP_ON_FAILURE)
+
+Mobile.tap(findTestObject('Mobile/Login/check Pass'), 0, FailureHandling.STOP_ON_FAILURE)
+
+Mobile.setText(findTestObject('Mobile/Login/check Pass'), 'Test12345', 0, FailureHandling.STOP_ON_FAILURE)
+
+'\r\n'
+Mobile.tap(findTestObject('Mobile/Login/Tombol Masuk'), 0, FailureHandling.STOP_ON_FAILURE)
+
+Mobile.delay(3, FailureHandling.STOP_ON_FAILURE)
+
+Mobile.tap(findTestObject('Mobile/Tagihan/Tombol Tagihan'), 0, FailureHandling.STOP_ON_FAILURE)
+
+Mobile.tap(findTestObject('Mobile/Tagihan/checkbox Tagihan 1'), 0, FailureHandling.STOP_ON_FAILURE)
+
+Mobile.tap(findTestObject('Mobile/Tagihan/Bayar Tagihan (1)'), 0, FailureHandling.STOP_ON_FAILURE)
+
+Mobile.tap(findTestObject('Mobile/Tagihan/Lanjut Bayar'), 0, FailureHandling.STOP_ON_FAILURE)
+
+Mobile.tap(findTestObject('Mobile/Tagihan/Bullet Pembayaran'), 0, FailureHandling.STOP_ON_FAILURE)
+
+Mobile.tap(findTestObject('Mobile/Tagihan/Bayar Tagihan VA'), 0, FailureHandling.STOP_ON_FAILURE)
+
+Mobile.tap(findTestObject('Mobile/Tagihan/Arrow Pembayaran'), 0, FailureHandling.STOP_ON_FAILURE)
+
+Mobile.tap(findTestObject('Mobile/Tagihan/Card Riwayat Pembayaran'), 0, FailureHandling.STOP_ON_FAILURE)
+
+Mobile.closeApplication(FailureHandling.STOP_ON_FAILURE)
+

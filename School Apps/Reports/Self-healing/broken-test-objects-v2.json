@@ -1,0 +1,24 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Laporan/Laporan Pembayaran/Menu Laporan",
+      "brokenLocator": "//*[@data-testid \u003d \u0027sidebar-menu\u0027 and (text() \u003d \u0027Laporan\u0027 or . \u003d \u0027Laporan\u0027)]",
+      "brokenLocatorMethod": "BASIC",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Beranda\u0027])[3]/preceding::div[16]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Laporan/Laporan Pembayaran/Menu Laporan_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Master Data/Admin Sekolah/Master Siswa/Filter Dan Search Siswa/Rekomendasi Siswa",
+      "brokenLocator": "//div[@id\u003d\u0027layout-content\u0027]/div/div[2]/div[2]/div/div[4]/div/p",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Tambah\u0027])[1]/following::p[10]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Master Data/Admin Sekolah/Master Siswa/Filter Dan Search Siswa/Rekomendasi Siswa_neighbor.png"
+    }
+  ]
+}

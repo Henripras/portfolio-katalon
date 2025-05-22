@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Laporan/Laporan Pembayaran/Menu Laporan",
+      "brokenLocator": "//*[@data-testid \u003d \u0027sidebar-menu\u0027 and (text() \u003d \u0027Laporan\u0027 or . \u003d \u0027Laporan\u0027)]",
+      "brokenLocatorMethod": "BASIC",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Beranda\u0027])[3]/preceding::div[16]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20250108_050712/Regresi All Sprint/20250108_050712/Object Repository/Laporan/Laporan Pembayaran/Menu Laporan_neighbor.png"
+    }
+  ]
+}

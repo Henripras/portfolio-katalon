@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Selengkapnya</name>
+   <tag></tag>
+   <elementGuidId>5afa3562-37c8-423f-bfba-e4199c446b7d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='layout-content']/div/div/div[2]/div/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>2cdeb39d-acc5-4a3d-a9d3-4235dd00e2eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rounded-[6px] flex whitespace-nowrap justify-center items-center font-bold gap-1 h-[52px] py-3 px-8 text-base border-neutral6 border bg-neutral1 hover:bg-secondary2 text-neutral8 disabled:bg-neutral3 w-full</value>
+      <webElementGuid>cef0912f-0cb3-4c5f-b4d1-05b1e57e8390</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Selengkapnya</value>
+      <webElementGuid>e1dcff7b-0c8c-41a9-a635-acd279e8358c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;layout-content&quot;)/div[@class=&quot;h-full rounded-lg bg-white&quot;]/div[@class=&quot;flex size-full&quot;]/div[@class=&quot;grid max-h-screen w-[30%] min-w-[375px] grid-rows-[auto_1fr] bg-[#F8F8F8] px-5&quot;]/div[@class=&quot;mt-5 overflow-y-auto pb-5&quot;]/div[@class=&quot;space-y-4&quot;]/button[@class=&quot;rounded-[6px] flex whitespace-nowrap justify-center items-center font-bold gap-1 h-[52px] py-3 px-8 text-base border-neutral6 border bg-neutral1 hover:bg-secondary2 text-neutral8 disabled:bg-neutral3 w-full&quot;]</value>
+      <webElementGuid>1006c598-a86c-469e-8a56-bbc84906e6a7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='layout-content']/div/div/div[2]/div/div/button</value>
+      <webElementGuid>77c07046-18f7-406a-b535-46a6d3a0c2be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='testing luthpi 2'])[1]/following::button[1]</value>
+      <webElementGuid>c010744a-ecf1-479f-ab63-a7ced91b5ba8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pengumuman Regresi'])[1]/following::button[1]</value>
+      <webElementGuid>57d76323-b2bc-4df8-867b-0c4f4b77f6ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>95346b29-5821-49c2-9489-197e61c452f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Selengkapnya' or . = 'Selengkapnya')]</value>
+      <webElementGuid>04fe49bd-8352-4dbd-9ceb-d2dda02a42f8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

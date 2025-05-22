@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Menu Akun Bank</name>
+   <tag></tag>
+   <elementGuidId>37fcf289-7227-435c-b55b-b56ea8f8bbd1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[@href='/master-data/bank'])[2]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[@href='/master-data/bank'])[2]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>(//*[@data-testid='sidebar-menu-akun-bank'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//*[@data-testid='sidebar-menu-akun-bank'])[2]</value>
+      <webElementGuid>5c794c6c-2583-4c34-bec3-7685b22e6665</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

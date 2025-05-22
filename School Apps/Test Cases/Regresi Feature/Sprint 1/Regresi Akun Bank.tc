@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Regresi Akun Bank</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>43f2b3c9-5012-4d60-a943-0c1aaa05f8c5</testCaseGuid>
+</TestCaseEntity>

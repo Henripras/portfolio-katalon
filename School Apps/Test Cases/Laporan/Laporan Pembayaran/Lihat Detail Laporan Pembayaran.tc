@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Lihat Detail Laporan Pembayaran</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c803f648-4ef3-42e4-87ff-b267b7e2f88c</testCaseGuid>
+</TestCaseEntity>

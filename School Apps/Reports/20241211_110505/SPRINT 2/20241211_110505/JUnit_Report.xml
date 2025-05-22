@@ -1,0 +1,1225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="SPRINT 2" time="280.286" tests="11" failures="0" errors="0">
+   <testsuite name="SPRINT 2" tests="11" failures="0" errors="0" time="280.286" skipped="0" timestamp="11-12-2024T11:05:13" hostname="henri - Henri" id="Test Suites/SPRINT 2">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="C:\\Users\\henri\\Videos\\school-payment-automation-testing\\Reports\\20241211_110505\\SPRINT 2\\20241211_110505"/>
+         <property name="logFiles" value="C:\\Users\\henri\\Videos\\school-payment-automation-testing\\Reports\\20241211_110505\\SPRINT 2\\20241211_110505\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="henri - Henri"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="10.0.0.223"/>
+         <property name="browser" value="Chrome 131.0.0.0"/>
+         <property name="hostAddress" value="192.168.0.120"/>
+         <property name="sessionId" value="23cbbedb1673b3fade96418608e2f54f"/>
+         <property name="seleniumVersion" value="4.22.0"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Pembayaran Per Siswa/Filter Dan Search Tagihan Persiswa" time="43.79" classname="Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Pembayaran Per Siswa/Filter Dan Search Tagihan Persiswa" status="PASSED">
+         <system-out><![CDATA[11-12-2024T11:05:13 - [TEST_CASE][PASSED] - Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Pembayaran Per Siswa/Filter Dan Search Tagihan Persiswa: Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Pembayaran Per Siswa/Filter Dan Search Tagihan Persiswa
+
+11-12-2024T11:05:13 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+11-12-2024T11:05:14 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+11-12-2024T11:05:14 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+11-12-2024T11:05:16 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+11-12-2024T11:05:16 - [TEST_STEP][PASSED] - navigateToUrl("https://school-payment.digiform.co.id/login"): Navigate to 'https://school-payment.digiform.co.id/login' successfully
+
+11-12-2024T11:05:26 - [MESSAGE][PASSED] - Navigate to 'https://school-payment.digiform.co.id/login' successfully
+
+11-12-2024T11:05:26 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Field Email")): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Field Email' is clicked on
+
+11-12-2024T11:05:27 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Field Email' is clicked on
+
+11-12-2024T11:05:27 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Admin Sekolah/Login/Field Email"), "admin.sekolah@gmail.com"): Text 'admin.sekolah@gmail.com' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Field Email'
+
+11-12-2024T11:05:28 - [MESSAGE][PASSED] - Text 'admin.sekolah@gmail.com' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Field Email'
+
+11-12-2024T11:05:28 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+11-12-2024T11:05:29 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+11-12-2024T11:05:29 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Input Password")): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Input Password' is clicked on
+
+11-12-2024T11:05:30 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Input Password' is clicked on
+
+11-12-2024T11:05:30 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Admin Sekolah/Login/Input Password"), "Test1234"): Text 'Test1234' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Input Password'
+
+11-12-2024T11:05:30 - [MESSAGE][PASSED] - Text 'Test1234' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Input Password'
+
+11-12-2024T11:05:30 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+11-12-2024T11:05:31 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+11-12-2024T11:05:31 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Button Submit")): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Button Submit' is clicked on
+
+11-12-2024T11:05:32 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Button Submit' is clicked on
+
+11-12-2024T11:05:32 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+11-12-2024T11:05:33 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+11-12-2024T11:05:33 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Menu Tagihan")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Menu Tagihan' is clicked on
+
+11-12-2024T11:05:34 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Menu Tagihan' is clicked on
+
+11-12-2024T11:05:34 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+11-12-2024T11:05:35 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+11-12-2024T11:05:35 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub-Menu Tagihan Persiswa")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub-Menu Tagihan Persiswa' is clicked on
+
+11-12-2024T11:05:35 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub-Menu Tagihan Persiswa' is clicked on
+
+11-12-2024T11:05:35 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+11-12-2024T11:05:36 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+11-12-2024T11:05:36 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Unit/Klik Dropdown")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Unit/Klik Dropdown' is clicked on
+
+11-12-2024T11:05:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Unit/Klik Dropdown' is clicked on
+
+11-12-2024T11:05:37 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+11-12-2024T11:05:38 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+11-12-2024T11:05:38 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Unit/Pilih Value Unit")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Unit/Pilih Value Unit' is clicked on
+
+11-12-2024T11:05:38 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Unit/Pilih Value Unit' is clicked on
+
+11-12-2024T11:05:38 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+11-12-2024T11:05:39 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+11-12-2024T11:05:39 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Klik Dropdown Kelas")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Klik Dropdown Kelas' is clicked on
+
+11-12-2024T11:05:39 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Klik Dropdown Kelas' is clicked on
+
+11-12-2024T11:05:39 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+11-12-2024T11:05:40 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+11-12-2024T11:05:40 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Klik Field Cari Kelas")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Klik Field Cari Kelas' is clicked on
+
+11-12-2024T11:05:41 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Klik Field Cari Kelas' is clicked on
+
+11-12-2024T11:05:41 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+11-12-2024T11:05:42 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+11-12-2024T11:05:42 - [TEST_STEP][PASSED] - setText(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Klik Field Cari Kelas"), "kelas - XI IPA 11"): Text 'kelas - XI IPA 11' is set on object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Klik Field Cari Kelas'
+
+11-12-2024T11:05:43 - [MESSAGE][PASSED] - Text 'kelas - XI IPA 11' is set on object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Klik Field Cari Kelas'
+
+11-12-2024T11:05:43 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Pilih Kelas")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Pilih Kelas' is clicked on
+
+11-12-2024T11:05:43 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Pilih Kelas' is clicked on
+
+11-12-2024T11:05:43 - [TEST_STEP][PASSED] - setText(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Field Nama/Klik Field Nama"), "danu"): Text 'danu' is set on object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Field Nama/Klik Field Nama'
+
+11-12-2024T11:05:44 - [MESSAGE][PASSED] - Text 'danu' is set on object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Field Nama/Klik Field Nama'
+
+11-12-2024T11:05:44 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Field Nama/Klik Hasil Cari Siswa")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Field Nama/Klik Hasil Cari Siswa' is clicked on
+
+11-12-2024T11:05:45 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Field Nama/Klik Hasil Cari Siswa' is clicked on
+
+11-12-2024T11:05:45 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tombol Terapkan/Klik Tombol Terapkan")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tombol Terapkan/Klik Tombol Terapkan' is clicked on
+
+11-12-2024T11:05:46 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tombol Terapkan/Klik Tombol Terapkan' is clicked on
+
+11-12-2024T11:05:46 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+11-12-2024T11:05:47 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+11-12-2024T11:05:47 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By NIS/Klik Dropdown Nama")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By NIS/Klik Dropdown Nama' is clicked on
+
+11-12-2024T11:05:47 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By NIS/Klik Dropdown Nama' is clicked on
+
+11-12-2024T11:05:47 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By NIS/Klik NIS")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By NIS/Klik NIS' is clicked on
+
+11-12-2024T11:05:48 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By NIS/Klik NIS' is clicked on
+
+11-12-2024T11:05:48 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Field Nama/Klik Field Nama")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Field Nama/Klik Field Nama' is clicked on
+
+11-12-2024T11:05:48 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Field Nama/Klik Field Nama' is clicked on
+
+11-12-2024T11:05:48 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+11-12-2024T11:05:49 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+11-12-2024T11:05:49 - [TEST_STEP][PASSED] - setText(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Field Nama/Klik Field Nama"), "2024"): Text '2024' is set on object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Field Nama/Klik Field Nama'
+
+11-12-2024T11:05:50 - [MESSAGE][PASSED] - Text '2024' is set on object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Field Nama/Klik Field Nama'
+
+11-12-2024T11:05:50 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By NIS/Pilih Value NIS")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By NIS/Pilih Value NIS' is clicked on
+
+11-12-2024T11:05:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By NIS/Pilih Value NIS' is clicked on
+
+11-12-2024T11:05:52 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+11-12-2024T11:05:53 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+11-12-2024T11:05:53 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tombol Terapkan/Klik Tombol Terapkan")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tombol Terapkan/Klik Tombol Terapkan' is clicked on
+
+11-12-2024T11:05:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tombol Terapkan/Klik Tombol Terapkan' is clicked on
+
+11-12-2024T11:05:53 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+11-12-2024T11:05:56 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+11-12-2024T11:05:56 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+11-12-2024T11:05:57 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Pembayaran Per Siswa/Sorting Table Tagihan Persiswa" time="27.784" classname="Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Pembayaran Per Siswa/Sorting Table Tagihan Persiswa" status="PASSED">
+         <system-out><![CDATA[11-12-2024T11:05:57 - [TEST_CASE][PASSED] - Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Pembayaran Per Siswa/Sorting Table Tagihan Persiswa: Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Pembayaran Per Siswa/Sorting Table Tagihan Persiswa
+
+11-12-2024T11:05:57 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+11-12-2024T11:05:57 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+11-12-2024T11:05:57 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+11-12-2024T11:05:58 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+11-12-2024T11:05:58 - [TEST_STEP][PASSED] - navigateToUrl("https://school-payment.digiform.co.id/login"): Navigate to 'https://school-payment.digiform.co.id/login' successfully
+
+11-12-2024T11:05:58 - [MESSAGE][PASSED] - Navigate to 'https://school-payment.digiform.co.id/login' successfully
+
+11-12-2024T11:05:58 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Field Email")): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Field Email' is clicked on
+
+11-12-2024T11:06:00 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Field Email' is clicked on
+
+11-12-2024T11:06:00 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Admin Sekolah/Login/Field Email"), "admin.sekolah@gmail.com"): Text 'admin.sekolah@gmail.com' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Field Email'
+
+11-12-2024T11:06:01 - [MESSAGE][PASSED] - Text 'admin.sekolah@gmail.com' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Field Email'
+
+11-12-2024T11:06:01 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+11-12-2024T11:06:02 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+11-12-2024T11:06:02 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Input Password")): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Input Password' is clicked on
+
+11-12-2024T11:06:02 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Input Password' is clicked on
+
+11-12-2024T11:06:02 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Admin Sekolah/Login/Input Password"), "Test1234"): Text 'Test1234' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Input Password'
+
+11-12-2024T11:06:03 - [MESSAGE][PASSED] - Text 'Test1234' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Input Password'
+
+11-12-2024T11:06:03 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+11-12-2024T11:06:04 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+11-12-2024T11:06:04 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Button Submit")): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Button Submit' is clicked on
+
+11-12-2024T11:06:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Button Submit' is clicked on
+
+11-12-2024T11:06:04 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+11-12-2024T11:06:05 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+11-12-2024T11:06:05 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Menu Tagihan")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Menu Tagihan' is clicked on
+
+11-12-2024T11:06:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Menu Tagihan' is clicked on
+
+11-12-2024T11:06:06 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+11-12-2024T11:06:07 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+11-12-2024T11:06:07 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub-Menu Tagihan Persiswa")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub-Menu Tagihan Persiswa' is clicked on
+
+11-12-2024T11:06:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub-Menu Tagihan Persiswa' is clicked on
+
+11-12-2024T11:06:07 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+11-12-2024T11:06:08 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+11-12-2024T11:06:08 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Unit/Klik Dropdown")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Unit/Klik Dropdown' is clicked on
+
+11-12-2024T11:06:09 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Unit/Klik Dropdown' is clicked on
+
+11-12-2024T11:06:09 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+11-12-2024T11:06:10 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+11-12-2024T11:06:10 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Unit/Pilih Value Unit")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Unit/Pilih Value Unit' is clicked on
+
+11-12-2024T11:06:10 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Unit/Pilih Value Unit' is clicked on
+
+11-12-2024T11:06:10 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+11-12-2024T11:06:11 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+11-12-2024T11:06:11 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Klik Dropdown Kelas")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Klik Dropdown Kelas' is clicked on
+
+11-12-2024T11:06:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Klik Dropdown Kelas' is clicked on
+
+11-12-2024T11:06:11 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+11-12-2024T11:06:12 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+11-12-2024T11:06:12 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Klik Field Cari Kelas")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Klik Field Cari Kelas' is clicked on
+
+11-12-2024T11:06:13 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Klik Field Cari Kelas' is clicked on
+
+11-12-2024T11:06:13 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+11-12-2024T11:06:14 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+11-12-2024T11:06:14 - [TEST_STEP][PASSED] - setText(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Klik Field Cari Kelas"), "kelas - XI IPA 11"): Text 'kelas - XI IPA 11' is set on object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Klik Field Cari Kelas'
+
+11-12-2024T11:06:14 - [MESSAGE][PASSED] - Text 'kelas - XI IPA 11' is set on object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Klik Field Cari Kelas'
+
+11-12-2024T11:06:14 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Pilih Kelas")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Pilih Kelas' is clicked on
+
+11-12-2024T11:06:15 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Pilih Kelas' is clicked on
+
+11-12-2024T11:06:15 - [TEST_STEP][PASSED] - setText(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Field Nama/Klik Field Nama"), "danu"): Text 'danu' is set on object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Field Nama/Klik Field Nama'
+
+11-12-2024T11:06:15 - [MESSAGE][PASSED] - Text 'danu' is set on object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Field Nama/Klik Field Nama'
+
+11-12-2024T11:06:15 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Field Nama/Klik Hasil Cari Siswa")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Field Nama/Klik Hasil Cari Siswa' is clicked on
+
+11-12-2024T11:06:17 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Field Nama/Klik Hasil Cari Siswa' is clicked on
+
+11-12-2024T11:06:17 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tombol Terapkan/Klik Tombol Terapkan")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tombol Terapkan/Klik Tombol Terapkan' is clicked on
+
+11-12-2024T11:06:17 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tombol Terapkan/Klik Tombol Terapkan' is clicked on
+
+11-12-2024T11:06:17 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+11-12-2024T11:06:18 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+11-12-2024T11:06:18 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By Nama tagihan")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By Nama tagihan' is clicked on
+
+11-12-2024T11:06:19 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By Nama tagihan' is clicked on
+
+11-12-2024T11:06:19 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By Nama tagihan")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By Nama tagihan' is clicked on
+
+11-12-2024T11:06:20 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By Nama tagihan' is clicked on
+
+11-12-2024T11:06:20 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+11-12-2024T11:06:21 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+11-12-2024T11:06:21 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By Tipe Tagihan")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By Tipe Tagihan' is clicked on
+
+11-12-2024T11:06:21 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By Tipe Tagihan' is clicked on
+
+11-12-2024T11:06:21 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By Tipe Tagihan")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By Tipe Tagihan' is clicked on
+
+11-12-2024T11:06:22 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By Tipe Tagihan' is clicked on
+
+11-12-2024T11:06:22 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+11-12-2024T11:06:23 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+11-12-2024T11:06:23 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By Total Tagihan")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By Total Tagihan' is clicked on
+
+11-12-2024T11:06:23 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By Total Tagihan' is clicked on
+
+11-12-2024T11:06:23 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By Total Tagihan")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By Total Tagihan' is clicked on
+
+11-12-2024T11:06:24 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By Total Tagihan' is clicked on
+
+11-12-2024T11:06:24 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+11-12-2024T11:06:25 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Pembayaran Per Siswa/Edit Tagihan Persiswa" time="20.964" classname="Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Pembayaran Per Siswa/Edit Tagihan Persiswa" status="PASSED">
+         <system-out><![CDATA[11-12-2024T11:06:25 - [TEST_CASE][PASSED] - Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Pembayaran Per Siswa/Edit Tagihan Persiswa: Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Pembayaran Per Siswa/Edit Tagihan Persiswa
+
+11-12-2024T11:06:25 - [TEST_STEP][PASSED] - min = 1000000: null
+
+11-12-2024T11:06:25 - [TEST_STEP][PASSED] - max = 15000000: null
+
+11-12-2024T11:06:25 - [TEST_STEP][PASSED] - randomNumber = generateRandomNumber(min, max): null
+
+11-12-2024T11:06:25 - [TEST_STEP][PASSED] - return ((java.lang.Math.random() * ((max - min) + 1)) as int + min): null
+
+11-12-2024T11:06:25 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+11-12-2024T11:06:25 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+11-12-2024T11:06:25 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+11-12-2024T11:06:26 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+11-12-2024T11:06:26 - [TEST_STEP][PASSED] - navigateToUrl("https://school-payment.digiform.co.id/login"): Navigate to 'https://school-payment.digiform.co.id/login' successfully
+
+11-12-2024T11:06:26 - [MESSAGE][PASSED] - Navigate to 'https://school-payment.digiform.co.id/login' successfully
+
+11-12-2024T11:06:26 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Admin Sekolah/Login/Field Email"), "admin.sekolah@gmail.com"): Text 'admin.sekolah@gmail.com' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Field Email'
+
+11-12-2024T11:06:28 - [MESSAGE][PASSED] - Text 'admin.sekolah@gmail.com' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Field Email'
+
+11-12-2024T11:06:28 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Admin Sekolah/Login/Input Password"), "Test1234"): Text 'Test1234' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Input Password'
+
+11-12-2024T11:06:29 - [MESSAGE][PASSED] - Text 'Test1234' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Input Password'
+
+11-12-2024T11:06:29 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Button Submit")): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Button Submit' is clicked on
+
+11-12-2024T11:06:29 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Button Submit' is clicked on
+
+11-12-2024T11:06:29 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+11-12-2024T11:06:30 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+11-12-2024T11:06:30 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Menu Tagihan")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Menu Tagihan' is clicked on
+
+11-12-2024T11:06:31 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Menu Tagihan' is clicked on
+
+11-12-2024T11:06:31 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub-Menu Tagihan Persiswa")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub-Menu Tagihan Persiswa' is clicked on
+
+11-12-2024T11:06:32 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub-Menu Tagihan Persiswa' is clicked on
+
+11-12-2024T11:06:32 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Unit/Klik Dropdown")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Unit/Klik Dropdown' is clicked on
+
+11-12-2024T11:06:33 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Unit/Klik Dropdown' is clicked on
+
+11-12-2024T11:06:33 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Unit/Pilih Value Unit")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Unit/Pilih Value Unit' is clicked on
+
+11-12-2024T11:06:33 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Unit/Pilih Value Unit' is clicked on
+
+11-12-2024T11:06:33 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Klik Dropdown Kelas")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Klik Dropdown Kelas' is clicked on
+
+11-12-2024T11:06:34 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Klik Dropdown Kelas' is clicked on
+
+11-12-2024T11:06:34 - [TEST_STEP][PASSED] - setText(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Klik Field Cari Kelas"), "kelas - XI IPA 11"): Text 'kelas - XI IPA 11' is set on object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Klik Field Cari Kelas'
+
+11-12-2024T11:06:35 - [MESSAGE][PASSED] - Text 'kelas - XI IPA 11' is set on object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Klik Field Cari Kelas'
+
+11-12-2024T11:06:35 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Pilih Kelas")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Pilih Kelas' is clicked on
+
+11-12-2024T11:06:35 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Pilih Kelas' is clicked on
+
+11-12-2024T11:06:35 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By NIS/Klik Dropdown Nama")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By NIS/Klik Dropdown Nama' is clicked on
+
+11-12-2024T11:06:35 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By NIS/Klik Dropdown Nama' is clicked on
+
+11-12-2024T11:06:35 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By NIS/Klik NIS")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By NIS/Klik NIS' is clicked on
+
+11-12-2024T11:06:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By NIS/Klik NIS' is clicked on
+
+11-12-2024T11:06:36 - [TEST_STEP][PASSED] - setText(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Field Nama/Klik Field Nama"), "2024"): Text '2024' is set on object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Field Nama/Klik Field Nama'
+
+11-12-2024T11:06:36 - [MESSAGE][PASSED] - Text '2024' is set on object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Field Nama/Klik Field Nama'
+
+11-12-2024T11:06:36 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Field Nama/Edit Tagihannya")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Field Nama/Edit Tagihannya' is clicked on
+
+11-12-2024T11:06:38 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Field Nama/Edit Tagihannya' is clicked on
+
+11-12-2024T11:06:38 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tombol Terapkan/Klik Tombol Terapkan")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tombol Terapkan/Klik Tombol Terapkan' is clicked on
+
+11-12-2024T11:06:39 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tombol Terapkan/Klik Tombol Terapkan' is clicked on
+
+11-12-2024T11:06:39 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+11-12-2024T11:06:41 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+11-12-2024T11:06:41 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Klik Tri Dots Icon")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Klik Tri Dots Icon' is clicked on
+
+11-12-2024T11:06:41 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Klik Tri Dots Icon' is clicked on
+
+11-12-2024T11:06:41 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Edit Tagihan Persiswa/Klik Edit")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Edit Tagihan Persiswa/Klik Edit' is clicked on
+
+11-12-2024T11:06:42 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Edit Tagihan Persiswa/Klik Edit' is clicked on
+
+11-12-2024T11:06:42 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Edit Tagihan Persiswa/Edit Nama Tagihan"), Keys.chord(CONTROL, "a")): Keys 'CONTROL + a' sent to object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Edit Tagihan Persiswa/Edit Nama Tagihan'
+
+11-12-2024T11:06:42 - [MESSAGE][PASSED] - Keys 'CONTROL + a' sent to object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Edit Tagihan Persiswa/Edit Nama Tagihan'
+
+11-12-2024T11:06:42 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Edit Tagihan Persiswa/Edit Nama Tagihan"), Keys.chord(BACK_SPACE)): Keys 'BACK_SPACE + ' sent to object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Edit Tagihan Persiswa/Edit Nama Tagihan'
+
+11-12-2024T11:06:43 - [MESSAGE][PASSED] - Keys 'BACK_SPACE + ' sent to object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Edit Tagihan Persiswa/Edit Nama Tagihan'
+
+11-12-2024T11:06:43 - [TEST_STEP][PASSED] - setText(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Edit Tagihan Persiswa/Edit Nama Tagihan"), "tagihan pempek goreng"): Text 'tagihan pempek goreng' is set on object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Edit Tagihan Persiswa/Edit Nama Tagihan'
+
+11-12-2024T11:06:43 - [MESSAGE][PASSED] - Text 'tagihan pempek goreng' is set on object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Edit Tagihan Persiswa/Edit Nama Tagihan'
+
+11-12-2024T11:06:43 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Edit Tagihan Persiswa/Edit Total Tagihan")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Edit Tagihan Persiswa/Edit Total Tagihan' is clicked on
+
+11-12-2024T11:06:44 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Edit Tagihan Persiswa/Edit Total Tagihan' is clicked on
+
+11-12-2024T11:06:44 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Edit Tagihan Persiswa/Edit Total Tagihan"), Keys.chord(CONTROL, "a")): Keys 'CONTROL + a' sent to object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Edit Tagihan Persiswa/Edit Total Tagihan'
+
+11-12-2024T11:06:44 - [MESSAGE][PASSED] - Keys 'CONTROL + a' sent to object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Edit Tagihan Persiswa/Edit Total Tagihan'
+
+11-12-2024T11:06:44 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Edit Tagihan Persiswa/Edit Total Tagihan"), Keys.chord(BACK_SPACE)): Keys 'BACK_SPACE + ' sent to object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Edit Tagihan Persiswa/Edit Total Tagihan'
+
+11-12-2024T11:06:44 - [MESSAGE][PASSED] - Keys 'BACK_SPACE + ' sent to object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Edit Tagihan Persiswa/Edit Total Tagihan'
+
+11-12-2024T11:06:44 - [TEST_STEP][PASSED] - setText(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Edit Tagihan Persiswa/Edit Total Tagihan"), randomNumber.toString()): Text '5657473' is set on object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Edit Tagihan Persiswa/Edit Total Tagihan'
+
+11-12-2024T11:06:45 - [MESSAGE][PASSED] - Text '5657473' is set on object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Edit Tagihan Persiswa/Edit Total Tagihan'
+
+11-12-2024T11:06:45 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Edit Tagihan Persiswa/Tombol Simpan Tagihan/Tombol Simpan")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Edit Tagihan Persiswa/Tombol Simpan Tagihan/Tombol Simpan' is clicked on
+
+11-12-2024T11:06:45 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Edit Tagihan Persiswa/Tombol Simpan Tagihan/Tombol Simpan' is clicked on
+
+11-12-2024T11:06:45 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+11-12-2024T11:06:46 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Pembayaran Per Siswa/Delete Tagihan Persiswa" time="27.787" classname="Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Pembayaran Per Siswa/Delete Tagihan Persiswa" status="PASSED">
+         <system-out><![CDATA[11-12-2024T11:06:46 - [TEST_CASE][PASSED] - Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Pembayaran Per Siswa/Delete Tagihan Persiswa: Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Pembayaran Per Siswa/Delete Tagihan Persiswa
+
+11-12-2024T11:06:46 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+11-12-2024T11:06:46 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+11-12-2024T11:06:46 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+11-12-2024T11:06:47 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+11-12-2024T11:06:47 - [TEST_STEP][PASSED] - navigateToUrl("https://school-payment.digiform.co.id/login"): Navigate to 'https://school-payment.digiform.co.id/login' successfully
+
+11-12-2024T11:06:47 - [MESSAGE][PASSED] - Navigate to 'https://school-payment.digiform.co.id/login' successfully
+
+11-12-2024T11:06:47 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Field Email")): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Field Email' is clicked on
+
+11-12-2024T11:06:49 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Field Email' is clicked on
+
+11-12-2024T11:06:49 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Admin Sekolah/Login/Field Email"), "admin.sekolah@gmail.com"): Text 'admin.sekolah@gmail.com' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Field Email'
+
+11-12-2024T11:06:50 - [MESSAGE][PASSED] - Text 'admin.sekolah@gmail.com' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Field Email'
+
+11-12-2024T11:06:50 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+11-12-2024T11:06:51 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+11-12-2024T11:06:51 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Input Password")): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Input Password' is clicked on
+
+11-12-2024T11:06:51 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Input Password' is clicked on
+
+11-12-2024T11:06:51 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Admin Sekolah/Login/Input Password"), "Test1234"): Text 'Test1234' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Input Password'
+
+11-12-2024T11:06:52 - [MESSAGE][PASSED] - Text 'Test1234' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Input Password'
+
+11-12-2024T11:06:52 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+11-12-2024T11:06:53 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+11-12-2024T11:06:53 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Button Submit")): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Button Submit' is clicked on
+
+11-12-2024T11:06:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Button Submit' is clicked on
+
+11-12-2024T11:06:53 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+11-12-2024T11:06:54 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+11-12-2024T11:06:54 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Menu Tagihan")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Menu Tagihan' is clicked on
+
+11-12-2024T11:06:55 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Menu Tagihan' is clicked on
+
+11-12-2024T11:06:55 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+11-12-2024T11:06:56 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+11-12-2024T11:06:56 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub-Menu Tagihan Persiswa")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub-Menu Tagihan Persiswa' is clicked on
+
+11-12-2024T11:06:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub-Menu Tagihan Persiswa' is clicked on
+
+11-12-2024T11:06:56 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+11-12-2024T11:06:57 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+11-12-2024T11:06:57 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Unit/Klik Dropdown")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Unit/Klik Dropdown' is clicked on
+
+11-12-2024T11:06:57 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Unit/Klik Dropdown' is clicked on
+
+11-12-2024T11:06:57 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+11-12-2024T11:06:58 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+11-12-2024T11:06:58 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Unit/Pilih Value Unit")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Unit/Pilih Value Unit' is clicked on
+
+11-12-2024T11:06:59 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Unit/Pilih Value Unit' is clicked on
+
+11-12-2024T11:06:59 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+11-12-2024T11:07:00 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+11-12-2024T11:07:00 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Klik Dropdown Kelas")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Klik Dropdown Kelas' is clicked on
+
+11-12-2024T11:07:00 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Klik Dropdown Kelas' is clicked on
+
+11-12-2024T11:07:00 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+11-12-2024T11:07:01 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+11-12-2024T11:07:01 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Klik Field Cari Kelas")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Klik Field Cari Kelas' is clicked on
+
+11-12-2024T11:07:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Klik Field Cari Kelas' is clicked on
+
+11-12-2024T11:07:01 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+11-12-2024T11:07:02 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+11-12-2024T11:07:02 - [TEST_STEP][PASSED] - setText(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Klik Field Cari Kelas"), "kelas - XI IPA 11"): Text 'kelas - XI IPA 11' is set on object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Klik Field Cari Kelas'
+
+11-12-2024T11:07:03 - [MESSAGE][PASSED] - Text 'kelas - XI IPA 11' is set on object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Klik Field Cari Kelas'
+
+11-12-2024T11:07:03 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Pilih Kelas")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Pilih Kelas' is clicked on
+
+11-12-2024T11:07:03 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Dropdown Kelas/Pilih Kelas' is clicked on
+
+11-12-2024T11:07:03 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+11-12-2024T11:07:04 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+11-12-2024T11:07:04 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By NIS/Klik Dropdown Nama")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By NIS/Klik Dropdown Nama' is clicked on
+
+11-12-2024T11:07:05 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By NIS/Klik Dropdown Nama' is clicked on
+
+11-12-2024T11:07:05 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By NIS/Klik NIS")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By NIS/Klik NIS' is clicked on
+
+11-12-2024T11:07:05 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By NIS/Klik NIS' is clicked on
+
+11-12-2024T11:07:05 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+11-12-2024T11:07:06 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+11-12-2024T11:07:06 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Field Nama/Klik Field Nama")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Field Nama/Klik Field Nama' is clicked on
+
+11-12-2024T11:07:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Field Nama/Klik Field Nama' is clicked on
+
+11-12-2024T11:07:07 - [TEST_STEP][PASSED] - setText(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Field Nama/Klik Field Nama"), "2024"): Text '2024' is set on object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Field Nama/Klik Field Nama'
+
+11-12-2024T11:07:07 - [MESSAGE][PASSED] - Text '2024' is set on object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Field Nama/Klik Field Nama'
+
+11-12-2024T11:07:07 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By NIS/Pilih Value NIS")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By NIS/Pilih Value NIS' is clicked on
+
+11-12-2024T11:07:09 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Filter/Filter By NIS/Pilih Value NIS' is clicked on
+
+11-12-2024T11:07:09 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+11-12-2024T11:07:10 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+11-12-2024T11:07:10 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tombol Terapkan/Klik Tombol Terapkan")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tombol Terapkan/Klik Tombol Terapkan' is clicked on
+
+11-12-2024T11:07:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tombol Terapkan/Klik Tombol Terapkan' is clicked on
+
+11-12-2024T11:07:11 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+11-12-2024T11:07:12 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+11-12-2024T11:07:12 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Hapus Tagihan PerSiswa/Tridots Untuk Hapus")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Hapus Tagihan PerSiswa/Tridots Untuk Hapus' is clicked on
+
+11-12-2024T11:07:12 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Hapus Tagihan PerSiswa/Tridots Untuk Hapus' is clicked on
+
+11-12-2024T11:07:12 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Hapus Tagihan PerSiswa/Option Hapus")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Hapus Tagihan PerSiswa/Option Hapus' is clicked on
+
+11-12-2024T11:07:12 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Hapus Tagihan PerSiswa/Option Hapus' is clicked on
+
+11-12-2024T11:07:12 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Hapus Tagihan PerSiswa/Hapus Data")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Hapus Tagihan PerSiswa/Hapus Data' is clicked on
+
+11-12-2024T11:07:13 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Tagihan Persiswa/Tri Dots Icon/Hapus Tagihan PerSiswa/Hapus Data' is clicked on
+
+11-12-2024T11:07:13 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+11-12-2024T11:07:13 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Pembayaran Siswa/Search Siswa" time="18.904" classname="Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Pembayaran Siswa/Search Siswa" status="PASSED">
+         <system-out><![CDATA[11-12-2024T11:07:13 - [TEST_CASE][PASSED] - Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Pembayaran Siswa/Search Siswa: Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Pembayaran Siswa/Search Siswa
+
+11-12-2024T11:07:13 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+11-12-2024T11:07:13 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+11-12-2024T11:07:13 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+11-12-2024T11:07:15 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+11-12-2024T11:07:15 - [TEST_STEP][PASSED] - navigateToUrl("https://school-payment.digiform.co.id/login"): Navigate to 'https://school-payment.digiform.co.id/login' successfully
+
+11-12-2024T11:07:22 - [MESSAGE][PASSED] - Navigate to 'https://school-payment.digiform.co.id/login' successfully
+
+11-12-2024T11:07:22 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+11-12-2024T11:07:23 - [MESSAGE][PASSED] - Current window maximized
+
+11-12-2024T11:07:23 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Field Email")): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Field Email' is clicked on
+
+11-12-2024T11:07:24 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Field Email' is clicked on
+
+11-12-2024T11:07:24 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Admin Sekolah/Login/Field Email"), "admin.sekolah@gmail.com"): Text 'admin.sekolah@gmail.com' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Field Email'
+
+11-12-2024T11:07:25 - [MESSAGE][PASSED] - Text 'admin.sekolah@gmail.com' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Field Email'
+
+11-12-2024T11:07:25 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Input Password")): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Input Password' is clicked on
+
+11-12-2024T11:07:25 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Input Password' is clicked on
+
+11-12-2024T11:07:25 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Admin Sekolah/Login/Input Password"), "Test1234"): Text 'Test1234' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Input Password'
+
+11-12-2024T11:07:26 - [MESSAGE][PASSED] - Text 'Test1234' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Input Password'
+
+11-12-2024T11:07:26 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Button Submit")): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Button Submit' is clicked on
+
+11-12-2024T11:07:26 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Button Submit' is clicked on
+
+11-12-2024T11:07:26 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Menu Tagihan")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Menu Tagihan' is clicked on
+
+11-12-2024T11:07:28 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Menu Tagihan' is clicked on
+
+11-12-2024T11:07:28 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa' is clicked on
+
+11-12-2024T11:07:29 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa' is clicked on
+
+11-12-2024T11:07:29 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Field Pencarian Siswa")): Object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Field Pencarian Siswa' is visible
+
+11-12-2024T11:07:29 - [MESSAGE][PASSED] - Object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Field Pencarian Siswa' is visible
+
+11-12-2024T11:07:29 - [TEST_STEP][PASSED] - setText(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Field Pencarian Siswa"), "adam"): Text 'adam' is set on object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Field Pencarian Siswa'
+
+11-12-2024T11:07:30 - [MESSAGE][PASSED] - Text 'adam' is set on object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Field Pencarian Siswa'
+
+11-12-2024T11:07:30 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+11-12-2024T11:07:32 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+11-12-2024T11:07:32 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Value Rekomendasi Siswa")): Object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Value Rekomendasi Siswa' is visible
+
+11-12-2024T11:07:32 - [MESSAGE][PASSED] - Object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Value Rekomendasi Siswa' is visible
+
+11-12-2024T11:07:32 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Value Rekomendasi Siswa")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Value Rekomendasi Siswa' is clicked on
+
+11-12-2024T11:07:32 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Value Rekomendasi Siswa' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Pembayaran Siswa/Direct dan Verify Nama Siswa Pada Riwayat Pembayaran" time="15.416" classname="Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Pembayaran Siswa/Direct dan Verify Nama Siswa Pada Riwayat Pembayaran" status="PASSED">
+         <system-out><![CDATA[11-12-2024T11:07:32 - [TEST_CASE][PASSED] - Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Pembayaran Siswa/Direct dan Verify Nama Siswa Pada Riwayat Pembayaran: Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Pembayaran Siswa/Direct dan Verify Nama Siswa Pada Riwayat Pembayaran
+
+11-12-2024T11:07:32 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+11-12-2024T11:07:32 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+11-12-2024T11:07:33 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+11-12-2024T11:07:33 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+11-12-2024T11:07:34 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+11-12-2024T11:07:34 - [TEST_STEP][PASSED] - navigateToUrl("https://school-payment.digiform.co.id/login"): Navigate to 'https://school-payment.digiform.co.id/login' successfully
+
+11-12-2024T11:07:34 - [MESSAGE][PASSED] - Navigate to 'https://school-payment.digiform.co.id/login' successfully
+
+11-12-2024T11:07:34 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+11-12-2024T11:07:34 - [MESSAGE][PASSED] - Current window maximized
+
+11-12-2024T11:07:34 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Field Email")): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Field Email' is clicked on
+
+11-12-2024T11:07:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Field Email' is clicked on
+
+11-12-2024T11:07:36 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Admin Sekolah/Login/Field Email"), "admin.sekolah@gmail.com"): Text 'admin.sekolah@gmail.com' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Field Email'
+
+11-12-2024T11:07:36 - [MESSAGE][PASSED] - Text 'admin.sekolah@gmail.com' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Field Email'
+
+11-12-2024T11:07:36 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Input Password")): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Input Password' is clicked on
+
+11-12-2024T11:07:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Input Password' is clicked on
+
+11-12-2024T11:07:37 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Admin Sekolah/Login/Input Password"), "Test1234"): Text 'Test1234' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Input Password'
+
+11-12-2024T11:07:37 - [MESSAGE][PASSED] - Text 'Test1234' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Input Password'
+
+11-12-2024T11:07:37 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Button Submit")): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Button Submit' is clicked on
+
+11-12-2024T11:07:38 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Button Submit' is clicked on
+
+11-12-2024T11:07:38 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Menu Tagihan")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Menu Tagihan' is clicked on
+
+11-12-2024T11:07:40 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Menu Tagihan' is clicked on
+
+11-12-2024T11:07:40 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa' is clicked on
+
+11-12-2024T11:07:40 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa' is clicked on
+
+11-12-2024T11:07:40 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Field Pencarian Siswa")): Object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Field Pencarian Siswa' is visible
+
+11-12-2024T11:07:41 - [MESSAGE][PASSED] - Object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Field Pencarian Siswa' is visible
+
+11-12-2024T11:07:41 - [TEST_STEP][PASSED] - setText(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Field Pencarian Siswa"), "adam"): Text 'adam' is set on object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Field Pencarian Siswa'
+
+11-12-2024T11:07:42 - [MESSAGE][PASSED] - Text 'adam' is set on object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Field Pencarian Siswa'
+
+11-12-2024T11:07:42 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+11-12-2024T11:07:44 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+11-12-2024T11:07:44 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Value Rekomendasi Siswa")): Object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Value Rekomendasi Siswa' is visible
+
+11-12-2024T11:07:44 - [MESSAGE][PASSED] - Object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Value Rekomendasi Siswa' is visible
+
+11-12-2024T11:07:44 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Value Rekomendasi Siswa")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Value Rekomendasi Siswa' is clicked on
+
+11-12-2024T11:07:44 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Value Rekomendasi Siswa' is clicked on
+
+11-12-2024T11:07:44 - [TEST_STEP][PASSED] - waitForElementClickable(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Page Pembayaran Siswa/Button Riwayat Pembayaran"), 5): Object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Page Pembayaran Siswa/Button Riwayat Pembayaran' is clickable
+
+11-12-2024T11:07:46 - [MESSAGE][PASSED] - Object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Page Pembayaran Siswa/Button Riwayat Pembayaran' is clickable
+
+11-12-2024T11:07:46 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Page Pembayaran Siswa/Button Riwayat Pembayaran")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Page Pembayaran Siswa/Button Riwayat Pembayaran' is clicked on
+
+11-12-2024T11:07:47 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Page Pembayaran Siswa/Button Riwayat Pembayaran' is clicked on
+
+11-12-2024T11:07:47 - [TEST_STEP][PASSED] - waitForElementVisible(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Verifikasi Nama Siswa"), 5): Object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Verifikasi Nama Siswa' is visible
+
+11-12-2024T11:07:47 - [MESSAGE][PASSED] - Object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Verifikasi Nama Siswa' is visible
+
+11-12-2024T11:07:47 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Verifikasi Nama Siswa"), STOP_ON_FAILURE): Object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Verifikasi Nama Siswa' is visible
+
+11-12-2024T11:07:48 - [MESSAGE][PASSED] - Object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Verifikasi Nama Siswa' is visible
+
+11-12-2024T11:07:48 - [TEST_STEP][PASSED] - comment("Nama Siswa Pada Riwayat Pembayaran Sama Dengan Pembayaran Siswa"): Nama Siswa Pada Riwayat Pembayaran Sama Dengan Pembayaran Siswa
+
+11-12-2024T11:07:48 - [MESSAGE][INFO] - Nama Siswa Pada Riwayat Pembayaran Sama Dengan Pembayaran Siswa]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Pembayaran Siswa/Pembayaran Siswa" time="75.148" classname="Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Pembayaran Siswa/Pembayaran Siswa" status="PASSED">
+         <system-out><![CDATA[11-12-2024T11:07:48 - [TEST_CASE][PASSED] - Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Pembayaran Siswa/Pembayaran Siswa: Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Pembayaran Siswa/Pembayaran Siswa
+
+11-12-2024T11:07:48 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+11-12-2024T11:07:48 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+11-12-2024T11:07:48 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+11-12-2024T11:07:48 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+11-12-2024T11:07:49 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+11-12-2024T11:07:49 - [TEST_STEP][PASSED] - navigateToUrl("https://school-payment.digiform.co.id/login"): Navigate to 'https://school-payment.digiform.co.id/login' successfully
+
+11-12-2024T11:07:50 - [MESSAGE][PASSED] - Navigate to 'https://school-payment.digiform.co.id/login' successfully
+
+11-12-2024T11:07:50 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+11-12-2024T11:07:50 - [MESSAGE][PASSED] - Current window maximized
+
+11-12-2024T11:07:50 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Field Email")): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Field Email' is clicked on
+
+11-12-2024T11:07:51 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Field Email' is clicked on
+
+11-12-2024T11:07:51 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Admin Sekolah/Login/Field Email"), "admin.sekolah@gmail.com"): Text 'admin.sekolah@gmail.com' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Field Email'
+
+11-12-2024T11:07:52 - [MESSAGE][PASSED] - Text 'admin.sekolah@gmail.com' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Field Email'
+
+11-12-2024T11:07:52 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Input Password")): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Input Password' is clicked on
+
+11-12-2024T11:07:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Input Password' is clicked on
+
+11-12-2024T11:07:52 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Admin Sekolah/Login/Input Password"), "Test1234"): Text 'Test1234' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Input Password'
+
+11-12-2024T11:07:53 - [MESSAGE][PASSED] - Text 'Test1234' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Input Password'
+
+11-12-2024T11:07:53 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Button Submit")): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Button Submit' is clicked on
+
+11-12-2024T11:07:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Button Submit' is clicked on
+
+11-12-2024T11:07:53 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Menu Tagihan")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Menu Tagihan' is clicked on
+
+11-12-2024T11:07:55 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Menu Tagihan' is clicked on
+
+11-12-2024T11:07:55 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa' is clicked on
+
+11-12-2024T11:07:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa' is clicked on
+
+11-12-2024T11:07:56 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Field Pencarian Siswa")): Object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Field Pencarian Siswa' is visible
+
+11-12-2024T11:07:56 - [MESSAGE][PASSED] - Object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Field Pencarian Siswa' is visible
+
+11-12-2024T11:07:56 - [TEST_STEP][PASSED] - setText(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Field Pencarian Siswa"), "adam"): Text 'adam' is set on object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Field Pencarian Siswa'
+
+11-12-2024T11:07:57 - [MESSAGE][PASSED] - Text 'adam' is set on object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Field Pencarian Siswa'
+
+11-12-2024T11:07:57 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+11-12-2024T11:07:59 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+11-12-2024T11:07:59 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Value Rekomendasi Siswa")): Object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Value Rekomendasi Siswa' is visible
+
+11-12-2024T11:07:59 - [MESSAGE][PASSED] - Object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Value Rekomendasi Siswa' is visible
+
+11-12-2024T11:07:59 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Value Rekomendasi Siswa")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Value Rekomendasi Siswa' is clicked on
+
+11-12-2024T11:08:00 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Value Rekomendasi Siswa' is clicked on
+
+11-12-2024T11:08:00 - [TEST_STEP][PASSED] - waitForElementClickable(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Page Pembayaran Siswa/Button Riwayat Pembayaran"), 5): Object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Page Pembayaran Siswa/Button Riwayat Pembayaran' is clickable
+
+11-12-2024T11:08:01 - [MESSAGE][PASSED] - Object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Page Pembayaran Siswa/Button Riwayat Pembayaran' is clickable
+
+11-12-2024T11:08:01 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Page Pembayaran Siswa/Button Riwayat Pembayaran")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Page Pembayaran Siswa/Button Riwayat Pembayaran' is clicked on
+
+11-12-2024T11:08:02 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Page Pembayaran Siswa/Button Riwayat Pembayaran' is clicked on
+
+11-12-2024T11:08:02 - [TEST_STEP][PASSED] - waitForElementVisible(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Verifikasi Nama Siswa"), 5): Object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Verifikasi Nama Siswa' is visible
+
+11-12-2024T11:08:02 - [MESSAGE][PASSED] - Object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Verifikasi Nama Siswa' is visible
+
+11-12-2024T11:08:02 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Verifikasi Nama Siswa"), STOP_ON_FAILURE): Object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Verifikasi Nama Siswa' is visible
+
+11-12-2024T11:08:03 - [MESSAGE][PASSED] - Object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Verifikasi Nama Siswa' is visible
+
+11-12-2024T11:08:03 - [TEST_STEP][PASSED] - comment("Nama Siswa Pada Riwayat Pembayaran Sama Dengan Pembayaran Siswa"): Nama Siswa Pada Riwayat Pembayaran Sama Dengan Pembayaran Siswa
+
+11-12-2024T11:08:03 - [MESSAGE][INFO] - Nama Siswa Pada Riwayat Pembayaran Sama Dengan Pembayaran Siswa
+
+11-12-2024T11:08:03 - [TEST_STEP][PASSED] - back(): Navigate back successfully
+
+11-12-2024T11:08:03 - [MESSAGE][PASSED] - Navigate back successfully
+
+11-12-2024T11:08:03 - [TEST_STEP][PASSED] - waitForPageLoad(5): Wait for page load successfully
+
+11-12-2024T11:08:03 - [MESSAGE][PASSED] - Wait for page load successfully
+
+11-12-2024T11:08:03 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Field Pencarian Siswa")): Object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Field Pencarian Siswa' is visible
+
+11-12-2024T11:08:03 - [MESSAGE][PASSED] - Object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Field Pencarian Siswa' is visible
+
+11-12-2024T11:08:03 - [TEST_STEP][PASSED] - setText(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Field Pencarian Siswa"), "adam"): Text 'adam' is set on object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Field Pencarian Siswa'
+
+11-12-2024T11:08:04 - [MESSAGE][PASSED] - Text 'adam' is set on object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Field Pencarian Siswa'
+
+11-12-2024T11:08:04 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+11-12-2024T11:08:06 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+11-12-2024T11:08:06 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Value Rekomendasi Siswa")): Object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Value Rekomendasi Siswa' is visible
+
+11-12-2024T11:08:06 - [MESSAGE][PASSED] - Object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Value Rekomendasi Siswa' is visible
+
+11-12-2024T11:08:06 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Value Rekomendasi Siswa")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Value Rekomendasi Siswa' is clicked on
+
+11-12-2024T11:08:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Value Rekomendasi Siswa' is clicked on
+
+11-12-2024T11:08:06 - [TEST_STEP][PASSED] - rowsToClick = ["Nama Tagihan", "Tipe Tagihan", "Tanggal Tagihan", "Jumlah Tagihan"]: null
+
+11-12-2024T11:08:06 - [TEST_STEP][PASSED] - rowsToClick.each({ java.lang.Object row -> ... }): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Data in Table/Row Jumlah Tagihan' is clicked on
+
+11-12-2024T11:08:08 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Data in Table/Row Nama Tagihan' is clicked on
+
+11-12-2024T11:08:10 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Data in Table/Row Nama Tagihan' is clicked on
+
+11-12-2024T11:08:12 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Data in Table/Row Nama Tagihan' is clicked on
+
+11-12-2024T11:08:13 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Data in Table/Row Tipe Tagihan' is clicked on
+
+11-12-2024T11:08:15 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Data in Table/Row Tipe Tagihan' is clicked on
+
+11-12-2024T11:08:16 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Data in Table/Row Tipe Tagihan' is clicked on
+
+11-12-2024T11:08:18 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Data in Table/Row Tanggal Tagihan' is clicked on
+
+11-12-2024T11:08:20 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Data in Table/Row Tanggal Tagihan' is clicked on
+
+11-12-2024T11:08:21 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Data in Table/Row Tanggal Tagihan' is clicked on
+
+11-12-2024T11:08:22 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Data in Table/Row Jumlah Tagihan' is clicked on
+
+11-12-2024T11:08:24 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Data in Table/Row Jumlah Tagihan' is clicked on
+
+11-12-2024T11:08:25 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Data in Table/Row Jumlah Tagihan' is clicked on
+
+11-12-2024T11:08:25 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Data in Table/Pilih Checkbox")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Data in Table/Pilih Checkbox' is clicked on
+
+11-12-2024T11:08:27 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Data in Table/Pilih Checkbox' is clicked on
+
+11-12-2024T11:08:27 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Data in Table/Button Bayar Sekarang")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Data in Table/Button Bayar Sekarang' is clicked on
+
+11-12-2024T11:08:28 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Data in Table/Button Bayar Sekarang' is clicked on
+
+11-12-2024T11:08:28 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+11-12-2024T11:08:30 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+11-12-2024T11:08:30 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Pop Up Konfirmasi Pembayaran/Field Dropdown Diskon"), 0): Scroll to object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Pop Up Konfirmasi Pembayaran/Field Dropdown Diskon' successfully
+
+11-12-2024T11:08:30 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+11-12-2024T11:08:30 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Pop Up Konfirmasi Pembayaran/Field Dropdown Diskon' successfully
+
+11-12-2024T11:08:30 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Pop Up Konfirmasi Pembayaran/Field Dropdown Diskon")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Pop Up Konfirmasi Pembayaran/Field Dropdown Diskon' is clicked on
+
+11-12-2024T11:08:30 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Pop Up Konfirmasi Pembayaran/Field Dropdown Diskon' is clicked on
+
+11-12-2024T11:08:30 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Pop Up Konfirmasi Pembayaran/Dropdown Diskon Persen")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Pop Up Konfirmasi Pembayaran/Dropdown Diskon Persen' is clicked on
+
+11-12-2024T11:08:31 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Pop Up Konfirmasi Pembayaran/Dropdown Diskon Persen' is clicked on
+
+11-12-2024T11:08:31 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Pop Up Konfirmasi Pembayaran/Field Diskon")): Object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Pop Up Konfirmasi Pembayaran/Field Diskon' is visible
+
+11-12-2024T11:08:31 - [MESSAGE][PASSED] - Object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Pop Up Konfirmasi Pembayaran/Field Diskon' is visible
+
+11-12-2024T11:08:31 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Pop Up Konfirmasi Pembayaran/Field Diskon")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Pop Up Konfirmasi Pembayaran/Field Diskon' is clicked on
+
+11-12-2024T11:08:32 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Pop Up Konfirmasi Pembayaran/Field Diskon' is clicked on
+
+11-12-2024T11:08:32 - [TEST_STEP][PASSED] - setText(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Pop Up Konfirmasi Pembayaran/Field Diskon"), "20"): Text '20' is set on object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Pop Up Konfirmasi Pembayaran/Field Diskon'
+
+11-12-2024T11:08:32 - [MESSAGE][PASSED] - Text '20' is set on object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Pop Up Konfirmasi Pembayaran/Field Diskon'
+
+11-12-2024T11:08:32 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Pop Up Konfirmasi Pembayaran/Field Uang Yang Dibayarkan")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Pop Up Konfirmasi Pembayaran/Field Uang Yang Dibayarkan' is clicked on
+
+11-12-2024T11:08:33 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Pop Up Konfirmasi Pembayaran/Field Uang Yang Dibayarkan' is clicked on
+
+11-12-2024T11:08:33 - [TEST_STEP][PASSED] - setText(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Pop Up Konfirmasi Pembayaran/Field Uang Yang Dibayarkan"), "5000000"): Text '5000000' is set on object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Pop Up Konfirmasi Pembayaran/Field Uang Yang Dibayarkan'
+
+11-12-2024T11:08:34 - [MESSAGE][PASSED] - Text '5000000' is set on object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Pop Up Konfirmasi Pembayaran/Field Uang Yang Dibayarkan'
+
+11-12-2024T11:08:34 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Pop Up Konfirmasi Pembayaran/Button Lanjut Bayar")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Pop Up Konfirmasi Pembayaran/Button Lanjut Bayar' is clicked on
+
+11-12-2024T11:08:34 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Pop Up Konfirmasi Pembayaran/Button Lanjut Bayar' is clicked on
+
+11-12-2024T11:08:34 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Page Sukses Pembayaran Siswa/Toast Notification Berhasil")): Object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Page Sukses Pembayaran Siswa/Toast Notification Berhasil' is visible
+
+11-12-2024T11:08:55 - [MESSAGE][PASSED] - Object 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Page Sukses Pembayaran Siswa/Toast Notification Berhasil' is visible
+
+11-12-2024T11:08:55 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+11-12-2024T11:08:57 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+11-12-2024T11:08:57 - [TEST_STEP][PASSED] - click(findTestObject("Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Page Sukses Pembayaran Siswa/Button Cetak")): Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Page Sukses Pembayaran Siswa/Button Cetak' is clicked on
+
+11-12-2024T11:08:58 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Tagihan/Admin Sekolah/Pembayaran Siswa/Homepage/Sub Menu Pembayaran Siswa (1)/Page Sukses Pembayaran Siswa/Button Cetak' is clicked on
+
+11-12-2024T11:08:58 - [TEST_STEP][PASSED] - delay(5): Delayed 5 second(s)
+
+11-12-2024T11:09:03 - [MESSAGE][PASSED] - Delayed 5 second(s)]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Riwayat Pembayaran/Sorting Table Riwayat Pembayaran" time="18.517" classname="Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Riwayat Pembayaran/Sorting Table Riwayat Pembayaran" status="PASSED">
+         <system-out><![CDATA[11-12-2024T11:09:03 - [TEST_CASE][PASSED] - Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Riwayat Pembayaran/Sorting Table Riwayat Pembayaran: Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Riwayat Pembayaran/Sorting Table Riwayat Pembayaran
+
+11-12-2024T11:09:03 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+11-12-2024T11:09:03 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+11-12-2024T11:09:03 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+11-12-2024T11:09:03 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+11-12-2024T11:09:05 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+11-12-2024T11:09:05 - [TEST_STEP][PASSED] - navigateToUrl("https://school-payment.digiform.co.id/login"): Navigate to 'https://school-payment.digiform.co.id/login' successfully
+
+11-12-2024T11:09:14 - [MESSAGE][PASSED] - Navigate to 'https://school-payment.digiform.co.id/login' successfully
+
+11-12-2024T11:09:14 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Field Email")): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Field Email' is clicked on
+
+11-12-2024T11:09:16 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Field Email' is clicked on
+
+11-12-2024T11:09:16 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Admin Sekolah/Login/Field Email"), "admin.sekolah@gmail.com"): Text 'admin.sekolah@gmail.com' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Field Email'
+
+11-12-2024T11:09:16 - [MESSAGE][PASSED] - Text 'admin.sekolah@gmail.com' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Field Email'
+
+11-12-2024T11:09:16 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Input Password")): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Input Password' is clicked on
+
+11-12-2024T11:09:17 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Input Password' is clicked on
+
+11-12-2024T11:09:17 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Admin Sekolah/Login/Input Password"), "Test1234"): Text 'Test1234' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Input Password'
+
+11-12-2024T11:09:17 - [MESSAGE][PASSED] - Text 'Test1234' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Input Password'
+
+11-12-2024T11:09:17 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Button Submit")): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Button Submit' is clicked on
+
+11-12-2024T11:09:18 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Button Submit' is clicked on
+
+11-12-2024T11:09:18 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Riwayat Pembayaran/Detail Riwayat Pembayaran/Menu Tagihan")): Object: 'Object Repository/Master Data/Admin Sekolah/Riwayat Pembayaran/Detail Riwayat Pembayaran/Menu Tagihan' is clicked on
+
+11-12-2024T11:09:20 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Riwayat Pembayaran/Detail Riwayat Pembayaran/Menu Tagihan' is clicked on
+
+11-12-2024T11:09:20 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Riwayat Pembayaran/Detail Riwayat Pembayaran/Riwayat Pembayaran"), STOP_ON_FAILURE): Object: 'Object Repository/Master Data/Admin Sekolah/Riwayat Pembayaran/Detail Riwayat Pembayaran/Riwayat Pembayaran' is clicked on
+
+11-12-2024T11:09:20 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Riwayat Pembayaran/Detail Riwayat Pembayaran/Riwayat Pembayaran' is clicked on
+
+11-12-2024T11:09:20 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Riwayat Pembayaran/Sorting Table Riwayat Pembayaran/Sorting Tanggal")): Object: 'Object Repository/Master Data/Admin Sekolah/Riwayat Pembayaran/Sorting Table Riwayat Pembayaran/Sorting Tanggal' is clicked on
+
+11-12-2024T11:09:21 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Riwayat Pembayaran/Sorting Table Riwayat Pembayaran/Sorting Tanggal' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Riwayat Pembayaran/Filter Riwayat Pembayaran" time="10.548" classname="Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Riwayat Pembayaran/Filter Riwayat Pembayaran" status="PASSED">
+         <system-out><![CDATA[11-12-2024T11:09:21 - [TEST_CASE][PASSED] - Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Riwayat Pembayaran/Filter Riwayat Pembayaran: Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Riwayat Pembayaran/Filter Riwayat Pembayaran
+
+11-12-2024T11:09:21 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+11-12-2024T11:09:21 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+11-12-2024T11:09:22 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+11-12-2024T11:09:22 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+11-12-2024T11:09:23 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+11-12-2024T11:09:23 - [TEST_STEP][PASSED] - navigateToUrl("https://school-payment.digiform.co.id/login"): Navigate to 'https://school-payment.digiform.co.id/login' successfully
+
+11-12-2024T11:09:23 - [MESSAGE][PASSED] - Navigate to 'https://school-payment.digiform.co.id/login' successfully
+
+11-12-2024T11:09:23 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Field Email")): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Field Email' is clicked on
+
+11-12-2024T11:09:25 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Field Email' is clicked on
+
+11-12-2024T11:09:25 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Admin Sekolah/Login/Field Email"), "admin.sekolah@gmail.com"): Text 'admin.sekolah@gmail.com' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Field Email'
+
+11-12-2024T11:09:26 - [MESSAGE][PASSED] - Text 'admin.sekolah@gmail.com' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Field Email'
+
+11-12-2024T11:09:26 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Input Password")): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Input Password' is clicked on
+
+11-12-2024T11:09:26 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Input Password' is clicked on
+
+11-12-2024T11:09:26 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Admin Sekolah/Login/Input Password"), "Test1234"): Text 'Test1234' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Input Password'
+
+11-12-2024T11:09:27 - [MESSAGE][PASSED] - Text 'Test1234' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Input Password'
+
+11-12-2024T11:09:27 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Button Submit")): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Button Submit' is clicked on
+
+11-12-2024T11:09:27 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Button Submit' is clicked on
+
+11-12-2024T11:09:27 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Riwayat Pembayaran/Detail Riwayat Pembayaran/Menu Tagihan")): Object: 'Object Repository/Master Data/Admin Sekolah/Riwayat Pembayaran/Detail Riwayat Pembayaran/Menu Tagihan' is clicked on
+
+11-12-2024T11:09:29 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Riwayat Pembayaran/Detail Riwayat Pembayaran/Menu Tagihan' is clicked on
+
+11-12-2024T11:09:29 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Riwayat Pembayaran/Detail Riwayat Pembayaran/Riwayat Pembayaran"), STOP_ON_FAILURE): Object: 'Object Repository/Master Data/Admin Sekolah/Riwayat Pembayaran/Detail Riwayat Pembayaran/Riwayat Pembayaran' is clicked on
+
+11-12-2024T11:09:30 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Riwayat Pembayaran/Detail Riwayat Pembayaran/Riwayat Pembayaran' is clicked on
+
+11-12-2024T11:09:30 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Riwayat Pembayaran/Filter dan Search Riwayat Pembayaran/Status Pembayaran")): Object: 'Object Repository/Master Data/Admin Sekolah/Riwayat Pembayaran/Filter dan Search Riwayat Pembayaran/Status Pembayaran' is clicked on
+
+11-12-2024T11:09:31 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Riwayat Pembayaran/Filter dan Search Riwayat Pembayaran/Status Pembayaran' is clicked on
+
+11-12-2024T11:09:31 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Riwayat Pembayaran/Filter dan Search Riwayat Pembayaran/Menunggu")): Object: 'Object Repository/Master Data/Admin Sekolah/Riwayat Pembayaran/Filter dan Search Riwayat Pembayaran/Menunggu' is clicked on
+
+11-12-2024T11:09:31 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Riwayat Pembayaran/Filter dan Search Riwayat Pembayaran/Menunggu' is clicked on
+
+11-12-2024T11:09:31 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Riwayat Pembayaran/Filter dan Search Riwayat Pembayaran/Terapkan")): Object: 'Object Repository/Master Data/Admin Sekolah/Riwayat Pembayaran/Filter dan Search Riwayat Pembayaran/Terapkan' is clicked on
+
+11-12-2024T11:09:32 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Riwayat Pembayaran/Filter dan Search Riwayat Pembayaran/Terapkan' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Riwayat Pembayaran/Search Riwayat Pembayaran" time="11.852" classname="Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Riwayat Pembayaran/Search Riwayat Pembayaran" status="PASSED">
+         <system-out><![CDATA[11-12-2024T11:09:32 - [TEST_CASE][PASSED] - Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Riwayat Pembayaran/Search Riwayat Pembayaran: Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Riwayat Pembayaran/Search Riwayat Pembayaran
+
+11-12-2024T11:09:32 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+11-12-2024T11:09:32 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+11-12-2024T11:09:32 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+11-12-2024T11:09:32 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+11-12-2024T11:09:33 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+11-12-2024T11:09:33 - [TEST_STEP][PASSED] - navigateToUrl("https://school-payment.digiform.co.id/login"): Navigate to 'https://school-payment.digiform.co.id/login' successfully
+
+11-12-2024T11:09:34 - [MESSAGE][PASSED] - Navigate to 'https://school-payment.digiform.co.id/login' successfully
+
+11-12-2024T11:09:34 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Field Email")): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Field Email' is clicked on
+
+11-12-2024T11:09:35 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Field Email' is clicked on
+
+11-12-2024T11:09:35 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Admin Sekolah/Login/Field Email"), "admin.sekolah@gmail.com"): Text 'admin.sekolah@gmail.com' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Field Email'
+
+11-12-2024T11:09:36 - [MESSAGE][PASSED] - Text 'admin.sekolah@gmail.com' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Field Email'
+
+11-12-2024T11:09:36 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Input Password")): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Input Password' is clicked on
+
+11-12-2024T11:09:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Input Password' is clicked on
+
+11-12-2024T11:09:36 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Admin Sekolah/Login/Input Password"), "Test1234"): Text 'Test1234' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Input Password'
+
+11-12-2024T11:09:37 - [MESSAGE][PASSED] - Text 'Test1234' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Input Password'
+
+11-12-2024T11:09:37 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Button Submit")): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Button Submit' is clicked on
+
+11-12-2024T11:09:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Button Submit' is clicked on
+
+11-12-2024T11:09:37 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Riwayat Pembayaran/Detail Riwayat Pembayaran/Menu Tagihan")): Object: 'Object Repository/Master Data/Admin Sekolah/Riwayat Pembayaran/Detail Riwayat Pembayaran/Menu Tagihan' is clicked on
+
+11-12-2024T11:09:39 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Riwayat Pembayaran/Detail Riwayat Pembayaran/Menu Tagihan' is clicked on
+
+11-12-2024T11:09:39 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Riwayat Pembayaran/Detail Riwayat Pembayaran/Riwayat Pembayaran"), STOP_ON_FAILURE): Object: 'Object Repository/Master Data/Admin Sekolah/Riwayat Pembayaran/Detail Riwayat Pembayaran/Riwayat Pembayaran' is clicked on
+
+11-12-2024T11:09:40 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Riwayat Pembayaran/Detail Riwayat Pembayaran/Riwayat Pembayaran' is clicked on
+
+11-12-2024T11:09:40 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Riwayat Pembayaran/Filter dan Search Riwayat Pembayaran/Input Nama")): Object: 'Object Repository/Master Data/Admin Sekolah/Riwayat Pembayaran/Filter dan Search Riwayat Pembayaran/Input Nama' is clicked on
+
+11-12-2024T11:09:41 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Riwayat Pembayaran/Filter dan Search Riwayat Pembayaran/Input Nama' is clicked on
+
+11-12-2024T11:09:41 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Admin Sekolah/Riwayat Pembayaran/Filter dan Search Riwayat Pembayaran/Input Nama"), "danu"): Text 'danu' is set on object 'Object Repository/Master Data/Admin Sekolah/Riwayat Pembayaran/Filter dan Search Riwayat Pembayaran/Input Nama'
+
+11-12-2024T11:09:41 - [MESSAGE][PASSED] - Text 'danu' is set on object 'Object Repository/Master Data/Admin Sekolah/Riwayat Pembayaran/Filter dan Search Riwayat Pembayaran/Input Nama'
+
+11-12-2024T11:09:41 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Riwayat Pembayaran/Filter dan Search Riwayat Pembayaran/danu")): Object: 'Object Repository/Master Data/Admin Sekolah/Riwayat Pembayaran/Filter dan Search Riwayat Pembayaran/danu' is clicked on
+
+11-12-2024T11:09:43 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Riwayat Pembayaran/Filter dan Search Riwayat Pembayaran/danu' is clicked on
+
+11-12-2024T11:09:43 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Riwayat Pembayaran/Filter dan Search Riwayat Pembayaran/Terapkan")): Object: 'Object Repository/Master Data/Admin Sekolah/Riwayat Pembayaran/Filter dan Search Riwayat Pembayaran/Terapkan' is clicked on
+
+11-12-2024T11:09:44 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Riwayat Pembayaran/Filter dan Search Riwayat Pembayaran/Terapkan' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Riwayat Pembayaran/Detail Riwayat Pembayaran" time="9.279" classname="Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Riwayat Pembayaran/Detail Riwayat Pembayaran" status="PASSED">
+         <system-out><![CDATA[11-12-2024T11:09:44 - [TEST_CASE][PASSED] - Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Riwayat Pembayaran/Detail Riwayat Pembayaran: Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Riwayat Pembayaran/Detail Riwayat Pembayaran
+
+11-12-2024T11:09:44 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+11-12-2024T11:09:44 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+11-12-2024T11:09:44 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+11-12-2024T11:09:44 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+11-12-2024T11:09:45 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+11-12-2024T11:09:45 - [TEST_STEP][PASSED] - navigateToUrl("https://school-payment.digiform.co.id/login"): Navigate to 'https://school-payment.digiform.co.id/login' successfully
+
+11-12-2024T11:09:46 - [MESSAGE][PASSED] - Navigate to 'https://school-payment.digiform.co.id/login' successfully
+
+11-12-2024T11:09:46 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Field Email")): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Field Email' is clicked on
+
+11-12-2024T11:09:47 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Field Email' is clicked on
+
+11-12-2024T11:09:47 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Admin Sekolah/Login/Field Email"), "admin.sekolah@gmail.com"): Text 'admin.sekolah@gmail.com' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Field Email'
+
+11-12-2024T11:09:48 - [MESSAGE][PASSED] - Text 'admin.sekolah@gmail.com' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Field Email'
+
+11-12-2024T11:09:48 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Input Password")): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Input Password' is clicked on
+
+11-12-2024T11:09:48 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Input Password' is clicked on
+
+11-12-2024T11:09:48 - [TEST_STEP][PASSED] - setText(findTestObject("Master Data/Admin Sekolah/Login/Input Password"), "Test1234"): Text 'Test1234' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Input Password'
+
+11-12-2024T11:09:49 - [MESSAGE][PASSED] - Text 'Test1234' is set on object 'Object Repository/Master Data/Admin Sekolah/Login/Input Password'
+
+11-12-2024T11:09:49 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Login/Button Submit")): Object: 'Object Repository/Master Data/Admin Sekolah/Login/Button Submit' is clicked on
+
+11-12-2024T11:09:49 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Login/Button Submit' is clicked on
+
+11-12-2024T11:09:49 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Riwayat Pembayaran/Detail Riwayat Pembayaran/Menu Tagihan")): Object: 'Object Repository/Master Data/Admin Sekolah/Riwayat Pembayaran/Detail Riwayat Pembayaran/Menu Tagihan' is clicked on
+
+11-12-2024T11:09:51 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Riwayat Pembayaran/Detail Riwayat Pembayaran/Menu Tagihan' is clicked on
+
+11-12-2024T11:09:51 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Riwayat Pembayaran/Detail Riwayat Pembayaran/Riwayat Pembayaran"), STOP_ON_FAILURE): Object: 'Object Repository/Master Data/Admin Sekolah/Riwayat Pembayaran/Detail Riwayat Pembayaran/Riwayat Pembayaran' is clicked on
+
+11-12-2024T11:09:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Riwayat Pembayaran/Detail Riwayat Pembayaran/Riwayat Pembayaran' is clicked on
+
+11-12-2024T11:09:52 - [TEST_STEP][PASSED] - click(findTestObject("Master Data/Admin Sekolah/Riwayat Pembayaran/Detail Riwayat Pembayaran/Lihat Detail")): Object: 'Object Repository/Master Data/Admin Sekolah/Riwayat Pembayaran/Detail Riwayat Pembayaran/Lihat Detail' is clicked on
+
+11-12-2024T11:09:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Master Data/Admin Sekolah/Riwayat Pembayaran/Detail Riwayat Pembayaran/Lihat Detail' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[11-12-2024T11:05:13 - [TEST_SUITE][PASSED] - SPRINT 2: Test Cases/Master Tagihan/Admin Sekolah/Master Tagihan Riwayat Pembayaran/Detail Riwayat Pembayaran]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

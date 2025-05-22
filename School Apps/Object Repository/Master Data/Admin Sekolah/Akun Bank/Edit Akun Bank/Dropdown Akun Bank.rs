@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Dropdown Akun Bank</name>
+   <tag></tag>
+   <elementGuidId>7c87e2e2-4012-47da-a2c0-1d899fe217d4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div [@data-testid='select-field'])[1]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^Nama Bank\*PT\. BANK CIMB NIAGA UNIT USAHA SYARIAH - \(CIMB SYARIAH\)$/ >> [data-testid=&quot;select-field&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>96b17234-29ac-4400-b77b-7e63ed5dc160</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-disabled</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>f4e2cdb6-0be2-4ab6-84d8-d12c7ac7e13f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>1f35fa19-91d7-4e9f-8c86-1fba4b8e4f2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>select-field</value>
+      <webElementGuid>67a767c3-9461-40fa-84ca-f47cebcb1759</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex min-h-[52px] w-full cursor-pointer items-center overflow-hidden text-ellipsis whitespace-nowrap rounded-[6px] border px-3 py-2 hover:border-blue6 focus:border-blue6 focus:outline-none border-neutral8 undefined</value>
+      <webElementGuid>2492ca8b-3b58-4915-830f-559bb162ccc6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>PT. BANK CIMB NIAGA UNIT USAHA SYARIAH - (CIMB SYARIAH)</value>
+      <webElementGuid>52328148-a886-4140-b25d-a72ff502bda7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal&quot;)/div[@class=&quot;max-h-[calc(100dvh-128px)] overflow-auto break-all p-6&quot;]/form[1]/div[@class=&quot;flex flex-col gap-6&quot;]/div[@class=&quot;flex flex-col gap-5&quot;]/div[@class=&quot;relative flex flex-col gap-1 w-full&quot;]/div[@class=&quot;relative&quot;]/div[@class=&quot;flex min-h-[52px] w-full cursor-pointer items-center overflow-hidden text-ellipsis whitespace-nowrap rounded-[6px] border px-3 py-2 hover:border-blue6 focus:border-blue6 focus:outline-none border-neutral8 undefined&quot;]</value>
+      <webElementGuid>4016ecb1-7412-4dbd-8aad-a7bd68cb2e47</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal']/div[2]/form/div/div/div/div[2]/div</value>
+      <webElementGuid>78fcabd6-f176-4f87-8e76-f8e79bc56c67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit Akun Bank'])[1]/following::div[7]</value>
+      <webElementGuid>2227b89a-6780-42e9-8f81-7556b2aee1ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[1]/following::div[11]</value>
+      <webElementGuid>747860ba-b73e-4f25-90a5-296ecea065a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Simpan'])[1]/preceding::div[13]</value>
+      <webElementGuid>ddeb9b96-a331-4fa8-902b-25d3e0b800c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/div/div[2]/div</value>
+      <webElementGuid>2dc786f7-c824-429c-88f8-d4a6883fb52b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'PT. BANK CIMB NIAGA UNIT USAHA SYARIAH - (CIMB SYARIAH)' or . = 'PT. BANK CIMB NIAGA UNIT USAHA SYARIAH - (CIMB SYARIAH)')]</value>
+      <webElementGuid>aac2933d-ed61-47de-8e5d-0effb9a32a5b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

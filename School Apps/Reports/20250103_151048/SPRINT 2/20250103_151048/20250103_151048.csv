@@ -1,0 +1,20 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+SPRINT 2,Chrome 131.0.0.0,,,03-01-2025 15:10:54,03-01-2025 15:19:15,8m - 20.593s,PASSED
+,,,,,,,
+Test Cases/Regresi Feature/Sprint 2/Regresi Informasi Sekolah,Chrome 131.0.0.0,,,03-01-2025 15:10:54,03-01-2025 15:12:26,1m - 31.191s,PASSED
+"for ([i = 1, i <= maxLoop, (i++)])",Chrome 131.0.0.0,,,03-01-2025 15:10:55,03-01-2025 15:12:26,1m - 30.891s,PASSED
+,,,,,,,
+Test Cases/Regresi Feature/Sprint 2/Regresi Pembayaran Siswa,Chrome 131.0.0.0,,,03-01-2025 15:12:26,03-01-2025 15:13:51,1m - 25.147s,PASSED
+"for ([i = 1, i <= maxLoop, (i++)])",Chrome 131.0.0.0,,,03-01-2025 15:12:26,03-01-2025 15:13:51,1m - 25.098s,PASSED
+,,,,,,,
+Test Cases/Regresi Feature/Sprint 2/Regresi Riwayat Pembayaran,Chrome 131.0.0.0,,,03-01-2025 15:13:51,03-01-2025 15:14:45,54.549s,PASSED
+"for ([i = 1, i <= maxLoop, (i++)])",Chrome 131.0.0.0,,,03-01-2025 15:13:51,03-01-2025 15:14:45,54.478s,PASSED
+,,,,,,,
+Test Cases/Regresi Feature/Sprint 3/Regresi Sumbangan,Chrome 131.0.0.0,,,03-01-2025 15:14:45,03-01-2025 15:15:55,1m - 9.228s,PASSED
+"for ([i = 1, i <= maxLoop, (i++)])",Chrome 131.0.0.0,,,03-01-2025 15:14:45,03-01-2025 15:15:55,1m - 9.143s,PASSED
+,,,,,,,
+Test Cases/Regresi Feature/Sprint 2/Regresi Tagihan,Chrome 131.0.0.0,,,03-01-2025 15:15:55,03-01-2025 15:16:45,49.951s,PASSED
+"for ([i = 1, i <= maxLoop, (i++)])",Chrome 131.0.0.0,,,03-01-2025 15:15:55,03-01-2025 15:16:45,49.909s,PASSED
+,,,,,,,
+Test Cases/Regresi Feature/Sprint 2/Regresi Tagihan Persiswa,Chrome 131.0.0.0,,,03-01-2025 15:16:45,03-01-2025 15:19:15,2m - 30.249s,PASSED
+"for ([i = 1, i <= maxLoop, (i++)])",Chrome 131.0.0.0,,,03-01-2025 15:16:45,03-01-2025 15:19:15,2m - 30.207s,PASSED

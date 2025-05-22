@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Value Dropdown Tahun Ajaran</name>
+   <tag></tag>
+   <elementGuidId>e133717a-7c3f-4849-99cb-d3b8c6292f1e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@data-testid = 'option-56' and (text() = '2015/2016' or . = '2015/2016')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class='max-h-[200px] overflow-y-auto']/div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-testid=&quot;option-56&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>331f8b8f-6477-4806-bc02-8eda29fb8d98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex w-full flex-row items-center gap-[10px] px-3 py-2 text-neutral10 hover:bg-blue1</value>
+      <webElementGuid>51370c28-e541-4a70-bc8a-8d4a5fb55a1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>option-56</value>
+      <webElementGuid>fc6d32fc-3336-4a70-b1c9-bfa92034a8da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>56</value>
+      <webElementGuid>12c391dc-488a-4b82-811c-5f13d5a3c413</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>2015/2016</value>
+      <webElementGuid>861d2fd9-10b8-4dd1-91ef-a3076512508d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;fixed z-[9999] rounded-[6px] bg-white p-2 shadow-sm&quot;]/div[@class=&quot;max-h-[200px] overflow-y-auto&quot;]/div[@class=&quot;flex w-full flex-row items-center gap-[10px] px-3 py-2 text-neutral10 hover:bg-blue1&quot;]</value>
+      <webElementGuid>9119b39c-3263-4337-b039-521974011e22</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@value='56']</value>
+      <webElementGuid>0a1421fa-4570-4a07-bcc5-bc176b4dbf3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[1]/following::div[7]</value>
+      <webElementGuid>779d7632-ae18-421d-8969-29625bbf7864</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div</value>
+      <webElementGuid>191eba3d-928a-413c-92cf-d0bbb052c0f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '2015/2016' or . = '2015/2016')]</value>
+      <webElementGuid>89334896-c7f3-477a-a2a1-8f7ab1088b9f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

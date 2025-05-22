@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Master Data/Admin Sekolah/Login/Input Password",
+      "brokenLocator": "//input[@name\u003d\u0027password\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[3]/div[2]/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20250102_132150/SPRINT 3/20250102_132150/Object Repository/Master Data/Admin Sekolah/Login/Input Password_position.png"
+    }
+  ]
+}

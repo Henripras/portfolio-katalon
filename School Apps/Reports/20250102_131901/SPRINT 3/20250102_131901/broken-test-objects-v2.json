@@ -1,0 +1,22 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Master Data/Admin Sekolah/Master Siswa/Tambah Siswa/Value Dropdown Tahun Ajaran",
+      "brokenLocatorMethod": "BASIC",
+      "proposedLocator": "//div[2]/div[2]/div",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20250102_131901/SPRINT 3/20250102_131901/Object Repository/Master Data/Admin Sekolah/Master Siswa/Tambah Siswa/Value Dropdown Tahun Ajaran_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Master Data/Admin Sekolah/Master Siswa/Filter Dan Search Siswa/Value Kelas XI IPA 11",
+      "brokenLocatorMethod": "BASIC",
+      "proposedLocator": "//div[12]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20250102_131901/SPRINT 3/20250102_131901/Object Repository/Master Data/Admin Sekolah/Master Siswa/Filter Dan Search Siswa/Value Kelas XI IPA 11_position.png"
+    }
+  ]
+}

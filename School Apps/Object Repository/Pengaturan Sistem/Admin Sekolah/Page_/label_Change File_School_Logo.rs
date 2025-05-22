@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Change File_School_Logo</name>
+   <tag></tag>
+   <elementGuidId>6f368e63-90b8-4fbd-86b5-f61acafbff06</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='layout-content']/div[2]/div[6]/div[2]/div/div/div/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>ba958402-5c4a-47c0-b44b-f55b4d46fcc9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>upload-change-file-Logo Sekolah</value>
+      <webElementGuid>fc215664-5d08-4bd3-97fe-4d73b97f538e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>min-w-max cursor-pointer text-[12px] leading-[14px] text-secondary10 underline</value>
+      <webElementGuid>2ef74e0b-8be0-4226-8328-6fb375f32d78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>upload-action-label</value>
+      <webElementGuid>28f65261-62ed-425f-a789-757c3714e8ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Change File</value>
+      <webElementGuid>d2626df5-3c42-444a-a9b1-63fc71009fc4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;layout-content&quot;)/div[@class=&quot;relative grid grid-cols-2 gap-x-6 gap-y-4 px-10&quot;]/div[@class=&quot;flex flex-col gap-1&quot;]/div[@class=&quot;flex items-center justify-between rounded-md border-2 px-6 py-[21px] border-[#b7b7b7] gap-x-2 border-dashed&quot;]/div[@class=&quot;flex gap-x-4&quot;]/div[@class=&quot;flex flex-col gap-y-[2px]&quot;]/div[@class=&quot;flex gap-x-2 break-all&quot;]/div[@class=&quot;flex items-center&quot;]/label[@class=&quot;min-w-max cursor-pointer text-[12px] leading-[14px] text-secondary10 underline&quot;]</value>
+      <webElementGuid>921cc22d-64d7-4416-82bb-10bcc3f7fdfd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='layout-content']/div[2]/div[6]/div[2]/div/div/div/div/label</value>
+      <webElementGuid>6516527d-13cf-4028-9407-c82a8fd8d388</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit Sekolah'])[2]/following::label[1]</value>
+      <webElementGuid>475ebef5-a768-4842-bf5f-bf2ad1538b04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit Sekolah'])[1]/following::label[1]</value>
+      <webElementGuid>6612ec4f-1314-483a-8651-55f706a232c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat'])[1]/preceding::label[1]</value>
+      <webElementGuid>0905b381-e8f9-4d11-98e2-280a151961c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//input[@id='upload-change-file-Logo Sekolah']</value>
+      <webElementGuid>17fdc0f1-edfa-4d98-8ca7-4e1e4a6626b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Change File']/parent::*</value>
+      <webElementGuid>9eb356bb-2564-40b6-9357-dbfee180ff90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label</value>
+      <webElementGuid>3c3457e6-d8e7-4e1d-a9cd-36efa8e8af1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Change File' or . = 'Change File')]</value>
+      <webElementGuid>2c9fbc64-b313-4530-b747-12076edff07f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

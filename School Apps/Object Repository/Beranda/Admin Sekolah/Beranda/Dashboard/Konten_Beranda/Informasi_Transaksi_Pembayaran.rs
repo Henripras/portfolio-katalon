@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Informasi_Transaksi_Pembayaran</name>
+   <tag></tag>
+   <elementGuidId>dcf9626c-f27c-4e66-ab6f-858d503ad72f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='layout-content']/div/div/div/div[2]/div/div[2]/div/h5</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h5</value>
+      <webElementGuid>576c2f6a-9739-4243-940a-1f272e69f0a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-bold text-sm lg:text-base text-neutral8</value>
+      <webElementGuid>1ddd9acd-0dc4-4391-b1ed-c56bd74dc12c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Transaksi Pembayaran</value>
+      <webElementGuid>f7efe4b4-8a37-41be-8cfd-0a99f6d49b05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;layout-content&quot;)/div[@class=&quot;h-full rounded-lg bg-white&quot;]/div[@class=&quot;flex size-full&quot;]/div[@class=&quot;w-[70%] border-r border-neutral4&quot;]/div[@class=&quot;p-6&quot;]/div[@class=&quot;flex items-center gap-x-4&quot;]/div[@class=&quot;flex items-center gap-2 rounded-lg border border-neutral5 px-4 py-3&quot;]/div[1]/h5[@class=&quot;font-bold text-sm lg:text-base text-neutral8&quot;]</value>
+      <webElementGuid>fef12953-27c8-48d0-8bd7-4d3048ed22d0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='layout-content']/div/div/div/div[2]/div/div[2]/div/h5</value>
+      <webElementGuid>d6ab62a7-7beb-4fea-b81f-64bce9b647cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Siswa Aktif'])[1]/following::h5[1]</value>
+      <webElementGuid>ded82c61-2112-477d-88d9-e51e3604b058</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Beranda'])[3]/following::h5[2]</value>
+      <webElementGuid>c8d2b273-4332-49d7-9fa9-98c48f4156c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tagihan Terbayar'])[1]/preceding::h5[1]</value>
+      <webElementGuid>c71963b3-4571-441d-80ee-4662cb57c100</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pengumuman &amp; Event'])[2]/preceding::h5[2]</value>
+      <webElementGuid>1211e449-4d64-4058-99b0-8df9085fb563</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Transaksi Pembayaran']/parent::*</value>
+      <webElementGuid>1a718c28-2dd1-4678-9dc6-e90dfe98546e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/h5</value>
+      <webElementGuid>e68a0c6a-4c66-455a-9ede-fde3a8aa698b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h5[(text() = 'Transaksi Pembayaran' or . = 'Transaksi Pembayaran')]</value>
+      <webElementGuid>aa5c1a71-1b37-4e35-932f-20324fb33c2d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

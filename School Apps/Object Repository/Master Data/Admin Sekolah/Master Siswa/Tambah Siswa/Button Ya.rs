@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button Ya</name>
+   <tag></tag>
+   <elementGuidId>c646ba80-5c49-4112-b702-eb695f2d4da3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modal']/div[2]/div/div[2]/button[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Ya&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>885d7280-680f-4be3-901c-bf3c218e37c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rounded-[6px] flex whitespace-nowrap justify-center items-center font-bold gap-1 w-full h-[44px] py-2 px-6 text-sm bg-blue8 hover:bg-blue9 text-white disabled:bg-secondary2</value>
+      <webElementGuid>ce723300-5d37-4cfd-8420-fd4f433d56d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ya</value>
+      <webElementGuid>50236d1d-7bd1-4859-ba97-9e432fdcd3b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal&quot;)/div[@class=&quot;max-h-[calc(100dvh-128px)] overflow-auto break-all p-6&quot;]/div[@class=&quot;flex flex-col gap-12&quot;]/div[@class=&quot;flex gap-4&quot;]/button[@class=&quot;rounded-[6px] flex whitespace-nowrap justify-center items-center font-bold gap-1 w-full h-[44px] py-2 px-6 text-sm bg-blue8 hover:bg-blue9 text-white disabled:bg-secondary2&quot;]</value>
+      <webElementGuid>98bf44b2-4370-40e2-8c38-901af5864505</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal']/div[2]/div/div[2]/button[2]</value>
+      <webElementGuid>d977af95-b6ac-46ca-b3b5-15ba5345d8f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Batal'])[2]/following::button[1]</value>
+      <webElementGuid>61a3fd11-bcfa-4c3e-9ff6-fa87d7b05129</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Konfirmasi'])[1]/following::button[3]</value>
+      <webElementGuid>380a43ee-69f1-4187-ac7a-12a6d738543c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button[2]</value>
+      <webElementGuid>fa9c222c-0994-4a3e-9ca7-3dc56537eefb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Ya' or . = 'Ya')]</value>
+      <webElementGuid>7d73200a-00e3-4372-85e5-e4ea5b0ebc0e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

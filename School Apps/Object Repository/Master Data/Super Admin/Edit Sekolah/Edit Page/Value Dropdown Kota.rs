@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Value Dropdown Kota</name>
+   <tag></tag>
+   <elementGuidId>933da391-78fe-42a9-8bc1-28c2a1c92141</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div [@class='max-h-[200px] overflow-y-auto']/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-testid=&quot;dropdown-menu&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>77a1dd89-b769-473c-9080-035603bfd4ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>dropdown-menu</value>
+      <webElementGuid>d199a04c-a2a8-469f-a714-b6f4f6003137</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fixed z-[9999] rounded-[6px] bg-white p-2 shadow-sm</value>
+      <webElementGuid>d41771be-9d72-415a-b5bf-17b7cd407fe8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>KABUPATEN KUANTAN SINGINGIKABUPATEN INDRAGIRI HULUKABUPATEN INDRAGIRI HILIRKABUPATEN PELALAWANKABUPATEN S I A KKABUPATEN KAMPARKABUPATEN ROKAN HULUKABUPATEN BENGKALISKABUPATEN ROKAN HILIRKABUPATEN KEPULAUAN MERANTIKOTA PEKANBARUKOTA D U M A I</value>
+      <webElementGuid>8846a1bf-ef03-4bc4-9a6b-4e3888ad592c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;fixed z-[9999] rounded-[6px] bg-white p-2 shadow-sm&quot;]</value>
+      <webElementGuid>20d568a5-62d4-450f-b0bc-f42fc9dcf5c0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[1]/following::div[1]</value>
+      <webElementGuid>1226c6f6-b632-45d6-bc64-3a5e65f15f15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]</value>
+      <webElementGuid>5aa59410-1601-47fa-88ee-2b552d86407e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'KABUPATEN KUANTAN SINGINGIKABUPATEN INDRAGIRI HULUKABUPATEN INDRAGIRI HILIRKABUPATEN PELALAWANKABUPATEN S I A KKABUPATEN KAMPARKABUPATEN ROKAN HULUKABUPATEN BENGKALISKABUPATEN ROKAN HILIRKABUPATEN KEPULAUAN MERANTIKOTA PEKANBARUKOTA D U M A I' or . = 'KABUPATEN KUANTAN SINGINGIKABUPATEN INDRAGIRI HULUKABUPATEN INDRAGIRI HILIRKABUPATEN PELALAWANKABUPATEN S I A KKABUPATEN KAMPARKABUPATEN ROKAN HULUKABUPATEN BENGKALISKABUPATEN ROKAN HILIRKABUPATEN KEPULAUAN MERANTIKOTA PEKANBARUKOTA D U M A I')]</value>
+      <webElementGuid>2c9d6534-e53f-4132-ad7f-c69dc0122fee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

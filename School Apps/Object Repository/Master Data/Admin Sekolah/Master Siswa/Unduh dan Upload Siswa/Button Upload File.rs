@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button Upload File</name>
+   <tag></tag>
+   <elementGuidId>82b0245e-f704-46a8-83cf-20de998335fc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modal']/div[2]/div/div/div[2]/div[2]/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-testid=&quot;upload-action-label&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>f54e1255-385e-410a-ae85-1b8e239097e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>upload-upload-file-File</value>
+      <webElementGuid>466aef3d-d531-497c-afe9-548ea8a5bca7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>h-7 cursor-pointer rounded-md bg-blue5 px-4 py-[7px] text-[12px] font-bold leading-[14px] text-white hover:bg-blue5/50</value>
+      <webElementGuid>88447b82-7da5-4112-9673-5b469ca82767</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>upload-action-label</value>
+      <webElementGuid>18484184-21a7-4d91-839b-366a205f81c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Unggah File</value>
+      <webElementGuid>56e3afca-1ecc-4e08-b38e-8b10c504aafe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal&quot;)/div[@class=&quot;max-h-[calc(100dvh-128px)] overflow-auto p-6 px-6 pt-6 pb-0 break-words&quot;]/div[@class=&quot;flex flex-col gap-5&quot;]/div[@class=&quot;flex flex-col gap-1&quot;]/div[@class=&quot;flex items-center justify-between rounded-md border-2 px-6 py-[21px] border-[#b7b7b7] gap-x-2 border-dashed&quot;]/div[@class=&quot;flex items-center&quot;]/label[@class=&quot;h-7 cursor-pointer rounded-md bg-blue5 px-4 py-[7px] text-[12px] font-bold leading-[14px] text-white hover:bg-blue5/50&quot;]</value>
+      <webElementGuid>d208a845-3177-4caa-bd4a-1664c56542d7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal']/div[2]/div/div/div[2]/div[2]/label</value>
+      <webElementGuid>b7c77475-05f1-49c0-bd5b-6efccffc05eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Scan File'])[1]/following::label[1]</value>
+      <webElementGuid>08ef76c9-95a6-481a-9b1f-1139a458b201</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[1]/following::label[1]</value>
+      <webElementGuid>0bc72fe8-64c8-4cc5-9ea6-bc6391fd4f01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kirim'])[1]/preceding::label[1]</value>
+      <webElementGuid>108ffd73-2f32-4414-ae33-40023e165f31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Unggah File']/parent::*</value>
+      <webElementGuid>485ed6a5-7ddb-4f83-91f9-f5aaa968885a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label</value>
+      <webElementGuid>a212bfed-94b6-4f60-a7f6-66d21a22f14a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Unggah File' or . = 'Unggah File')]</value>
+      <webElementGuid>d1a7b6e5-6762-4735-ae06-994832c46945</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

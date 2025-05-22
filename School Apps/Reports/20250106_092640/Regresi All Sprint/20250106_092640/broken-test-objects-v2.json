@@ -1,0 +1,24 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Master Data/Admin Sekolah/Login/Field Email",
+      "brokenLocator": "//input[@name\u003d\u0027email\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20250106_092640/Regresi All Sprint/20250106_092640/Object Repository/Master Data/Admin Sekolah/Login/Field Email_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Master Data/Admin Sekolah/Akun Bank/Button Tambah Akun Bank",
+      "brokenLocator": "//*[@data-testid \u003d \u0027btn-add-bank\u0027]",
+      "brokenLocatorMethod": "BASIC",
+      "proposedLocator": "//div[@id\u003d\u0027layout-content\u0027]//button\r\n",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20250106_092640/Regresi All Sprint/20250106_092640/Object Repository/Master Data/Admin Sekolah/Akun Bank/Button Tambah Akun Bank_XPATH.png"
+    }
+  ]
+}

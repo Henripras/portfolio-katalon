@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+SPRINT 3,Chrome 131.0.0.0,,,02-01-2025 14:04:44,02-01-2025 14:07:09,2m - 25.256s,PASSED
+,,,,,,,
+Test Cases/Regresi Feature/Sprint 3/Regresi Profile,Chrome 131.0.0.0,,,02-01-2025 14:04:44,02-01-2025 14:07:09,2m - 25.001s,PASSED
+"for ([i = 1, i <= maxLoop, (i++)])",Chrome 131.0.0.0,,,02-01-2025 14:04:45,02-01-2025 14:07:09,2m - 24.722s,PASSED

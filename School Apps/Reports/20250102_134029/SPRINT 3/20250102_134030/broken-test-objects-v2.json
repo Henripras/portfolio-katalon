@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Laporan/Laporan Pembayaran/Filter Search Laporan Pembayaran/Value Dropdown Kelas XII IPS 2",
+      "brokenLocator": "//*[(text() \u003d \u0027Kelas - XII IPS 2\u0027 or . \u003d \u0027Kelas - XII IPS 2\u0027)]",
+      "brokenLocatorMethod": "BASIC",
+      "proposedLocator": "//div[2]/div[2]/div/p",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20250102_134029/SPRINT 3/20250102_134030/Object Repository/Laporan/Laporan Pembayaran/Filter Search Laporan Pembayaran/Value Dropdown Kelas XII IPS 2_position.png"
+    }
+  ]
+}

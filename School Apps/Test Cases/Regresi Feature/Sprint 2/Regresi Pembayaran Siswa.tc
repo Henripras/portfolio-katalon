@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Regresi Pembayaran Siswa</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a2a62d1c-ac80-4d28-86b8-0bc2eaf05952</testCaseGuid>
+</TestCaseEntity>

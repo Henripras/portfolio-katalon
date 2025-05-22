@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Toast Notification Berhasil</name>
+   <tag></tag>
+   <elementGuidId>dc88ba44-e7dc-4f3f-ab8a-85cd294d70ca</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.Toastify__toast-container.Toastify__toast-container--top-right > #active-billing-page</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='active-billing-page'])[2]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'active-billing-page' and (text() = 'Berhasil Melakukan Pembayaran!' or . = 'Berhasil Melakukan Pembayaran!')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#active-billing-page >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>de1660b8-43e1-4757-9873-7f760d049879</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>active-billing-page</value>
+      <webElementGuid>f8b31444-dcf1-4b5d-95d2-8a5cc33b0fa8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-in</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>5884e416-7c6f-4def-af5c-ea603d3f2cf3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Toastify__toast Toastify__toast-theme--light Toastify__toast--success Toastify__toast--close-on-click</value>
+      <webElementGuid>96fd9765-40b2-424e-b6ad-666a88f07029</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Berhasil Melakukan Pembayaran!</value>
+      <webElementGuid>cc355487-7dcc-469c-90c6-98362fa3f39c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@id=&quot;active-billing-page&quot;]/div[@class=&quot;Toastify__toast-container Toastify__toast-container--top-right&quot;]/div[@id=&quot;active-billing-page&quot;]</value>
+      <webElementGuid>0c49b49f-3d08-4ff2-990b-7dd9f72dc5a0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//div[@id='active-billing-page'])[2]</value>
+      <webElementGuid>f38ea99c-7887-4794-a9d7-ce97c5c2016c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='active-billing-page']/div/div</value>
+      <webElementGuid>936cdd2c-0859-4ecb-8cae-73b618d4729a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cari Siswa'])[1]/following::div[11]</value>
+      <webElementGuid>061a0241-1bd8-4848-87f2-360999249a4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pembayaran Siswa'])[2]/following::div[12]</value>
+      <webElementGuid>02c0cacf-fde0-4081-856c-a4755eea5066</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/div</value>
+      <webElementGuid>a3b27354-6302-4fce-92a4-dc1b8d291de3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'active-billing-page' and (text() = 'Berhasil Melakukan Pembayaran!' or . = 'Berhasil Melakukan Pembayaran!')]</value>
+      <webElementGuid>63fe95b6-721b-43d8-bc38-043fc955bc40</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

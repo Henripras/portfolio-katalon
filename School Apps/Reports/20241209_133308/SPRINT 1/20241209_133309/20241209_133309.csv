@@ -1,0 +1,240 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+SPRINT 1,Chrome 131.0.0.0,,,09-12-2024 13:33:14,09-12-2024 13:37:43,4m - 28.623s,ERROR
+,,,,,,,
+Test Cases/Master Data/Admin Sekolah/Master Data Akun Bank/Tambah Akun Bank,Chrome 131.0.0.0,,,09-12-2024 13:33:14,09-12-2024 13:33:29,14.919s,PASSED
+"openBrowser("""", CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:33:15,09-12-2024 13:33:17,2.151s,PASSED
+"navigateToUrl(""https://school-payment.digiform.co.id/login"", CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:33:17,09-12-2024 13:33:17,0.358s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Login/Field Email""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:33:17,09-12-2024 13:33:19,1.520s,PASSED
+"setText(findTestObject(""Master Data/Admin Sekolah/Login/Field Email""), ""admin.sekolah@gmail.com"", CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:33:19,09-12-2024 13:33:19,0.614s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Login/Input Password""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:33:19,09-12-2024 13:33:20,0.280s,PASSED
+"setText(findTestObject(""Master Data/Admin Sekolah/Login/Input Password""), ""Test1234"", CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:33:20,09-12-2024 13:33:20,0.536s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Login/Button Submit""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:33:20,09-12-2024 13:33:20,0.285s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Tagihan/Master Data Menu""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:33:20,09-12-2024 13:33:22,1.784s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Akun Bank/Menu Akun Bank""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:33:22,09-12-2024 13:33:23,0.923s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Akun Bank/Button Tambah Akun Bank""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:33:23,09-12-2024 13:33:24,0.659s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Akun Bank/Tambah Akun Bank/Dropdown Pilih Nama Bank""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:33:24,09-12-2024 13:33:24,0.493s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Akun Bank/Tambah Akun Bank/Pilih Dropdown Nama Bank""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:33:24,09-12-2024 13:33:25,0.510s,PASSED
+"setText(findTestObject(""Master Data/Admin Sekolah/Akun Bank/Tambah Akun Bank/Set Text Nama Rekening""), ""Rafael Struick"", CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:33:25,09-12-2024 13:33:25,0.577s,PASSED
+"nomorRekeningList = [""123141"", ""14521"", ""56212"", ""5212""]",Chrome 131.0.0.0,,,09-12-2024 13:33:25,09-12-2024 13:33:25,0.001s,PASSED
+isErrorPresent = true,Chrome 131.0.0.0,,,09-12-2024 13:33:25,09-12-2024 13:33:25,0.000s,PASSED
+for (String nomorRekening : nomorRekeningList),Chrome 131.0.0.0,,,09-12-2024 13:33:25,09-12-2024 13:33:25,0.005s,PASSED
+"fieldNomorRekening = findTestObject(""Master Data/Admin Sekolah/Akun Bank/Tambah Akun Bank/Set Text Nomor Rekening"")",Chrome 131.0.0.0,,,09-12-2024 13:33:25,09-12-2024 13:33:25,0.007s,PASSED
+clearTextUntilEmpty(fieldNomorRekening),Chrome 131.0.0.0,,,09-12-2024 13:33:25,09-12-2024 13:33:25,0.002s,PASSED
+attempt = 0,Chrome 131.0.0.0,,,09-12-2024 13:33:25,09-12-2024 13:33:25,0.001s,PASSED
+while (attempt < maxAttempts),Chrome 131.0.0.0,,,09-12-2024 13:33:25,09-12-2024 13:33:26,1.075s,PASSED
+"setText(fieldNomorRekening, nomorRekening)",Chrome 131.0.0.0,,,09-12-2024 13:33:26,09-12-2024 13:33:27,0.545s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Akun Bank/Tambah Akun Bank/Dropdown Kepemilikan""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:33:27,09-12-2024 13:33:27,0.285s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Akun Bank/Tambah Akun Bank/Pilih Dropdown Kepemilikan""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:33:27,09-12-2024 13:33:29,1.875s,PASSED
+if (isErrorPresent),Chrome 131.0.0.0,,,09-12-2024 13:33:29,09-12-2024 13:33:29,0.002s,PASSED
+else,Chrome 131.0.0.0,,,09-12-2024 13:33:29,09-12-2024 13:33:29,0.002s,PASSED
+,,,,,,,
+Test Cases/Master Data/Admin Sekolah/Master Data Akun Bank/Edit Akun Bank,Chrome 131.0.0.0,,,09-12-2024 13:33:29,09-12-2024 13:33:29,0.200s,ERROR
+,,,,,,,
+Test Cases/Master Data/Admin Sekolah/Master Data Kelas/Edit Kelas,Chrome 131.0.0.0,,,09-12-2024 13:33:29,09-12-2024 13:33:41,12.055s,PASSED
+"openBrowser("""", CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:33:30,09-12-2024 13:33:31,1.004s,PASSED
+"navigateToUrl(""https://school-payment.digiform.co.id/login"", CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:33:31,09-12-2024 13:33:31,0.369s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Login/Field Email""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:33:31,09-12-2024 13:33:32,1.542s,PASSED
+"setText(findTestObject(""Master Data/Admin Sekolah/Login/Field Email""), ""admin.sekolah@gmail.com"", CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:33:32,09-12-2024 13:33:33,0.584s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Login/Input Password""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:33:33,09-12-2024 13:33:33,0.283s,PASSED
+"setText(findTestObject(""Master Data/Admin Sekolah/Login/Input Password""), ""Test1234"", CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:33:33,09-12-2024 13:33:34,0.530s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Login/Button Submit""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:33:34,09-12-2024 13:33:34,0.276s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/HomePageMenu/Sidebar Menu""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:33:34,09-12-2024 13:33:36,1.798s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/HomePageMenu/Sub Menu Kelas""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:33:36,09-12-2024 13:33:37,0.783s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Edit Kelas/Edit Kelas""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:33:37,09-12-2024 13:33:37,0.762s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Edit Kelas/Modal Edit/Unit/Pilih Unit""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:33:37,09-12-2024 13:33:38,0.595s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Edit Kelas/Modal Edit/Unit/Klik Unit""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:33:38,09-12-2024 13:33:39,0.484s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Edit Kelas/Modal Edit/Suffix/Edit Suffix""))",Chrome 131.0.0.0,,,09-12-2024 13:33:39,09-12-2024 13:33:39,0.298s,PASSED
+"suffixArray = [""Laravel Beginner Course"", ""Laravel Advanced Guide"", ""PHP Crash Course"", ""Mastering Laravel with PHP"", ""Laravel for Beginners"", ""Full Stack PHP Development"", ""Backend Laravel Pro"", ""Laravel 4 With PHP"", ""PHP Framework Essentials"", ""Laravel API Development""]",Chrome 131.0.0.0,,,09-12-2024 13:33:39,09-12-2024 13:33:39,0.000s,PASSED
+randomSuffix = suffixArray[Random().nextInt(length)],Chrome 131.0.0.0,,,09-12-2024 13:33:39,09-12-2024 13:33:39,0.017s,PASSED
+"sendKeys(findTestObject(""Master Data/Admin Sekolah/Edit Kelas/Modal Edit/Suffix/Edit Suffix""), Keys.chord(CONTROL, ""a""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:33:39,09-12-2024 13:33:39,0.277s,PASSED
+"sendKeys(findTestObject(""Master Data/Admin Sekolah/Edit Kelas/Modal Edit/Suffix/Edit Suffix""), Keys.chord(BACK_SPACE), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:33:39,09-12-2024 13:33:39,0.264s,PASSED
+delay(1),Chrome 131.0.0.0,,,09-12-2024 13:33:39,09-12-2024 13:33:40,1.017s,PASSED
+"setText(findTestObject(""Master Data/Admin Sekolah/Edit Kelas/Modal Edit/Suffix/Edit Suffix""), randomSuffix, CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:33:40,09-12-2024 13:33:41,0.577s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Edit Kelas/Modal Edit/Simpan/Simpan Perubahan""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:33:41,09-12-2024 13:33:41,0.289s,PASSED
+closeBrowser(CONTINUE_ON_FAILURE),Chrome 131.0.0.0,,,09-12-2024 13:33:41,09-12-2024 13:33:41,0.173s,PASSED
+,,,,,,,
+Test Cases/Master Data/Admin Sekolah/Master Data Kelas/Tambah Kelas,Chrome 131.0.0.0,,,09-12-2024 13:33:41,09-12-2024 13:33:53,11.518s,PASSED
+"openBrowser("""", CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:33:42,09-12-2024 13:33:42,0.814s,PASSED
+"navigateToUrl(""https://school-payment.digiform.co.id/login"")",Chrome 131.0.0.0,,,09-12-2024 13:33:42,09-12-2024 13:33:43,0.340s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Login/Field Email""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:33:43,09-12-2024 13:33:44,1.523s,PASSED
+"setText(findTestObject(""Master Data/Admin Sekolah/Login/Field Email""), ""admin.sekolah@gmail.com"", CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:33:44,09-12-2024 13:33:45,0.569s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Login/Input Password""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:33:45,09-12-2024 13:33:45,0.280s,PASSED
+"setText(findTestObject(""Master Data/Admin Sekolah/Login/Input Password""), ""Test1234"", CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:33:45,09-12-2024 13:33:46,0.527s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Login/Button Submit""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:33:46,09-12-2024 13:33:46,0.292s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/HomePageMenu/Sidebar Menu""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:33:46,09-12-2024 13:33:48,1.878s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/HomePageMenu/Sub Menu Kelas""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:33:48,09-12-2024 13:33:49,0.884s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Tambah Kelas/Tambah Kelas""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:33:49,09-12-2024 13:33:49,0.727s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Tambah Kelas/Modal Tambah/Unit/Pilih Unit""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:33:49,09-12-2024 13:33:50,0.504s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Tambah Kelas/Modal Tambah/Unit/Klik Unit""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:33:50,09-12-2024 13:33:50,0.494s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Tambah Kelas/Modal Tambah/Prefix/Klik Prefix""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:33:50,09-12-2024 13:33:51,0.278s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Tambah Kelas/Modal Tambah/Prefix/Pilih Prefix""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:33:51,09-12-2024 13:33:51,0.505s,PASSED
+"setText(findTestObject(""Master Data/Admin Sekolah/Tambah Kelas/Modal Tambah/Suffix/Input Suffix kelas""), ""PHP 4"", CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:33:51,09-12-2024 13:33:52,0.577s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Tambah Kelas/Modal Tambah/Jurusan/Klik Jurusan""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:33:52,09-12-2024 13:33:52,0.299s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Tambah Kelas/Modal Tambah/Jurusan/Pilih Jurusan""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:33:52,09-12-2024 13:33:53,0.508s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Tambah Kelas/Modal Tambah/Tambahkan/Tambah Data""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:33:53,09-12-2024 13:33:53,0.285s,PASSED
+closeBrowser(CONTINUE_ON_FAILURE),Chrome 131.0.0.0,,,09-12-2024 13:33:53,09-12-2024 13:33:53,0.161s,PASSED
+,,,,,,,
+Test Cases/Master Data/Admin Sekolah/Master Data Tahun Ajaran/Tambah Tahun Ajaran,Chrome 131.0.0.0,,,09-12-2024 13:33:53,09-12-2024 13:34:35,42.191s,FAILED
+"openBrowser("""", CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:33:53,09-12-2024 13:33:54,0.895s,PASSED
+"navigateToUrl(""https://school-payment.digiform.co.id/login"", CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:33:54,09-12-2024 13:33:54,0.377s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Login/Field Email""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:33:54,09-12-2024 13:33:56,1.523s,PASSED
+"setText(findTestObject(""Master Data/Admin Sekolah/Login/Field Email""), ""admin.sekolah@gmail.com"", CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:33:56,09-12-2024 13:33:56,0.575s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Login/Input Password""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:33:56,09-12-2024 13:33:57,0.275s,PASSED
+"setText(findTestObject(""Master Data/Admin Sekolah/Login/Input Password""), ""Test1234"", CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:33:57,09-12-2024 13:33:57,0.530s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Login/Button Submit""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:33:57,09-12-2024 13:33:57,0.280s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Master Data Menu""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:33:57,09-12-2024 13:33:59,1.689s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Tahun Ajaran/Menu Tahun Ajaran""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:33:59,09-12-2024 13:34:00,0.890s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Tahun Ajaran/Button Tambah""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:34:00,09-12-2024 13:34:01,0.796s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Tahun Ajaran/Tahun Mulai/Dropdown Tahun Mulai""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:34:01,09-12-2024 13:34:02,0.782s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Tahun Ajaran/9Des""))",Chrome 131.0.0.0,,,09-12-2024 13:34:02,09-12-2024 13:34:35,33.499s,FAILED
+,,,,,,,
+Test Cases/Master Data/Admin Sekolah/Master Data Tahun Ajaran/Edit Tahun Ajaran,Chrome 131.0.0.0,,,09-12-2024 13:34:35,09-12-2024 13:34:45,10.326s,PASSED
+"openBrowser("""", CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:34:35,09-12-2024 13:34:36,0.991s,PASSED
+"navigateToUrl(""https://school-payment.digiform.co.id/login"", CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:34:36,09-12-2024 13:34:37,0.333s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Login/Field Email""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:34:37,09-12-2024 13:34:38,1.532s,PASSED
+"setText(findTestObject(""Master Data/Admin Sekolah/Login/Field Email""), ""admin.sekolah@gmail.com"", CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:34:38,09-12-2024 13:34:39,0.563s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Login/Input Password""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:34:39,09-12-2024 13:34:39,0.274s,PASSED
+"setText(findTestObject(""Master Data/Admin Sekolah/Login/Input Password""), ""Test1234"", CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:34:39,09-12-2024 13:34:39,0.523s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Login/Button Submit""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:34:39,09-12-2024 13:34:40,0.275s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Master Data Menu""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:34:40,09-12-2024 13:34:41,1.745s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Tahun Ajaran/Menu Tahun Ajaran""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:34:41,09-12-2024 13:34:42,0.794s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Tahun Ajaran/Edit Tahun Ajaran/Icon Edit""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:34:42,09-12-2024 13:34:43,0.757s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Tahun Ajaran/Edit Tahun Ajaran/Dropdown Edit tahun Selesai""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:34:43,09-12-2024 13:34:44,0.708s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Tahun Ajaran/Edit Tahun Ajaran/Dropdown List Tahun Selesai""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:34:44,09-12-2024 13:34:44,0.485s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Tahun Ajaran/Edit Tahun Ajaran/Pilih List Tahun Selesai""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:34:44,09-12-2024 13:34:45,0.489s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Tahun Ajaran/Edit Tahun Ajaran/Pilih Tanggal Tahun Selesai""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:34:45,09-12-2024 13:34:45,0.485s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Tahun Ajaran/Button Submit Tahun Ajaran""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:34:45,09-12-2024 13:34:45,0.289s,PASSED
+,,,,,,,
+Test Cases/Master Data/Admin Sekolah/Master Data Tagihan/Filter Tagihan,Chrome 131.0.0.0,,,09-12-2024 13:34:45,09-12-2024 13:35:03,17.567s,PASSED
+"openBrowser("""", CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:34:46,09-12-2024 13:34:46,0.960s,PASSED
+"navigateToUrl(""https://school-payment.digiform.co.id/login"", CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:34:46,09-12-2024 13:34:47,0.355s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Login/Field Email""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:34:47,09-12-2024 13:34:48,1.528s,PASSED
+"setText(findTestObject(""Master Data/Admin Sekolah/Login/Field Email""), ""admin.sekolah@gmail.com"", CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:34:48,09-12-2024 13:34:49,0.582s,PASSED
+"delay(1, CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:34:49,09-12-2024 13:34:50,1.005s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Login/Input Password""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:34:50,09-12-2024 13:34:50,0.286s,PASSED
+"setText(findTestObject(""Master Data/Admin Sekolah/Login/Input Password""), ""Test1234"", CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:34:50,09-12-2024 13:34:51,0.533s,PASSED
+"delay(1, CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:34:51,09-12-2024 13:34:52,1.002s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Login/Button Submit""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:34:52,09-12-2024 13:34:52,0.282s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Lihat Tagihan/Menu Master Data""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:34:52,09-12-2024 13:34:54,1.772s,PASSED
+"delay(1, CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:34:54,09-12-2024 13:34:55,1.007s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Lihat Tagihan/Menu Tagihan""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:34:55,09-12-2024 13:34:55,0.382s,PASSED
+"delay(1, CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:34:55,09-12-2024 13:34:56,1.007s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Filter Tagihan/Button Filter""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:34:56,09-12-2024 13:34:57,0.310s,PASSED
+"delay(1, CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:34:57,09-12-2024 13:34:58,1.013s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Filter Tagihan/Select Tipe Tagihan""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:34:58,09-12-2024 13:34:58,0.282s,PASSED
+"delay(1, CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:34:58,09-12-2024 13:34:59,1.005s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Filter Tagihan/Tagihan Reguler""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:34:59,09-12-2024 13:34:59,0.277s,PASSED
+"delay(1, CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:34:59,09-12-2024 13:35:00,1.010s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Filter Tagihan/Select Rekening Bank""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:35:00,09-12-2024 13:35:00,0.280s,PASSED
+"delay(1, CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:35:00,09-12-2024 13:35:01,1.014s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Filter Tagihan/CIMB""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:35:01,09-12-2024 13:35:02,0.288s,PASSED
+"delay(1, CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:35:02,09-12-2024 13:35:03,1.004s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Filter Tagihan/Button Terapkan""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:35:03,09-12-2024 13:35:03,0.332s,PASSED
+,,,,,,,
+Test Cases/Master Data/Admin Sekolah/Master Data Tagihan/Lihat Tagihan,Chrome 131.0.0.0,,,09-12-2024 13:35:03,09-12-2024 13:35:12,8.766s,PASSED
+"openBrowser("""", CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:35:03,09-12-2024 13:35:04,0.974s,PASSED
+"navigateToUrl(""https://school-payment.digiform.co.id/login"", CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:35:04,09-12-2024 13:35:05,0.403s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Login/Field Email""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:35:05,09-12-2024 13:35:06,1.558s,PASSED
+"setText(findTestObject(""Master Data/Admin Sekolah/Login/Field Email""), ""admin.sekolah@gmail.com"", CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:35:06,09-12-2024 13:35:07,0.599s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Login/Input Password""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:35:07,09-12-2024 13:35:07,0.283s,PASSED
+"setText(findTestObject(""Master Data/Admin Sekolah/Login/Input Password""), ""Test1234"", CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:35:07,09-12-2024 13:35:07,0.538s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Login/Button Submit""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:35:07,09-12-2024 13:35:08,0.291s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Lihat Tagihan/Menu Master Data""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:35:08,09-12-2024 13:35:10,1.904s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Lihat Tagihan/Menu Tagihan""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:35:10,09-12-2024 13:35:10,0.798s,PASSED
+"delay(1, CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:35:10,09-12-2024 13:35:11,1.012s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Lihat Tagihan/Button View""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:35:11,09-12-2024 13:35:12,0.330s,PASSED
+,,,,,,,
+Test Cases/Master Data/Admin Sekolah/Master Data Tagihan/Tambah Tagihan,Chrome 131.0.0.0,,,09-12-2024 13:35:12,09-12-2024 13:35:54,42.226s,FAILED
+"openBrowser("""", CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:35:12,09-12-2024 13:35:13,0.945s,PASSED
+"navigateToUrl(""https://school-payment.digiform.co.id/login"", CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:35:13,09-12-2024 13:35:13,0.396s,PASSED
+"setText(findTestObject(""Master Data/Admin Sekolah/Login/Field Email""), ""admin.sekolah@gmail.com"", CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:35:13,09-12-2024 13:35:15,1.874s,PASSED
+"setText(findTestObject(""Master Data/Admin Sekolah/Login/Input Password""), ""Test1234"", CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:35:15,09-12-2024 13:35:16,0.560s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Login/Button Submit""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:35:16,09-12-2024 13:35:16,0.274s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Tambah Tagihan/Menu Master Data""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:35:16,09-12-2024 13:35:18,2.305s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Tambah Tagihan/Menu Tagihan""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:35:18,09-12-2024 13:35:19,0.903s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Tambah Tagihan/Button Tambah""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:35:19,09-12-2024 13:35:20,0.637s,PASSED
+"setText(findTestObject(""Master Data/Admin Sekolah/Tambah Tagihan/Input Nama Tagihan""), ""KATALONZ"", CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:35:20,09-12-2024 13:35:21,1.009s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Tambah Tagihan/Select Tipe Tagihan""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:35:21,09-12-2024 13:35:21,0.299s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Tambah Tagihan/Tagihan Regular""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:35:21,09-12-2024 13:35:22,0.516s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Tambah Tagihan/Klik Tahun Ajaran""))",Chrome 131.0.0.0,,,09-12-2024 13:35:22,09-12-2024 13:35:54,32.394s,FAILED
+,,,,,,,
+Test Cases/Master Data/Super Admin/Master Data Sekolah/Tambah Sekolah,Chrome 131.0.0.0,,,09-12-2024 13:35:54,09-12-2024 13:36:29,35.089s,PASSED
+"openBrowser("""", CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:35:54,09-12-2024 13:35:55,0.947s,PASSED
+"navigateToUrl(""https://school-payment.digiform.co.id/login"", CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:35:55,09-12-2024 13:35:55,0.321s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Login/Field Email""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:35:55,09-12-2024 13:35:57,1.519s,PASSED
+"setText(findTestObject(""Master Data/Admin Sekolah/Login/Field Email""), ""admin@gmail.com"", CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:35:57,09-12-2024 13:35:57,0.539s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Login/Input Password""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:35:57,09-12-2024 13:35:58,0.274s,PASSED
+"setText(findTestObject(""Master Data/Admin Sekolah/Login/Input Password""), ""Test1234"", CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:35:58,09-12-2024 13:35:58,0.518s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Login/Button Submit""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:35:58,09-12-2024 13:35:59,0.271s,PASSED
+"waitForPageLoad(5, CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:35:59,09-12-2024 13:35:59,0.082s,PASSED
+"click(findTestObject(""Master Data/Super Admin/Homepage Menu/Sidebar Menu""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:35:59,09-12-2024 13:36:01,2.085s,PASSED
+"click(findTestObject(""Master Data/Super Admin/Homepage Menu/Sub Menu Sekolah""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:36:01,09-12-2024 13:36:01,0.349s,PASSED
+"click(findTestObject(""Master Data/Super Admin/Master Sekolah Dashboard/Button Tambah""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:36:01,09-12-2024 13:36:02,0.670s,PASSED
+"waitForPageLoad(5, CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:36:02,09-12-2024 13:36:02,0.008s,PASSED
+"sekolahDataList = [[""NPSN"":""047216429"", ""Telephone"":""08126472631"", ""NamaSekolah"":""SMA Duta Bangsa"", ""Email"":""dutabangsa@sch.id""]]",Chrome 131.0.0.0,,,09-12-2024 13:36:02,09-12-2024 13:36:02,0.000s,PASSED
+"for (Map<String, String> sekolahData : sekolahDataList)",Chrome 131.0.0.0,,,09-12-2024 13:36:02,09-12-2024 13:36:02,0.001s,PASSED
+"setText(findTestObject(""Master Data/Super Admin/Form Sekolah/Field NPSN""), formData[""NPSN""])",Chrome 131.0.0.0,,,09-12-2024 13:36:02,09-12-2024 13:36:03,1.012s,PASSED
+"setText(findTestObject(""Master Data/Super Admin/Form Sekolah/Field Telephone""), formData[""Telephone""])",Chrome 131.0.0.0,,,09-12-2024 13:36:03,09-12-2024 13:36:03,0.567s,PASSED
+"setText(findTestObject(""Master Data/Super Admin/Form Sekolah/Field Nama Sekolah""), formData[""NamaSekolah""])",Chrome 131.0.0.0,,,09-12-2024 13:36:03,09-12-2024 13:36:04,0.586s,PASSED
+"setText(findTestObject(""Master Data/Super Admin/Form Sekolah/Field Email""), formData[""Email""])",Chrome 131.0.0.0,,,09-12-2024 13:36:04,09-12-2024 13:36:05,1.586s,PASSED
+"scrollToElement(findTestObject(""Master Data/Super Admin/Form Sekolah/Field Email""), 0, CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:36:05,09-12-2024 13:36:06,0.251s,PASSED
+"click(findTestObject(""Master Data/Super Admin/Form Sekolah/Dropdown Unit""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:36:06,09-12-2024 13:36:06,0.279s,PASSED
+"click(findTestObject(""Master Data/Super Admin/Form Sekolah/Isi Dropdown Unit""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:36:06,09-12-2024 13:36:06,0.502s,PASSED
+"logoFilePaths = [""C:\Users\henri\Pictures\Upload Sekolah\Logo Sekolah.png""]",Chrome 131.0.0.0,,,09-12-2024 13:36:06,09-12-2024 13:36:06,0.000s,PASSED
+for (String logoFilePath : logoFilePaths),Chrome 131.0.0.0,,,09-12-2024 13:36:06,09-12-2024 13:36:06,0.002s,PASSED
+"click(findTestObject(""Master Data/Super Admin/Form Sekolah/Button Upload Logo""))",Chrome 131.0.0.0,,,09-12-2024 13:36:06,09-12-2024 13:36:07,0.270s,PASSED
+delay(1),Chrome 131.0.0.0,,,09-12-2024 13:36:07,09-12-2024 13:36:08,1.011s,PASSED
+"uploadFile(findTestObject(""Master Data/Super Admin/Form Sekolah/Input File Upload""), logoFilePath)",Chrome 131.0.0.0,,,09-12-2024 13:36:08,09-12-2024 13:36:09,1.294s,PASSED
+"kopSuratFilePath = ""C:/Users/henri/Pictures/Upload Sekolah/Upload Kop Surat.png""",Chrome 131.0.0.0,,,09-12-2024 13:36:09,09-12-2024 13:36:09,0.000s,PASSED
+"click(findTestObject(""Master Data/Super Admin/Form Sekolah/Button Upload Kop Surat""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:36:09,09-12-2024 13:36:09,0.272s,PASSED
+"delay(5, CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:36:09,09-12-2024 13:36:14,5.005s,PASSED
+"uploadFile(findTestObject(""Master Data/Super Admin/Form Sekolah/Input Upload File Kop Surat""), kopSuratFilePath, CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:36:14,09-12-2024 13:36:15,0.274s,PASSED
+"selectDropdownValue(""Master Data/Super Admin/Form Sekolah/Dropdown Provinsi"", ""Master Data/Super Admin/Form Sekolah/Isi Dropdown Provinsi"", 5, 2)",Chrome 131.0.0.0,,,09-12-2024 13:36:15,09-12-2024 13:36:15,0.003s,PASSED
+click(findTestObject(dropdownXpath)),Chrome 131.0.0.0,,,09-12-2024 13:36:15,09-12-2024 13:36:15,0.481s,PASSED
+delay(delayBefore),Chrome 131.0.0.0,,,09-12-2024 13:36:15,09-12-2024 13:36:20,5.011s,PASSED
+click(findTestObject(valueXpath)),Chrome 131.0.0.0,,,09-12-2024 13:36:20,09-12-2024 13:36:20,0.298s,PASSED
+delay(delayAfter),Chrome 131.0.0.0,,,09-12-2024 13:36:20,09-12-2024 13:36:22,2.010s,PASSED
+"selectDropdownValue(""Master Data/Super Admin/Form Sekolah/Dropdown Kota"", ""Master Data/Super Admin/Form Sekolah/Isi Dropdown Kota"", 2, 2)",Chrome 131.0.0.0,,,09-12-2024 13:36:22,09-12-2024 13:36:22,0.000s,PASSED
+click(findTestObject(dropdownXpath)),Chrome 131.0.0.0,,,09-12-2024 13:36:22,09-12-2024 13:36:23,0.283s,PASSED
+delay(delayBefore),Chrome 131.0.0.0,,,09-12-2024 13:36:23,09-12-2024 13:36:25,2.016s,PASSED
+click(findTestObject(valueXpath)),Chrome 131.0.0.0,,,09-12-2024 13:36:25,09-12-2024 13:36:25,0.279s,PASSED
+delay(delayAfter),Chrome 131.0.0.0,,,09-12-2024 13:36:25,09-12-2024 13:36:27,2.009s,PASSED
+"setText(findTestObject(""Master Data/Super Admin/Form Sekolah/Field Alamat""), ""Head Office. Pondok Indah Office Tower 1 Lantai 8. Jl. Sultan Iskandar Muda Kav. V - TA, Jakarta Selatan 12310. Tel. +62-21 7654466. Fax. +62-21 7507747."", CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:36:27,09-12-2024 13:36:28,1.110s,PASSED
+"click(findTestObject(""Master Data/Super Admin/Form Sekolah/Button Tambahkan""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:36:28,09-12-2024 13:36:29,0.515s,PASSED
+"click(findTestObject(""Master Data/Super Admin/Form Sekolah/Button YA""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:36:29,09-12-2024 13:36:29,0.502s,PASSED
+,,,,,,,
+Test Cases/Master Data/Super Admin/Master Data Sekolah/Edit Sekolah,Chrome 131.0.0.0,,,09-12-2024 13:36:29,09-12-2024 13:37:43,1m - 13.503s,PASSED
+"openBrowser("""", CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:36:29,09-12-2024 13:36:30,0.983s,PASSED
+"navigateToUrl(""https://school-payment.digiform.co.id/login"", CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:36:30,09-12-2024 13:36:31,0.300s,PASSED
+"setText(findTestObject(""Master Data/Admin Sekolah/Login/Field Email""), ""admin@gmail.com"", CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:36:31,09-12-2024 13:36:32,1.854s,PASSED
+"setText(findTestObject(""Master Data/Admin Sekolah/Login/Input Password""), ""Test1234"", CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:36:32,09-12-2024 13:36:33,0.564s,PASSED
+"click(findTestObject(""Master Data/Admin Sekolah/Login/Button Submit""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:36:33,09-12-2024 13:36:33,0.289s,PASSED
+"waitForPageLoad(5, CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:36:33,09-12-2024 13:36:33,0.017s,PASSED
+"click(findTestObject(""Master Data/Super Admin/Homepage Menu/Sidebar Menu""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:36:33,09-12-2024 13:36:35,1.691s,PASSED
+"click(findTestObject(""Master Data/Super Admin/Homepage Menu/Sub Menu Sekolah""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:36:35,09-12-2024 13:36:35,0.358s,PASSED
+"click(findTestObject(""Master Data/Super Admin/Edit Sekolah/Master Data Sekolah Dashboard/Button Action""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:36:35,09-12-2024 13:36:36,0.663s,PASSED
+"click(findTestObject(""Master Data/Super Admin/Edit Sekolah/Master Data Sekolah Dashboard/Button Edit""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:36:36,09-12-2024 13:36:36,0.480s,PASSED
+"sendKeys(findTestObject(""Master Data/Super Admin/Edit Sekolah/Edit Page/Field NPSN""), Keys.chord(CONTROL, ""a""))",Chrome 131.0.0.0,,,09-12-2024 13:36:36,09-12-2024 13:36:37,0.783s,PASSED
+"sendKeys(findTestObject(""Master Data/Super Admin/Edit Sekolah/Edit Page/Field NPSN""), Keys.chord(DELETE))",Chrome 131.0.0.0,,,09-12-2024 13:36:37,09-12-2024 13:36:37,0.254s,PASSED
+"setText(findTestObject(""Master Data/Super Admin/Edit Sekolah/Edit Page/Field NPSN""), ""51285216"")",Chrome 131.0.0.0,,,09-12-2024 13:36:37,09-12-2024 13:36:38,0.552s,PASSED
+"sendKeys(findTestObject(""Master Data/Super Admin/Edit Sekolah/Edit Page/Field Nomor Telfon""), Keys.chord(CONTROL, ""a""))",Chrome 131.0.0.0,,,09-12-2024 13:36:38,09-12-2024 13:36:38,0.288s,PASSED
+"sendKeys(findTestObject(""Master Data/Super Admin/Edit Sekolah/Edit Page/Field Nomor Telfon""), Keys.chord(DELETE))",Chrome 131.0.0.0,,,09-12-2024 13:36:38,09-12-2024 13:36:39,0.265s,PASSED
+"setText(findTestObject(""Master Data/Super Admin/Edit Sekolah/Edit Page/Field Nomor Telfon""), ""08216417262"")",Chrome 131.0.0.0,,,09-12-2024 13:36:39,09-12-2024 13:36:39,0.553s,PASSED
+"sendKeys(findTestObject(""Master Data/Super Admin/Edit Sekolah/Edit Page/Field Nama Sekolah""), Keys.chord(CONTROL, ""a""))",Chrome 131.0.0.0,,,09-12-2024 13:36:39,09-12-2024 13:36:39,0.288s,PASSED
+"sendKeys(findTestObject(""Master Data/Super Admin/Edit Sekolah/Edit Page/Field Nama Sekolah""), Keys.chord(DELETE))",Chrome 131.0.0.0,,,09-12-2024 13:36:39,09-12-2024 13:36:40,0.262s,PASSED
+"setText(findTestObject(""Master Data/Super Admin/Edit Sekolah/Edit Page/Field Nama Sekolah""), ""Darma Wisata"")",Chrome 131.0.0.0,,,09-12-2024 13:36:40,09-12-2024 13:36:40,0.564s,PASSED
+"sendKeys(findTestObject(""Master Data/Super Admin/Edit Sekolah/Edit Page/Field Email Sekolah""), Keys.chord(CONTROL, ""a""))",Chrome 131.0.0.0,,,09-12-2024 13:36:40,09-12-2024 13:36:41,0.281s,PASSED
+"sendKeys(findTestObject(""Master Data/Super Admin/Edit Sekolah/Edit Page/Field Email Sekolah""), Keys.chord(DELETE))",Chrome 131.0.0.0,,,09-12-2024 13:36:41,09-12-2024 13:36:41,0.260s,PASSED
+"setText(findTestObject(""Master Data/Super Admin/Edit Sekolah/Edit Page/Field Email Sekolah""), ""darmawisata@sch.co.id"")",Chrome 131.0.0.0,,,09-12-2024 13:36:41,09-12-2024 13:36:41,0.580s,PASSED
+"click(findTestObject(""Master Data/Super Admin/Edit Sekolah/Edit Page/Dropdown Provinsi""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:36:41,09-12-2024 13:36:44,2.415s,PASSED
+"click(findTestObject(""Master Data/Super Admin/Edit Sekolah/Edit Page/Value Dropdown Provinsi""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:36:44,09-12-2024 13:36:44,0.490s,PASSED
+"click(findTestObject(""Master Data/Super Admin/Edit Sekolah/Edit Page/Dropdown Kota""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:36:44,09-12-2024 13:36:45,0.472s,PASSED
+"click(findTestObject(""Master Data/Super Admin/Edit Sekolah/Edit Page/Value Dropdown Kota""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:36:45,09-12-2024 13:36:45,0.487s,PASSED
+"sendKeys(findTestObject(""Master Data/Super Admin/Edit Sekolah/Edit Page/Field Alamat""), Keys.chord(CONTROL, ""a""))",Chrome 131.0.0.0,,,09-12-2024 13:36:45,09-12-2024 13:36:46,0.284s,PASSED
+"sendKeys(findTestObject(""Master Data/Super Admin/Edit Sekolah/Edit Page/Field Alamat""), Keys.chord(DELETE))",Chrome 131.0.0.0,,,09-12-2024 13:36:46,09-12-2024 13:36:46,0.267s,PASSED
+"setText(findTestObject(""Master Data/Super Admin/Edit Sekolah/Edit Page/Field Alamat""), ""Ciputat , Sawah Lama , Tangerang Selatan , Banten"")",Chrome 131.0.0.0,,,09-12-2024 13:36:46,09-12-2024 13:36:46,0.695s,PASSED
+"click(findTestObject(""Master Data/Super Admin/Edit Sekolah/Edit Page/Field Button Simpan""), CONTINUE_ON_FAILURE)",Chrome 131.0.0.0,,,09-12-2024 13:36:46,09-12-2024 13:36:47,0.499s,PASSED
+"npsnList = [""72619516"", ""8261491"", ""8461942""]",Chrome 131.0.0.0,,,09-12-2024 13:36:47,09-12-2024 13:36:47,0.000s,PASSED
+for (String npsn : npsnList),Chrome 131.0.0.0,,,09-12-2024 13:36:47,09-12-2024 13:37:21,34.132s,PASSED
+"verifyElementVisible(findTestObject(""Master Data/Super Admin/Edit Sekolah/Master Data Sekolah Dashboard/Toast Notif Edit""))",Chrome 131.0.0.0,,,09-12-2024 13:37:21,09-12-2024 13:37:42,21.319s,PASSED
+closeBrowser(),Chrome 131.0.0.0,,,09-12-2024 13:37:42,09-12-2024 13:37:43,0.207s,PASSED

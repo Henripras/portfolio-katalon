@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Master Data/Admin Sekolah/Login/Field Email",
+      "brokenLocator": "//input[@name\u003d\u0027email\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "input[name\u003d\"email\"]",
+      "proposedLocatorMethod": "CSS",
+      "recoveryMethod": "CSS",
+      "pathToScreenshot": "Reports/20250108_044657/Regresi All Sprint/20250108_044657/Object Repository/Master Data/Admin Sekolah/Login/Field Email_CSS.png"
+    }
+  ]
+}

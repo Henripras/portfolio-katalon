@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Field Diskon</name>
+   <tag></tag>
+   <elementGuidId>852411e0-0138-4514-a033-e4fc76573cde</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@type='string' and @max='100']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'string']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^%%$/ >> input[type=&quot;string&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>928dcd9d-626a-4f63-927f-bc62b6ffd000</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>string</value>
+      <webElementGuid>84615b82-43f3-47e9-833c-7b9f4ab8888e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>h-full w-full rounded-md px-3 text-base placeholder:text-neutral6 focus:outline-none cursor-auto</value>
+      <webElementGuid>c4222569-b1fd-4a04-b559-5e8b37b54dab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>max</name>
+      <type>Main</type>
+      <value>100</value>
+      <webElementGuid>2c2b1d6d-bc25-459e-95c4-840467d832a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>7568cf0b-8397-4b8e-bf79-7e9c29a7a875</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal&quot;)/div[@class=&quot;break-all p-6 max-h-[70dvh] overflow-auto&quot;]/div[@class=&quot;flex flex-col gap-6&quot;]/div[@class=&quot;mt-4 flex justify-between gap-x-5 rounded-lg bg-neutral3 p-4&quot;]/div[@class=&quot;flex flex-col gap-y-3&quot;]/div[@class=&quot;mb-4 flex items-center gap-10&quot;]/div[@class=&quot;flex w-full items-center gap-x-3&quot;]/div[@class=&quot;relative w-[100px]&quot;]/div[@class=&quot;flex w-full flex-col gap-1&quot;]/div[@class=&quot;group relative flex h-[52px] w-full items-center gap-[10px] rounded-md border bg-white border-neutral8 focus-within:border-blue6 hover:border-blue6&quot;]/input[@class=&quot;h-full w-full rounded-md px-3 text-base placeholder:text-neutral6 focus:outline-none cursor-auto&quot;]</value>
+      <webElementGuid>c375b07a-ae1b-46db-a977-a37bca8dc63b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='0']</value>
+      <webElementGuid>eaf4eba0-6eb9-4efa-a789-6e86d93eb46e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal']/div[2]/div/div[4]/div/div[2]/div[2]/div[2]/div/div/input</value>
+      <webElementGuid>f9446a57-0e31-41e1-828b-1c25dfb068fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/input</value>
+      <webElementGuid>612c922e-fa24-419c-9230-665483f8d8e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'string']</value>
+      <webElementGuid>c3e6e52a-d31d-4f9d-9726-fa1ef1f62068</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

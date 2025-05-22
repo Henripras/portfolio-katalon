@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Master Data/Admin Sekolah/Lihat Tagihan/Menu Tagihan",
+      "brokenLocator": "",
+      "brokenLocatorMethod": "BASIC",
+      "proposedLocator": "(//a[@href\u003d\"/master-data/bill\"])[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20250107_165800/Regresi All Sprint/20250107_165801/Object Repository/Master Data/Admin Sekolah/Lihat Tagihan/Menu Tagihan_XPATH.png"
+    }
+  ]
+}

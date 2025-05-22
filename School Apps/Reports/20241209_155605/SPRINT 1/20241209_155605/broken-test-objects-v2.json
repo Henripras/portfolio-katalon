@@ -1,0 +1,24 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Master Data/Admin Sekolah/Akun Bank/Edit Akun Bank/Toast Notification Data Berhasil Diubah",
+      "brokenLocator": "(//div[@id\u003d\u0027success-edit-data-bank-account\u0027])[2]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027of\u0027])[2]/following::div[14]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20241209_155605"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Master Data/Super Admin/Edit Sekolah/Master Data Sekolah Dashboard/Toast Notif Edit",
+      "brokenLocator": "(//div[@id\u003d\u0027school-success-toast\u0027])[2]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[2]/div/div",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20241209_155605/SPRINT 1/20241209_155605/Object Repository/Master Data/Super Admin/Edit Sekolah/Master Data Sekolah Dashboard/Toast Notif Edit_position.png"
+    }
+  ]
+}

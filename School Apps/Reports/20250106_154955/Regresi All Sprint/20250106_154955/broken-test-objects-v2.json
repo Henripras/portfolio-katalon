@@ -1,0 +1,44 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Pengaturan Sistem/Admin Sekolah/Isi_Provinsi/p_BANTEN",
+      "brokenLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Simpan\u0027])[1]/following::p[18]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//*/text()[normalize-space(.)\u003d\u0027BANTEN\u0027]/parent::*",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20250106_154955/Regresi All Sprint/20250106_154955/Object Repository/Pengaturan Sistem/Admin Sekolah/Isi_Provinsi/p_BANTEN_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Pengaturan Sistem/Admin Sekolah/Isi_Kota/p_KOTA TANGERANG SELATAN",
+      "brokenLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Simpan\u0027])[1]/following::p[10]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//*/text()[normalize-space(.)\u003d\u0027KOTA TANGERANG SELATAN\u0027]/parent::*",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20250106_154955/Regresi All Sprint/20250106_154955/Object Repository/Pengaturan Sistem/Admin Sekolah/Isi_Kota/p_KOTA TANGERANG SELATAN_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Laporan/Laporan Pembayaran/Filter Search Laporan Pembayaran/Value Rekomendasi Pencarian Siswa",
+      "brokenLocator": "//p[@class\u003d\u0027text-sm cursor-pointer px-3 py-2 text-left font-normal text-[#323437]\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Laporan Pembayaran\u0027])[2]/following::p[17]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20250106_154955/Regresi All Sprint/20250106_154955/Object Repository/Laporan/Laporan Pembayaran/Filter Search Laporan Pembayaran/Value Rekomendasi Pencarian Siswa_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Master Data/Admin Sekolah/Master Siswa/Filter Dan Search Siswa/Value Dropdown Tahun Ajaran",
+      "brokenLocator": "//div[@value\u003d\u002739\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[2]/div[2]/div[7]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20250106_154955/Regresi All Sprint/20250106_154955/Object Repository/Master Data/Admin Sekolah/Master Siswa/Filter Dan Search Siswa/Value Dropdown Tahun Ajaran_position.png"
+    }
+  ]
+}

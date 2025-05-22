@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Toast Notif Edit</name>
+   <tag></tag>
+   <elementGuidId>9d27c192-ceb2-44bb-bd53-539f52d4a0ed</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.Toastify__toast-container.Toastify__toast-container--top-right > #school-success-toast</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#school-success-toast >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>93a5672c-b138-4138-92e0-b52fb1041a7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>school-success-toast</value>
+      <webElementGuid>c78f56f5-5e5b-4615-b5b2-f02360d4306d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-in</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>6964b948-1397-4eba-897e-c7823f077b7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Toastify__toast Toastify__toast-theme--light Toastify__toast--success Toastify__toast--close-on-click</value>
+      <webElementGuid>41c8b593-ba1c-49a5-b008-efbde4999f2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Data Berhasil Disimpan!</value>
+      <webElementGuid>7cd0dbd9-18af-4c14-9fbd-04d34b57f3e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@id=&quot;school-success-toast&quot;]/div[@class=&quot;Toastify__toast-container Toastify__toast-container--top-right&quot;]/div[@id=&quot;school-success-toast&quot;]</value>
+      <webElementGuid>b456744b-cb0f-4f94-b77a-a2c1b5e0f6fb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//div[@id='school-success-toast'])[2]</value>
+      <webElementGuid>a0c5aebd-0e2a-44f8-b8ec-bd1c44087245</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='school-success-toast']/div/div</value>
+      <webElementGuid>b087b646-23d3-4cdc-8ad8-0663482426e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='of'])[2]/following::div[13]</value>
+      <webElementGuid>d12e08c8-c30f-4841-9ed6-a68f465b70b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Page'])[1]/following::div[13]</value>
+      <webElementGuid>0bc2ec94-73e2-47d0-87dd-264fc82cf528</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div</value>
+      <webElementGuid>12041f5a-2a18-40b1-9203-b7ce1bbdd6b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'school-success-toast' and (text() = 'Data Berhasil Disimpan!' or . = 'Data Berhasil Disimpan!')]</value>
+      <webElementGuid>95e19e2a-e756-4011-9361-c994735452e6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
