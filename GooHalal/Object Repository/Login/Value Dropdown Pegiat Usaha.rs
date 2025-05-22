@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Value Dropdown Pegiat Usaha</name>
+   <tag></tag>
+   <elementGuidId>2892238d-1be7-4f12-8361-02461e798945</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Pegiat Usaha' or . = 'Pegiat Usaha')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div/div/div/div/div/div/div/div[2]/div[2]/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Pegiat Usaha&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>1d806ef5-6ac7-48a1-8cf7-09bac2be9aae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-base</value>
+      <webElementGuid>3f64914c-4f03-40a2-8e68-8c85fe2fd7fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pegiat Usaha</value>
+      <webElementGuid>eb1f8365-b636-452a-b2a2-fbd9c2749ba9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;__className_d65c78&quot;]/div[@class=&quot;fixed inset-0 bg-gray-800 bg-opacity-50 flex justify-center items-center z-[9999] overflow-y-auto&quot;]/div[@class=&quot;w-96 max-w-[552px] m-4 lg:m-0 rounded-lg border border-[#D3D2D2] bg-white overflow-auto max-h-none md:max-h-[90vh] p-4 md:p-6 w-screen md:w-auto md:h-auto mx-2 !overflow-visible&quot;]/div[@class=&quot;flex flex-col gap-y-1 text-center items-center justify-center mb-5&quot;]/div[@class=&quot;w-full flex flex-row items-center mt-0 lg:mt4 justify-between gap-x-2&quot;]/div[@class=&quot;w-8/12 md:w-6/12&quot;]/div[@class=&quot;w-full&quot;]/div[@class=&quot;flex flex-col gap-1 relative w-full&quot;]/div[@class=&quot;relative&quot;]/div[@class=&quot;-translate-y-[calc(140%)]  absolute z-[999] mt-1 w-full bg-white border border-[#DEDEDE] rounded-md shadow-lg max-h-60 overflow-y-auto&quot;]/div[@class=&quot;px-3 py-2 hover:bg-gray-200 cursor-pointer flex items-center&quot;]/p[@class=&quot;text-base&quot;]</value>
+      <webElementGuid>6c805a8a-1640-437c-98d9-3c530579bb6a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div/div/div/div/div/div/div/div[2]/div[2]/p</value>
+      <webElementGuid>eaa45f51-0353-43ac-8656-1eff07572c3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk sebagai'])[6]/following::p[2]</value>
+      <webElementGuid>5282e768-6eb2-4e4a-b0cd-00f5055ae4cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk sebagai'])[5]/following::p[2]</value>
+      <webElementGuid>2bbe565d-f551-4732-a50c-4a846d6b173f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pegiat Usaha']/parent::*</value>
+      <webElementGuid>3cff0e0a-d2f2-403a-a9be-9de5c1432e62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/p</value>
+      <webElementGuid>094712fb-8bf9-43e3-943f-9810c50d2ff7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Pegiat Usaha' or . = 'Pegiat Usaha')]</value>
+      <webElementGuid>6c20751c-de3c-4a25-9b66-affb42d50ece</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

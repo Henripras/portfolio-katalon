@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Field Dropdown RPH</name>
+   <tag></tag>
+   <elementGuidId>75150bb0-0aaa-432a-81de-135bedcb6e95</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='children-wrapper']/div[2]/div[2]/div/div[3]/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^Pilih Rumah Potong Halal \( RPH \)$/ >> nth=2</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>eae72704-6fc8-445e-aaa4-40439437ce32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>border border-[#DEDEDE] px-3 py-2 rounded-md flex justify-between items-center w-full h-[52px] cursor-pointer bg-white</value>
+      <webElementGuid>9fa1c3d6-b6a2-429a-9312-6fb5ed7147a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>a692d933-55d8-4f3a-b63a-e90bbdb9f0a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pilih Rumah Potong Halal ( RPH )</value>
+      <webElementGuid>5ca9e8dc-f3b8-4c8d-9174-30d417dffcae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;children-wrapper&quot;)/div[@class=&quot;flex flex-1 flex-col rounded-md border border-gray-200 mt-4 undefined&quot;]/div[@class=&quot;flex-col overflow-hidden w-full p-4 gap-4 bg-gray-50 undefined&quot;]/div[@class=&quot;flex flex-col gap-5&quot;]/div[@class=&quot;w-full&quot;]/div[@class=&quot;flex flex-col gap-1 relative w-full&quot;]/div[@class=&quot;relative&quot;]/div[@class=&quot;border border-[#DEDEDE] px-3 py-2 rounded-md flex justify-between items-center w-full h-[52px] cursor-pointer bg-white&quot;]</value>
+      <webElementGuid>29ee4949-3c14-4b1e-97a4-d022598c2367</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='children-wrapper']/div[2]/div[2]/div/div[3]/div/div[2]/div</value>
+      <webElementGuid>af72604d-7442-43ad-8d6c-6b962aa1bfb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih Rumah Potong Halal ( RPH )'])[1]/following::div[2]</value>
+      <webElementGuid>69924a47-f06e-4fd2-9799-62f0427c979a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tidak'])[2]/following::div[5]</value>
+      <webElementGuid>e92a69fe-11b7-45e1-bae1-a799a158d606</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/preceding::div[3]</value>
+      <webElementGuid>8063f54d-cbd4-4e22-8107-ca0e9bff05cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div</value>
+      <webElementGuid>a52e745a-ed58-4fd1-8773-00998d58512e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Pilih Rumah Potong Halal ( RPH )' or . = 'Pilih Rumah Potong Halal ( RPH )')]</value>
+      <webElementGuid>61741bb3-a47e-49b8-b802-ef49e71c8d80</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button Kirim Pengajuan</name>
+   <tag></tag>
+   <elementGuidId>62a44ac4-21ce-4e24-a0f1-4e795a2bb24b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[21]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Kirim Pengajuan&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f7cfe1db-237a-4fb3-b5f1-185925513938</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>197661bb-9858-40a2-be55-2f4fe773d015</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cursor-pointer rounded-md flex gap-1 justify-center py-[8px] items-center bg-[#5D1472] px-[24px] bg-[#5D1472] !text-white   false</value>
+      <webElementGuid>e49b8f43-d667-4b1d-aeaa-36da1838ce08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kirim Pengajuan</value>
+      <webElementGuid>63b014f4-e046-4942-8347-163c3c37c86e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;children-wrapper&quot;)/div[@class=&quot;fixed inset-0 bg-gray-800 bg-opacity-50 flex justify-center items-center z-[9999] overflow-y-auto&quot;]/div[@class=&quot;!max-w-[900px] !w-full overflow-x-hidden h-full max-w-[552px] m-4 lg:m-0 rounded-lg border border-[#D3D2D2] bg-white overflow-auto max-h-none md:max-h-[90vh] p-4 md:p-6 w-screen md:w-auto md:h-auto&quot;]/div[@class=&quot;flex flex-col h-full&quot;]/div[@class=&quot;sticky bottom-0 bg-white p-4 shadow-md&quot;]/div[@class=&quot;flex gap-x-3 justify-end&quot;]/button[@class=&quot;cursor-pointer rounded-md flex gap-1 justify-center py-[8px] items-center bg-[#5D1472] px-[24px] bg-[#5D1472] !text-white   false&quot;]</value>
+      <webElementGuid>32806dab-3132-4a9f-b541-2c6a15b620f9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[21]</value>
+      <webElementGuid>f62abfd1-5fc9-4ed2-b0bc-68b2f61dabb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='children-wrapper']/div[2]/div/div[2]/div[2]/div/button[2]</value>
+      <webElementGuid>da9bdb5f-f196-4fb8-9e93-3c7c8d1761b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menghasilkan produk yang dipastikan kehalalalannya; dan'])[1]/following::button[2]</value>
+      <webElementGuid>efb9fd1b-9c08-4e1a-a225-b65106b9be9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Memproduksi dan mengolah produk sesuai dengan persyaratan kehalalan'])[1]/following::button[2]</value>
+      <webElementGuid>8d9f3ce7-a27e-457f-ad90-db222ec09c2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button[2]</value>
+      <webElementGuid>d776414c-d5ec-46b0-b053-9e179f59b1e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Kirim Pengajuan' or . = 'Kirim Pengajuan')]</value>
+      <webElementGuid>27c19901-d167-4b57-a54a-08aab6f7c5bf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

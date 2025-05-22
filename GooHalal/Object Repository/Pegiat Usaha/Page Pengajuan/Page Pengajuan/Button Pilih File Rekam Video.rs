@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button Pilih File Rekam Video</name>
+   <tag></tag>
+   <elementGuidId>ed7aa448-6ba0-43cd-ac37-2e7990b8d595</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button//p[text()='Pilih File Perangkat']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Pilih File Perangkat&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7a273ecd-0663-4cd3-bde7-58859bbd450e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0a7dfe51-23bf-4aec-b263-863956d0130a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cursor-pointer rounded-md flex gap-1 justify-center py-[8px] items-center bg-[#5D1472] px-[24px] bg-[#5D1472] !text-white border-primaryColor border bg-white  false</value>
+      <webElementGuid>97dc6de7-4b4c-4ce1-a15d-bbc0e3e15030</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pilih File Perangkat</value>
+      <webElementGuid>872762fb-14f1-4bfb-b122-c65a2cdc7580</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;children-wrapper&quot;)/div[@class=&quot;md:py-5 relative&quot;]/div[@class=&quot;flex flex-row&quot;]/div[@class=&quot;flex flex-1 flex-col&quot;]/div[@class=&quot;flex flex-1 flex-col rounded-md border border-gray-200 mt-4 undefined&quot;]/div[@class=&quot;flex-col overflow-hidden w-full p-4 gap-4 bg-gray-50 flex flex-col gap-y-8 !p-2&quot;]/div[@class=&quot;flex flex-col gap-y-6 lg:grid lg:grid-cols-2 lg:space-x-6&quot;]/div[@class=&quot;flex flex-col justify-start gap-y-4 p-4 border rounded-md&quot;]/div[@class=&quot;flex flex-col gap-y-4 upload-video-production-joyride&quot;]/div[@class=&quot;flex flex-col gap-1&quot;]/div[@class=&quot;fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-[999]&quot;]/div[@class=&quot;bg-white p-6 rounded-lg shadow-lg !min-w-[300px] md:min-w-[400px]&quot;]/div[@class=&quot;flex flex-col&quot;]/button[@class=&quot;cursor-pointer rounded-md flex gap-1 justify-center py-[8px] items-center bg-[#5D1472] px-[24px] bg-[#5D1472] !text-white border-primaryColor border bg-white  false&quot;]</value>
+      <webElementGuid>5dec97ea-2084-4121-8896-dc749022918b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[10]</value>
+      <webElementGuid>f4f9b672-ad41-41ea-908f-9ccc7d7d4c25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='children-wrapper']/div[2]/div[3]/div/div/div[2]/div/div[2]/div/div/div[3]/div/div/button[2]</value>
+      <webElementGuid>12768597-91f4-47b1-a8a5-37f6f5a68960</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Atau'])[1]/following::button[1]</value>
+      <webElementGuid>7e9477b0-510a-4bb2-a280-6e86be1fdeaf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih Sumber'])[1]/following::button[2]</value>
+      <webElementGuid>b3e0b8b3-976f-466a-b9b1-f83d6e37e176</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Belum ada video yang direkam atau diunggah'])[1]/preceding::button[1]</value>
+      <webElementGuid>5b58afae-21d8-4333-849b-c2608cb0f57b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/button[2]</value>
+      <webElementGuid>eb493b5d-23d5-42a9-a1da-26ca29a9be87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Pilih File Perangkat' or . = 'Pilih File Perangkat')]</value>
+      <webElementGuid>ab485974-79d6-4b0a-8271-7f5147f3543d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

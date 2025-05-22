@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button Ubah Informasi Personal</name>
+   <tag></tag>
+   <elementGuidId>918e211b-475d-4455-9eff-d69e19e30576</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Ubah Informasi&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7042a0c8-dc5f-4a9b-a6ff-038a66c7e52b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>93e0781f-2083-4fa3-a2ec-5ca60b316721</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cursor-pointer bg-primaryColor text-white flex items-center justify-center gap-x-2 p-2 lg:p-4 w-[150px] lg:w-[200px]</value>
+      <webElementGuid>b6078116-3085-4aab-8a62-520369af57d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ubah Informasi</value>
+      <webElementGuid>552f9746-9579-4ef1-83bf-a6fe651b5b43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;children-wrapper&quot;)/div[@class=&quot;max-h-[calc(100dvh-100px)] lg:max-h-[calc(100dvh-130px)] overflow-y-auto pb-5&quot;]/div[1]/form[1]/div[@class=&quot;flex flex-1 flex-col rounded-md border border-gray-200 mt-4 undefined&quot;]/div[@class=&quot;flex-col overflow-hidden w-full p-4 gap-4 bg-gray-50 undefined&quot;]/div[@class=&quot;flex items-center justify-between gap-x-10 flex-row&quot;]/div[@class=&quot;flex-shrink-0 hidden lg:block&quot;]/button[@class=&quot;cursor-pointer bg-primaryColor text-white flex items-center justify-center gap-x-2 p-2 lg:p-4 w-[150px] lg:w-[200px]&quot;]</value>
+      <webElementGuid>8f326b80-704b-4c40-ad65-f6cc9aaaf098</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[2]</value>
+      <webElementGuid>6a150298-c9d7-45fa-847a-33027942839d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='children-wrapper']/div/div/form/div/div[2]/div/div[2]/button</value>
+      <webElementGuid>2e9133e0-82f1-4fff-abcc-ecb3074f4bd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No Handphone'])[1]/following::button[1]</value>
+      <webElementGuid>9ee8535d-2a6f-4027-93a9-3272b206a7ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='henriprasetyo6@gmail.com'])[1]/following::button[1]</value>
+      <webElementGuid>5326d4d3-0015-4e58-8fb0-b2ca5932f1a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Informasi Kartu Tanda Penduduk ( KTP )'])[1]/preceding::button[1]</value>
+      <webElementGuid>4283e81e-4e78-4986-bca7-336659574374</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button</value>
+      <webElementGuid>618ad36c-3449-47f5-bd2b-b6bb32209a03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Ubah Informasi' or . = 'Ubah Informasi')]</value>
+      <webElementGuid>2e5c6516-491a-4b70-87d4-7436546c1550</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

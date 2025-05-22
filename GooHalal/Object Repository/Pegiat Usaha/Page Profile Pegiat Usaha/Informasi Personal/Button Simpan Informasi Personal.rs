@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button Simpan Informasi Personal</name>
+   <tag></tag>
+   <elementGuidId>11d5ada2-6bf6-4db9-813f-ef1705ff9dea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='submit'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Simpan Informasi&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>719d2acd-ee50-4ad1-ab9a-8c61edbab18e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>19fd42d7-015a-49f0-8dcf-dc8dd2a200ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cursor-pointer bg-primaryColor text-white flex items-center justify-center gap-x-2 p-2 lg:p-4 w-[150px] lg:w-[200px]</value>
+      <webElementGuid>72b079a2-1e07-4bfb-bf4d-7c126c736545</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Simpan Informasi</value>
+      <webElementGuid>f27dccc8-50aa-4ad1-a336-5eb01e6ef912</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;children-wrapper&quot;)/div[@class=&quot;max-h-[calc(100dvh-100px)] lg:max-h-[calc(100dvh-130px)] overflow-y-auto pb-5&quot;]/div[1]/form[1]/div[@class=&quot;flex flex-1 flex-col rounded-md border border-gray-200 mt-4 undefined&quot;]/div[@class=&quot;flex-col overflow-hidden w-full p-4 gap-4 bg-gray-50 undefined&quot;]/div[@class=&quot;flex items-center justify-between gap-x-10 flex-row&quot;]/div[@class=&quot;flex-shrink-0 hidden lg:block&quot;]/button[@class=&quot;cursor-pointer bg-primaryColor text-white flex items-center justify-center gap-x-2 p-2 lg:p-4 w-[150px] lg:w-[200px]&quot;]</value>
+      <webElementGuid>5368f562-5f4b-4acc-85bd-8c7ae7f8fba5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='submit'])[2]</value>
+      <webElementGuid>46e4131d-63e3-43db-bf26-69f275ad73ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='children-wrapper']/div/div/form/div/div[2]/div/div[2]/button</value>
+      <webElementGuid>aa018884-1bd2-4db1-aab7-dad58702015c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No Handphone'])[1]/following::button[1]</value>
+      <webElementGuid>5340bf4c-2533-405c-b96d-93165ccba593</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alamat Email'])[1]/following::button[1]</value>
+      <webElementGuid>3cc1c880-f6aa-4690-9a37-3274ef5a4b37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Informasi Kartu Tanda Penduduk ( KTP )'])[1]/preceding::button[1]</value>
+      <webElementGuid>412b596f-22f4-467a-96df-bb35700d5ecf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button</value>
+      <webElementGuid>8087a9ff-e062-4a1e-9a1e-09e172cd5a4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'Simpan Informasi' or . = 'Simpan Informasi')]</value>
+      <webElementGuid>d492f064-49ca-4871-8fad-75739917702f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Field Nama Produk</name>
+   <tag></tag>
+   <elementGuidId>6e3a0814-1eae-4913-8dc5-25fcca993bc6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Masukkan nama produk, contoh : \&quot;Keripik Singkong Balado\&quot;&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>fe2329f7-3af2-4b8b-9ea5-d3fbc98b2705</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>c244bee5-cf58-43c5-b116-7d68bbd0f5f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Masukkan nama produk, contoh : &quot;Keripik Singkong Balado&quot;</value>
+      <webElementGuid>f01b1459-6807-4c97-a3b3-83f76ea1504c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full px-3 h-[52px] flex items-center placeholder:text-gray-400 focus:outline-none rounded-md  false</value>
+      <webElementGuid>9dd964fe-5da4-45e4-aa4c-b3c58bb17228</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>max</name>
+      <type>Main</type>
+      <value>100</value>
+      <webElementGuid>dde2628b-da68-4609-b3f7-d98d787cb99c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;children-wrapper&quot;)/div[@class=&quot;md:py-5 relative&quot;]/div[@class=&quot;flex flex-row&quot;]/div[@class=&quot;flex flex-1 flex-col&quot;]/div[@class=&quot;flex flex-1 flex-col rounded-md border border-gray-200 mt-4 undefined&quot;]/div[@class=&quot;flex-col overflow-hidden w-full p-4 gap-4 bg-gray-50 flex flex-col gap-y-8 !p-2&quot;]/div[@class=&quot;flex flex-col gap-y-6 lg:grid lg:grid-cols-2 lg:space-x-6&quot;]/div[@class=&quot;flex flex-col justify-start gap-y-4 p-4 border rounded-md&quot;]/div[@class=&quot;flex flex-col gap-y-4&quot;]/div[@class=&quot;nama-produk-joyride&quot;]/div[@class=&quot;relative w-full flex flex-col gap-1 w-full h-auto text-base&quot;]/div[@class=&quot;null border border-[#DEDEDE] rounded-md text-black bg-white&quot;]/input[@class=&quot;w-full px-3 h-[52px] flex items-center placeholder:text-gray-400 focus:outline-none rounded-md  false&quot;]</value>
+      <webElementGuid>bc29a8df-f561-443e-851a-a7b841b287ff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='']</value>
+      <webElementGuid>2cfb81b2-659c-427f-aef6-683058124078</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='children-wrapper']/div[2]/div[3]/div/div/div[2]/div/div/div/div[3]/div/div[2]/input</value>
+      <webElementGuid>eb72eade-d85b-4f9e-80da-2bc1fc02e367</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/input</value>
+      <webElementGuid>185151b5-da20-4900-870d-e6bddc8d54f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Masukkan nama produk, contoh : &quot;Keripik Singkong Balado&quot;']</value>
+      <webElementGuid>75f4aecd-3c70-44a7-9ac1-1bac6a3ba292</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

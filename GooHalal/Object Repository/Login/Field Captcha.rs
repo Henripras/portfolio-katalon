@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Field Captcha</name>
+   <tag></tag>
+   <elementGuidId>762b05c7-4402-4659-9c5e-92111d123360</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[contains(@class, 'recaptcha-checkbox') and contains(@class, 'goog-inline-block')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=spinbutton</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>fef7de92-fa49-4956-a654-168f1034c688</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>number</value>
+      <webElementGuid>8ffcc50c-18c4-4c3c-b8f5-8b0e2c8ca513</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>border border-1 border-black rounded w-[40px] p-1 font-semibold mt-1</value>
+      <webElementGuid>80fc2cb1-1a3c-4560-a872-417ea6240dce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;__className_d65c78&quot;]/div[@class=&quot;flex flex-row justify-center overflow-x-hidden lg:max-h-screen w-full&quot;]/div[@class=&quot;flex flex-1 flex-col w-full lg:w-full&quot;]/div[@class=&quot;flex flex-1 justify-center items-center text-center&quot;]/div[@class=&quot;flex flex-1 bg-cover bg-center max-h-screen&quot;]/div[@class=&quot;rounded-lg flex flex-1&quot;]/div[@class=&quot;flex flex-1 flex-col w-full&quot;]/div[@class=&quot;flex flex-1 p-10 !mb-6 h-full min-w-[50wh] lg:pt-[128px] lg:px-[156px] !pt-0 px-8 flex-col mb-8&quot;]/div[@class=&quot;flex-grow flex flex-1&quot;]/div[@class=&quot;flex flex-1&quot;]/form[@class=&quot;flex flex-1 flex-col gap-8&quot;]/div[@class=&quot;-mt-3&quot;]/div[1]/input[@class=&quot;border border-1 border-black rounded w-[40px] p-1 font-semibold mt-1&quot;]</value>
+      <webElementGuid>7a148d07-5574-4f9f-8d08-12807454f3f8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='']</value>
+      <webElementGuid>30050ed4-2757-4b22-b94d-4a439887c6bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div[2]/div[2]/div/div/div/div[2]/div[2]/div/form/div[2]/div/input</value>
+      <webElementGuid>6bd9e0d8-3f59-469d-b8aa-d914dd8d9790</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/input</value>
+      <webElementGuid>83af4d97-d2c6-4761-98ac-e88533bacc46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'number']</value>
+      <webElementGuid>f5734757-4879-4073-abca-3e6b86cf4913</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

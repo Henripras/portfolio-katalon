@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button Guide Pengajuan</name>
+   <tag></tag>
+   <elementGuidId>bf1ff0e4-a9a3-4344-8e71-8126d19711c6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Berikutnya' or . = 'Berikutnya')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@data-test-id='button-primary']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button[type=&quot;button&quot;] > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-test-id=&quot;button-primary&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>502d2f49-5a3d-4fa9-a4df-2609855d474a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Berikutnya</value>
+      <webElementGuid>e50e1b1f-6295-4a0c-be9d-277e724268b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-joyride-step-0&quot;)/div[@class=&quot;__floater __floater__open&quot;]/div[@class=&quot;__floater__body&quot;]/div[@class=&quot;react-joyride__tooltip&quot;]/div[2]/button[1]/span[1]</value>
+      <webElementGuid>bd2c400e-6a1e-41fe-ad20-1f0bf30890b2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='react-joyride-step-0']/div/div/div/div[2]/button/span</value>
+      <webElementGuid>6fa84858-31e5-4341-881c-e316a9162cef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[1]/following::span[1]</value>
+      <webElementGuid>91f68c90-9478-49f1-ad0e-8f4e570be4cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Berikutnya']/parent::*</value>
+      <webElementGuid>a553b3b9-4d89-412d-a20e-b107ef2289dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span</value>
+      <webElementGuid>8026a842-d0ab-423f-b5a1-ca8d05974fc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Berikutnya' or . = 'Berikutnya')]</value>
+      <webElementGuid>ec6ab923-0145-4a32-9ff1-73d0c498355a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

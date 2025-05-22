@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button Kirim Pengajuan</name>
+   <tag></tag>
+   <elementGuidId>647c909b-52e5-40c0-88a8-777848fa2c70</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button//p[text()='Kirim Pengajuan'])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Kirim Pengajuan&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>de86f468-d01d-42d4-982e-74082fd690f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1b4066d3-4731-4c47-9b4d-a69678c99c5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cursor-pointer rounded-md flex gap-1 justify-center py-[8px] items-center bg-[#5D1472] px-[24px] bg-[#5D1472] !text-white h-12  false</value>
+      <webElementGuid>8d081944-ea44-4c49-8f1e-5c645bea9728</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kirim Pengajuan</value>
+      <webElementGuid>0898a0ba-5249-4931-a534-9362e60bc642</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;children-wrapper&quot;)/div[@class=&quot;md:py-5 relative&quot;]/div[@class=&quot;sticky bottom-0 bg-slate-50 mt-[40px] z-[99] border-t mx-[-16px] md:mx-[-24px]&quot;]/div[@class=&quot;flex flex-row justify-center items-center lg:justify-end lg:items-end py-4 px-2 overflow-x-auto&quot;]/div[@class=&quot;flex flex-row gap-2 px-4 justify-end items-center w-full flex-wrap&quot;]/button[@class=&quot;cursor-pointer rounded-md flex gap-1 justify-center py-[8px] items-center bg-[#5D1472] px-[24px] bg-[#5D1472] !text-white h-12  false&quot;]</value>
+      <webElementGuid>8331c330-2ed9-4b06-91c7-810185465a9a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[11]</value>
+      <webElementGuid>b256402d-7832-43fb-9dac-263023eca4f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='children-wrapper']/div[2]/div[4]/div/div/button[3]</value>
+      <webElementGuid>dd0e4a54-929e-4a8e-8f60-351f888a88bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Belum ada video yang direkam atau diunggah'])[1]/following::button[3]</value>
+      <webElementGuid>cf696acc-a561-43af-8648-7d2519e3a44e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rekam Video'])[1]/following::button[3]</value>
+      <webElementGuid>00da60df-a116-40d2-8b23-b55e3342e27b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/button[3]</value>
+      <webElementGuid>81d41af7-be6a-4bc0-8df9-858e58db2ca8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Kirim Pengajuan' or . = 'Kirim Pengajuan')]</value>
+      <webElementGuid>9033407d-1fd5-450f-8d81-8893fb71a7bd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

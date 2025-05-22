@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button Tambah Sertifikasi Baru</name>
+   <tag></tag>
+   <elementGuidId>c1e8ff00-4274-47c5-a464-d34e3f0c503b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='button']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Tambah Sertifikasi Baru&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>cc5e36d2-806d-4389-96e4-7bdfe8f3a0a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a7460a20-449e-466d-a421-1f200626b19e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cursor-pointer rounded-md flex gap-1 justify-center py-[8px] items-center bg-[#5D1472] px-[24px] bg-[#5D1472] !text-white bg-[#2B2F3F] min-w-[120px]  false</value>
+      <webElementGuid>790fba64-a9c8-4226-8e07-e4dce5d96483</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tambah Sertifikasi Baru</value>
+      <webElementGuid>da8a052e-3dfe-461b-99f1-8d28e42903df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;children-wrapper&quot;)/div[@class=&quot;w-full&quot;]/div[@class=&quot;flex justify-between items-center mt-6 gap-6&quot;]/button[@class=&quot;cursor-pointer rounded-md flex gap-1 justify-center py-[8px] items-center bg-[#5D1472] px-[24px] bg-[#5D1472] !text-white bg-[#2B2F3F] min-w-[120px]  false&quot;]</value>
+      <webElementGuid>15f3961d-117f-4ccd-b0f4-7cf97e441a3f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='button']</value>
+      <webElementGuid>16a56889-f0bf-4533-8de1-493b92535f14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='children-wrapper']/div/div/button</value>
+      <webElementGuid>837a5423-0d8a-4f4b-81e4-31e750a2caa3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status Pengajuan Sertifikasi Anda'])[2]/following::button[1]</value>
+      <webElementGuid>90914960-08c2-4eb8-9986-afebc285ae87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pegiat Usaha'])[2]/following::button[1]</value>
+      <webElementGuid>effe1758-a55f-4915-80d5-5632c2f01e92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Urutkan'])[1]/preceding::button[1]</value>
+      <webElementGuid>2302e553-45bc-43dc-b24c-cfae60a8ebdd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terbaru'])[1]/preceding::button[1]</value>
+      <webElementGuid>d5e272bb-6338-4844-b32e-f19528bfcf4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>2eb299c9-fdd0-4c21-b98c-2889ecdf8439</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Tambah Sertifikasi Baru' or . = 'Tambah Sertifikasi Baru')]</value>
+      <webElementGuid>fba9e81e-75eb-44fb-847f-c391409f3100</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

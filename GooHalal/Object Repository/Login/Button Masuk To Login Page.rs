@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button Masuk To Login Page</name>
+   <tag></tag>
+   <elementGuidId>f16fa2df-3ede-48a7-a523-fe9bc0bcee56</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[2]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Masuk' or . = 'Masuk')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Masuk&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>98c35c88-ecf3-4e6d-8ae8-09c2e8e6a2a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bg-[#EFE8F1] px-3 py-1 ml-2 cursor-pointer text-[#420E51] rounded-sm</value>
+      <webElementGuid>b22e3e8f-5508-4fb0-9dc8-765248a37902</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Masuk</value>
+      <webElementGuid>d2ad3bc7-b63d-42b5-a8eb-181429f8eae7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;__className_d65c78&quot;]/div[@class=&quot;flex flex-row justify-center overflow-x-hidden lg:max-h-screen w-full&quot;]/div[@class=&quot;flex flex-1 flex-col w-full lg:w-full&quot;]/div[@class=&quot;flex flex-1 justify-center items-center text-center&quot;]/div[@class=&quot;lg:px-[70px] lg:mt-0 overflow-y-auto lg:overflow-y-hidden z-0&quot;]/h1[@class=&quot;text-sm text-[#1F1F1F]&quot;]/b[@class=&quot;bg-[#EFE8F1] px-3 py-1 ml-2 cursor-pointer text-[#420E51] rounded-sm&quot;]</value>
+      <webElementGuid>cd7be76a-b628-4417-a31a-7f7814bcae23</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div[2]/div[2]/div/h1/b</value>
+      <webElementGuid>4e0d4833-76f3-4b01-a402-5e170c5cf38b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pegiat Usaha'])[2]/following::b[1]</value>
+      <webElementGuid>844c2a25-b974-4070-9fce-44678a33ce3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Masuk']/parent::*</value>
+      <webElementGuid>bf7fd4cc-1609-4848-a7a8-91006c63b54b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//b</value>
+      <webElementGuid>b0373ed8-7d42-4a2c-ba0d-166b2a722424</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = 'Masuk' or . = 'Masuk')]</value>
+      <webElementGuid>4e17b2bd-04c5-473a-b3c3-27048bfdb4fd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

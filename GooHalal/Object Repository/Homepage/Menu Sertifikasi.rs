@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Menu Sertifikasi</name>
+   <tag></tag>
+   <elementGuidId>b625c139-5264-4d30-b242-627a33572443</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Sertifikasi' or . = 'Sertifikasi')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sidebar']/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^Sertifikasi$/ >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>90faf0fd-2a56-4dca-89e3-e5cf2f11d128</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex items-center  px-4 py-4 mb-2 cursor-pointer text-gray-400 hover:bg-[#ffffff33] rounded font-medium w-full justify-normal relative</value>
+      <webElementGuid>363ec93b-4bff-4c9f-a85b-117bd707be71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sertifikasi</value>
+      <webElementGuid>4ba2e353-90a0-45a1-b091-8269030e53a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sidebar&quot;)/div[2]/div[@class=&quot;flex items-center  px-4 py-4 mb-2 cursor-pointer text-gray-400 hover:bg-[#ffffff33] rounded font-medium w-full justify-normal relative&quot;]</value>
+      <webElementGuid>5b766602-9860-45c2-add1-adc75f5e023f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sidebar']/div[2]/div</value>
+      <webElementGuid>a7ba7298-11ee-4eda-84e7-ef1076221e79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Label Halal'])[1]/preceding::div[2]</value>
+      <webElementGuid>5917fe0d-a36c-477f-a917-b1a7d7148eeb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div[2]/div</value>
+      <webElementGuid>ed07829a-f51f-467e-b5de-616cf29a9cb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Sertifikasi' or . = 'Sertifikasi')]</value>
+      <webElementGuid>e27cf92f-8711-4c5e-86c2-7c7d8b050d12</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

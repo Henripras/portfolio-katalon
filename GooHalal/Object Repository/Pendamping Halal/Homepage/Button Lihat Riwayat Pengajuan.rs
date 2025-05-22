@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button Lihat Riwayat Pengajuan</name>
+   <tag></tag>
+   <elementGuidId>6d94c488-be9b-4973-8576-2b6ad2e54dd4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//h1[text()='Lihat'])[1]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Lihat' or . = 'Lihat')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;1 187 28 Februari 2025 DEBBY ANGGRAINI DELICIOUS LASAGNA Dalam Proses Verifikasi Pendamping Halal Lihat&quot;i] >> div</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>04513169-911e-4302-9636-07414d9c7bab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cursor-pointer inline-flex items-center gap-x-[9px]</value>
+      <webElementGuid>b3a76ff7-0d81-4d6a-9b45-3f158582dfb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lihat</value>
+      <webElementGuid>b88afd5c-1b1d-40d7-8dbe-8cb25ea18aa5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;children-wrapper&quot;)/div[@class=&quot;w-full&quot;]/div[@class=&quot;mt-6 shadow-table-shadow rounded-lg h-auto&quot;]/div[@class=&quot;flex flex-col gap-[12px]&quot;]/div[@class=&quot;border border-[#DEDEDE] rounded-lg w-full overflow-auto&quot;]/table[@class=&quot;table-auto w-full&quot;]/tbody[1]/tr[@class=&quot;w-full border-b border-b-[#EDEDED] relative&quot;]/td[@class=&quot;p-4&quot;]/p[@class=&quot;text-nowrap false&quot;]/div[@class=&quot;cursor-pointer inline-flex items-center gap-x-[9px]&quot;]</value>
+      <webElementGuid>b930b239-c589-47b3-b119-5ee069b9cbf3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='children-wrapper']/div/div[3]/div/div/table/tbody/tr/td[7]/p/div</value>
+      <webElementGuid>d0e13bff-e351-4b5c-9e8a-9fd5e3d89c79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terlama'])[1]/following::div[4]</value>
+      <webElementGuid>696da25a-3a5e-4273-8781-2da4e579332d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terbaru'])[1]/following::div[5]</value>
+      <webElementGuid>6e8e9860-e187-4223-8281-95c7956e8088</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat'])[2]/preceding::div[1]</value>
+      <webElementGuid>3299794b-ef64-457e-8134-9a2cc4876b7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p/div</value>
+      <webElementGuid>7a0f61fa-446d-4ad2-90e7-2be9506df9b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Lihat' or . = 'Lihat')]</value>
+      <webElementGuid>49c11ec0-bda3-4289-82ca-fbe63dfd401c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
